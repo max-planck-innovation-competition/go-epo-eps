@@ -12,6 +12,7 @@ func TestGetPatentHTML(t *testing.T) {
 	res, err := GetPatentHTML(testID)
 	ass.NoError(err)
 	ass.NotNil(res)
+	ass.NotEmpty(res)
 	err = SaveFile(res, "./test-data/", string(testID)+".html")
 	ass.NoError(err)
 }
@@ -21,6 +22,7 @@ func TestGetPatentZIP(t *testing.T) {
 	res, err := GetPatentZIP(testID)
 	ass.NoError(err)
 	ass.NotNil(res)
+	ass.NotEmpty(res)
 	err = SaveFile(res, "./test-data/", string(testID)+".zip")
 	ass.NoError(err)
 }
@@ -30,6 +32,7 @@ func TestGetPatentXML(t *testing.T) {
 	res, err := GetPatentXML(testID)
 	ass.NoError(err)
 	ass.NotNil(res)
+	ass.NotEmpty(res)
 	err = SaveFile(res, "./test-data/", string(testID)+".xml")
 	ass.NoError(err)
 }
@@ -39,6 +42,7 @@ func TestGetPatentPDF(t *testing.T) {
 	res, err := GetPatentPDF(testID)
 	ass.NoError(err)
 	ass.NotNil(res)
+	ass.NotEmpty(res)
 	err = SaveFile(res, "./test-data/", string(testID)+".pdf")
 	ass.NoError(err)
 }
