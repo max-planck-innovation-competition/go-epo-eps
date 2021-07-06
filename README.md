@@ -37,8 +37,8 @@ patentIds, err := eps.GetPublicationDatePatents(date)
 
 ```go
 import eps
-patentXMLData, err := GetPatentXML(patentID)
-patentHTMLData, err := GetPatentHTML(patentID)
-patentZIPData, err := GetPatentZIP(patentID)
-patentPDFData, err := GetPatentPDF(patentID)
+patentXMLData, err := eps.GetPatentXML(patentID)
+patentHTMLData, err := eps.GetPatentHTML(patentID)
+patentZIPData, err := eps.GetPatentZIP(patentID)
+patentPDFData, err := eps.GetPatentPDF(patentID)
 ```
