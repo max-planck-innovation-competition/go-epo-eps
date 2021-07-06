@@ -1,7 +1,9 @@
 package eps
 
 import (
+	"bytes"
 	"errors"
+	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
 	"io"
 	"net/http"
@@ -57,7 +59,48 @@ func GetPatentXML(patentID string) (res []byte, err error) {
 
 // GetPatentHTML returns the patent in the html format
 func GetPatentHTML(patentID string) (res []byte, err error) {
-	return getPatent(patentID, HTML)
+	initialResponse, err := getPatent(patentID, HTML)
+	if err != nil {
+		log.Error("GetPatentXML: can not get initial response", err)
+		return
+	}
+	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(initialResponse))
+	if err != nil {
+		log.Error("GetPatentXML: can not read document", err)
+		return
+	}
+	// find the iframe on the website
+	iframes := doc.Find("#documentCenter")
+	url, exists := iframes.First().Attr("src")
+	if !exists {
+		err = errors.New("can not find iframe")
+		log.Error("GetPatentXML:", err)
+		return
+	}
+	// now perform the second request
+	// init http client
+	client := &http.Client{}
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	// add header
+	req.Header.Add("user-agent", "raw")
+	// make request
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != 200 {
+		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
+		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
+		return
+	}
+	res, err = io.ReadAll(resp.Body)
+	return
 }
 
 // GetPatentZIP returns the patent in the zip format
@@ -67,5 +110,46 @@ func GetPatentZIP(patentID string) (res []byte, err error) {
 
 // GetPatentPDF returns the patent in the pdf format
 func GetPatentPDF(patentID string) (res []byte, err error) {
-	return getPatent(patentID, PDF)
+	initialResponse, err := getPatent(patentID, PDF)
+	if err != nil {
+		log.Error("GetPatentXML: can not get initial response", err)
+		return
+	}
+	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(initialResponse))
+	if err != nil {
+		log.Error("GetPatentXML: can not read document", err)
+		return
+	}
+	// find the iframe on the website
+	iframes := doc.Find("#body > div.epoToolBar.document > ul > li > a")
+	url, exists := iframes.First().Attr("href")
+	if !exists {
+		err = errors.New("can not find iframe")
+		log.Error("GetPatentXML:", err)
+		return
+	}
+	// now perform the second request
+	// init http client
+	client := &http.Client{}
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	// add header
+	req.Header.Add("user-agent", "raw")
+	// make request
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != 200 {
+		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
+		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
+		return
+	}
+	res, err = io.ReadAll(resp.Body)
+	return
 }
