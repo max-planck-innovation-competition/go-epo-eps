@@ -1,4 +1,4 @@
-module github.com/Max-Planck-Innovation-Competition/go-epo-eps
+module github.com/max-planck-innovation-competition/go-epo-eps
 
 go 1.16
 
