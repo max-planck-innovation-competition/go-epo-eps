@@ -1,0 +1,2450 @@
+<ep-patent-document id="EP04777385B1" file="EP04777385NWB1.xml" lang="en" country="EP" doc-number="1654642" kind="B1"
+                    date-publ="20081224" status="n" dtd-version="ep-patent-document-v1-3">
+    <SDOBI lang="en">
+        <B000>
+            <eptags>
+                <B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESI....FIRO..CY..TRBGCZEEHUPLSK................</B001EP>
+                <B003EP>*</B003EP>
+                <B005EP>J</B005EP>
+                <B007EP>DIM360 Ver 2.15 (14 Jul 2008) - 2100000/0</B007EP>
+            </eptags>
+        </B000>
+        <B100>
+            <B110>1654642</B110>
+            <B120>
+                <B121>EUROPEAN PATENT SPECIFICATION</B121>
+            </B120>
+            <B130>B1</B130>
+            <B140>
+                <date>20081224</date>
+            </B140>
+            <B190>EP</B190>
+        </B100>
+        <B200>
+            <B210>04777385.8</B210>
+            <B220>
+                <date>20040701</date>
+            </B220>
+            <B240>
+                <B241>
+                    <date>20060221</date>
+                </B241>
+                <B242>
+                    <date>20060804</date>
+                </B242>
+            </B240>
+            <B250>en</B250>
+            <B251EP>en</B251EP>
+            <B260>en</B260>
+        </B200>
+        <B300>
+            <B310>632690</B310>
+            <B320>
+                <date>20030801</date>
+            </B320>
+            <B330>
+                <ctry>US</ctry>
+            </B330>
+        </B300>
+        <B400>
+            <B405>
+                <date>20081224</date>
+                <bnum>200852</bnum>
+            </B405>
+            <B430>
+                <date>20060510</date>
+                <bnum>200619</bnum>
+            </B430>
+            <B450>
+                <date>20081224</date>
+                <bnum>200852</bnum>
+            </B450>
+            <B452EP>
+                <date>20080624</date>
+            </B452EP>
+        </B400>
+        <B500>
+            <B510EP>
+                <classification-ipcr sequence="1">
+                    <text>G06F 9/455 20060101AFI20051108BHEP</text>
+                </classification-ipcr>
+            </B510EP>
+            <B540>
+                <B541>de</B541>
+                <B542>VERFAHREN UND VORRICHTUNGEN ZUM VERIFIZIEREN VON KONTEXTTEILNEHMERN IN EINEM
+                    KONTEXTVERWALTUNGSSYSTEM IN EINER VERNETZTEN UMGEBUNG
+                </B542>
+                <B541>en</B541>
+                <B542>METHODS AND APPARATUS FOR VERIFYING CONTEXT PARTICIPANTS IN A CONTEXT MANAGEMENT SYSTEM IN A
+                    NETWORKED ENVIRONMENT
+                </B542>
+                <B541>fr</B541>
+                <B542>PROCEDES ET DISPOSITIFS POUR VERIFIER DES PARTICIPANTS DE CONTEXTE DANS UN SYSTEME DE GESTION DE
+                    CONTEXTE DANS UN ENVIRONNEMENT RESEAU
+                </B542>
+            </B540>
+            <B560>
+                <B561>
+                    <text>WO-A-01/92999</text>
+                </B561>
+                <B561>
+                    <text>WO-A-98/35291</text>
+                </B561>
+                <B562>
+                    <text>ANONYMOUS: "CCOW Tutorial" PRESENTATION, 25 July 2003 (2003-07-25), XP002321052</text>
+                </B562>
+            </B560>
+        </B500>
+        <B700>
+            <B720>
+                <B721>
+                    <snm>FUSARI, David</snm>
+                    <adr>
+                        <str>331 Riverbend Drive</str>
+                        <city>Groton, MA 01450</city>
+                        <ctry>US</ctry>
+                    </adr>
+                </B721>
+            </B720>
+            <B730>
+                <B731>
+                    <snm>Sentillion, Inc.</snm>
+                    <iid>07391390</iid>
+                    <irf>113 399 a/fi</irf>
+                    <adr>
+                        <str>40 Shattuck Road</str>
+                        <city>Andover, MA 01810</city>
+                        <ctry>US</ctry>
+                    </adr>
+                </B731>
+            </B730>
+            <B740>
+                <B741>
+                    <snm>HOFFMANN EITLE</snm>
+                    <iid>00101511</iid>
+                    <adr>
+                        <str>Patent- und Rechtsanwälte Arabellastrasse 4</str>
+                        <city>81925 München</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B741>
+            </B740>
+        </B700>
+        <B800>
+            <B840>
+                <ctry>AT</ctry>
+                <ctry>BE</ctry>
+                <ctry>BG</ctry>
+                <ctry>CH</ctry>
+                <ctry>CY</ctry>
+                <ctry>CZ</ctry>
+                <ctry>DE</ctry>
+                <ctry>DK</ctry>
+                <ctry>EE</ctry>
+                <ctry>ES</ctry>
+                <ctry>FI</ctry>
+                <ctry>FR</ctry>
+                <ctry>GB</ctry>
+                <ctry>GR</ctry>
+                <ctry>HU</ctry>
+                <ctry>IE</ctry>
+                <ctry>IT</ctry>
+                <ctry>LI</ctry>
+                <ctry>LU</ctry>
+                <ctry>MC</ctry>
+                <ctry>NL</ctry>
+                <ctry>PL</ctry>
+                <ctry>PT</ctry>
+                <ctry>RO</ctry>
+                <ctry>SE</ctry>
+                <ctry>SI</ctry>
+                <ctry>SK</ctry>
+                <ctry>TR</ctry>
+            </B840>
+            <B860>
+                <B861>
+                    <dnum>
+                        <anum>US2004021165</anum>
+                    </dnum>
+                    <date>20040701</date>
+                </B861>
+                <B862>en</B862>
+            </B860>
+            <B870>
+                <B871>
+                    <dnum>
+                        <pnum>WO2005015399</pnum>
+                    </dnum>
+                    <date>20050217</date>
+                    <bnum>200507</bnum>
+                </B871>
+            </B870>
+        </B800>
+    </SDOBI>
+    <!--  EPO <DP n="1">  -->
+    <description id="desc" lang="en">
+        <heading id="h0001">
+            <b>FIELD OF THE INVENTION</b>
+        </heading>
+        <p id="p0001" num="0001">The present invention relates to techniques for managing context among software
+            applications in a networked environment.
+        </p>
+        <heading id="h0002">
+            <b>BACKGROUND OF THE INVENTION</b>
+        </heading>
+        <p id="p0002" num="0002">There exist commercial endeavors in which a plurality of computer applications share a
+            set of entities or subjects which are common to the applications. For example, in the field of medicine, a
+            user may provide input describing a given patient to multiple applications. The input may be clinical
+            information, such as x-ray images or blood work results, financial information, such as insurance coverage
+            or billing history, or other types of information. The user's task historically entailed repeating the entry
+            of data identifying the patient into the multiple applications. Although patient data is an illustrative
+            example, this practice extends to data describing other subjects as well, such as a user (i.e., to enable
+            "single sign-on," wherein a user logs in to a single network-based resource and is automatically given
+            access to other authorized network-based resources), patient encounter, clinical provider, observation,
+            insurer, or other subject. The use of shared information among multiple applications is not limited to the
+            medical field.
+        </p>
+        <p id="p0003" num="0003">Data which describes a given subject, and which is used commonly by a plurality of
+            applications, is referred to herein as a "context" defined by that subject. The desirability of managing
+            context in the healthcare industry, so that a user need not repeatedly enter information for a subject into
+            multiple applications, has been recognized. To this end, a standard for context management, known as the
+            Health Level 7 (HL7) context management specification, was published in 1999 by the Clinical Context Object
+            Workgroup (CCOW). The CCOW standard defines a context management architecture (CMA) and processes for
+            managing information describing a subject across a range of clinical and other healthcare-related
+            applications.
+        </p>
+        <p id="p0004" num="0004">
+            Among other features, the CCOW standard defines interfaces for inter-process communication, including
+            communication between applications and a software-based module which coordinates the modification of data
+            across applications (the "context
+            <!--  EPO <DP n="2">  -->
+            manager"). One embodiment of a context manager is described in commonly-assigned
+            <patcit id="pcit0001" dnum="US545396A" dnum-type="L">
+                <text>U.S. Patent Application Serial No. 09/545,396</text>
+            </patcit>
+            , which is incorporated herein by reference.
+        </p>
+        <p id="p0005" num="0005">The interfaces ("technology mappings") defined by CCOW provide for communication
+            between the context manager and various "styles" of applications, including those which follow the Microsoft
+            Common Object Model (COM) and Hypertext Transport Protocol (HTTP) conventions, among others. For example,
+            for a COM-based application, the CCOW standard specifies COM interfaces which allow the COM-based
+            application to exchange data and parameters with the context manager when using a CCOW compliant context
+            management system. The interfaces may be programmed to process COM-based data and parameters provided by the
+            context manager and context participant applications to support the context management functions.
+        </p>
+        <p id="p0006" num="0006">
+            <figref idref="f0001">FIG. 1</figref>
+            depicts an exemplary context management system, in which a context manager 230 manages context for two
+            context participant applications 210 and 220. Applications 210 and 220 may execute on the same or separate
+            computers, and the computer(s) may be the same or separate from a computer on which context manager 230
+            executes. Communication between the processes may be enabled via any of numerous combinations of protocols
+            and physical communications devices or components. For example, when the applications 210, 220 and/or the
+            context manager 230 execute on the different computers interconnect by a network (e.g., a local area
+            network), the TCP/IP protocol may be employed.
+        </p>
+        <p id="p0007" num="0007">
+            According to the CCOW standard, communication between the applications in a context and the context manager
+            is facilitated through the use of context participant (CP) interfaces for the applications and a set of
+            context manager (CM) interfaces for the context manager. Each of the CP and CM interfaces may comprise any
+            of numerous suitable components for enabling inter-process communication. In one embodiment, each of the CP
+            and CM interfaces is integrated in an associated application and provides a "plug" which enables
+            communication with the application (e.g., CP interfaces 217, 227 may be implemented within applications 210,
+            220 respectively, and CM interface 235 may be implemented in an application program executing on the
+            computer on which the
+            <!--  EPO <DP n="3">  -->
+            context manager 230 executes). In the illustrative system of
+            <figref idref="f0001">FIG. 1</figref>
+            , the applications 210, 220 have CP interfaces 217, 227, respectively, associated with them.
+        </p>
+        <p id="p0008" num="0008">Context participant (CP) interfaces 217 and 227, respectively, receive communications
+            from context manager 230 on behalf of applications 210, 220. Applications 210, 220 may receive
+            communications from the context manager 230 in a format and style commensurate with the CCOW standard (e.g.,
+            as COM messages or HTTP encoded messages over TCP/IP). In the embodiment shown, the communications pass
+            through code portions 214 and 224 associated with the applications. CP interfaces 217, 227 may alternatively
+            be incorporated directly into applications 210, 220 as described above, and directly pass communications
+            thereto. As a further alternative, a CP wrapper or bridge can be provided that performs the function of the
+            CP interface 217, 227, and allows an application to communicate according to the CCOW standard, without
+            requiring any modification of the application itself. Context manager (CM) interface 235 receives
+            communications from applications 210 and 220 and forwards those communications to the context manager 230.
+        </p>
+        <p id="p0009" num="0009">As mentioned above, each of applications 210 and 220 includes a series of programmed
+            routines integrated with the respective application code to perform context management support functions as
+            defined by the CCOW standard. For example, applications 210 and 220 include code portions enabling
+            communication with the context manager. Specifically, within application 210, code portion 212 defines
+            messages sent to the CM interface 235, and code portion 214 implements the CP interface 217. Similarly,
+            application 220 includes code portions 222 and 224 that, respectively, perform the same functions as code
+            portions 212 and 214.
+        </p>
+        <p id="p0010" num="0010">When a user of one of the applications (e.g., application 210) desires to switch the
+            context by changing the data for a subject (e.g., switching from one patient to another), the application
+            sends a request to the context manager 230 (via CM interface 235). The requesting application is referred to
+            as an "instigator" of the requested change in the context.
+        </p>
+        <p id="p0011" num="0011">
+            When the context manager receives a request to change a subject of the context, context manager 230 surveys
+            the other applications in the context (e.g., application 220), to determine whether the switch is acceptable
+            to them. The context manager 230 performs the survey by sending a request to the other applications (e.g.,
+            application 220)
+            <!--  EPO <DP n="4">  -->
+            via their associated CP interfaces. The other applications in the context may determine whether the subject
+            change is acceptable or conditionally acceptable. While rules defining the acceptability of a subject change
+            may be customized for specific applications and contexts, an example of a situation where a requested change
+            may be conditionally acceptable is if data relating to the existing subject has not yet been written to
+            permanent memory on the computer on which the application executes. In this example, the other application
+            may respond to the survey by alerting the instigator that the data could be lost if a change proceeded. The
+            surveyed applications respond to the survey by transmitting messages back to the context manager 230
+            describing their reactions to the requested change.
+        </p>
+        <p id="p0012" num="0012">According to the CCOW standard, the context manager 230 communicates the results of the
+            survey to the instigator application, and a user thereof examines the results and determines how to proceed.
+            There are a range of options that the user can select, including canceling the requested change, executing
+            the requested change, or removing the instigator application from the context. Any of these options can be
+            selected by the user irrespective of the results of the survey. For example, if one or more of the surveyed
+            applications indicates that the requested change is unacceptable to it, the instigator application may
+            nevertheless force the context change, or alternatively, may simply remove itself from the context so that
+            the instigator application can implement whatever changes it desires without impacting the other
+            applications in the context. After the user decides how to proceed with the requested change, a call is made
+            by the instigator application to the context manager 230 informing the context manager of the change
+            decision. The context manager then makes one or more calls to publish the change decision by notifying the
+            other applications in the context of the decision.
+        </p>
+        <p id="p0013" num="0013">
+            While CCOW supports context sharing among a number of different types of applications such as COM-based
+            applications, HTTP or web-based applications, applications executed on a remote server and emulated on a
+            client (e.g., using the Citrix MetaFrame and ICA client architecture), and others, CCOW does not define any
+            implementation for enabling applications of different types to communicate in a manner that facilitates
+            context sharing. In addition, in the example discussed above in connection with
+            <figref idref="f0001">FIG. 1</figref>
+            , it is assumed that communications can flow freely between the context manager and the computers on which
+            the applications in the context are
+            <!--  EPO <DP n="5">  -->
+            executing. However, in many networked environments that have security measures in place, that is not the
+            case.
+        </p>
+        <p id="p0014" num="0014">Various embodiments of the present invention are directed to techniques for performing
+            context management in a networked environment.
+        </p>
+        <p id="p0015" num="0015">A document emanating from Sentillion, Inc. relates to a presentation "CCOW Tutorial"
+            (XP-002321052) which describes various features of the CCOW standard mentioned in the above.
+        </p>
+        <p id="p0016" num="0016">
+            In
+            <patcit id="pcit0002" dnum="WO0244858A2">
+                <text>WO 02/44858 A2</text>
+            </patcit>
+            there is disclosed a system and method for establishing a secure communication channel between a client and
+            an application server, and which refers to Citrix Metaframe and ICA client architecture.
+        </p>
+        <heading id="h0003">
+            <b>SUMMARY OF THE INVENTION</b>
+        </heading>
+        <p id="p0017" num="0017">
+            According to one aspect of the present invention there is provided, a method for use in a system comprising
+            at least one client, a context management server, at least one remote application server and at least one
+            network adapted to couple together the at least one client, the context management server and the at least
+            one remote application server, the at least one remote application server each being adopted to execute at
+            least one remote application, the at least one client being adapted to execute at least one client
+            application that may share a context with the at least one remote application, the at least one client
+            further being adapted to execute an emulation application that emulates the at least one remote application
+            on the at least one client, the context management server being adapted to execute a context management
+            service to manage the context, the context relating to healthcare; the method being for verifying that a
+            first one remote application is emulated on a first client and may belong the same context; the method
+            comprising acts of: (a) receiving from the first client first information that uniquely
+            <!--  EPO <DP n="6">  -->
+            identifies an aspect of the first client; (b) receiving from a first remote application server of the at
+            least one remote application server second information that uniquely identifies the aspect of a remote
+            client on which the first remote application is emulated; and (c) determining that the first remote
+            application is emulated on the first client and belongs to the same context when the first information
+            matches the second information, and
+            <b>characterized in that</b>
+            the act (a) comprises an act of receiving from the first client first information that comprises a hardware
+            media access code (MAC) address for the first client; wherein the act (b) comprises an act of receiving from
+            the first remote application server a hardware MAC address for the remote client on which the first remote
+            application is emulated; and wherein the act (c) comprises an act of determining that the first remote
+            application is emulated on the first client and may belong to the same context when the hardware MAC address
+            in the first information matches the hardware MAC address in the second information.
+        </p>
+        <p id="p0018" num="0018">
+            According to another aspect of the present invention there is provided at least one computer-readable medium
+            encoded with instructions for performing a method, the method being for use in a system comprising at least
+            one client, a context management server, at least one remote application server and at least one network
+            adapted to couple together the at least one client, the context management server and the at least one
+            remote application server, the at least one remote application server each being adapted to execute at least
+            one remote application, the at least one client being adapted to execute at least one client application
+            that may share a context with the at least one remote application, the at least one client being adapted to
+            further execute an emulation application that emulates the at least one remote application on the at least
+            one client, the context management server being adapted to
+            <!--  EPO <DP n="7">  -->
+            execute a context management service to manage the context, the context relating to healthcare: the method
+            being for verifying that the a first one remote application is emulated on a first client and may belong to
+            the same context; the method comprising acts of: (a) receiving from the first client first information that
+            uniquely identifies an aspect of the first client; (b) receiving from a first remote application server of
+            the at least one remote server second information that uniquely identifies the aspect of a remote client on
+            which the first remote application is emulated; and (c) determining that the first remote application is
+            emulated on the first client and belongs to the same context when the first information matches the second
+            information, and characterized in that the act (a) comprises an act of receiving from the first client first
+            information that comprises a hardware media access code (MAC) address for the first client; wherein the act
+            (b) comprises an act of receiving from the first remote application server a hardware MAC address for the
+            remote client on which the first remote application is emulated; and wherein the act (c) comprises an act of
+            determining that the first remote application is emulated on the first client and may belong to the same
+            context when the hardware MAC address in the first information matches the hardware MAC address in the
+            second information.
+        </p>
+        <p id="p0019" num="0019">
+            According to a further aspect of the present invention there is provided a context management server for use
+            in a system comprising at least one client, the context management server, at least one remote application
+            server and at least one network adapted to couple together the at least one client, the context management
+            server and the at least one remote application server, the at least one remote application server each being
+            adapted to execute at least one remote application, the at least one client being adapted to execute at
+            least one client application that may share a context with the
+            <!--  EPO <DP n="8">  -->
+            at least one remote application, the at least one client being adapted to further execute an emulation
+            application that emulates the at least one remote application on the at least one client; the context
+            management server comprising: at least one processor adapted to execute a context management service to
+            manage the context, the context relating to healthcare; and at least one controller adapted to: receive from
+            a first client first information that uniquely identifies an aspect of the first client; to receive from a
+            first remote application server of the at least one remote application server second information that
+            uniquely identifies the aspect of a remote client on which the first remote application is emulated; and to
+            determine that the first remote application is emulated on the first client and belongs to the same context
+            when the first information matches the second information, and
+            <br/>
+            <b>characterized in that</b>
+            the controller is adapted to receive from the first client first information that comprises a hardware media
+            access code (MAC) address for the first client, to receive from the first remote application server a
+            hardware MAC address for the remote client on which the first remote application is emulated, and to
+            determine that the first remote application is emulated on the first client and may belong to the same
+            context when the hardware MAC address in the first information matches the hardware MAC address in the
+            second information.
+            <!--  EPO <DP n="9">  -->
+        </p>
+        <heading id="h0004">
+            <b>BRIEF DESCRIPTION OF THE DRAWINGS</b>
+        </heading>
+        <p id="p0020" num="0020">
+            <ul id="ul0001" list-style="none" compact="compact">
+                <li>
+                    <figref idref="f0001">FIG.1</figref>
+                    depicts an exemplary implementation of a context manager and a plurality of context participant
+                    applications according to the prior art;
+                </li>
+                <li>
+                    <figref idref="f0002">FIG. 2</figref>
+                    depicts an exemplary context management system, implemented in a networked environment, in which
+                    aspects of the present invention may be implemented;
+                </li>
+                <li>
+                    <figref idref="f0003">FIG. 3</figref>
+                    depicts an exemplary system configuration having nested layers of remotely emulated applications,
+                    and on which aspects of the present invention may be implemented;
+                </li>
+                <li>
+                    <figref idref="f0004">FIG. 4</figref>
+                    depicts an exemplary system configuration in which a client application and a context management
+                    server are disposed in protected and external areas created by a network security facility,
+                    respectively, and on which aspects of the present invention may be implemented; and
+                    <!--  EPO <DP n="10">  -->
+                </li>
+                <li>
+                    <figref idref="f0004">FIG. 5</figref>
+                    depicts an exemplary system configuration in which server applications and a context management
+                    server are disposed in external and protected areas created by a network security facility,
+                    respectively, and on which aspects of the present invention may be implemented.
+                </li>
+            </ul>
+        </p>
+        <heading id="h0005">
+            <b>DETAILED DESCRIPTION</b>
+        </heading>
+        <p id="p0021" num="0021">Aspects of the present invention are directed to facilitating context management in a
+            networked environment. As used herein, context management refers to the sharing of numerous types of subject
+            data, and includes the sharing of only user information in a single sign-on environment.
+        </p>
+        <p id="p0022" num="0022">One issue that arises in networked environments relates to the use of virtual private
+            networks (VPNs), network firewalls, or other security facilities which employ network address translation
+            (NAT) or similar identity masking features. NAT converts the Internet Protocol (IP) addresses of client
+            machines situated "behind" the firewall or VPN to one or more "masked" IP addresses which it presents to
+            network components outside of the firewall. Though a NAT facility keeps track of messages being transmitted
+            from a client behind a firewall to an outside device, and may perform a reverse conversion to allow a
+            response to be sent back to the appropriate client while a connection is maintained, it effectively keeps
+            client IP addresses hidden from outside devices so that the outside devices can not transmit unsolicited
+            messages directly to the protected clients.
+        </p>
+        <p id="p0023" num="0023">When the context manager executes on a server disposed outside a firewall employing NAT
+            or other masking feature, it may be unable to initiate communication with a context participant application
+            executing on a client behind the firewall. According to one aspect of the invention, a technique is employed
+            for facilitating communication between a client and the context manager, whereby connection through the
+            network is maintained between the client and the context manager for the period during which the client
+            shares a context managed by the context manager.
+        </p>
+        <p id="p0024" num="0024">
+            In another aspect of the present invention, the CCOW standard is modified. As discussed below, according to
+            the CCOW standard, the instigator application is charged with touching the browser for any web-based
+            application in the context to inform the browser that a change decision has been published. Networked
+            environments may exist
+            <!--  EPO <DP n="11">  -->
+            wherein the instigator application and one or more browsers that correspond to web applications in the
+            context are employed on opposite sides of a firewall or other security facility that effectively prevents
+            direct communication between them. Thus, in accordance with one embodiment of the present invention, the
+            context manager touches the affected browsers, thereby making it unnecessary for the instigator application
+            to directly communicate with the browsers that correspond to web applications in the context.
+        </p>
+        <p id="p0025" num="0025">Two other embodiments of the present invention specifically relate to emulated
+            applications, wherein the application is executed on a remote application server and is emulated on a client
+            (e.g., the Citrix MetaFrame and ICA architecture mentioned above). In one embodiment, techniques are
+            employed to ensure that an application executing on a remote application server belongs to a same desktop as
+            the other applications in the shared context, to protect the integrity of the context. In another aspect,
+            techniques are employed to ensure that two remotely executing applications are emulated on a same client,
+            and can therefore belong to a same context, to protect the integrity of the context.
+        </p>
+        <p id="p0026" num="0026">
+            <figref idref="f0002">FIG. 2</figref>
+            depicts an exemplary context management implementation comprising a context manager and a number of context
+            participant applications connected in a networked environment. It should be appreciated that various
+            features and components of the system depicted in
+            <figref idref="f0002">FIG. 2</figref>
+            are provided for illustrative purposes only, as the aspects of the present invention described below can be
+            implemented on networked computer systems having numerous other configurations.
+        </p>
+        <p id="p0027" num="0027">
+            In the illustrative system of
+            <figref idref="f0002">FIG. 2</figref>
+            , a desktop 300 (which may be executed on a single computer) executes three basic types of applications
+            i.e., a COM-based application 310, a browser 330 for a web-based application executing on a web server 500,
+            and an emulation client 340 (e.g., a Citrix Independent Computing Architecture (ICA) client) emulating an
+            application executing on a remote application server (i.e., a Citrix MetaFrame server) 600.
+        </p>
+        <p id="p0028" num="0028">
+            As discussed above, COM-based application 310 is an application which complies with Microsoft's Common
+            Object Model. For example, application 310 may be a Windows-based application which is used to maintain, for
+            example, patient x-ray data, although numerous other possibilities exist.
+            <!--  EPO <DP n="12">  -->
+        </p>
+        <p id="p0029" num="0029">In the embodiment shown, desktop 300 also includes a COM adapter 320 to facilitate
+            communication between applications that employ different communication protocols (e.g., application 310
+            which uses COM-based standards for communication and application 530 on web server 500 that uses web-based
+            protocols). In the embodiment shown, COM adapter 320 translates COM-based communication from application 310
+            to HTTP-based communication, and translates HTTP-based communication to COM-based communication for receipt
+            by application 310. COM adapter 320 may have a series of programmed routines designed to perform this
+            translation. However, the COM adapter is not limited in this regard, as it may be implemented in software,
+            hardware, firmware or combinations thereof. In addition, it should be appreciated that the present invention
+            is not limited to use on a system employing a COM adaptor that performs any particular type of translation
+            between communication formats, as the present invention can be used upon a system that enables communication
+            between applications employing different communication protocols in any suitable manner.
+        </p>
+        <p id="p0030" num="0030">For example, although the implementation depicted provides for inter-process
+            communication using HTTP, other implementations may provide for communication using various other protocols.
+            As such, other translation facilities can be employed rather than COM adapter 320. In some implementations,
+            no translation facility at all is employed (e.g., if no COM-based applications are employed or if the
+            applications are capable of communicating using a common protocol).
+        </p>
+        <p id="p0031" num="0031">In the embodiment shown, COM adapter 320 accepts outgoing communication from
+            application 310 at a CM interface 315. The COM adapter 320 translates those COM-based communications to
+            HTTP-based communications, and transmits them to the CM interface 420 of a context manager session 410A
+            executing on a context management server (referred to as a context server) 400. Similarly, COM adapter 320
+            receives at CP interface 375 incoming messages, in HTTP format, that are transmitted from the context server
+            400 to application 310, translates those communications to the COM-based protocol and forwards them to the
+            CP interface 325 for the application 310.
+        </p>
+        <p id="p0032" num="0032">
+            As mentioned above, the desktop 300 also executes a browser 330. Brower 330 communicates with a web server
+            500 via a network 700. As defined herein, the term "browser" refers not only to web-based applications
+            conventionally referred to as
+            <!--  EPO <DP n="13">  -->
+            browsers, but also any other application (e.g., implemented using Java applets) that sends or receives data
+            using HTTP (or other web-based protocol), and that, like a web-based browser, separates the user interface
+            from the corresponding application program in a manner such that updates of the application program are not
+            automatically sent to the user interface. Similarly, web server 500 may comprise any suitable hardware,
+            software or combination thereof configured to send and receive web-based communication. Network 700 may
+            comprise the Internet, a local area network (LAN), other communications infrastructure, or combinations
+            thereof, and may use any suitable communications protocol.
+        </p>
+        <p id="p0033" num="0033">Web server 500 executes a web-based context participant application 530. In a
+            conventional manner, browser 330 may display information (e.g., web pages) transmitted by application 530,
+            and accept input from a user (e.g., in the form of keystrokes, mouse movements and the like), and transmit
+            those inputs to application 530 for processing. However, the present invention is not limited to use with
+            web-based applications that are implemented in any particular manner, as browser 330 and web server 500 may
+            distribute processing associated with application 530 in any suitable manner.
+        </p>
+        <p id="p0034" num="0034">The illustrated desktop 300 also executes a emulation client 340, which is in
+            communication with a remote application server 600 to initiate a session 610 within which one or more
+            context participant applications may execute. The emulation client 340 may establish session 610 and contact
+            the remote application server 600 to obtain a set of available applications. In response, the server 600 may
+            transmit a list of applications available for use, using any of numerous techniques. For example, when using
+            the Citrix MetaFrame and ICA client architecture, a set of available applications may be transmitted over
+            the Citrix ICA protocol. In the illustrative implementation depicted, remote application 615 has been
+            selected by the user as a context participant and is a COM-based application. In the embodiment shown, the
+            remote application server 600 includes a COM adapter (CA) 617 that translates COM-based communications from
+            the application 615 to HTTP-based communication (and vice versa) for communication with the CM interface 420
+            of the context manager session 410A, in much the same manner as the COM adapter 320 discussed above.
+        </p>
+        <p id="p0035" num="0035">
+            Input to the remote application 615 (e.g., in the form of keystrokes and mouse movements), is sent from
+            emulation client 340 to server 600 via connection 631 (e.g., a
+            <!--  EPO <DP n="14">  -->
+            virtual channel created using the Citrix ICA protocol), and commands embodying resulting screen changes in
+            the user interface on client 340 are returned from the server 600 to the emulation client 340 via connection
+            631. The connection 631 can be implemented over any physical communication medium, including the same
+            network 700 that connects the desktop 300 to the web server 500. In addition, the same network 700 may also
+            be used for communication between the desktop 300 and the context vault 400, as well as between the context
+            server 400 and each of the remote application server 600 and web server 500. However, the present invention
+            is not limited in this respect, as the embodiments of the present invention can be implemented on any type
+            of computer system configuration, including systems using any type of interconnections between the various
+            system components.
+        </p>
+        <p id="p0036" num="0036">Desktop 300 may comprise any of numerous computing facilities capable of executing the
+            applications discussed above, as the embodiments of the present invention are not limited to use with any
+            desktop computing platform. For example, desktop 300 may comprise a personal computer, server, handheld
+            computing device, or other type of computing facility. Additionally, although COM-based applications
+            typically execute in a Windows environment, desktop 300 is not limited to the execution of any particular
+            operating system.
+        </p>
+        <p id="p0037" num="0037">
+            In the embodiment shown, context server 400 executes multiple context manager sessions 410A-C. However, the
+            embodiments of the present invention are not limited to use with a context management server capable of
+            executing multiple context manager sessions. Furthermore, the embodiments of the present invention described
+            herein can alternatively be employed in a system that includes multiple context servers, each capable of
+            executing one or more context manager sessions. In one embodiment, context server 400 is implemented as a
+            server appliance, as described in commonly assigned
+            <patcit id="pcit0003" dnum="US583301A" dnum-type="L">
+                <text>U.S. Patent Application Serial No. 09/583,301</text>
+            </patcit>
+            , which is incorporated herein by reference. However, the embodiments of the invention are not limited to
+            use with a context management server implemented in this manner, as the context server 400 may comprise any
+            suitable computing platform, such as a general-purpose server or other computing device. Indeed, although
+            context server 400 is depicted in
+            <figref idref="f0002">FIG. 2</figref>
+            as a device which is separate from desktop 300, the system is not limited in this regard, as the context
+            manager session can be executed on the desktop 300.
+            <!--  EPO <DP n="15">  -->
+        </p>
+        <p id="p0038" num="0038">
+            In the system depicted in
+            <figref idref="f0002">FIG. 2</figref>
+            , context manager session 410A manages context for all the applications represented, including COM-based
+            application 310, web-based application 530, and the remote application 615. To communicate with COM-based
+            application 310, context manager session 410A transmits messages to COM adapter 320 via CP interface 375,
+            and receives messages from COM adapter 320 via CM interface 420. To communicate with web application 530,
+            context manager session 410A transmits messages to web server 500 via CP interface 510 and receives messages
+            from web server 500 via CM interface 420. Finally, to communicate with the remote application 615, context
+            manager session 410A transmits messages to COM adapter 617 executing on remote application server 600 via CP
+            interface 640, and receives messages from COM adapter 617 via CM interface 420.
+        </p>
+        <p id="p0039" num="0039">Conventionally, TCP/IP communication between a browser and web server is only initiated
+            by the browser for security reasons. Specifically, if a web server knew the identities of the browsers with
+            which it communicates, a security breach at the server could give an intruder the identity of a number of
+            vulnerable targets. For this reason network restrictions are typically employed so that the server responds
+            to communications from the browser, but does not initiate such communications.
+        </p>
+        <p id="p0040" num="0040">
+            When a web application participates in a context, it may be the application (e.g., application 530 in
+            <figref idref="f0002">FIG. 2</figref>
+            ) executing on the web server that is the context participant, rather than the browser. As discussed above,
+            in accordance with the CCOW standard, when a change to the context is executed, the context manager
+            publishes the change decision to the applications in the context. In the case of a web application, when the
+            change in context occurs, the change takes place in the application 530 on the web server 500. However,
+            because the web server does not initiate communication with the browser, the browser 330 may not be
+            automatically made aware of the change, such that the representation of the state of the application 530 on
+            the desktop 300 may be inaccurate. Thus, in accordance with one embodiment of the present invention, a
+            technique is employed to enable a browser to be made aware that a change has taken place in a corresponding
+            web application, so that the browser can request the web server to provide it with updated information.
+        </p>
+        <p id="p0041" num="0041">
+            In accordance with the CCOW standard, a listener 335 is employed to assist in instructing the browser 330 to
+            request updated information from its corresponding web
+            <!--  EPO <DP n="16">  -->
+            server 500 when a change has been made to the web application 530 executing thereon. In the CCOW standard,
+            the listener 335 provides an interface that the instigator application can contact to inform it that a
+            change in the context has been made, so that the listener 335 can instruct the browser 330 to go back to the
+            web server 500 for an update. The listener 335 can be implemented as a stand-alone module, as part of the
+            browser 330, or as part of any other component of the desktop 300, as the present invention is not limited
+            to any particular implementation.
+        </p>
+        <p id="p0042" num="0042">The updating of the listener 335 can, similarly, be implemented in any of numerous
+            ways. In accordance with one embodiment of the present invention, when the context manager (e.g., session
+            410A) returns the survey information to the instigator application relating to a requested change, the
+            context manager also provides a list of URLs (corresponding to the listeners for any web-based applications
+            in the context) to the instigator application, instructing the instigator application to contact (or
+            "touch") those URLs to inform them that the context has been updated.
+        </p>
+        <p id="p0043" num="0043">
+            As shown in
+            <figref idref="f0002">FIG. 2</figref>
+            , when the instigator application is another application executing on the same desktop 300 as the browser
+            330 (e.g., the COM-based application 310), the instigator application can directly (e.g., through the COM
+            adapter 320) contact the listener 335, as the URL for the listener 335 will be accessible from within the
+            desktop.
+        </p>
+        <p id="p0044" num="0044">
+            Communication between the instigator application and the listener 335, like other communication between
+            different computers in the context management architecture discussed above, is complicated when two or more
+            of the computers are on opposite sides of a firewall, VPN or other security facility that employs NAT. In
+            the illustrative implementation shown in
+            <figref idref="f0002">FIG. 2</figref>
+            , such a VPN 800 is shown around the desktop 300. Because of the VPN 800, components of the computer system
+            that are not on the desktop 300 may have difficulty in initiating communication with any of the components
+            on the desktop, such as the listener 335 or the COM-based application 310.
+        </p>
+        <p id="p0045" num="0045">
+            For example, if COM-based application 310 initiates a context change, it may send a communication to context
+            manager session 410A. The communication will be altered by VPN 800 to obfuscate the true identity (typically
+            expressed as the IP address) of the originating application within the VPN 800. As a result, an originating
+            IP address of, for example, "172.20.10.5" may be changed to another address such as "10.10.10.5".
+            <!--  EPO <DP n="17">  -->
+            With a masking utility such as NAT, once a connection has been established (e.g., between the COM adapter
+            320 and the context server 400), bidirectional communication through that connection (or open channel) is
+            supported. For example, a masking utility such as NAT may keep track of the outgoing communication so that
+            it can route a response back to the sender of an originating message (e.g., if context manager session 410A
+            responds to application 310 at IP address "10.10.10.5", the masking feature may perform a reverse
+            conversion, thereby directing the message back to IP address "172.20.10.5").
+        </p>
+        <p id="p0046" num="0046">While components within the VPN 800 can initiate communication with components outside
+            the VPN, the reverse is not true. For example, if context manager session 410A sends an unsolicited message
+            (for example, a survey issued as a result of another application seeking to instigate a context change)
+            intended for application 310 at either of IP addresses "10.10.10.5" or "172.20.10.5", the VPN 800 may refuse
+            to let the message pass. A similar problem is encountered when an application outside of the VPN 800 is an
+            instigator application that seeks to contact the listener 335 to instruct it to touch its browser to seek an
+            updated page from its corresponding web server in response to a context change. In this respect, the URL
+            that the context manager will provide to the instigator application along with the survey results is the URL
+            that the listener 335 passes along to the context manager as its contact address. However, the URL will be
+            an address accessible only within the VPN 800, such that any attempt to access the listener 335 from an
+            instigator application outside of the VPN 800 will be unsuccessful.
+        </p>
+        <p id="p0047" num="0047">
+            In accordance with the CCOW standard, a desktop executing a COM-based or web-based application also includes
+            a Context Management Registry (CMR) interface that the desktop can query to determine the identity (e.g.,
+            find the URL for) a context manager to manage a context. In the embodiment of the invention illustrated in
+            <figref idref="f0002">FIG. 2</figref>
+            , the CMR interface 352 is implemented by a vergence locator 350 provided on the desktop 300, with the CMR
+            interface 352 being a plug into the vergence locator 350. The CMR interface 352 can be queried by the
+            COM-based application 310 (via the COM adapter 320) or the browser 330 to request the identity of the
+            appropriate context manager (e.g., one of the context manager sessions 410A-C). When a context is initially
+            being established (such that no context manager has been assigned to it), the vergence locator 350 uses a
+            URL provided in the CMR interface 352 to contact the context
+            <!--  EPO <DP n="18">  -->
+            management server (e.g., context server 400) to initiate a context session. The communication from the
+            vergence locator 350 to the context server is directed to a location service (LS)(having a plug 421) that
+            forms part of a context system 423 that manages the multiple context manager sessions 410A-C. Thus, this
+            communication goes through a private interface, rather than through the CM interface 420 for any context
+            manager session. However, it should be appreciated that the present invention is not limited in this
+            respect, and that communication between the vergence locator and the location service in the context system
+            423 can be accomplished in any suitable manner.
+        </p>
+        <p id="p0048" num="0048">When the vergence locator 350 contacts the location service of the context system 423
+            to request a new context manager session, the context system 423 initiates a new context manager session
+            410A-C and returns to the vergence locator 350 a URL that uniquely identifies the CM interface 420 for the
+            new context manager session.
+        </p>
+        <p id="p0049" num="0049">In the embodiment shown, the browser 330 can obtain the URL, via the vergence locator,
+            from the context manager and provide it to its corresponding web application 530, which may then access the
+            context manager directly in the manner described below.
+        </p>
+        <p id="p0050" num="0050">In the illustrative embodiment shown, each remote application server executing an
+            application that may share a context (e.g., server 600) also includes a vergence locator 620 that performs
+            functions similar to the vergence locator 350, including the implementation of a Context Management Registry
+            interface (not shown) that enables the remote application server to locate the URL for the context manager
+            and initiate a context management session in the manner discussed above.
+        </p>
+        <p id="p0051" num="0051">
+            One aspect of the invention provides a technique for facilitating communication between two components on
+            opposite sides of a security facility in a system that implements context management. In one embodiment, the
+            technique involves establishing a network connection between the desktop (or remote application server) and
+            the context manager, and maintaining the connection for the period of time during which any of the
+            applications on the desktop (or the remote application server) share a context that either (1) includes one
+            or more participant applications executing on a computer on the opposite side of a security facility or (2)
+            is managed by a context manager executing on a computer on the opposite side of a security facility.
+            According to one embodiment, the connection is a TCP/IP back-channel connection between the context
+            management server (e.g., context server 400) and the client (e.g., desktop 300 or
+            <!--  EPO <DP n="19">  -->
+            remote application server (e.g., server 600), which may be initiated by a client or remote server
+            communication to the context management server, as described below. However, this aspect of the present
+            invention is not limited in this regard, as any connection which is maintained over the relevant period of
+            time may be employed.
+        </p>
+        <p id="p0052" num="0052">In one embodiment, when a context environment is initially set up, a TCP/IP
+            back-channel is established between the context management server (e.g.) vault 400A and the vergence locator
+            350 on the client desktop 300. The TCP/IP back-channel is a durable connection that lasts beyond the
+            specific communication session necessary to establish the context environment, but rather, is maintained
+            during the entire time period during which an application on the desktop 300 shares a context either with
+            another application on the opposite side of a security facility (e.g., VPN 800), or participates in a
+            context managed by a context manager on the opposite side of a security facility. The back-channel provides
+            an open communication path from the context server 400 to the desktop 300, so that a context manager session
+            (e.g., 410A) can initiate communication with the desktop 300, or pass along communications to the desktop
+            300 from one of the other applications (e.g., the web-based application 530 or the remotely executing
+            emulated application 615) in the context.
+        </p>
+        <p id="p0053" num="0053">
+            One exemplary implementation of the embodiment of the present invention that employs a backchannel between
+            the vergence locator and the context manager is shown in
+            <figref idref="f0002">FIG. 2</figref>
+            . Each context manager session 410A-C can include a backchannel (BC) plug 425 that can be used for
+            communication with the vergence locator to establish the backchannel. In
+            <figref idref="f0002">FIG. 2</figref>
+            , only one backchannel plug 425 and one CM interface 420 is shown, but it should be appreciated that one of
+            each may be provided for each context session. Thus, in the embodiment shown, the backchannel communication
+            does not pass through the context manager interface 420 for the context manager session. However, it should
+            be appreciated that the embodiment of the present invention that employs a backchannel is not limited to any
+            particular implementation, as numerous alternative implementations are possible.
+        </p>
+        <p id="p0054" num="0054">
+            According to one embodiment, the vergence locator 350 receives communication via the back-channel from
+            context manager 410A and relays it to the appropriate entity on the desktop 300. For example, if context
+            manager 410A issues a survey communication intended for COM-based application 310 to determine whether a
+            context
+            <!--  EPO <DP n="20">  -->
+            change instigated by web application 530 is acceptable, context manager 410A can transmit the communication
+            via the back-channel to vergence locator 350. The ultimate destination for the communication can be
+            identified in any of numerous ways, such as by a URL previously provided by the desktop 300 to the context
+            server 400 for such communications (e.g., a URL for the CP interface 375). Because the CP interface 375 and
+            the vergence locator 350 are both behind the VPN 800, the vergence locator 350 can forward the communication
+            directly to the specified URL for the CP interface 375 using any suitable technique. The CP interface 375
+            will then forward the communication to the COM-based application 310 in the manner discussed above. It
+            should be appreciated that the manner in which the vergence locator 350 identifies the appropriate entity in
+            the desktop 300 to which communications received over the back-channel are relaying is not limited to any
+            particular implementation, as numerous techniques are possible.
+        </p>
+        <p id="p0055" num="0055">In the manner described above, a context manager executing on a server outside a
+            firewall or other security facility may initiate communication with applications executing behind a
+            firewall, using a technique which does not require knowledge of the IP address for any entity on the
+            desktop.
+        </p>
+        <p id="p0056" num="0056">In one embodiment of the present invention, techniques are employed to ensure that when
+            a connection (e.g., the backchannel connection discussed above) is established between a desktop or remote
+            application server and the context management server, the connection is secure, such as by verifying that
+            the desktop or remote application server is authorized to establish the connection. In one embodiment, the
+            verification is performed using digital signatures, although the present invention is not limited in this
+            respect, as any suitable technique may be employed.
+        </p>
+        <p id="p0057" num="0057">In one embodiment of the present invention, heartbeat or pinging techniques can be
+            employed between the desktop 300 and the context server 400 to ensure that the back-channel path remains
+            open, so that in the event that the back-channel is lost for any reason, it can be re-established by the
+            desktop 300.
+        </p>
+        <p id="p0058" num="0058">
+            It should be appreciated that a remote application server (e.g., the server 600) may also be configured in
+            computer systems wherein they are protected by a security facility, such as a firewall or VPN. Thus, in
+            accordance with one embodiment of the present invention (not shown), a back channel can similarly be
+            established between the vergence locator 620 of the remote application server 600 and the context server 400
+            in a
+            <!--  EPO <DP n="21">  -->
+            manner similar to that discussed above. It should be appreciated that a back-channel can similarly be formed
+            between the context server 400 and a web server executing an application in a shared context, but that such
+            a back-channel will normally be unnecessary in view of the fact that web servers are typically exposed,
+            rather than being protected behind a security facility, such that the context server 400 can typically
+            initiate communications directly with a web server.
+        </p>
+        <p id="p0059" num="0059">
+            In another embodiment of the present invention, communication between the context manager and a context
+            participant application is facilitated across a firewall without requiring a durable network connection to
+            be maintained throughout the life of the context. It should be appreciated that there are at least two
+            alternate configurations in which the context manager can be on the other side of a firewall from a context
+            participant. An illustrative example of a first is depicted in
+            <figref idref="f0004">Fig. 4</figref>
+            , in which context participant application 715 executes on desktop 710 behind firewall 740, while context
+            management server 720 is disposed outside the firewall 740. An illustrative example of a second
+            configuration is depicted in
+            <figref idref="f0004">Fig. 5</figref>
+            , in which the context manager 815 executes on desktop 810 behind firewall 850, while separate context
+            participant applications execute on web server 820 and remote application server 830, which are each
+            disposed outside the firewall 850.
+        </p>
+        <p id="p0060" num="0060">
+            According to one embodiment, described with reference to the configuration depicted in
+            <figref idref="f0004">Fig. 4</figref>
+            , communication from a context management server 720 to a context participant application 715, disposed
+            behind a firewall 740, is enabled with a context participant gateway 730. In the embodiment shown, context
+            participant gateway 730 is implemented on a separate server, and a "small" hole in the firewall 740 is
+            provided to enable limited communication thereto. That is, the communication that passes through the
+            firewall 740 can be limited to communications that originate from the context management server 720, and/or
+            are of the specific types employed in the context management protocol for communication from a context
+            manager to a context participant. Communication from the context manager 720 to context participant
+            application 715 is routed through the context participant gateway 730 to the participant application 715 in
+            any suitable manner. For example, techniques can be employed that are similar to those discussed above
+            wherein communication from the context manager is sent to the vergence locator 350 (
+            <figref idref="f0002">Fig. 2</figref>
+            ) and forwarded to the context participant
+            <!--  EPO <DP n="22">  -->
+            application, with the exception that the context participant gateway 730 may be disposed on a different
+            computer from the context participant application, whereas the vergence locator is provided on the same
+            desktop. In this manner, the context participant gateway 730 can allow only communications directed to a
+            context participant application (or associated listener) to pass through the firewall.
+        </p>
+        <p id="p0061" num="0061">
+            In an alternate embodiment, described with reference to the configuration depicted in
+            <figref idref="f0004">Fig. 5</figref>
+            , communications from context participant applications running on servers 820, 830 to a context manager 815,
+            which is disposed behind firewall 850, are enabled in an analogous manner with context manager gateway 840.
+            As with the configuration depicted in
+            <figref idref="f0004">Fig. 4</figref>
+            , the context manager gateway 840 may be provided on a separate server, and a "small" hole in the firewall
+            can be employed to allow communication to the context manager gateway 840, but only from computers 820, 830
+            which are recognized to be executing context participant applications, and only communications directed to
+            the context manager 815. The context manager gateway 840 can forward such communications to the context
+            manager 815 in a manner similar to that described above. As described above, one configuration wherein a
+            context manager gateway may be useful is when the context manager is provided on a desktop with one or more
+            context participant applications.
+        </p>
+        <p id="p0062" num="0062">
+            Referring again to
+            <figref idref="f0002">FIG. 2</figref>
+            , remote application 615 executes within a session 610 on server 600. In the implementation depicted, server
+            600 is a separate computer from desktop 300, and is disposed on the opposite side of VPN 800, so that the
+            remote application server 600 cannot send unsolicited communication to applications executing on desktop
+            300. As discussed above, the CCOW standard specifies that when an application instigates a context change,
+            the context manager supplies a list of listeners for web-based applications in the context, and the
+            instigator application touches those listeners when the change decision is published. Thus, when the remote
+            application 615 is the instigator of a change request, the VPN 800 prevents it from touching the listener
+            335 executing on the desktop 300 when a change decision is published.
+        </p>
+        <p id="p0063" num="0063">
+            In accordance with one embodiment of the present invention, a modification to the CCOW standard is
+            implemented, wherein rather than having the instigator application touch the listeners for any web-based
+            context participants when a change decision is published, the context manager touches the listeners. This
+            aspect of the
+            <!--  EPO <DP n="23">  -->
+            present invention can be used in conjunction with the embodiment of the present invention discussed above
+            wherein an open communication channel is maintained between the context server 400 and any of the computers
+            that have an application executing in the context and are behind a security facility, so that the context
+            manager has the ability to touch the listener for each of the web-based applications in the context.
+        </p>
+        <p id="p0064" num="0064">As discussed above, in the CCOW standard, when an instigator application requests a
+            context change, the context manager conducts a survey of the other applications in the context, and returns
+            the results to the instigator application, along with a list for the instigator application to use to touch
+            the listeners for any web-based participants. In accordance with one embodiment of the present invention, a
+            list of listeners to be notified need not be returned to the instigator application, as the instigator
+            application need only inform the context manager of the decision, and the context manager publishes the
+            decision and contacts the listeners directly.
+        </p>
+        <p id="p0065" num="0065">The inclusion of remote application servers (such as server 600) within a context
+            management system raises additional concerns regarding the integrity of a context. For example, when a
+            plurality of context participants includes a remote application (e.g., application 615) and one or more
+            desktop applications, it may be desirable to verify that the remote application and the desktop
+            application(s) are associated with the same client (e.g., that the emulation client 340 and COM-based
+            application 310 execute on the same desktop 300), to guard against a rogue application intruding in a
+            context. Accordingly, one embodiment of the invention provides a technique to match a remote application to
+            the client device on which it is emulated. In one embodiment, a unique client identifier is received from
+            the client and from the remote server, and the identifiers are compared to determine whether the remote
+            application is emulated on a "trusted" client, e.g., one that includes another application in the context.
+        </p>
+        <p id="p0066" num="0066">
+            In one embodiment, the vergence locator 620 issues a command to the emulation client 340 requesting a unique
+            identifier for the client. The client 340 queries desktop 300 for an identifier which uniquely identifies
+            the desktop, and transmits a response back to the remote application server 600. This may be accomplished
+            using any of numerous suitable techniques. In one embodiment, the emulation client 340 calls a dynamic link
+            library (DLL) to query desktop 300 for at least one Media Access Control (MAC) address, which is a unique
+            hardware identifier assigned to each of the desktop's network
+            <!--  EPO <DP n="24">  -->
+            adapters. The MAC address is then returned to the remote application server 600. The context server 400
+            similarly queries desktop 300 (e.g., over the back-channel) for the MAC address. Thus, when an application
+            executing on the remote application server 600 seeks to be added to a context, it provides the MAC address
+            it receives for the client to the context server 400, which compares that MAC address with one received
+            directly from the client. A matching set of MAC addresses confirms that remote application 615 is emulated
+            on an emulation client 340 on the same desktop on which other context participant applications execute, so
+            the remote application is added to the context. Alternatively, if the MAC addresses do not match, the remote
+            application is not added to the context, because it is not emulated on the same desktop as the other
+            applications in the context.
+        </p>
+        <p id="p0067" num="0067">The desktop may comprise multiple network adapters. In one embodiment, the DLL is
+            configurable to concatenate, or otherwise combine or modify, multiple MAC addresses to form a single unique
+            identifier that can be used in the above-described matching process. It will be appreciated that the
+            embodiment of the present invention that employs a MAC address (or some unique identifier derived therefrom)
+            is not limited to concatenating or combining multiple MAC addresses in any particular way, as any suitable
+            technique can be employed, including the selection of a particular one of the MAC addresses for use as the
+            unique identifier.
+        </p>
+        <p id="p0068" num="0068">Communication between the remote application server 600 and the emulation client 340 to
+            receive a unique identifier can be accomplished using any suitable technique. In one embodiment for use with
+            the Citrix MetaFrame and ICA client architecture, the Citrix-provided capability to implement a virtual
+            channel on top of connection 631 between the client and server is used to transmit information between the
+            Citrix MetaFrame server 600 and the Citrix ICA client 340.
+        </p>
+        <p id="p0069" num="0069">Verifying that a remote application and other context participants originate from the
+            same client may be performed in any of numerous ways, as the invention is not limited to the above-described
+            techniques. For example, the unique client identifier need not be a MAC address, and can be any information
+            that can be used to identify the client.
+        </p>
+        <p id="p0070" num="0070">
+            In some computer system configurations, an emulation client 340 may emulate multiple remote applications
+            which each execute on different remote application servers. In accordance with one embodiment of the present
+            invention, a technique is employed to
+            <!--  EPO <DP n="25">  -->
+            ensure that the multiple applications executing on different remote application servers belong to the same
+            emulation client, and therefore are on the same desktop and can share a context. In a manner similar to that
+            described above, this prevents a rogue application from improperly intruding into a context.
+        </p>
+        <p id="p0071" num="0071">In accordance with one embodiment of the present invention, an identifier that uniquely
+            identifies the emulation client 340 is requested by each remote application server, and is provided from the
+            remote application server to the context manager. The context manager further requests the unique
+            identifier(s) directly from the emulation client, and then compares the identifiers to ensure a match in
+            much the same manner as discussed above. In accordance with one embodiment of the present invention, the
+            unique identifier may be a hardware MAC address (or any other suitable identifier) as discussed above.
+        </p>
+        <p id="p0072" num="0072">It should be appreciated that a desktop machine on which a client emulation program
+            executes may be incapable of providing its MAC address. For example, in some system configurations, a
+            facility such as the DLL described above may not be present, such as a configuration in which a user employs
+            an unmodified laptop computer to dial into a remote application server. Thus, one embodiment of the present
+            invention provides for an alternative identifier to be employed to uniquely identify the emulation client.
+        </p>
+        <p id="p0073" num="0073">
+            In accordance with one embodiment of the present invention for use with the Citrix MetaFrame and ICA client
+            architecture, an embodiment of the present invention makes use of a Citrix application programming interface
+            (API) that provides information relating the client. In accordance with the Citrix-provided API, the login
+            of the user on the client, and the IP address and a client host name (that typically defaults to the name of
+            the computer on which the client is executing) for the client machine can be provided. In accordance with
+            one embodiment of the present invention, these three pieces of information are employed to verify a match of
+            the client, such that each of the three pieces of information must be identical for a match to be
+            recognized. Thus, when a user at a single emulation client logs into two remote application servers, in
+            accordance with one embodiment of the present invention, the user employs the same login identifier on both.
+            The two remote application servers use the Citrix-provided API to retrieve the above-described identifier
+            information from the client and provide the identifier
+            <!--  EPO <DP n="26">  -->
+            information to the context manager. The context manager verifies that the identifier information matches to
+            determine that the two remote applications are emulated on the same emulation client, and can therefore
+            belong to the same context.
+        </p>
+        <p id="p0074" num="0074">It should be appreciated that the embodiment of the present invention that collects
+            unique identifier information from the client machine is not limited to employing the Citrix-provided API to
+            collect information, as other implementations are possible. In addition, it should be appreciated that the
+            aspects of the present invention that facilitate context management with remotely emulated applications are
+            not limited to use with the Citrix MetaFrame and ICA client architecture, as other emulation architectures
+            can be employed. When a different emulation architecture is employed, the clients may be provided with
+            alternate application programming interfaces that allow for the collection of different types of
+            information. Thus, the above-described implementation is merely illustrative, and simply makes use of the
+            Citrix-provided API to collect information from which a client can be uniquely identified. The present
+            invention is not limited to using the types of information described above, as any suitable information that
+            uniquely identifies the client can be employed.
+        </p>
+        <p id="p0075" num="0075">In an alternate embodiment of the present invention, the identifiers provided by the
+            remote application servers to identify their associated clients need not be identical, as the client can
+            provide information to the context manager to enable the context manager to determine that two remote
+            applications may in fact be emulated on the same emulation client, even if they provide different
+            identifiers. For example, if an emulation client were to use a different user ID and/or password to log into
+            two different remote application servers, the emulation client can provide both sets of identifiers to the
+            context manager in a manner that makes clear to the context manager that both sets of identifiers identify
+            the same emulation client. The context manager can then use this information to determine that two remote
+            application servers that provide different types of identifiers for an emulation client nevertheless are
+            emulated on the same emulation client.
+        </p>
+        <p id="p0076" num="0076">
+            As should be appreciated from the foregoing, the present invention is not limited in any manner to the
+            nature of the identifiers provided from one or more remote server applications and emulation clients to the
+            context manager to enable the context manager to determine that the remote server applications are emulated
+            on the same client, as numerous implementations are possible.
+            <!--  EPO <DP n="27">  -->
+        </p>
+        <p id="p0077" num="0077">
+            Some remote application and emulation client configurations (e.g., the Citrix MetaFrame and ICA client
+            architecture) enable an emulation client to not only emulate specific applications, but also allow a client
+            to emulate (or "publish") entire processing environments ("desktops"), which may include icons allowing the
+            client to execute other applications remotely. There are numerous possibilities for the manner in which this
+            can be configured. For example, a Citrix ICA client may emulate a desktop environment executing on a first
+            Citrix MetaFrame server, and the desktop may provide access to one or more applications which execute on a
+            different (or "downstream") Citrix MetaFrame server. Such a configuration is illustrated in
+            <figref idref="f0003">FIG. 3</figref>
+            . In accordance with one embodiment of the present invention, a technique is provided to verify that a
+            remote application executing on a downstream remote application server is emulated on the same client as
+            other context participants, and can thus participate in a context with them. In one embodiment, an
+            identifier that uniquely identifies the emulation client is provided to the downstream remote application
+            server, which then provides the unique identifier to the context manager for matching with an identifier
+            that the context manager retrieves directly from the client machine, in much the same manner as described
+            above.
+        </p>
+        <p id="p0078" num="0078">
+            In the configuration depicted in
+            <figref idref="f0003">FIG. 3</figref>
+            , emulation client 340 emulates a remote desktop session 610 executing on remote application server 600.
+            Session 610 is provided in the form of a desktop, from which emulation client 340 may launch one or more
+            applications (e.g., applications 612 and 615). In the configuration shown, when application 615 is launched,
+            it is executed on the remote application server 600, within session 610. However, application 612 is a
+            client application for a remotely executing application 665, so that when application 612 is launched, it
+            initiates the application 655 in a session 660 on downstream remote application server 650. This may occur
+            in a manner which is transparent to emulation client 340. During the execution of application 665, client
+            application 612 persists within session 610 as an emulation of application 665,which facilitates
+            communication between emulation client 340 and application 665.
+        </p>
+        <p id="p0079" num="0079">
+            In one embodiment, remote application server 600 and downstream remote application server 650 include
+            vergence locators 620 and 670, respectively. During the process of determining whether remotely executing
+            applications can participate in a context, the vergence locators 620 and 670 each contact their
+            corresponding client (e.g. using the Citrix-enabled virtual channel - see 631 in
+            <figref idref="f0002">FIG. 2</figref>
+            - when in a system that
+            <!--  EPO <DP n="28">  -->
+            employs the Citrix MetaFrame and ICA client architecture), to request that their corresponding client return
+            a unique identifier in the manner described above. In the configuration shown in
+            <figref idref="f0003">FIG. 3</figref>
+            , the desktop is provided with a DLL 341 that provides the ability for the emulation client 340 to obtain a
+            MAC address for a network adaptor on the desktop 300. Thus, in one embodiment, the vergence locator 620
+            contacts the emulation client 240 and request the MAC address. Similarly, the vergence locator 670 contacts
+            the client on which the application 665 is emulated, which client is the application 612 executing on the
+            remote application server 600. In accordance with one embodiment of the present invention, when the DLL 613
+            associated with the client application 612 receives this request, the DLL will query the server on which it
+            is executing (i.e., server 600) to determine whether the server is a remote application server. If so, the
+            DLL 613 will not return a MAC address for the remote application server 600, but rather, will contact the
+            vergence locator 620 to obtain the MAC address for the client (i.e., emulation client 340) on which the
+            remote application 612 is emulated. In this manner, both the application 615 executing on the remote
+            application server 600 and the application 665 executing on the downstream remote application server 650
+            will return to the context manager the same MAC address for the desktop 300, enabling the context manager to
+            verify that these applications are emulated on the same client and can participate together in a context.
+        </p>
+        <p id="p0080" num="0080">
+            It should be appreciated that the aspect of the present invention that relates to determining an identifier
+            for an end of the line client on which a published application is ultimately emulated is not limited to a
+            2-level emulation environment as shown in
+            <figref idref="f0003">FIG. 3</figref>
+            , as the above-described techniques can be employed on deeper hierarchical configurations having any number
+            of levels.
+        </p>
+        <p id="p0081" num="0081">
+            In the embodiment described above in connection with
+            <figref idref="f0003">FIG. 3</figref>
+            , the end of the line client machine (i.e., desktop 300) on which the remote applications are emulated has
+            an associated DLL 341 that provides the capability to retrieve the MAC address for the client machine. As
+            the MAC address provides a verifiable unique identifier for the client, embodiments of the present invention
+            that are used in connection with such configurations can support context sharing amongst remote applications
+            across numerous configurations, including different published desktops.
+            <!--  EPO <DP n="29">  -->
+        </p>
+        <p id="p0082" num="0082">
+            It should be appreciated that the aspects of the present invention described herein are not limited to use
+            with an emulation client that has a DLL or other facility to allow for the retrieval of a unique hardware
+            identifier. In accordance with one embodiment of the present invention for use in connection with a client
+            that has no such ability, a restriction is placed on context sharing between remote applications, such that
+            remote applications can only share a context if they are executing on, or remotely emulated on, the same
+            desktop, such as the published desktop session 610 in
+            <figref idref="f0003">FIG. 3</figref>
+            . In accordance with this embodiment of the present invention, when the vergence locator 670 on the
+            downstream remote application server 650 seeks a unique identifier for its corresponding client, the DLL 613
+            returns a MAC address for the remote application server 600, and also a unique identifier for the published
+            desktop session 610. Thus, when the context manager reviews the returned identifiers to determine whether
+            the applications 665 and 615 can share a context, it verifies that these applications are not only executing
+            and/or emulated on the same machine (i.e., remote application server 600), but that they are in the same
+            published desktop session 610.
+        </p>
+        <p id="p0083" num="0083">
+            As mentioned above, the computer system configuration shown in
+            <figref idref="f0002">FIG. 2</figref>
+            is merely illustrative, as numerous other configurations are possible. For example, in the illustrative
+            configuration of
+            <figref idref="f0002">FIG. 2</figref>
+            , the applications executing on the remote application server 600 are COM-based applications. However, it
+            should be appreciated that web-based applications can also be implemented on a remote application server.
+            For example, a browser can be executed on the remote application server and emulated on an emulation client
+            such as client 340 in
+            <figref idref="f0002">FIG. 2</figref>
+            . In such a configuration, the listener 335 illustrated in
+            <figref idref="f0002">FIG. 2</figref>
+            can be implemented on the remote application server along with the browser, and can be accessed in
+            substantially the same manner as discussed above (e.g., through a back-channel established between the
+            context server 400 and the vergence locator 620 on the remote application server 600).
+        </p>
+        <p id="p0084" num="0084">
+            Referring to the exemplary configuration of
+            <figref idref="f0002">FIG. 2</figref>
+            , components thereof that support context management include the context server 400, the vergence locator
+            350, listener 335, COM adapter 320, CM registry 352, and the CM and CP interfaces 315, 325 and 375 on the
+            desktop, as well as the CP interface 510 for the web server, and the vergence locator 620, COM adapter 617
+            and CP interface 640 on the remote application server 600.
+            <!--  EPO <DP n="30">  -->
+        </p>
+        <p id="p0085" num="0085">It should be appreciated from some configurations are possible wherein the desktop 300
+            consists solely of an emulation client for one or more remote server applications. As should be appreciated
+            from the description above, the desktop itself need not include any components to support context
+            management, as all of that support can be provided on the context manager 400 and one or more remote
+            application servers 600.
+        </p>
+        <p id="p0086" num="0086">It should be appreciated that although the foregoing discussion specifically describes
+            implementing context management in a networked environment using the CCOW standard, aspects of the present
+            invention described herein are not limited in this respect, and can be employed to implement context
+            management in other ways that are not limited to the CCOW standard.
+        </p>
+        <p id="p0087" num="0087">The above-described embodiments of the present invention can be implemented in any of
+            numerous ways. For example, the embodiments may be implemented using hardware, software or a combination
+            thereof. When implemented in software, the software code can be executed on any suitable processor or
+            collection of processors, whether provided in a single computer or distributed among multiple computers. It
+            should be appreciated that any component or collection of components that perform the functions described
+            above can be generically considered as one or more controllers that control the above-discussed functions.
+            The one or more controllers can be implemented in numerous ways, such as with dedicated hardware, or with
+            general purpose hardware (e.g., one or more processors) that is programmed using microcode or software to
+            perform the functions recited above.
+        </p>
+        <p id="p0088" num="0088">
+            In this respect, it should be appreciated that one implementation of the embodiments of the present
+            invention comprises at least one computer-readable medium (e.g., a computer memory, a floppy disk, a compact
+            disk, a tape, etc.) encoded with a computer program (i.e., a plurality of instructions), which, when
+            executed on a processor, performs the above-discussed functions of the embodiments of the present invention.
+            The computer-readable medium can be transportable such that the program stored thereon can be loaded onto
+            any computer system resource to implement the aspects of the present invention discussed herein. In
+            addition, it should be appreciated that the reference to a computer program which, when executed, performs
+            the above-discussed functions, is not limited to an application program running on a host computer.
+            <!--  EPO <DP n="31">  -->
+            Rather, the term computer program is used herein in a generic sense to reference any type of computer code
+            (e. g. , software or microcode) that can be employed to program a processor to implement the above-discussed
+            aspects of the present invention.
+        </p>
+        <p id="p0089" num="0089">It should be appreciated that in accordance with several embodiments of the present
+            invention wherein processes are implemented in a computer readable medium, the computer implemented
+            processes may, during the course of their execution, receive input manually (e. g. , from a user), in the
+            manners described above.
+        </p>
+        <p id="p0090" num="0090">Having described several embodiments of the invention in detail, various modifications
+            and improvements will readily occur to those skilled in the art. Such modifications and improvements are
+            intended to be within the scope of the invention, which is defined by the following claims.
+        </p>
+    </description>
+    <!--  EPO <DP n="32">  -->
+    <claims id="claims01" lang="en">
+        <claim id="c-en-01-0001" num="0001">
+            <claim-text>
+                A method for use in a system comprising at least one client (300), a context management server (400), at
+                least one remote application server (600) and at least one network (700) adapted to couple together the
+                at least one client, the context management server and the at least one remote application server, the
+                at least one remote application server each being adopted to execute at least one remote application
+                (615), the at least one client being adapted to execute at least one client application that may share a
+                context with the at least one remote application, the at least one client further being adapted to
+                execute an emulation application (340) that emulates the at least one remote application on the at least
+                one client, the context management server being adapted to execute a context management service to
+                manage the context, the context relating to healthcare;
+                <br/>
+                the method being for verifying that a first one remote application is emulated on a first client and may
+                belong to the same context;
+                <br/>
+                the method comprising acts of:
+                <claim-text>(a) receiving from the first client (300) first information that uniquely identifies an
+                    aspect of the first client;
+                </claim-text>
+                <claim-text>(b) receiving from a first remote application server (600) of the at least one remote
+                    application server second information that uniquely identifies the aspect of a remote client on
+                    which the first remote application is emulated; and
+                </claim-text>
+                <claim-text>
+                    (c) determining that the first remote application is emulated on the first client and belongs to the
+                    same context when the first information matches the second information, and
+                    <b>characterized in that</b>
+                </claim-text>
+                the act (a) comprises an act of receiving from the first client (300) first information that comprises a
+                <!--  EPO <DP n="33">  -->
+                hardware media access code (MAC) address for the first client;
+                <br/>
+                wherein the act (b) comprises an act of receiving from the first remote application server (600) a
+                hardware MAC address for the remote client on which the first remote application is emulated;
+                <br/>
+                and wherein the act (c) comprises an act of determining that the first remote application is emulated on
+                the first client and may belong to the same context when the hardware MAC address in the first
+                information matches the hardware MAC address in the second information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0002" num="0002">
+            <claim-text>The method of claim 1, wherein the act (b) comprises an act of receiving, at the first remote
+                application server (600), the hardware MAC address transmitted from the remote client on which the first
+                remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0003" num="0003">
+            <claim-text>
+                The method of claim 1 furthermore being for verifying that a first and a second remote application
+                respectively executed on a first and a second remote application server of the at least one remote
+                application server are emulated on a same client (300), the client being adapted to execute at least one
+                emulation application (340) that emulates the first and second remote applications on that client,
+                <br/>
+                and belongs to a same context,
+                <br/>
+                wherein the step (b) comprises receiving from the first remote application server first information that
+                uniquely identifies an aspect of the client on which the first remote application is emulated, and
+                receiving from the second remote application server second information that uniquely identifies an
+                aspect of the client on which the second remote application is emulated; and wherein the step (c)
+                comprises determining that the first and second remote applications are emulated on the same client and
+                may belong to the same context by
+                <!--  EPO <DP n="34">  -->
+                examining the first information and the second information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0004" num="0004">
+            <claim-text>The method of claim 3, wherein each client that emulates a remote application executing on the
+                at least one remote application server (600) is adapted to log into the remote application server using
+                login information, wherein the first information comprises the login information for the client on which
+                the first remote application is emulated and the second information comprises the login information for
+                the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0005" num="0005">
+            <claim-text>The method of claim 4, wherein the login information comprises a.user identifier.</claim-text>
+        </claim>
+        <claim id="c-en-01-0006" num="0006">
+            <claim-text>
+                The method of claim 3, further comprising an act of (d) receiving from a same client information that
+                uniquely identifies the aspect of the client identified by the first information in the act (a) and
+                information that uniquely identifies the aspect of the client identified by the second information in
+                the act (b); and
+                <br/>
+                wherein the act (c) comprises an act of determining that the first and second remote applications are
+                emulated on the same client when the information received in the act (d) matches the first and second
+                information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0007" num="0007">
+            <claim-text>The method of claim 3, wherein the act (c) comprises determining that the first and second
+                remote applications are emulated on the same client and may belong to the same context when the first
+                information matches the second information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0008" num="0008">
+            <claim-text>
+                The method of claim 7, wherein the first information comprises an address of the client on which the
+                first remote application is emulated and the second
+                <!--  EPO <DP n="35">  -->
+                information comprises an address of the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0009" num="0009">
+            <claim-text>The method of claim 7, wherein the first information comprises an internet protocol (IP) address
+                of the client on which the first remote application is emulated and the second information comprises an
+                IP address of the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0010" num="0010">
+            <claim-text>The method of claim 4, wherein the first information further comprises an address of the client
+                on which the first remote application is emulated and the second information further comprises an
+                address of the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0011" num="0011">
+            <claim-text>The method of claim 5, wherein the first information further comprises an internet protocol (IP)
+                address of the client on which the first remote application is emulated and the second information
+                comprises an IP address of the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0012" num="0012">
+            <claim-text>
+                At least one computer-readable medium encoded with instructions for performing a method, the method
+                being for use in a system comprising at least one client (300), a context management server (400), at
+                least one remote application server (600) and at least one network (700) adapted to couple together the
+                at least one client, the context management server and the at least one remote application server, the
+                at least one remote application server (600) each being adapted to execute at least one remote
+                application, the at least one client being adapted to execute at least one client application that may
+                share a context with the at least one remote application, the at least one client being adapted to
+                further execute an emulation application (340) that
+                <!--  EPO <DP n="36">  -->
+                (340) that emulates the at least one remote application on the at least one client, the context
+                management server being adapted to execute a context management service to manage the context, the
+                context relating to healthcare:
+                <claim-text>the method being for verifying that the a first one remote application is emulated on a
+                    first client and may belong to the same context;
+                </claim-text>
+                <claim-text>
+                    the method comprising acts of:
+                    <claim-text>(a) receiving from the first client (300) first information that uniquely identifies an
+                        aspect of the first client;
+                    </claim-text>
+                    <claim-text>(b) receiving from a first remote application server (600) of the at least one remote
+                        server second information that uniquely identifies the aspect of a remote client on which the
+                        first remote application is emulated; and
+                    </claim-text>
+                    <claim-text>
+                        (c) determining that the first remote application is emulated on the first client and belongs to
+                        the same context when the first information matches the second information, and
+                        <b>characterized in that</b>
+                    </claim-text>
+                </claim-text>
+                <claim-text>the act (a) comprises an act of receiving from the first client (300) first information that
+                    comprises a hardware media access code (MAC) address for the first client;
+                </claim-text>
+                <claim-text>wherein the act (b) comprises an act of receiving from the first remote application server
+                    (600) a hardware MAC address for the remote client on which the first remote application is
+                    emulated;
+                </claim-text>
+                <claim-text>and wherein the act (c) comprises an act of determining that the first remote application is
+                    emulated on the first client and may belong to the same context when the hardware MAC address in the
+                    first information matches the hardware MAC address in the second information.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0013" num="0013">
+            <claim-text>
+                The at least one computer-readable medium of claim 12, wherein the act (b) comprises an act of
+                receiving,
+                <!--  EPO <DP n="37">  -->
+                at the first remote application server (600), the hardware MAC address transmitted from the remote
+                client on which the first remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0014" num="0014">
+            <claim-text>
+                The at least one computer-readable medium of claim 12 furthermore being for verifying that a first and a
+                second remote application respectively executed on a first and a second remote application server of the
+                at least one remote application server are emulated on a same client, the client being adapted to
+                execute at least one emulation application that emulates the first and second remote applications on
+                that client, and belongs to a same context;
+                <br/>
+                wherein the step (b) comprises receiving from the first remote application server first information that
+                uniquely identifies an aspect of the client on which the first remote application is emulated, and
+                receiving from the second remote application server second information that uniquely identifies an
+                aspect of the client on which the second remote application is emulated; and
+                <br/>
+                wherein the step (c) comprises determining that the first and second remote applications are emulated on
+                the same client and may belong to the same context by examining the first information and the second
+                information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0015" num="0015">
+            <claim-text>
+                The at least one computer-readable medium of claim 14, wherein each client that emulates a remote
+                application executing on the at least one remote application server (600) logs into the remote
+                application server using login information, wherein the first information comprises the login
+                information for the client on which the first remote application is emulated and the second information
+                comprises the login information for the client on which the second remote application is emulated.
+                <!--  EPO <DP n="38">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0016" num="0016">
+            <claim-text>The at least one computer-readable medium of claim 15, wherein the login information comprises a
+                user identifier.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0017" num="0017">
+            <claim-text>
+                The at least one computer-readable medium of claim 15, wherein the method further comprises an act of
+                (d) receiving from a same client information that uniquely identifies the aspect of the client
+                identified by the first information in the act (a) and information that uniquely identifies the aspect
+                of the client identified by the second information in the act (b); and
+                <br/>
+                wherein the act (c) comprises an act of determining that the first and second remote applications are
+                emulated on the same client when the information received in the act (d) matches the first and second
+                information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0018" num="0018">
+            <claim-text>The at least one computer-readable medium of claim 14, wherein the act (c) comprises determining
+                that the first and second remote applications are emulated on the same client and may belong to the same
+                context when the first information matches the second information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0019" num="0019">
+            <claim-text>The at least one computer-readable medium of claim 18, wherein the first information comprises
+                an address of the client on which the first remote application is emulated and the second information
+                comprises an address of the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0020" num="0020">
+            <claim-text>
+                The at least one computer-readable medium of claim 18, wherein the first information comprises an
+                internet protocol (IP) address of the client on which the first remote application is emulated and the
+                second information comprises an IP address of the client on which the second remote application is
+                emulated.
+                <!--  EPO <DP n="39">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0021" num="0021">
+            <claim-text>The at least one computer-readable medium of claim 15, wherein the first information further
+                comprises an address of the client on which the first remote application is emulated and the second
+                information further comprises an address of the client on which the second remote application is
+                emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0022" num="0022">
+            <claim-text>The at least one computer-readable medium of claim 16, wherein the first information further
+                comprises an internet protocol (IP) address of the client on which the first remote application is
+                emulated and the second information comprises an IP address of the client on which the second
+                remote.application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0023" num="0023">
+            <claim-text>
+                A context management server (400) for use in a system comprising at least one client (300), the context
+                management server (400), at least one remote application server (600) and at least one network (700)
+                adapted to couple together the at least one client, the context management server and the at least one
+                remote application server, the at least one remote application server (600) each being adapted to
+                execute at least one remote application (615), the at least one client being adapted to execute at least
+                one client application that may share a context with the at least one remote application, the at least
+                one client being adapted to further execute an emulation application (340) that emulates the at least
+                one remote application on the at least one client;
+                <br/>
+                the context management server (400) comprising:
+                <claim-text>at least one processor adapted to execute a context management service (410) to manage the
+                    context, the context relating to healthcare; and
+                </claim-text>
+                <claim-text>
+                    at least one controller adapted to:
+                    <claim-text>receive from a first client first information that uniquely identifies an aspect of the
+                        first client;
+                    </claim-text>
+                    <claim-text>
+                        to receive from a first remote application server of the at least one remote application server
+                        <!--  EPO <DP n="40">  -->
+                        second information that uniquely identifies the aspect of a remote client on which the first
+                        remote application is emulated; and
+                    </claim-text>
+                    <claim-text>
+                        to determine that the first remote application is emulated on the first client and belongs to
+                        the same context when the first information matches the second information, and
+                        <b>characterized in that</b>
+                    </claim-text>
+                    <claim-text>the controller is adapted to receive from the first client first information that
+                        comprises a hardware media access code (MAC) address for the first client, to receive from the
+                        first remote application server a hardware MAC address for the remote client on which the first
+                        remote application is emulated, and to determine that the first remote application is emulated
+                        on the first client and may belong to the same context when the hardware MAC address in the
+                        first information matches the hardware MAC address in the second information.
+                    </claim-text>
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0024" num="0024">
+            <claim-text>
+                The context management server of claim 23, wherein the at least one remote application server comprise
+                first and second remote application servers respectively adapted to execute first and second remote
+                applications that are emulated on a same client, and the client is adapted to execute at least one
+                emulation application that emulates the first and second remote applications on that client, wherein
+                the:
+                <claim-text>
+                    at least one controller is adapted to:
+                    <claim-text>receive from the first remote application server first information that uniquely
+                        identifies an aspect of the client on which the first remote application is emulated;
+                    </claim-text>
+                    <claim-text>to receive from the second remote application server second information that uniquely
+                        identifies an aspect of the client on which the second remote application is emulated; and
+                    </claim-text>
+                    <claim-text>
+                        to determine that the first and second remote applications are emulated on the same client and
+                        may
+                        <!--  EPO <DP n="41">  -->
+                        belong to the same context by examining the first information and the second information.
+                    </claim-text>
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0025" num="0025">
+            <claim-text>The context management server of claim 24, wherein each client that emulates a remote
+                application executing on the at least one remote application server is adapted to log into the remote
+                application server using login information, wherein the first information comprises the login
+                information for the client on which the first remote application is emulated and the second information
+                comprises the login information for the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0026" num="0026">
+            <claim-text>The context management server of claim 25, wherein the login information comprises a user
+                identifier.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0027" num="0027">
+            <claim-text>The context management server of claim 24, wherein the controller is adapted to further receive
+                from a same client information that uniquely identifies the aspect of the client identified by the first
+                information, information that uniquely identifies the aspect of the client identified by the second
+                information, and determines that the first and second remote applications are emulated on the same
+                client when the information received matches the first and second information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0028" num="0028">
+            <claim-text>The context management server of claim 24, wherein the controller is adapted to determine that
+                the first and second remote applications are emulated on the same client and may belong to the same
+                context when the first information matches the second information.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0029" num="0029">
+            <claim-text>
+                The context management server of claim 28, wherein the first information comprises an address of the
+                client on which the first remote application is emulated and the second information comprises an address
+                of the
+                <!--  EPO <DP n="42">  -->
+                client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0030" num="0030">
+            <claim-text>The context management server of claim 28, wherein the first information comprises an internet
+                protocol (IP) address of the client on which the first remote application is emulated and the second
+                information comprises an IP address of the client on which the second remote application emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0031" num="0031">
+            <claim-text>The context management server of claim 25, wherein the first information further comprises an
+                address of the client on which the first remote application is emulated and the second information
+                further comprises an address of the client on which the second remote application is emulated.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0032" num="0032">
+            <claim-text>The context management server of claim 26, wherein the first information further comprises an
+                internet protocol (IP) address of the client on which the first remote application is emulated and the
+                second information comprises an IP address of the client on which the second remote application is
+                emulated.
+            </claim-text>
+        </claim>
+    </claims>
+    <!--  EPO <DP n="43">  -->
+    <claims id="claims02" lang="de">
+        <claim id="c-de-01-0001" num="0001">
+            <claim-text>
+                Verfahren zur Verwendung in einem System mit zumindest einem Client (300), einem Kontextmanagementserver
+                (400), zumindest einem Fernanwendungsserver (600) und zumindest einem Netzwerk (700), das angepasst ist,
+                den zumindest einen Client, den Kontextmanagementserver und den zumindest einen Fernanwendungsserver
+                zusammenzukoppeln,
+                <br/>
+                wobei der zumindest eine Fernanwendungsserver angepasst ist, zumindest eine Fernanwendung (615)
+                auszuführen,
+                <br/>
+                wobei der zumindest eine Client angepasst ist, zumindest eine Clientanwendung auszuführen, die einen
+                Kontext mit der zumindest einen Fernanwendung teilen kann, wobei der zumindest eine Client weiter
+                angepasst ist, eine Emulationsanwendung (340) auszuführen, die zumindest eine Fernanwendung auf dem
+                zumindest einen Client emuliert, wobei der Kontextmanagementserver angepasst ist, einen
+                Kontextmanagementdienst auszuführen, um den Kontext zu verwalten, wobei sich der Kontext auf einen
+                Gesundheitsbereich bezieht;
+                <br/>
+                wobei das Verfahren zum Verifizieren dient, dass eine erste Fernanwendung auf einem ersten Client
+                emuliert wird und zu demselben Kontext gehören kann;
+                <br/>
+                wobei das Verfahren die Handlungen durchführt:
+                <claim-text>(a) Empfangen von dem ersten Client (300) einer ersten Information, die eindeutig einen
+                    Aspekt des ersten Client identifiziert;
+                </claim-text>
+                <claim-text>
+                    (b) Empfangen von einem ersten Fernanwendungsserver (600) des zumindest einen Fernanwendungsservers
+                    einer zweiten Information, die eindeutig des Aspekt eines Fernclients
+                    <!--  EPO <DP n="44">  -->
+                    identifiziert, auf dem die erste Fernanwendung emuliert wird;
+                </claim-text>
+                <claim-text>
+                    (c) Bestimmen, dass die erste Fernanwendung auf dem ersten Client emuliert wird und zu demselben
+                    Kontext gehört, wenn die erste Information mit der zweiten Information übereinstimmt, und
+                    <b>dadurch gekennzeichnet, dass</b>
+                </claim-text>
+                die Handlung (a) eine Handlung eines Empfangens von dem ersten Client (300) einer ersten Information
+                umfasst, die eine Hardwaremedienzugangscode-MAC-Adresse für den ersten Client umfasst;
+                <br/>
+                wobei die Handlung (b) eine Handlung eines Empfangens von dem ersten Fernanwendungsserver (600) einer
+                Hardware-MAC-Adresse für den Fernclient umfasst, auf dem die erste Fernanwendung emuliert wird;
+                <br/>
+                und wobei die Handlung (c) eine Handlung eines Bestimmens umfasst, dass die erste Fernanwendung auf dem
+                ersten Client emuliert wird und zu demselben Kontext gehören kann, wenn die Hardware-MAC-Adresse in der
+                ersten Information mit der Hardware-MAC-Adresse der zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0002" num="0002">
+            <claim-text>Verfahren nach Anspruch 1, wobei die Handlung (b) eine Handlung eines Empfangens an dem ersten
+                Fernanwendungsserver (600) der Hardware-MAC-Adresse umfasst, die von dem Fernclient übertragen wird, auf
+                dem die erste Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0003" num="0003">
+            <claim-text>
+                Verfahren nach Anspruch 1, das darüber hinaus zum Verifizieren dient, dass eine erste und eine zweite
+                Fernanwendung, die jeweils auf einem ersten und einem zweiten Fernanwendungsserver des zumindest einen
+                Fernanwendungsservers ausgeführt werden, auf demselben
+                <!--  EPO <DP n="45">  -->
+                Client (300) emuliert werden, wobei der Client angepasst ist, zumindest eine Emulationsanwendung (340)
+                auszuführen, die die erste und zweite Fernanwendung auf jenem Client emuliert, und zu demselben Kontext
+                gehört,
+                <br/>
+                wobei der Schritt (b) ein Empfangen von dem ersten Fernanwendungsserver einer ersten Information
+                umfasst, die eindeutig einen Aspekt des Client identifiziert, auf dem die erste Fernanwendung emuliert
+                wird und ein Empfangen von dem zweiten Fernanwendungsserver einer zweiten Information, die eindeutig
+                einen Aspekt des Client identifiziert, auf dem die zweite Fernanwendung emuliert wird; und
+                <br/>
+                wobei der Schritt (c) ein Bestimmen umfasst, dass die erste und zweite Fernanwendung auf demselben
+                Client emuliert werden und zu demselben Kontext gehören könnten, durch Prüfen der ersten Information und
+                der zweiten Information.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0004" num="0004">
+            <claim-text>Verfahren nach Anspruch 3, wobei jeder Client, der eine Fernanwendung emuliert, die auf dem
+                zumindest einen Fernanwendungsserver (600) ausgeführt wird, angepasst ist, sich in den
+                Fernanwendungsserver unter Verwendung von Log-In-Information einzuloggen, wobei die erste Information
+                die Log-In-Information für den Client umfasst, auf dem die erste Fernanwendung emuliert wird und die
+                zweite Information die Log-In-Information für den Client umfasst, auf dem die zweite Fernanwendung
+                emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0005" num="0005">
+            <claim-text>Verfahren nach Anspruch 4, wobei die Log-In-Information einen Benutzeridentifikator umfasst.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0006" num="0006">
+            <claim-text>
+                Verfahren nach Anspruch 3, weiter mit einer Handlung eines (d) Empfangens von demselben Client einer
+                Information, die eindeutig den Aspekt des Clients
+                <!--  EPO <DP n="46">  -->
+                identifiziert, der von der ersten Information in der Handlung (a) identifiziert wird und einer
+                Information, die eindeutig den Aspekt des Clients identifiziert, der von der zweiten Information in der
+                Handlung (b) identifiziert wird; und
+                <br/>
+                wobei die Handlung (c) eine Handlung eines Bestimmens umfasst, dass die erste und zweite Fernanwendung
+                auf demselben Client emuliert werden, wenn die Information, die in der Handlung (d) empfangen wird, mit
+                der ersten und zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0007" num="0007">
+            <claim-text>Verfahren nach Anspruch 3, wobei die Handlung (c) ein Bestimmen umfasst, dass die ersten und
+                zweiten Fernanwendungen auf demselben Client emuliert werden und zu demselben Kontext gehören können,
+                wenn die erste Information mit der zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0008" num="0008">
+            <claim-text>Verfahren nach Anspruch 7, wobei die erste Information eine Adresse des Client umfasst, auf dem
+                die erste Fernanwendung emuliert wird und die zweite Information eine Adresse des Client umfasst, auf
+                dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0009" num="0009">
+            <claim-text>Verfahren nach Anspruch 7, wobei die erste Information eine Internetprotokoll-(IP)-Adresse des
+                Client umfasst, auf dem die erste Fernanwendung emuliert wird und die zweite Information eine IP-Adresse
+                des Client umfasst, auf dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0010" num="0010">
+            <claim-text>
+                Verfahren nach Anspruch 4, wobei die erste Information weiter eine Adresse des Clients umfasst, auf dem
+                die erste Fernanwendung emuliert wird und die zweite Information weiter eine Adresse des Clients
+                umfasst, auf dem die zweite Fernanwendung emuliert wird.
+                <!--  EPO <DP n="47">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0011" num="0011">
+            <claim-text>Verfahren nach Anspruch 5, wobei die erste Information weiter eine
+                Internetprotokoll-(IP)-Adresse des Clients umfasst, auf dem die erste Fernanwendung emuliert wird und
+                die zweite Information eine IP-Adresse des Clients umfasst, auf dem die zweite Fernanwendung emuliert
+                wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0012" num="0012">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium, das mit Anweisungen zum Durchführen eines Verfahrens kodiert
+                ist,
+                <br/>
+                wobei das Verfahren zur Verwendung in einem System mit zumindest einem Client (300), einem
+                Kontextmanagementserver (400), zumindest einem Fernanwendungsserver (600) und zumindest einem Netzwerk
+                (700) dient, das angepasst ist, den zumindest einen Client, den Kontextmanagementserver und den
+                zumindest einen Fernanwendungsserver zu koppeln, wobei der zumindest eine Fernanwendungsserver (600)
+                angepasst ist, zumindest eine Fernanwendung auszuführen, wobei der zumindest eine Client angepasst ist,
+                zumindest eine Clientanwendung auszuführen, die einen Kontext mit der zumindest einen Fernanwendung
+                teilen kann, wobei der zumindest eine Client angepasst ist, weiter eine Emulationsanwendung (340)
+                auszuführen, die (340), die zumindest eine Fernanwendung auf dem zumindest einen Client emuliert, wobei
+                der Kontextmanagementserver angepasst ist, einen Kontextmanagementdienst auszuführen, um den Kontext zu
+                verwalten, wobei sich der Kontext auf einen Gesundheitsbereich bezieht;
+                <br/>
+                wobei das Verfahren zum Verifizieren dient, dass eine erste Fernanwendung auf einen ersten Client
+                emuliert wird und zu demselben Kontext gehören kann;
+                <br/>
+                wobei das Verfahren die Handlungen umfasst:
+                <claim-text>
+                    a) Empfangen von dem ersten Client (300) einer ersten Information, die eindeutig einen Aspekt des
+                    ersten Client identifiziert;
+                    <!--  EPO <DP n="48">  -->
+                </claim-text>
+                <claim-text>(b) Empfangen von einem ersten Fernanwendungsserver (600) des zumindest einen
+                    Fernanwendungsservers einer zweiten Information, die eindeutig des Aspekt eines Fernclients
+                    identifiziert, auf dem die erste Fernanwendung emuliert wird;
+                </claim-text>
+                <claim-text>
+                    (c) Bestimmen, dass die erste Fernanwendung auf dem ersten Client emuliert wird und zu demselben
+                    Kontext gehört, wenn die erste Information mit der zweiten Information übereinstimmt, und
+                    <b>dadurch gekennzeichnet, dass</b>
+                </claim-text>
+                die Handlung (a) eine Handlung eines Empfangens von dem ersten Client (300) einer ersten Information
+                umfasst, die eine Hardwaremedienzugangscode-MAC-Adresse für den ersten Client umfasst;
+                <br/>
+                wobei die Handlung (b) eine Handlung eines Empfangens von dem ersten Fernanwendungsserver (600) einer
+                Hardware-MAC-Adresse für den Fernclient umfasst, auf dem die erste Fernanwendung emuliert wird;
+                <br/>
+                und wobei die Handlung (c) eine Handlung eines Bestimmens umfasst, dass die erste Fernanwendung auf dem
+                ersten Client emuliert wird und zu demselben Kontext gehören kann, wenn die Hardware-MAC-Adresse in der
+                ersten Information mit der Hardware-MAC-Adresse der zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0013" num="0013">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 12,
+                <br/>
+                wobei die Handlung (b) eine Handlung eines Empfangens an dem ersten Fernanwendungsserver (600) der
+                Hardware-MAC-Adresse umfasst, die von dem Fernclient übertragen wird, auf dem die erste Fernanwendung
+                emuliert wird.
+                <!--  EPO <DP n="49">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0014" num="0014">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 12, das darüber hinaus zum Verifizieren dient, dass
+                eine erste und eine zweite Fernanwendung, die jeweils auf einem ersten und einem zweiten
+                Fernanwendungsserver des zumindest einen Fernanwendungsservers ausgeführt werden, auf demselben Client
+                (300) emuliert werden, wobei der Client angepasst ist, zumindest eine Emulationsanwendung (340)
+                auszuführen, die die erste und zweite Fernanwendung auf jenem Client emuliert, und zu demselben Kontext
+                gehört,
+                <br/>
+                wobei der Schritt (b) ein Empfangen von dem ersten Fernanwendungsserver einer ersten Information
+                umfasst, die eindeutig einen Aspekt des Client identifiziert, auf dem die erste Fernanwendung emuliert
+                wird und ein Empfangen von dem zweiten Fernanwendungsserver einer zweiten Information, die eindeutig
+                einen Aspekt des Client identifiziert, auf dem die zweite Fernanwendung emuliert wird; und
+                <br/>
+                wobei der Schritt (c) ein Bestimmen umfasst, dass die erste und zweite Fernanwendung auf demselben
+                Client emuliert werden und zu demselben Kontext gehören könnten, durch Prüfen der ersten Information und
+                der zweiten Information.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0015" num="0015">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 14,
+                <br/>
+                wobei jeder Client, der eine Fernanwendung emuliert, die auf dem zumindest einen Fernanwendungsserver
+                (600) ausgeführt wird, sich in den Fernanwendungsserver unter Verwendung von Log-In-Information einlogt,
+                wobei die erste Information die Log-In-Information für den Client umfasst, auf dem die erste
+                Fernanwendung emuliert wird und die zweite Information die Log-In-Information für den Client umfasst,
+                auf dem die zweite Fernanwendung emuliert wird.
+                <!--  EPO <DP n="50">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0016" num="0016">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 15,
+                <br/>
+                wobei die Log-In-Information einen Benutzeridentifikator umfasst.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0017" num="0017">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 15,
+                <br/>
+                wobei das Verfahren weiter eine Handlung eines (d) Empfangens von demselben Client einer Information
+                umfasst, die eindeutig den Aspekt des Clients identifiziert, der von der ersten Information in der
+                Handlung (a) identifiziert wird und einer Information, die eindeutig den Aspekt des Clients
+                identifiziert, der von der zweiten Information in der Handlung (b) identifiziert wird; und
+                <br/>
+                wobei die Handlung (c) eine Handlung eines Bestimmens umfasst, dass die erste und zweite Fernanwendung
+                auf demselben Client emuliert werden, wenn die Information, die in der Handlung (d) empfangen wird, mit
+                der ersten und zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0018" num="0018">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 14,
+                <br/>
+                wobei die Handlung (c) ein Bestimmen umfasst, dass die ersten und zweiten Fernanwendungen auf demselben
+                Client emuliert werden und zu demselben Kontext gehören können, wenn die erste Information mit der
+                zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0019" num="0019">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 18,
+                <br/>
+                wobei die erste Information eine Adresse des Client umfasst, auf dem die erste Fernanwendung emuliert
+                wird und die zweite Information eine Adresse des Client umfasst, auf dem die zweite Fernanwendung
+                emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0020" num="0020">
+            <claim-text>
+                Zumindest ein computer-lesbares Medium nach Anspruch 18,
+                <br/>
+                wobei die erste Information eine Internetprotokoll-(IP)-Adresse des Client umfasst, auf dem die erste
+                Fernanwendung emuliert wird und die zweite Information
+                <!--  EPO <DP n="51">  -->
+                eine IP-Adresse des Client umfasst, auf dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0021" num="0021">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 15,
+                <br/>
+                wobei die erste Information weiter eine Adresse des Clients umfasst, auf dem die erste Fernanwendung
+                emuliert wird und die zweite Information weiter eine Adresse des Clients umfasst, auf dem die zweite
+                Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0022" num="0022">
+            <claim-text>
+                Zumindest ein Computer-lesbares Medium nach Anspruch 16,
+                <br/>
+                wobei die erste Information weiter eine Internetprotokoll-(IP)-Adresse des Clients umfasst, auf dem die
+                erste Fernanwendung emuliert wird und die zweite Information eine IP-Adresse des Clients umfasst, auf
+                dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0023" num="0023">
+            <claim-text>
+                Kontextmanagementserver (400) zur Verwendung in einem System mit zumindest einem Client (300), dem
+                Kontextmanagementserver (400), zumindest einem Fernanwendungsserver (600) und zumindest einem Netzwerk
+                (700), das angepasst ist, den zumindest einen Client, den Kontextmanagementserver und den zumindest
+                einen Fernanwendungsserver zusammenzukoppeln, wobei der zumindest eine Fernanwendungsserver (600)
+                angepasst ist, zumindest eine Fernanwendung (615) auszuführen, wobei der zumindest eine Client angepasst
+                ist, zumindest eine Clientanwendung auszuführen, die einen Kontext mit der zumindest einen Fernanwendung
+                teilen kann, wobei der zumindest eine Client weiter angepasst ist, eine Emulationsanwendung (340)
+                auszuführen, die zumindest eine Fernanwendung auf dem zumindest einen Client emuliert,
+                <br/>
+                wobei der Kontextmanagementserver (400) umfasst:
+                <!--  EPO <DP n="52">  -->
+                <claim-text>zumindest einen Prozessor, der angepasst ist, einen Kontextmanagementdienst (410)
+                    auszuführen, um den Kontext zu verwalten, wobei sich der Kontext auf einen Gesundheitsbereich
+                    bezieht, und
+                </claim-text>
+                <claim-text>zumindest ein Steuergerät, das angepasst ist,</claim-text>
+                <claim-text>von einem ersten Client erste Information zu empfangen, die eindeutig einen Aspekt des
+                    ersten Clients identifiziert;
+                </claim-text>
+                <claim-text>von einem Fernanwendungsserver des zumindest einen Fernanwendungsservers eine zweite
+                    Information zu empfangen, die eindeutig den Aspekt eines Fernclients identifiziert, auf dem die
+                    erste Fernanwendung emuliert wird, und
+                </claim-text>
+                <claim-text>
+                    zu bestimmen, dass die erste Fernanwendung auf dem ersten Client emuliert wird und zu demselben
+                    Kontext gehört, wenn die erste Information mit der zweiten Information übereinstimmt, und
+                    <b>dadurch gekennzeichnet, dass</b>
+                </claim-text>
+                <claim-text>das Steuergerät angepasst ist, von dem ersten Client eine erste Information zu empfangen,
+                    die eine Hardware-Medienzugangsode-(MAC)-Adresse für den ersten Client umfasst, vom ersten
+                    Fernanwendungsserver eine Hardware-MAC-Adresse für den Fernclient zu empfangen, auf dem die erste
+                    Fernanwendung emuliert wird, und zu bestimmen, dass die erste Fernanwendung auf dem ersten Client
+                    emuliert wird und zu demselben Kontext gehören kann, wenn die Hardware-MAC-Adresse in der ersten
+                    Information mit der Hardware-MAC-Adresse in der zweiten Information übereinstimmt.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0024" num="0024">
+            <claim-text>
+                Kontextmanagementserver nach Anspruch 23, wobei der zumindest eine Fernanwendungsserver erste und zweite
+                <!--  EPO <DP n="53">  -->
+                Fernanwendungsserver umfasst, die jeweils angepasst sind, eine erste und zweite Fernanwendung
+                auszuführen, die auf demselben Client emuliert werden und der Client angepasst ist, zumindest eine
+                Emulationsanwendung auszuführen, die die erste und zweite Fernanwendung auf dem Client emuliert, wobei
+                das:
+                <claim-text>zumindest ein Steuergerät angepasst ist:</claim-text>
+                <claim-text>von dem ersten Fernanwendungsserver eine erste Information zu empfangen, die eindeutig einen
+                    Aspekt des Clients identifiziert, auf dem die erste Fernanwendung emuliert wird;
+                </claim-text>
+                <claim-text>von dem zweiten Fernanwendungsserver eine zweite Information zu empfangen, die eindeutig
+                    einen Aspekt des Clients identifiziert, auf dem die zweite Fernanwendung emuliert wird; und
+                </claim-text>
+                <claim-text>zu bestimmen, dass die erste und zweite Fernanwendung auf demselben Client emuliert werden
+                    und zu demselben Kontext gehören können, durch Prüfen der ersten Information und der zweiten
+                    Information.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0025" num="0025">
+            <claim-text>Kontextmanagementserver nach Anspruch 24, wobei jeder Client, der eine Fernanwendung emuliert,
+                die auf dem zumindest einen Fernanwendungsserver ausgeführt wird, angepasst ist, angepasst ist, sich in
+                den Fernanwendungsserver unter Verwendung von Log-In-Information einzuloggen, wobei die erste
+                Information die Log-In-Information für den Client umfasst, auf dem die erste Fernanwendung emuliert wird
+                und die zweite Information die Log-In-Information für den Client umfasst, auf dem die zweite
+                Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0026" num="0026">
+            <claim-text>
+                Kontextmanagementserver nach Anspruch 25, wobei die Log-In-Information einen Benutzeridentifikator
+                umfasst.
+                <!--  EPO <DP n="54">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0027" num="0027">
+            <claim-text>Kontextmanagementserver nach Anspruch 24, wobei das Steuergerät angepasst ist, weiter von
+                demselben Client Information zu empfangen, die eindeutig den Aspekt des Clients identifiziert, der von
+                der ersten Information identifiziert wird, eine Information, die eindeutig den Aspekt des Clients
+                identifiziert, der von der zweiten Information identifiziert wird und bestimmt, dass die erste und
+                zweite Fernanwendung auf demselben Client emuliert werden, wenn die empfangene Information mit der
+                ersten und zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0028" num="0028">
+            <claim-text>Kontextmanagementserver nach Anspruch 24, wobei das Steuergerät angepasst ist, zu bestimmen,
+                dass die erste und zweite Fernanwendung auf demselben Client emuliert werden und zu demselben Kontext
+                gehören können, wenn die erste Information mit der zweiten Information übereinstimmt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0029" num="0029">
+            <claim-text>Kontextmanagementserver nach Anspruch 28, wobei die erste Information eine Adresse des Clients
+                umfasst, auf dem die erste Fernanwendung emuliert wird und die zweite Information eine Adresse des
+                Clients umfasst, auf dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0030" num="0030">
+            <claim-text>Kontextmanagementserver nach Anspruch 28, wobei die erste Information eine
+                Internetprotokoll-(IP)-Adresse des Client umfasst, auf dem die erste Fernanwendung emuliert wird und die
+                zweite Information eine IP-Adresse des Client umfasst, auf dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0031" num="0031">
+            <claim-text>
+                Kontextmanagementserver nach Anspruch 25, wobei die erste Information weiter eine Adresse des Clients
+                umfasst, auf dem die erste Fernanwendung emuliert wird und die zweite Information weiter eine Adresse
+                des
+                <!--  EPO <DP n="55">  -->
+                Clients umfasst, auf dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0032" num="0032">
+            <claim-text>Kontextmanagementserver nach Anspruch 26, wobei die erste Information weiter eine
+                Internetprotokoll-(IP)-Adresse des Client umfasst, auf dem die erste Fernanwendung emuliert wird und die
+                zweite Information eine IP-Adresse des Client umfasst, auf dem die zweite Fernanwendung emuliert wird.
+            </claim-text>
+        </claim>
+    </claims>
+    <!--  EPO <DP n="56">  -->
+    <claims id="claims03" lang="fr">
+        <claim id="c-fr-01-0001" num="0001">
+            <claim-text>
+                Procédé à utiliser dans un système comprenant au moins un client (300), un serveur de gestion de
+                contexte (400), au moins un serveur d'application distante (600) et au moins un réseau (700) conçu pour
+                relier ensemble l'au moins un client, le serveur de gestion de contexte et l'au moins un serveur
+                d'application distante, chaque au moins un serveur d'application distante étant conçu pour exécuter au
+                moins une application distante (615), l'au moins un client étant conçu pour exécuter au moins une
+                application client qui peut partager un contexte avec l'au moins une application distante, l'au moins un
+                client étant en outre conçu pour exécuter une application d'émulation (340) qui émule l'au moins une
+                application distante sur l'au moins un client, le serveur de gestion de contexte étant conçu pour
+                exécuter un service de gestion de contexte pour gérer le contexte, le contexte se rapportant aux soins
+                de santé ;
+                <br/>
+                le procédé servant à vérifier qu'une première application distante particulière est émulée sur un
+                premier client et peut appartenir au même contexte ;
+                <br/>
+                le procédé comprenant les étapes consistant à :
+                <claim-text>(a) recevoir en provenance du premier client (300) des premières informations qui
+                    identifient de manière unique un aspect du premier client ;
+                </claim-text>
+                <claim-text>(b) recevoir en provenance d'un premier serveur d'application distante (600) de l'au moins
+                    un serveur d'application distante des secondes informations qui identifient de manière unique
+                    l'aspect d'un client distant sur lequel la première application distante est émulée ; et
+                </claim-text>
+                <claim-text>
+                    (c) déterminer que la première application
+                    <!--  EPO <DP n="57">  -->
+                    distante est émulée sur le premier client et appartient au même contexte lorsque les premières
+                    informations correspondent aux secondes informations, et
+                    <b>caractérisé en ce que</b>
+                </claim-text>
+                l'étape (a) comprend une étape consistant à recevoir en provenance du premier client (300) des premières
+                informations qui comprennent une adresse de code d'accès au support matériel (MAC) pour le premier
+                client ;
+                <br/>
+                dans lequel l'étape (b) comprend une étape consistant à recevoir en provenance du premier serveur
+                d'application distante (600) une adresse MAC de matériel pour le client distant sur lequel la première
+                application distante est émulée ;
+                <br/>
+                et dans lequel l'étape (c) comprend une étape consistant à déterminer que la première application
+                distante est émulée sur le premier client et peut appartenir au même contexte lorsque l'adresse MAC de
+                matériel dans les premières informations correspond à l'adresse MAC de matériel dans les secondes
+                informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0002" num="0002">
+            <claim-text>Procédé selon la revendication 1, dans lequel l'étape (b) comprend une étape consistant à
+                recevoir, au niveau du premier serveur d'application distante (600), l'adresse MAC de matériel transmise
+                en provenance du client distant sur lequel la première application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0003" num="0003">
+            <claim-text>
+                Procédé selon la revendication 1, servant en outre à vérifier qu'une première et qu'une seconde
+                application distante respectivement exécutée sur un premier et sur un second serveur d'application
+                distante de l'au moins un serveur d'application distante sont émulées sur un même client (300), le
+                client étant conçu pour exécuter au moins une application d'émulation (340) qui émule les première et
+                seconde applications
+                <!--  EPO <DP n="58">  -->
+                distantes sur ce client,
+                <br/>
+                et appartient à un même contexte,
+                <br/>
+                dans lequel l'étape (b) comprend la réception en provenance du premier serveur d'application distante de
+                premières informations qui identifient de manière unique un aspect du client sur lequel la première
+                application distante est émulée, et la réception en provenance du second serveur d'application distante
+                de secondes informations qui identifient de manière unique un aspect du client sur lequel la seconde
+                application distante est émulée ; et dans lequel l'étape (c) comprend la détermination en ce que les
+                première et seconde applications distantes sont émulées sur le même client et peuvent appartenir au même
+                contexte en examinant les premières informations et les secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0004" num="0004">
+            <claim-text>Procédé selon la revendication 3, dans lequel chaque client qui émule une application distante
+                s'exécutant sur l'au moins un serveur d'application distante (600) est conçu pour s'enregistrer sur le
+                serveur d'application distante en utilisant des informations d'établissement de connexion, dans
+                lesquelles les premières informations comprennent les informations d'établissement de connexion pour le
+                client sur lequel la première application distante est émulée et les secondes informations comprennent
+                les informations d'établissement de connexion pour le client sur lequel la seconde application distante
+                est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0005" num="0005">
+            <claim-text>Procédé selon la revendication 4, dans lequel les informations d'établissement de connexion
+                comprennent un identifiant d'utilisateur.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0006" num="0006">
+            <claim-text>
+                Procédé selon la revendication 3, comprenant en outre une étape (d) consistant à recevoir en provenance
+                d'un même client des informations qui
+                <!--  EPO <DP n="59">  -->
+                identifient de manière unique l'aspect du client identifié par les premières informations dans l'étape
+                <claim-text>(a) et des informations qui identifient de manière unique l'aspect du client identifié par
+                    les secondes informations dans l'étape (b) ; et
+                </claim-text>
+                dans lequel l'étape (c) comprend une étape consistant à déterminer que les première et seconde
+                applications distantes sont émulées sur le même client lorsque les informations reçues dans l'étape (d)
+                correspondent aux premières et secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0007" num="0007">
+            <claim-text>Procédé selon la revendication 3, dans lequel l'étape (c) comprend la détermination en ce que
+                les première et seconde applications distantes sont émulées sur le même client et peuvent appartenir au
+                même contexte lorsque les premières informations correspondent aux secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0008" num="0008">
+            <claim-text>Procédé selon la revendication 7, dans lequel les premières informations comprennent une adresse
+                du client sur lequel la première application distante est émulée et les secondes informations
+                comprennent une adresse du client sur lequel la seconde application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0009" num="0009">
+            <claim-text>Procédé selon la revendication 7, dans lequel les premières informations comprennent une adresse
+                de protocole Internet (IP) du client sur lequel la première application distante est émulée et les
+                secondes informations comprennent une adresse IP du client sur lequel la seconde application distante
+                est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0010" num="0010">
+            <claim-text>
+                Procédé selon la revendication 4, dans lequel les premières informations comprennent en outre une
+                adresse du client sur lequel la première application distante est émulée et les secondes informations
+                comprennent en outre une adresse du client sur lequel la seconde application distante est émulée.
+                <!--  EPO <DP n="60">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0011" num="0011">
+            <claim-text>Procédé selon la revendication 5, dans lequel les premières informations comprennent en outre
+                une adresse de protocole Internet (IP) du client sur lequel la première application distante est émulée
+                et les secondes informations comprennent une adresse IP du client sur lequel la seconde application
+                distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0012" num="0012">
+            <claim-text>
+                Au moins un support lisible par ordinateur codé avec des instructions pour effectuer un procédé, le
+                procédé devant être utilisé dans un système comprenant au moins un client (300), un serveur de gestion
+                de contexte (400), au moins un serveur d'application distante (600) et au moins un réseau (700) conçu
+                pour relier ensemble l'au moins un client, le serveur de gestion de contexte et l'au moins un serveur
+                d'application distante, chaque au moins un serveur d'application distante (600) étant conçu pour
+                exécuter au moins une application distante, l'au moins un client étant conçu pour exécuter au moins une
+                application client qui peut partager un contexte avec l'au moins une application distante, l'au moins un
+                client étant conçu pour exécuter en outre une application d'émulation (340) qui émule l'au moins une
+                application distante sur l'au moins un client, le serveur de gestion de contexte étant conçu pour
+                exécuter un service de gestion de contexte pour gérer le contexte, le contexte se rapportant aux soins
+                de santé :
+                <claim-text>le procédé servant à vérifier que la première application distante particulière est émulée
+                    sur un premier client et peut appartenir au même contexte ;
+                </claim-text>
+                <claim-text>
+                    le procédé comprenant les étapes consistant à :
+                    <claim-text>
+                        (a) recevoir en provenance du premier client (300) des premières informations qui identifient de
+                        manière unique un aspect du premier client ;
+                        <!--  EPO <DP n="61">  -->
+                    </claim-text>
+                    <claim-text>(b) recevoir en provenance d'un premier serveur d'application distante (600) de l'au
+                        moins un serveur distant des secondes informations qui identifient de manière unique l'aspect
+                        d'un client distant sur lequel la première application distante est émulée ; et
+                    </claim-text>
+                    <claim-text>
+                        (c) déterminer que la première application distante est émulée sur le premier client et
+                        appartient au même contexte lorsque les premières informations correspondent aux secondes
+                        informations, et
+                        <b>caractérisé en ce que</b>
+                    </claim-text>
+                </claim-text>
+                <claim-text>l'étape (a) comprend une étape consistant à recevoir en provenance du premier client (300)
+                    des premières informations qui comprennent une adresse de code d'accès au support matériel (MAC)
+                    pour le premier client ;
+                </claim-text>
+                <claim-text>dans lequel l'étape (b) comprend une étape consistant à recevoir en provenance du premier
+                    serveur d'application distante (600) une adresse MAC de matériel pour le client distant sur lequel
+                    la première application distante est émulée ;
+                </claim-text>
+                <claim-text>et dans lequel l'étape (c) comprend une étape consistant à déterminer que la première
+                    application distante est émulée sur le premier client et peut appartenir au même contexte lorsque
+                    l'adresse MAC de matériel dans les premières informations correspond à l'adresse MAC de matériel
+                    dans les secondes informations.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0013" num="0013">
+            <claim-text>L'au moins un support lisible par ordinateur selon la revendication 12, dans lequel l'étape (b)
+                comprend une étape consistant à recevoir, au niveau du premier serveur d'application distante (600),
+                l'adresse MAC de matériel transmise en provenance du client distant sur lequel la première application
+                distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0014" num="0014">
+            <claim-text>
+                L'au moins un support lisible par ordinateur
+                <!--  EPO <DP n="62">  -->
+                selon la revendication 12 servant en outre à vérifier qu'une première et qu'une seconde application
+                distante respectivement exécutée sur un premier et sur un second serveur d'application distante de l'au
+                moins un serveur d'application distante sont émulées sur un même client, le client étant conçu pour
+                exécuter au moins une application d'émulation qui émule les première et seconde applications distantes
+                sur ce client, et appartient à un même contexte ;
+                <br/>
+                dans lequel l'étape (b) comprend la réception en provenance du premier serveur d'application distante de
+                premières informations qui identifient de manière unique un aspect du client sur lequel la première
+                application distante est émulée, et la réception en provenance du second serveur d'application distante
+                de secondes informations qui identifient de manière unique un aspect du client sur lequel la seconde
+                application distante est émulée ; et dans lequel l'étape (c) comprend la détermination que les première
+                et seconde applications distantes sont émulées sur le même client et peuvent appartenir au même contexte
+                en examinant les premières informations et les secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0015" num="0015">
+            <claim-text>
+                L'au moins un support lisible par ordinateur selon la revendication 14, dans lequel chaque client qui
+                émule une application distante s'exécutant sur l'au moins un serveur d'application distante (600)
+                s'enregistre sur le serveur d'application distante en utilisant des informations d'établissement de
+                connexion, dans lesquelles les premières informations comprennent les informations d'établissement de
+                connexion pour le client sur lequel la première application distante est émulée et les secondes
+                informations comprennent les informations d'établissement de connexion pour le client sur lequel la
+                seconde application distante est émulée.
+                <!--  EPO <DP n="63">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0016" num="0016">
+            <claim-text>L'au moins un support lisible par ordinateur selon la revendication 15, dans lequel les
+                informations d'établissement de connexion comprennent un identifiant d'utilisateur.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0017" num="0017">
+            <claim-text>
+                L'au moins un support lisible par ordinateur selon la revendication 15, dans lequel le procédé comprend
+                en outre une étape (d) consistant à recevoir en provenance d'un même client des informations qui
+                identifient de manière unique l'aspect du client identifié par les premières informations dans l'étape
+                (a) et des informations qui identifient de manière unique l'aspect du client identifié par les secondes
+                informations dans l'étape (b) ; et
+                <br/>
+                dans lequel l'étape (c) comprend une étape consistant à déterminer que les première et seconde
+                applications distantes sont émulées sur le même client lorsque les informations reçues dans l'étape (d)
+                correspondent aux premières et secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0018" num="0018">
+            <claim-text>L'au moins un support lisible par ordinateur selon la revendication 14, dans lequel l'étape (c)
+                comprend la détermination en ce que les première et seconde applications distantes sont émulées sur le
+                même client et peuvent appartenir au même contexte lorsque les premières informations correspondent aux
+                secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0019" num="0019">
+            <claim-text>L'au moins un support lisible par ordinateur selon la revendication 18, dans lequel les
+                premières informations comprennent une adresse du client sur lequel la première application distante est
+                émulée et les secondes informations comprennent une adresse du client sur lequel la seconde application
+                distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0020" num="0020">
+            <claim-text>
+                L'au moins un support lisible par ordinateur selon la revendication 18, dans lequel les premières
+                informations comprennent une adresse de protocole
+                <!--  EPO <DP n="64">  -->
+                Internet (IP) du client sur lequel la première application distante est émulée et les secondes
+                informations comprennent une adresse IP du client sur lequel la seconde application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0021" num="0021">
+            <claim-text>L'au moins un support lisible par ordinateur selon la revendication 15, dans lequel les
+                premières informations comprennent en outre une adresse du client sur lequel la première application
+                distante est émulée et les secondes informations comprennent en outre une adresse du client sur lequel
+                la seconde application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0022" num="0022">
+            <claim-text>L'au moins un support lisible par ordinateur selon la revendication 16, dans lequel les
+                premières informations comprennent en outre une adresse de protocole Internet (IP) du client sur lequel
+                la première application distante est émulée et les secondes informations comprennent une adresse IP du
+                client sur lequel la seconde application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0023" num="0023">
+            <claim-text>
+                Serveur de gestion de contexte (400) à utiliser dans un système comprenant au moins un client (300), le
+                serveur de gestion de contexte (400), au moins un serveur d'application distante (600) et au moins un
+                réseau (700) conçu pour relier ensemble l'au moins un client, le serveur de gestion de contexte et l'au
+                moins un serveur d'application distante, chaque au moins un serveur d'application distante (600) étant
+                conçu pour exécuter au moins une application distante (615), l'au moins un client étant conçu pour
+                exécuter au moins une application client qui peut partager un contexte avec l'au moins une application
+                distante, l'au moins un client étant conçu pour exécuter en outre une application d'émulation (340) qui
+                émule l'au moins une application distante sur l'au moins un client ;
+                <br/>
+                le serveur de gestion de contexte (400)
+                <!--  EPO <DP n="65">  -->
+                comprenant :
+                <claim-text>au moins un processeur conçu pour exécuter un service de gestion de contexte (410) pour
+                    gérer le contexte, le contexte se rapportant aux soins de santé ; et
+                </claim-text>
+                <claim-text>au moins une unité de commande conçue pour :</claim-text>
+                <claim-text>recevoir en provenance d'un premier client des premières informations qui identifient de
+                    manière unique un aspect du premier client ;
+                </claim-text>
+                <claim-text>recevoir en provenance d'un premier serveur d'application distante de l'au moins un serveur
+                    d'application distante des secondes informations qui identifient de manière unique l'aspect d'un
+                    client distant sur lequel la première application distante est émulée ; et
+                </claim-text>
+                <claim-text>
+                    déterminer que la première application distante est émulée sur le premier client et appartient au
+                    même contexte lorsque les premières informations correspondent aux secondes informations, et
+                    <b>caractérisé en ce que</b>
+                </claim-text>
+                <claim-text>l'unité de commande est conçue pour recevoir en provenance du premier client des premières
+                    informations qui comprennent une adresse de code d'accès au support matériel (MAC) pour le premier
+                    client, recevoir en provenance du premier serveur d'application distante une adresse MAC de matériel
+                    pour le client distant sur lequel la première application distante est émulée, et déterminer que la
+                    première application distante est émulée sur le premier client et peut appartenir au même contexte
+                    lorsque l'adresse MAC de matériel dans les premières informations correspond à l'adresse MAC de
+                    matériel dans les secondes informations.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0024" num="0024">
+            <claim-text>
+                Serveur de gestion de contexte selon la revendication 23, dans lequel l'au moins un serveur
+                d'application distante comprend des premier et second
+                <!--  EPO <DP n="66">  -->
+                serveurs d'application distante respectivement conçus pour exécuter des première et seconde applications
+                distantes qui sont émulées sur un même client, et le client est conçu pour exécuter au moins une
+                application d'émulation qui émule les première et seconde applications distantes sur ce client, dans
+                lequel :
+                <claim-text>l'au moins une unité de commande est conçue pour :</claim-text>
+                <claim-text>recevoir en provenance du premier serveur d'application distante des premières informations
+                    qui identifient de manière unique un aspect du client sur lequel la première application distante
+                    est émulée ;
+                </claim-text>
+                <claim-text>recevoir en provenance du second serveur d'application distante des secondes informations
+                    qui identifient de manière unique un aspect du client sur lequel la seconde application distante est
+                    émulée ; et
+                </claim-text>
+                <claim-text>déterminer que les première et seconde applications distantes sont émulées sur le même
+                    client et peuvent appartenir au même contexte en examinant les premières informations et les
+                    secondes informations.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0025" num="0025">
+            <claim-text>Serveur de gestion de contexte selon la revendication 24, dans lequel chaque client qui émule
+                une application distante s'exécutant sur l'au moins un serveur d'application distante est conçu pour
+                s'enregistrer sur le serveur d'application distante en utilisant des informations d'établissement de
+                connexion, dans lesquelles les premières informations comprennent les informations d'établissement de
+                connexion pour le client sur lequel la première application distante est émulée et les secondes
+                informations comprennent les informations d'établissement de connexion pour le client sur lequel la
+                seconde application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0026" num="0026">
+            <claim-text>
+                Serveur de gestion de contexte selon la revendication 25, dans lequel les informations d'établissement
+                de connexion comprennent un identifiant
+                <!--  EPO <DP n="67">  -->
+                d'utilisateur.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0027" num="0027">
+            <claim-text>Serveur de gestion de contexte selon la revendication 24, dans lequel l'unité de commande est
+                conçue pour recevoir en outre en provenance d'un même client des informations qui identifient de manière
+                unique l'aspect du client identifié par les premières informations, des informations qui identifient de
+                manière unique l'aspect du client identifié par les secondes informations, et détermine que les première
+                et seconde applications distantes sont émulées sur le même client lorsque les informations reçues
+                correspondent aux premières et secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0028" num="0028">
+            <claim-text>Serveur de gestion de contexte selon la revendication 24, dans lequel l'unité de commande est
+                conçue pour déterminer que les première et seconde applications distantes sont émulées sur le même
+                client et peuvent appartenir au même contexte lorsque les premières informations correspondent aux
+                secondes informations.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0029" num="0029">
+            <claim-text>Serveur de gestion de contexte selon la revendication 28, dans lequel les premières informations
+                comprennent une adresse du client sur lequel la première application distante est émulée et les secondes
+                informations comprennent une adresse du client sur lequel la seconde application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0030" num="0030">
+            <claim-text>Serveur de gestion de contexte selon la revendication 28, dans lequel les premières informations
+                comprennent une adresse de protocole Internet (IP) du client sur lequel la première application distante
+                est émulée et les secondes informations comprennent une adresse IP du client sur lequel la seconde
+                application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0031" num="0031">
+            <claim-text>
+                Serveur de gestion de contexte selon la revendication 25, dans lequel les premières
+                <!--  EPO <DP n="68">  -->
+                informations comprennent en outre une adresse du client sur lequel la première application distante est
+                émulée et les secondes informations comprennent en outre une adresse du client sur lequel la seconde
+                application distante est émulée.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0032" num="0032">
+            <claim-text>Serveur de gestion de contexte selon la revendication 26, dans lequel les premières informations
+                comprennent en outre une adresse de protocole Internet (IP) du client sur lequel la première application
+                distante est émulée et les secondes informations comprennent une adresse IP du client sur lequel la
+                seconde application distante est émulée.
+            </claim-text>
+        </claim>
+    </claims>
+    <!--  EPO <DP n="69">  -->
+    <drawings id="draw" lang="en">
+        <figure id="f0001" num="1">
+            <img id="if0001" file="imgf0001.tif" wi="152" he="191" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="70">  -->
+        <figure id="f0002" num="2">
+            <img id="if0002" file="imgf0002.tif" wi="165" he="220" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="71">  -->
+        <figure id="f0003" num="3">
+            <img id="if0003" file="imgf0003.tif" wi="165" he="210" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="72">  -->
+        <figure id="f0004" num="4,5">
+            <img id="if0004" file="imgf0004.tif" wi="162" he="233" img-content="drawing" img-format="tif"/>
+        </figure>
+    </drawings>
+    <ep-reference-list id="ref-list">
+        <heading id="ref-h0001">
+            <b>REFERENCES CITED IN THE DESCRIPTION</b>
+        </heading>
+        <p id="ref-p0001" num="">
+            <i>This list of references cited by the applicant is for the reader's convenience only. It does not form
+                part of the European patent document. Even though great care has been taken in compiling the references,
+                errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.
+            </i>
+        </p>
+        <heading id="ref-h0002">
+            <b>Patent documents cited in the description</b>
+        </heading>
+        <p id="ref-p0002" num="">
+            <ul id="ref-ul0001" list-style="bullet">
+                <li>
+                    <patcit id="ref-pcit0001" dnum="US545396A" dnum-type="L">
+                        <document-id>
+                            <country>US</country>
+                            <doc-number>545396</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0001">[0004]</crossref>
+                </li>
+                <li>
+                    <patcit id="ref-pcit0002" dnum="WO0244858A2">
+                        <document-id>
+                            <country>WO</country>
+                            <doc-number>0244858</doc-number>
+                            <kind>A2</kind>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0002">[0016]</crossref>
+                </li>
+                <li>
+                    <patcit id="ref-pcit0003" dnum="US583301A" dnum-type="L">
+                        <document-id>
+                            <country>US</country>
+                            <doc-number>583301</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0003">[0037]</crossref>
+                </li>
+            </ul>
+        </p>
+    </ep-reference-list>
+</ep-patent-document>

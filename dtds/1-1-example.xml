@@ -1,0 +1,1285 @@
+<ep-patent-document id="EP78100007A1" file="EP78100007NWA1.xml" lang="de" country="EP" doc-number="0000002" kind="A1"
+                    date-publ="19781220" status="n" dtd-version="ep-patent-document-v1-1">
+    <SDOBI lang="de">
+        <B000>
+            <eptags>
+                <B001EP>..BECHDE....FRGB........NLSE......................</B001EP>
+                <B005EP>C</B005EP>
+            </eptags>
+        </B000>
+        <B100>
+            <B110>0000002</B110>
+            <B120>
+                <B121>EUROPÄISCHE PATENTANMELDUNG</B121>
+            </B120>
+            <B130>A1</B130>
+            <B140>
+                <date>19781220</date>
+            </B140>
+            <B190>EP</B190>
+        </B100>
+        <B200>
+            <B210>78100007.0</B210>
+            <B220>
+                <date>19780601</date>
+            </B220>
+            <B240/>
+            <B250>de</B250>
+            <B251EP>de</B251EP>
+            <B260>de</B260>
+        </B200>
+        <B300>
+            <B310>2724675</B310>
+            <B320>
+                <date>19770601</date>
+            </B320>
+            <B330>
+                <ctry>DE</ctry>
+            </B330>
+        </B300>
+        <B400>
+            <B405>
+                <date>19781220</date>
+                <bnum>197801</bnum>
+            </B405>
+            <B430>
+                <date>19781220</date>
+                <bnum>197801</bnum>
+            </B430>
+        </B400>
+        <B500>
+            <B510>
+                <B516>2</B516>
+                <B511>2C 07D 307/12 A</B511>
+                <B512>2C 07D 407/12 B</B512>
+                <B512>2C 07D 307/42 B</B512>
+                <B513>2A 01N 43/08 -</B513>
+                <B517EP>// A01N43/08</B517EP>
+            </B510>
+            <B540>
+                <B541>de</B541>
+                <B542>Tetrahydrofuran-Derivate, Verfahren zu ihrer Herstellung sowie ihre Verwendung als Herbizide.
+                </B542>
+                <B541>en</B541>
+                <B542>Tetrahydrofurane derivatives, processes for their preparation and their use as herbicides</B542>
+                <B541>fr</B541>
+                <B542>Dérivés du tétrahydrofuranne, leurs procédés de préparation et leur utilisation comme herbicides
+                </B542>
+            </B540>
+            <B560/>
+        </B500>
+        <B700>
+            <B710>
+                <B711>
+                    <snm>BAYER AG</snm>
+                    <iid>00200140</iid>
+                    <irf>Le A 18130-EP</irf>
+                    <adr>
+                        <str></str>
+                        <city>51368 Leverkusen</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B711>
+            </B710>
+            <B720>
+                <B721>
+                    <snm>Schmidt, Thomas, Dr.</snm>
+                    <adr>
+                        <str>Wormser strasse 23</str>
+                        <city>D-5600 Wuppertal 1</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>Draber, Wilfried, Dr.</snm>
+                    <adr>
+                        <str>In den Birken 81</str>
+                        <city>D-5600 Wuppertal 1</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>Eue, Ludwig, Dr.</snm>
+                    <adr>
+                        <str>Paul-Klee-Strasse 36</str>
+                        <city>D- 090 Leverkusen 1</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>Schmidt, Robert Rudolf, Dr.</snm>
+                    <adr>
+                        <str>Hahnenweg 5</str>
+                        <city>D-5000 Köln 80</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B721>
+            </B720>
+        </B700>
+        <B800>
+            <B840>
+                <ctry>BE</ctry>
+                <ctry>CH</ctry>
+                <ctry>DE</ctry>
+                <ctry>FR</ctry>
+                <ctry>GB</ctry>
+                <ctry>NL</ctry>
+                <ctry>SE</ctry>
+            </B840>
+        </B800>
+    </SDOBI>
+    <!--  EPO <DP n="1">  -->
+    <abstract id="abst" lang="de">
+        <p id="pa01" num="0001">
+            Die vorliegende Erfindung betrifft neue Tetrahydrofuran-Derivate der allg. Formel
+            <chemistry id="chema01" num="0001">
+                <img id="ia01" file="imga0001.tif" wi="59" he="19" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+            (mit den für die Symbole R' bis R und Y in der Beschreibung angegebenen Bedeutungen), Verfahren zu deren
+            Herstellung und deren Verwendung als Herbizide.
+        </p>
+        <p id="pa02" num="0002">Insbesondere eignen sich die neuen Wirkstoffe zur selektiven Unkrautbekämpfung in
+            verschiedenen Kulturen, wie z.B.Rüben, Sojabohnen, Bohnen, Baumwolle, Raps, Erdnüsse, Gemüse, Mais und Reis.
+        </p>
+    </abstract>
+    <!--  EPO <DP n="2">  -->
+    <description id="desc" lang="de">
+        <p id="p0001" num="0001">Die vorliegende Erfindung betrifft neue Tetrahydrofuran-Derivate, mehrere Verfahren zu
+            ihrer Herstellung sowie ihre Verwendung als Herbizide, insbesondere als selektive Herbizide.
+        </p>
+        <p id="p0002" num="0002">Es ist bereits bekannt geworden, daß Chloracetanilide, wie beispielsweise
+            2-Aethyl-6-methyl-N-(l'-methyl-2'-methoxyäthyl)-chloracetanilid, als Herbizide, insbesondere zur Bekämpfung
+            von grasartigen Unkräutern, verwendet werden können (vergleiche DT-OS 2 328 340). Diese Verbindungen sind in
+            ihrer Selektivität jedoch nicht immer befriedigend.
+        </p>
+        <!--  EPO <DP n="3">  -->
+        <p id="p0003" num="0003">
+            Es wurden neue Tetrahydrofuran-Derivate der Formel
+            <chemistry id="chem0001" num="0001">
+                <img id="ib0001" file="imgb0001.tif" wi="103" he="34" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+            in welcher
+            <ul id="ul0001" list-style="none">
+                <li>
+                    R
+                    <sup>1</sup>
+                    bis R
+                    <sup>6</sup>
+                    gleich oder verschieden sind und für Wasserstoff, Alkyl, Halogenalkyl, Alkoxyalkyl, gegebenenfalls
+                    substituiertes Phenyl oder gegebenenfalls substituiertes Benzyloxyalkyl stehen,
+                </li>
+                <li>
+                    R
+                    <sup>5</sup>
+                    und R
+                    <sup>6</sup>
+                    auch gemeinsam für einen gesättigten carbocyclischen Ring stehen,
+                </li>
+                <li>
+                    R
+                    <sup>?</sup>
+                    für Wasserstoff, Alkyl, Alkenyl, Alkinyl, Cycloalkyl, Alkoxyalkyl, gegebenenfalls substituiertes
+                    Phenyl oder gegebenenfalls substituiertes Benzyloxyalkyl steht,
+                </li>
+                <li>
+                    R
+                    <sup>8</sup>
+                    und
+                    <sub>R</sub>
+                    9 gleich oder verschieden sind und für Wasserstoff, Alkyl, Alkenyl, Alkinyl, Cycloalkyl, Alkoxy,
+                    gegebenenfalls substituiertes Phenyl oder gegebenenfalls substituiertes Benzyl und Benzyloxy stehen,
+                </li>
+                <li>
+                    R
+                    <sup>10</sup>
+                    für Wasserstoff, Alkyl, Alkenyl, Alkinyl, Halogenalkyl oder gegebenenfalls substituiertes Phenyl
+                    steht und
+                </li>
+                <li>
+                    Y für gegebenenfalls substituiertes Aryl steht, mit der Maßgabe, daß, falls Y für Phenyl steht,
+                    dieses substituiert sein muß, wenn R' bis R'
+                    <sup>0</sup>
+                    Wasserstoff bedeuten,
+                    <!--  EPO <DP n="4">  -->
+                    aufgefunden.
+                </li>
+            </ul>
+        </p>
+        <p id="p0004" num="0004">Diese neuen Tetrahydrofuran-Derivate weisen starke herbizide, insbesondere
+            selektiv-hertizide Eigenschaften auf.
+        </p>
+        <p id="p0005" num="0005">
+            Weiterhin wurde gefunden, daß man die Tetrahydrofuran-Derivate der Formel (I) erhält, wenn man
+            <ul id="ul0002" list-style="none">
+                <li>
+                    (a) Alkoholate von 2-Hydroxymethyl-tetrahydrofuran-Derivaten der Formel
+                    <chemistry id="chem0002" num="0002">
+                        <img id="ib0002" file="imgb0002.tif" wi="98" he="31" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welcher
+                    <ul id="ul0003" list-style="none">
+                        <li>
+                            R
+                            <sup>1</sup>
+                            bis R
+                            <sup>9</sup>
+                            die oben angegebene Bedeutung haben und
+                        </li>
+                        <li>M für ein Alkali- oder Erdalkalimetall steht,</li>
+                        <li>
+                            mit einer Verbindung der Formel
+                            <chemistry id="chem0003" num="0003">
+                                <img id="ib0003" file="imgb0003.tif" wi="104" he="16" img-content="chem"
+                                     img-format="tif" inline="no"/>
+                            </chemistry>
+                        </li>
+                        <li>in welcher</li>
+                        <li>
+                            R
+                            <sup>10</sup>
+                            und Y die oben angegebene Bedeutung haben und
+                        </li>
+                        <li>Z für Halogen, insbesondere Chlor oder Brom, den Mesylat- oder Tosylat-Rest steht,</li>
+                        <li>gegebenenfalls in Gegenwart eines Verdünnungsmittels umsetzt, oder wenn man</li>
+                        <!--  EPO <DP n="5">  -->
+                    </ul>
+                </li>
+                <li>
+                    (b) Diole der Formel
+                    <chemistry id="chem0004" num="0004">
+                        <img id="ib0004" file="imgb0004.tif" wi="120" he="24" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welcher
+                    <ul id="ul0004" list-style="none">
+                        <li>
+                            R
+                            <sup>1</sup>
+                            bi s R
+                            <sup>10</sup>
+                        </li>
+                        <li>und Y die oben angegebene Bedeutung haben,</li>
+                        <li>in Gegenwart eines sauren Katalysators erhitzt und gegebenenfalls in Gegenwart eines
+                            Verdünnungsmittels erhitzt.
+                        </li>
+                        <li>
+                            Verbindungen der Formel (I), in denen entweder R' und R
+                            <sup>7</sup>
+                            oder R
+                            <sup>1</sup>
+                            und R
+                            <sup>4</sup>
+                            oder R
+                            <sup>4</sup>
+                            und R
+                            <sup>5</sup>
+                            für Wasserstoff stehen, können auch erhalten werden, wenn man
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    (c) Dihydrofuran-Derivate der Formeln
+                    <chemistry id="chem0005" num="0005">
+                        <img id="ib0005" file="imgb0005.tif" wi="104" he="30" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    <chemistry id="chem0006" num="0006">
+                        <img id="ib0006" file="imgb0006.tif" wi="104" he="23" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    und/oder
+                    <chemistry id="chem0007" num="0007">
+                        <img id="ib0007" file="imgb0007.tif" wi="102" he="27" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    <!--  EPO <DP n="6">  -->
+                    in welchen
+                    <ul id="ul0005" list-style="none">
+                        <li>
+                            R
+                            <sup>1</sup>
+                            bis R
+                            <sup>10</sup>
+                        </li>
+                        <li>und Y die oben angegebene Bedeutung haben,</li>
+                        <li>in Gegenwart eines Katalysators und gegebenenfalls in Gegenwart eines Verdünnungsmittels mit
+                            Wasserstoff hydriert.
+                        </li>
+                        <li>
+                            Verbindungen der Formel (I), in denen R
+                            <sup>1</sup>
+                            , R
+                            <sup>4</sup>
+                            , R
+                            <sup>5</sup>
+                            und R
+                            <sup>7</sup>
+                            für Wasserstoff stehen, können auch erhalten werden, wenn man
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    (d) Furan-Derivate der Formel
+                    <chemistry id="chem0008" num="0008">
+                        <img id="ib0008" file="imgb0008.tif" wi="97" he="27" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welcher
+                    <ul id="ul0006" list-style="none">
+                        <li>
+                            R
+                            <sup>2</sup>
+                            , R
+                            <sup>3</sup>
+                            , R
+                            <sup>6</sup>
+                            , R
+                            <sup>8</sup>
+                            ,
+                        </li>
+                        <li>
+                            R
+                            <sup>9</sup>
+                            , R
+                            <sup>10</sup>
+                            und Y die oben angegebene Bedeutung haben,
+                        </li>
+                        <li>in Gegenwart eines Katalysators und gegebenenfalls in Gegenwart eines Verdünnungsmittels mit
+                            Wasserstoff hydriert.
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </p>
+        <p id="p0006" num="0006">Ueberraschenderweise sind die erfindungsgemäßen Tetrahydrofuran-Derivate den bekannten
+            Gräserbekämpfungsmitteln, wie beispielsweise 2-Aethyl-6-methyl-N-(1'-methyl-2'-methoxyäthyl)-chloracet-
+            anilid, in der herbiziden Wirkung überlegen und zeigen außerdem eine deutlich bessere Selektivität in
+            wichtigen Kulturpflanzen. Die erfindungsgemäßen Wirkstoffe stellen somit eine wesentliche Bereicherung der
+            herbiziden Mittel, insbesondere der Gräserherbizide, dar.
+        </p>
+        <!--  EPO <DP n="7">  -->
+        <p id="p0007" num="0007">
+            Verwendet man das Natriumalkoholat des Tetrahydrofurfurylalkohols und 2-Fluorbenzylbromid als
+            Ausgangsstoffe, so kann der Reaktionsablauf durch das folgende Formelschema wiedergegeben werden
+            (Verfahrensvariante a):
+            <chemistry id="chem0009" num="0009">
+                <img id="ib0009" file="imgb0009.tif" wi="155" he="25" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+        </p>
+        <p id="p0008" num="0008">
+            Verwendet man 1-(2-Fluorbenzyloxy)-pentan-2,5-diol als Ausgangsstoff und p-Toluolsulfonsäure als
+            Katalysator, so kann der Reaktionsablauf durch das folgende Formelschema wiedergegeben werden
+            (Verfahrensvariante b):
+            <chemistry id="chem0010" num="0010">
+                <img id="ib0010" file="imgb0010.tif" wi="156" he="22" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+        </p>
+        <p id="p0009" num="0009">
+            Verwendet man 2,3-Dihydro-2-(2-Fluorbenzyloxymethyl)-furan und Wasserstoff als Ausgangsstoffe, so kann der
+            Reaktionsablauf durch das folgende Formelschema wiedergegeben werden (Verfahrens - variante c):
+            <chemistry id="chem0011" num="0011">
+                <img id="ib0011" file="imgb0011.tif" wi="157" he="22" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+        </p>
+        <p id="p0010" num="0010">
+            Verwendet man 2-[1-(2-Chlorbenzyloxy)-prop-1-yl]-furan und Wasserstoff als Ausgangsstoffe, so kann der
+            Reaktionsablauf durch das folgende Formelschema wiedergegeben werden (Verfahrensvariante d):
+            <chemistry id="chem0012" num="0012">
+                <img id="ib0012" file="imgb0012.tif" wi="158" he="23" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+        </p>
+        <!--  EPO <DP n="8">  -->
+        <p id="p0011" num="0011">
+            Die für die Verfahrensvariante(a)als Ausgangsstoffe zu verwendenden Alkoholate von
+            2-Hydroxymethyl-tetrahydrofuran-Derivaten sind durch die Formel (II) allgemein definiert. In dieser Formel
+            sind R1 bis R
+            <sup>6</sup>
+            gleich oder verschieden und stehen vorzugsweise für Wasserstoff, geradkettiges oder verzweigtes Alkyl mit 1
+            bis 6 Kohlenstoffatomen, Halogenalkyl mit bis zu 2 Kohlenstoff- und bis zu drei gleichen oder verschiedenen
+            Halogenatomen, wobei als Halogene insbesondere Fluor, Chlor und Brom stehen, Alkoxyalkyl mit 1 oder 2
+            Kohlenstoffatomen in jedem Alkylteil, sowie für gegebenenfalls substituiertes Phenyl und Benzyloxyalkyl mit
+            1 bis 2 Kohelenstoffatomen im Alkylteil, wobei als Substituenten vorzugsweise infrage kommen: Halogen, Alkyl
+            und Alkoxy mit jeweils 1 oder 2 Kohlenstoffatomen sowie Halogenalkyl mit bis zu 2 Kohlenstoff- und bis zu
+            drei gleichen oder verschiedenen Halogenatomen, wie insbesondere Fluor und Chlor. R' und R
+            <sup>6</sup>
+            stehen außerdem vorzugsweise gemeinsam für einen gesättigten carbocyclischen Ring mit insgesamt 3 bis 6
+            Kohlenstoffatomen.
+        </p>
+        <p id="p0012" num="0012">
+            R
+            <sup>7</sup>
+            steht vorzugsweise für Wasserstoff, geradkettiges oder verzweigtes Alkyl mit 1 bis 6 Kohlenstoffatomen,
+            Cycloalkyl mit 3 bis 6 Kohlenstoffatomen, Alkenyl und Alkinyl mit jeweils 2 bis 4 Kohlenstoffatomen,
+            Alkoxyalkyl mit 1 oder 2 Kohlenstoffatomen in jedem Alkylteil sowie für gegebenenfalls substituiertes Phenyl
+            und Benzyloxyalkyl mit 1 bis 2 Kohlenstoffatomen im Alkylteil, wobei als Substituenten vorzugsweise die bei
+            R' bis R
+            <sup>6</sup>
+            bereits vorzugsweise genannten infrage kommen.
+        </p>
+        <p id="p0013" num="0013">
+            R
+            <sup>8</sup>
+            und R
+            <sup>9</sup>
+            sind gleich oder verschieden und stehen vorzugsweise für Wasserstoff, geradkettiges oder verzweigtes Alkyl
+            mit 1 bis 6 Kohlenstoffatomen, Cycloalkyl mit 3 bis 6 Kohlenstoffatomen, Alkenyl und Alkinyl mit jeweils 2
+            bis 4 Kohlenstoffatomen, Alkoxy mit 1 bis 4 Kohlenstoffatomen sowie für gegebenenfalls substituiertes
+            Phenyl, Benzyl oder Benzyloxy, wobei als Substituenten vorzugsweise die bei R1 bis R
+            <sup>6</sup>
+            bereits vorzugsweise genannten infrage kommen.
+        </p>
+        <p id="p0014" num="0014">
+            M steht vorzugsweise für die Alkalimetalle Natrium und Kalium
+            <!--  EPO <DP n="9">  -->
+            sowie für 1 Äquivalent der Erdalkalimetalle Magnesium und Calcium.
+        </p>
+        <p id="p0015" num="0015">Die Alkoholate der Formel (II) sind bekannt oder lassen sich nach bekannten Methoden
+            herstellen. Man erhält sie z.B., indem man die entsprechenden 2-Hydroxymethyl-tetrahydrofuran-Derivate mit
+            geeigneten starken Basen, wie beispielsweise Alkali- bzw. Erdalkaliamiden, -hydriden oder -hydroxiden, in
+            einem inerten Lösungsmittel umsetzt. Die genannten 2-Hydroxymethyl-tetrahydrofuran-Derivate sind ebenfalls
+            bekannt oder lassen sich nach bekannten Methoden herstellen (vergleiche u.a. H.Kröper, in Houben-Weyl,
+            'Methoden der organischen Chemie', Band 6/3, S.519ff (1965) sowie die dort zitierte Literatur ).
+        </p>
+        <p id="p0016" num="0016">
+            Als Beispiele für die 2-Hydroxymethyl-tetrahydrofuran-Derivate, die den erfindungsgemäß als Ausgangsstoffe
+            zu verwendenden Alkoholaten der Formel (II) zugrunde liegen, seien genannt:
+            <ul id="ul0007" list-style="none">
+                <li>2-Hydroxymethyl-tetrahydrofuran</li>
+                <li>2-(1-Hydroxyprop-1-yl)-tetrahydrofuran</li>
+                <li>2-(1-Hydroxyäthyl)-tetrahydrofuran</li>
+                <li>2-(3-Hydroxypent-3-yl)-terahydrofuran</li>
+                <li>2-(Hydroxy-phenyl-methyl)-tetrahydrofuran</li>
+                <li>2-(2-Hydroxyprop-2-yl)-tetrahydrofuran</li>
+            </ul>
+        </p>
+        <p id="p0017" num="0017">
+            Die weiterhin für die Verfahrensvariante(a) als Ausgangsstoffe zu verwendenden Verbindungen sind durch die
+            Formel (III) allgemein definiert. In dieser Formel steht R
+            <sup>10</sup>
+            vorzugsweise für Wasserstoff, geradkettiges oder verzweigtes Alkyl mit 1 bis 6 Kohlenstoffatomen, Alkenyl
+            und Alkinyl mit jeweils 2 bis 4 Kohlenstoffatomen, Halogenalkyl mit bis zu 2 Kohlenstoff- und bis zu drei
+            gleichen oder verschiedenen Halogenatomen, wobei als Halogene insbesondere Fluor, Chlor und Brom stehen,
+            sowie für gegebenenfalls substituiertes Phenyl, wobei als Substituenten vorzugsweise die bei R' bis R
+            <sup>6</sup>
+            bei den Ausgangsstoffe der Formel (II) bereits vorzugsweise genannten infrage kommen.
+        </p>
+        <!--  EPO <DP n="10">  -->
+        <p id="p0018" num="0018">
+            Y steht vorzugsweise für gegebenenfalls substituiertes Aryl mit 6 bis 10 Kohlenstoffatomen, insbesondere für
+            Phenyl und Naphthyl, die einen oder mehrere gleiche oder verschiedene Substituenten tragen können. Als
+            Substituenten seien vorzugsweise genannt, die Halogene Fluor, Chlor oder Brom; Alkyl und Alkexy mit 1 bis 4
+            Kohlenstoffatomen; Halogenalkyl, Halogenalkoxy und Halogenalkylthio mit bis zu 4 Kohlenstoffatomen und bis
+            zu 5 Halogenatomen, insbesondere mit bis zu 2 Kohlenstoff- und bis zu 3 gleichen oder verschiedenen
+            Halogenatomen, wobei als Halogene insbesondere Fluor, Chlor und Brom stehen; gegebenenfalls durch Halogen,
+            insbesondere Fluor, Chlor oder Brom, Alkyl und Alkoxy mit jeweils 1 bis 2 Kohlenstoffatomen sowie
+            Halogenalkyl mit bis zu 2 Kohlenstoff- und bis zu 3 gleichen oder verschiedenen Halogenatomen, wie
+            insbesondere Fluor und Chlor, substituiertes Phenyl, Phenoxy oder Phenoxycarbonyl; Alkoxycarbonyl mit 1 bis
+            4 Kohlenstoffatomen im Alkylteil; die Methylendioxo-Gruppe sowie der Tri-, Tetra- oder Pentamethylen-Rest.
+            Für den Fall, daß Y für Phenyl steht, muß dieses substituiert sein, wenn R'bis R'
+            <sup>0</sup>
+            Wasserstoff bedeuten.
+        </p>
+        <p id="p0019" num="0019">
+            Die Ausgangsstoffe der Formel (III) sind allgemein bekannte Verbindungen der organischen Chemie. Als
+            Beispiele seien genannt:
+            <ul id="ul0008" list-style="none">
+                <li>
+                    Benzylchlorid, Benzylbromid, Benzylmesylat, Benzyltosylat, 2-Fluorbenzylbromid, 3-Fluorbenzylbromid,
+                    4-Fluorbenzylbromid, 2-Chlorbenzylchlorid, 3-Chlorbenzylchlorid, 4-Chlorbenzylchlorid,
+                    2-Brombenzylchlorid, 3-Brombenzylchlorid, 4-Brombenzylchlorid, 2-Methylbenzylchlorid,
+                    3-Methylbenzylchlorid, 4-Methylbenzylchlorid, 2-Methoxybenzylchlorid, 3-Methoxybenzylchlorid,
+                    4-Methoxybenzylchlorid, 2-Trifluoruethylbenzylchlorid, 3-Trifluormethylbenzylchlorid,
+                    4-Trifluormethylbenzylchlorid, 4-Phenylbenzylchlorid, 2,6-Difluorbenzylchlorid,
+                    2,6-Dichlorbenzylchlorid, 2,4-Dichlorbenzylchlorid, 3,4-Dichlorbenzylchlorid,
+                    2,5-Dichlorbenzylchlorid, 2,6-Dimethylbenzyl
+                    <!--  EPO <DP n="11">  -->
+                    chlorid, 2,4-Dimethylbenzylbromid, 3,4-Dimethylbenzylchlorid, 2,3-Dimethylbenzylchlorid,
+                    3,4-Dioxomethylenbenzylchlorid, 2,6-Chlorfluorbenzylchlorid, 2-Fluor-5-chlorbenzylbromid,
+                    2-Fluor-4-chlorbenzylbromid, 3-Chlor-4-fluorbenzylbromid, 3,4-Tetramethylenbenzylchlorid,
+                    2-Methyl-6-chlorbenzylchlorid, 2-Methyl-6-fluorbenzylchlorid, 2-Fluor-3-methylbenzylchlorid,
+                    2-Fluor-4-methylbenzylchlorid, 2-Fluor-5-methylbenzylchlorid, 2-Methyl-3-chlorbenzylchlorid,
+                    2-Methyl-4-chlorbenzylchlorid, 2-Methyl-5-chlorbenzylchlorid, 2,4,5-Trichlorbenzylbromid,
+                    2,4,6-Trichlorbenzylbromid, Diphenylmethylbromid, 1-Brom-l-phenyl- äthan,
+                    1-Brom-1-(2-fluorphenyl)-äthan, 1-Brom-1-(2-methylphenyl)-äthan.
+                </li>
+            </ul>
+        </p>
+        <p id="p0020" num="0020">
+            Die für die Verfahrensvariante(b)als Ausgangsstoffe zu verwendenden Diole sind durch die Formel (IV)
+            allgemein definiert. In dieser Formel stehen R' bis R
+            <sup>9</sup>
+            vorzugsweise für die Reste, die bei den Alkoholaten der Formel (II) bereits vorzugsweise genannt wurden. R
+            <sup>10</sup>
+            und Y stehen vorzugsweise für die Reste die bei den Verbindungen der Formel (III) bereits vorzugsweise
+            genannt wurden.
+        </p>
+        <p id="p0021" num="0021">
+            Die Diole der Formel (IV) sind bekannt bzw. lassen sie sich nach bekannten Methoden herstellen. Als
+            Beispiele seien genannt:
+            <ul id="ul0009" list-style="none">
+                <li>1-Benzyloxy-pentan-2,5-diol</li>
+                <li>1-(2-Fluorbenzyloxy)-pentan-2,5-diol</li>
+                <li>1-(2-Chlorbenzyloxy)-pentan-2,5-diol</li>
+                <li>1-(2-Methylbenzyloxy)-pentan-2,5-diol</li>
+                <li>1-(2-Brombenzyloxy)-pentan-2,5-diol</li>
+                <li>1-(4-Fluorbenzyloxy)-pentan-2,5-diol</li>
+                <li>1-(2,6-Dichlorbenzyloxy)-pentan-2,5-diol</li>
+                <li>1-Benzyloxy-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Fluorbenzyloxy)-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Chlorbenzyloxy)-5,5-dimethyl-penran-2,5-diol</li>
+                <li>1-(2-Methylbenzyloxy)-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>l-(2-Brombenzyloxy)-5,5-dimethyl-penatan-2,5-diol</li>
+                <!--  EPO <DP n="12">  -->
+                <li>1-(4-Fluorbenzyloxy)-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2,6-Dichlorbenzyloxy)-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-Benzyloxy-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Fluorbenzyloxy)-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Chlorbenzyloxy)-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Methylbenzyloxy)-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Brombenzyloxy)-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-(4-Fluorbenzyloxy)-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-(2,6-Dichlorbenzyloxy)-2,5,5-trimethyl-pentan-2,5-diol</li>
+                <li>1-Benzyloxy-2-äthyl-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Fluorbenzyloxy)-2-äthyl-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Chlorbenzyloxy)-2-äthyl-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Methylbenzyloxy)-2-äthyl-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2-Brombenzyloxy)-2-äthyl-5,5-dimethyl-pentam-2,5-diol</li>
+                <li>1-(4-Fluorbenzyloxy)-2-äthyl-5,5-dimethyl-pentan-2,5-diol</li>
+                <li>1-(2,6-Dichlorbenzyloxy)-2-äthyl-5,5-dimethyl-pentan-2,5-diol</li>
+            </ul>
+        </p>
+        <p id="p0022" num="0022">
+            Die für die Verfahrensvariante (c) als Ausgangsstoffe zu verwendenden Dihydrofuran-Derivate sind durch die
+            Formeln (Va), (Vb) und (Vc) allgemein definiert. In diesen Formeln stehen R' bis R' vorzugsweise für die
+            Reste, die bei den Alkoholaten der Formel (II) bereits vorzugsweise genannt wurden. R
+            <sup>10</sup>
+            und Y stehen vorzugsweise für die Reste, die bei den Verbindungen der Formel (III) bereits vorzugsweise
+            genannt wurden.
+        </p>
+        <p id="p0023" num="0023">
+            Die Dihydrofuran-Derivate der Formeln (Va), (Vb) und (Vc) sind noch nicht bekannt. Man erhält sie jedoch auf
+            einfache Weise, wenn man entsprechend der Verfahrensvariante (a) Alkoholate von
+            2-Hydroxymethyl-dihydrofuran-Derivaten der Formeln
+            <!--  EPO <DP n="13">  -->
+            <chemistry id="chem0013" num="0013">
+                <img id="ib0013" file="imgb0013.tif" wi="105" he="31" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+            <chemistry id="chem0014" num="0014">
+                <img id="ib0014" file="imgb0014.tif" wi="106" he="32" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+            <chemistry id="chem0015" num="0015">
+                <img id="ib0015" file="imgb0015.tif" wi="106" he="27" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+            in welchen
+            <ul id="ul0010" list-style="none">
+                <li>R' bis R9</li>
+                <li>und M die oben angegebene Bedeutung haben,</li>
+                <li>mit einer Verbindung der Formel (III) gegebenenfalls in Gegenwart eines Verdünnungsmittels
+                    umsetzt.
+                </li>
+            </ul>
+        </p>
+        <p id="p0024" num="0024">
+            Die für die Verfahrensvariante(d) als Ausgangsstoffe zu verwendenden Furan-Derivate sind durch die Formel
+            (VI) allgemein definiert. In dieser Formel stehen R
+            <sup>2</sup>
+            , R
+            <sup>3</sup>
+            , R', R
+            <sup>5</sup>
+            und R
+            <sup>9</sup>
+            vorzugsweise für die Reste, die bei den Alkoholaten der Formel (II) bereits vorzugsweise genannt wurden. R
+            <sup>10</sup>
+            und Y stehen vorzugsweise für die Reste, die bei den Halogeniden der Formel (III) bereits vorzugsweise
+            genannt wurden.
+        </p>
+        <!--  EPO <DP n="14">  -->
+        <p id="p0025" num="0025">
+            Die Furan-Derivate der Formel (VI) sind noch nicht bekannt. Man erhält sie jedoch auf einfache Weise, wenn
+            man entsprechend der Verfahrensvariante(a) Alkoholate von 2-Hydroxymethyl-furan-Derivaten der Formel
+            <chemistry id="chem0016" num="0016">
+                <img id="ib0016" file="imgb0016.tif" wi="109" he="29" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+            in welcher
+            <ul id="ul0011" list-style="none">
+                <li>
+                    R2, R
+                    <sup>3</sup>
+                    , R
+                    <sup>6</sup>
+                    , R8,
+                </li>
+                <li>
+                    R
+                    <sup>9</sup>
+                    und M die oben angegebene Bedeutung haben,
+                </li>
+                <li>mit einer Verbindung der Formel (III) gegebenenfalls in Gegenwart eines Verdünnungmittels umsetzt.
+                </li>
+            </ul>
+        </p>
+        <p id="p0026" num="0026">
+            Als Ausgangsstoffe der Formel (VI) seien beispielsweise genannt:
+            <ul id="ul0012" list-style="none">
+                <li>2-(2-Fluorbenzyloxymethyl)-furan</li>
+                <li>2-[1-(2-Fluorbenzyloxy)-äth-1-yl]-furan</li>
+                <li>2-[1-(2-Chlorbenzyloxy)-prop-1-yl]-furan</li>
+                <li>2-[1-(2-Fluorbenzyloxy)-prop-1-yl]-furan</li>
+                <li>2-[1-(2-Fluorbenzyloxy)-äth-1-yl]-furan</li>
+                <li>2-[1-(2-Methylbenzyloxy)-äth-1-yl]-furan</li>
+                <li>2-[1-(Benzyloxy)-äth-1-yl]-furan</li>
+                <li>2-[3-(2-Fluorbenzyloxy-pent-3-yl]-furan</li>
+                <!--  EPO <DP n="15">  -->
+                <li>2-[3-(2-Methylbenzyloxy)-pent-3-yl]-furan</li>
+                <li>2-[3-(2-Chlorbenzyloxy)-pent-3-yl]-furan</li>
+                <li>2-(1-(2-Chlorbenzyloxy)-äth-1-yl]-furan</li>
+                <li>2-[α-(2-Fluorbenzyloxy)-benzyl]-furan</li>
+                <li>2-Ea-(2-chlorbenzyloxy)-benzyl]-furan</li>
+                <li>2-[2-(2-Fluorbenzyloxy)-prop-2-yl]-furan</li>
+                <li>2-(α-Phenylbenzyloxy-methyl)-furan</li>
+            </ul>
+        </p>
+        <p id="p0027" num="0027">Die Alkoholate der Formeln (VIIa), (VIIb), (VIIc) und (VIII)sind bekannt oder lassen
+            sich nach bekannten Methoden herstellen. Man erhält sie z.B., indem man die entsprechenden
+            2-Hydroxymethyl-dihydrofuran-Derivate bzw. 2-Hydroxymethyl-furan-Derivate mit geeigneten starken Basen, wie
+            beispielsweise Alkali- oder Erdalkaliamiden, -hydriden oder -hydroxiden, in einem inerten Lösungsmittel
+            umsetzt. Die genannten 2-Hydroxymethyl-Derivate sind ebenfalls bekannt oder lassen sich nach bekannten
+            Methoden herstellen (vergleiche u.a. H.Kröper in Houben-Weyl, 'Methoden der organischen Chemie', Band 6/3,
+            S.519ff (1965) sowie die dort zitierte Literatur).
+        </p>
+        <p id="p0028" num="0028">Für die erfindungsgemäße Umsetzung gemäß Verfahrensvariante(a) kommen als
+            Verdünnungsmittel vorzugsweise inerte organische Lösungsmittel infrage. Hierzu gehören vorzugsweise Aether,
+            wie Diäthyläther, Tetrahydrofuran oder Dioxan, aromatische Kohlenwasserstoffe, wie Benzol oder Toluol, in
+            einzelnen Fällen auch chlorierte Kohlenwasserstoffe, wie Chloroform, Methylenchlorid, oder
+            Tetrachlorkohlenstoff.
+        </p>
+        <p id="p0029" num="0029">
+            Die Reaktionstemperaturen können bei der Verfahrensvariante (a) in einem größeren Bereich variiert werden.
+            Im allgemeinen arbeitet man zwischen O und 120°C, vorzugsweise bei 20 bis 100°C.
+            <!--  EPO <DP n="16">  -->
+            Bei der Durchführung der erfindungsgemäßen Verfahrensvariante(a) arbeitet man vorzugsweise in molaren
+            Mengen. Es ist aber auch möglich, die Alkoholate der Formel (II) oder die Verbindungen der Formel (III) im
+            Ueberschuß bis zu 1 Mol einzusetzen. Zur Isolierung der Endprodukte wird das Reaktionsgemisch mit Wasser
+            versetzt, die organische Phase abgetrennt und in üblicher Weise aufgearbeitet und gereinigt. In einzelnen
+            Fällen kann das Endprodukt auch direkt nach dem Lösungsmittel aus dem Reaktionsprodukt abdestilliert werden.
+        </p>
+        <p id="p0030" num="0030">Nach einer bevorzugten Ausführungsform wird zweckmäßigerweise so verfahren, daß man von
+            einem 2-Hydroxymethyl-tetrahydrofuran-Derivat ausgeht, letzteres in einem geeigneten inerten Lösungsmittel
+            mittels Alkalimetall-hydrid oder -amid in das Alkalimetall-alkoholat der Formel (II) überführt, und
+            letzteres ohne Isolierung sofort mit einer Verbindung der Formel (III) umsetzt und somit die
+            erfindungsgemäßen Verbindungen der Formel (I) in einem Arbeitsgang erhält. Dabei kann die Verbindung der
+            Formel (III) auch bereits vor der Herstellung des Alkoholats dem Reaktionsgemisch zugesetzt werden.
+        </p>
+        <p id="p0031" num="0031">Nach einer weiteren bevorzugten Ausführungsform werden zweckmäßigerweise die
+            Herstellung des Alkoholats der Formel (II) sowie die erfindungsgemäße Umsetzung nach Verfahren(a) in einem
+            Zweiphasensystem, wie z.B. wässrige Natron- oder Kalilauge / Toluol oder Methylenchlorid, unter Zusatz eines
+            Phasen-Transfer-Katalysators, wie beispielsweise Ammonium- oder Phosphoniumverbindungen durchgeführt.
+        </p>
+        <p id="p0032" num="0032">Die erfindungsgemäße Umsetzung gemäß Verfahrensvariante (b) wird vorzugsweise ohne
+            Lösungsmittel durchgeführt.
+        </p>
+        <!--  EPO <DP n="17">  -->
+        <p id="p0033" num="0033">Die erfindungsgemäße Umsetzung gemäß Verfahrensvariante(b)wird in Gegenwart eines
+            sauren Katalysators durchgeführt. Man kann alle üblicherweise verwendbaren anorganischen und organischen
+            sauren Katalysatoren einsetzen. Hierzu gehören vorzugsweise organische Säuren, wie p-Toluolsulfonsäure,
+            anorganische Säuren, wie Salzsäure und Schwefelsäure, sowie Metallhalogenide, wie Aluminiumchlorid.
+        </p>
+        <p id="p0034" num="0034">Die Reaktionstemperaturen können bei der Verfahrensvariante(b) in einem größeren
+            Bereich variiert werden. Im allgemeinen arbeitet man zwischen 80 und 250°C, vorzugsweise zwischen etwa 100
+            und 220°C.
+        </p>
+        <p id="p0035" num="0035">Zur Isolierung der Endprodukte wird bei der Verfahrensvariante :b)das Reaktionsgemisch
+            im Vakuum destilliert und anschließend das Wasser in üblicher Weise abgetrennt.
+        </p>
+        <p id="p0036" num="0036">Für die erfindungsgemäßen Umsetzungen gemäß Verfahrensvarianten (c)und(d)kommen bei
+            Verwendung eines Verdünnungsmittels vorzugsweise inerte organische Lösungsmittel infrage. Hierzu gehören
+            vorzugsweise Alkohole, wie Methanol und Aethanol sowie Aether, wie Diäthyläther und Tetrahydrofuran.
+        </p>
+        <p id="p0037" num="0037">Die erfindungsgemäßen Umsetzungen gemäß Verfahrensvarianten(c) und(d) werden in
+            Gegenwart eines Katalysators durchgeführt. Man kann alle üblicherweise verwendbaren Hydrierungskatalysatoren
+            verwenden. Hierzu gehören vorzugsweise Edelmetall-, Edelmetalloxid-(bzw. Edelmetallhydroxid-) -Katalysatoren
+            oder sogenannte 'Raney-Katalysatoren', wie insbesondere Platin, Platinoxid, Nickel, Rhodium, Rhodiumoxid,
+            Ruthenium, Palladium und Osmium.
+        </p>
+        <p id="p0038" num="0038">Die Reaktionstemperaturen können bei den Verfahrensvarianten (c) und(d) in einem
+            größeren Bereich variiert werden. I:n allgemeinen arbeitet man zwischen 20 und 200°C, vorzugsweise bei 80
+            bis 150°C.
+        </p>
+        <!--  EPO <DP n="18">  -->
+        <p id="p0039" num="0039">Die Umsetzungen gemäß Verfahrensvarianten (c) und (d) können bei Normaldruck, aber auch
+            bei erhöhtem Druck, vorzugsweise bei 1 bis 200 atü, durchgeführt werden.
+        </p>
+        <p id="p0040" num="0040">Bei der Durchführung der erfindungsgemäßen Verfahrensvarianten (c) und (d) setzt man
+            auf 1 Mol der Verbindungen der Formeln (Va), (Vb), (Vc) bzw.(VI) vorzugsweise 2 Mol Wasserstoff und 0,01-01
+            Mol Katalysator ein. Zur Isolierung der Endprodukte wird vom Katalysator abfiltriert, gegebenenfalls vom
+            Lösungsmittel im Vakuum befreit und die erhaltenen Produkte der Formel (I) werden durch Destillation oder
+            Umkristallisation gereinigt.
+        </p>
+        <p id="p0041" num="0041">Die erfindungsgemäßen Verbindungen der Formel (I) können gegebenenfalls in
+            verschiedenen geometrischen Isomeren vorliegen, die in unterschiedlichen Mengenverhältnissen anfallen
+            können. Außerdem liegen sie jeweils als optische Isomere vor. Dabei kann der Fall auftreten, daß bestimmte
+            Isomere eine größere Wirksamkeit als andere aufweisen, so daß es gegebenenfalls zweckmäßig ist, die aktivere
+            Komponete herzustellen bzw. zu isolieren. Sämtliche Isomeren werden erfindungsgemäß beansprucht.
+        </p>
+        <p id="p0042" num="0042">
+            Als Beispiele für besonders wirksame Vertreter der erfindungsgemäßen Wirkstoffe seien außer den
+            Herstellungsbeispielen und den Beispielen der Tabelle 1 genannt:
+            <ul id="ul0013" list-style="none">
+                <li>2-Benzyloxymethyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-5-methyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-5-methyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-5-methyl-terahydrofuran</li>
+                <li>2-Benzyloxymethyl-2-methyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-methyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-methyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-methyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-methyl-tetrahydrofuran</li>
+                <!--  EPO <DP n="19">  -->
+                <li>2-(4-Fluorbenzyloxymethyl)-2-methyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-methyl-tetrahydrofuran</li>
+                <li>2-Benzyloxymethyl-2-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-athyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-äthyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-äthyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-äthyl-tertahydrofuran</li>
+                <li>2-Benzyloxymethyl-2-propyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-propyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-propyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-propyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-propyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-propyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-propyl-tertahydrofuran</li>
+                <li>2-Benzyloxymethyl-2,5,5-trimethyl-tertahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2,5,5-trimethyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2,5,5-trimethyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2,5,5-trimethyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2,5,5-trimethyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2,5,5-trimethyl-tetrahydrofuran</li>
+                <li>2-Benzyloxymethyl-2-äthyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-äthyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-äthyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-äthyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-äthyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-äthyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-äthyl-5,5-dimethyl-tertahydro- furan</li>
+                <li>2-Benzyloxymethyl-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-5-chlormethyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-5-chlormethyl-tetrahydrofaran</li>
+                <li>2-(2-Brombenzyloxymethyl)-5-chlormethyl-tetrahydrofuran</li>
+                <!--  EPO <DP n="20">  -->
+                <li>2-(2-Brombenzyloxymethyl)-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-propyl-5,5-dimethyl-tetrahydrofuran</li>
+                <li>2-Benzyloxymethyl-2-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-phenyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-phenyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-phenyl-tetrahydrofuran</li>
+                <li>2-lenzyloxymethyl-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-äthyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-Benzyloxymethyl-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2,5-diäthyl-5-methyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-5-chlormethyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-5-chlormethyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-5-chlormethyl-tetrahydrofuran</li>
+                <!--  EPO <DP n="21">  -->
+                <li>2-Benzyloxymethyl-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2-methyl-5-phenyl-tetrahydrofuran</li>
+                <li>2-Benzyloxymethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-5-äthyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-5-äthyl-tetrahydrofuran</li>
+                <li>2-(Benzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2,5-dimethyl-5-vinyl-tetrahydrofuran</li>
+                <li>2-(Benzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(4-Fluorbenzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-2,5-dimethyl-5-äthyl-tetrahydrofuran</li>
+                <li>2-(Benzyloxymethyl)-5-methoxymethyl-tetrahydrofuran</li>
+                <li>2-(2-Fluorbenzyloxymethyl)-5-methoxymethyl-tetrahydrofuran</li>
+                <li>2-(2-Chlorbenzyloxymethyl)-5-methoxymethyl-tetrahydrofuran</li>
+                <li>2-(2-Brombenzyloxymethyl)-5-methoxymethyl-tetrahydrofuran</li>
+                <li>2-(2-Methylbenzyloxymethyl)-5-methoxymethyl-tetrahydrofuran</li>
+                <li>
+                    2-(4-Fluorbenzyloxymethyl)-5-methoxymethyl-tetrah:
+                    <sub>7</sub>
+                    drofuran
+                </li>
+                <li>2-(2,6-Dichlorbenzyloxymethyl)-5-methcxymethyl-tetrahydrofuran</li>
+                <li>
+                    2-(Benzyloxymethyl)-5-chlormethyl-tetrahydrofuran
+                    <!--  EPO <DP n="22">  -->
+                </li>
+            </ul>
+        </p>
+        <p id="p0043" num="0043">Die erfindungsgemäßen Wirkstoffe beeinflussen das Pflanzenwachstum und können deshalb
+            als Defoliants, Desiccants, Krautabtötungsmittel, Keimhemmungsmittel und insbesondere als
+            Unkrautvernichtungsmittel verwendet werden. Unter Unkraut im weitesten Sinne sind alle Pflanzen zu
+            verstehen, die an Orten aufwachsen, wo sie unerwünscht sind. Ob die erfindungsgemäßen Stoffe als totale oder
+            selektive Herbizide wirken, hängt im wesentlichen von der angewendeten Menge ab.
+        </p>
+        <p id="p0044" num="0044">
+            Die erfindungsgemäßen Wirkstoffe können z.B. bei den folgenden Pflanzen verwendet werden:
+            <ul id="ul0014" list-style="none">
+                <li>Dikotyle Unkräuter der Gattungen: Senf (Sinapis), Kresse (Lepidium), Labkraut (Galium), Sternmiere
+                    (Stellaria), Kamille (Matricaria), Hundskamille (Anthemis), Knopfkraut (Galinsoga), Gänsefuß
+                    (Chenopodium), Brennessel (Urtica), Kreuzkraut (Senecio), Fuchsschwanz (Amaranthus), Portulak
+                    (Portulaca), Spitzklette (Xanthium), Winde (Convolvulus), Prunkwinde (Ipomoea), Knöterich
+                    (Polygonum), Sesbanie (Sesbania), Ambrosie (Ambrosia), Kratzdistel (Cirsium), Distel (Carduus),
+                    Gänsedistel (Sonchus), Nachtschatten (Solanum), Sumpfkresse (Rorippa), Rotala, Büchsenkraut
+                    (Lindernia), Taubnessel (Lamium), Ehrenpreis (Veronica), Schönmalve (Abutilon), Emex, Stechapfel
+                    (Datura), Veilchen (Viola), Hanfnessel, Hohlzahn (Galeopsis), Mohn (Papaver), Flockenblume
+                    (Centaurea).
+                </li>
+            </ul>
+        </p>
+        <p id="p0045" num="0045">Dicotyle Kulturen der Gattungen: Baumwolle (Gossypium), Sojabohne (Glycine), Rübe
+            (Beta), Möhre (Daucus), Gartenbohne (Phaseolus), Erbse (Pisum), Kartoffel (Solanum), Lein (Linum),
+            Prunkwinde (Ipomoea), Bohne (Vicia), Tabak (Nicot:.ana), Tomate (Lycopersicon), Erdnuß (Arachis), Kohl
+            (Brassica), Lattich (Lactuca), Gurke (Cucumis), Kürbis (Cuburbita).
+        </p>
+        <p id="p0046" num="0046">
+            Monokotyle Unkräuter der Gattungen: HUhnerhirse (Echinochloa), Borstenhirse (Setaria), Hirse (Panicum),
+            Fingerhirse (Digitaria), Lieschgras (Phleum), Rispengras (Poa), Schwingel (Festuca),
+            <!--  EPO <DP n="23">  -->
+            Eleusine, Brachiaria, Lolch (Lolium), Trespe (Bromus), Hafer (Avena), Zypergras (Cyperus), Mohrenhirse
+            (Sorghum), Quecke (Agropyron), Hundszahngras (Cynodon), Monocharia, Fimbristylis, Pfeilkraut (Sagittaria),
+            Sumpfried (Eleocharis), Simse (Scirpus), Paspalum, Ischaemum, Sphenoclea, Dactyloctenium, Straußgras
+            (Agrostis), Fuchsschwanzgras (Alopecurus), Windhalm (Apera).
+        </p>
+        <p id="p0047" num="0047">Monokotyle Kulturen der Gattungen: Reis (Oryza), Mais (Zea), Weizen (Triticum), Gerste
+            (Hordeum), Hafer (Avena), Roggen (Secale), Mohrenhirse (Sorghum), Hirse (Panicum), Zuckerrohr (Saccharum),
+            Ananas (Ananas), Spargel (Asparagus), Lauch (Allium).
+        </p>
+        <p id="p0048" num="0048">Die Verwendung der erfindungsgemäßen Wirkstoffe ist jedoch keineswegs auf diese
+            Gattungen beschränkt, sondern erstreckt sich in gleicher Weise auch auf andere Pflanzen.
+        </p>
+        <p id="p0049" num="0049">Die Verbindungen eignen sich in Abhängigkeit von der Konzentration zur
+            Totalunkrautbekämpfung z.B. auf Industrie- und Gleisanlagen und auf Wegen und Plätzen mit und ohne
+            Baumbewuchs. Ebenso können die Verbindungen zur Unkrautbekämpfung in Dauerkulturen z.B. Forst-, Ziergehölz-,
+            Obst-, Wein-, Citrus-, Nuss-, Bananen-, Kaffee-, Tee-, Gummi-, Ölpalm-, Kakao-, Beerenfrucht- und
+            Hopfenanlagen und zur selektiven Unkrautbe- . kämpfung in einjährigen Kulturen eingesetzt werden.
+        </p>
+        <p id="p0050" num="0050">
+            Die erfindungsgemäßen Wirkstoffe weisen insbesondere starke herbizide Wirkungen gegen Gräser auf,ohne
+            verschiedene Kulturpflanzen zu schädigen. Die können deshalb vorzugsweise zur selektiven Ungräserbekämpfung
+            eingesetzt werden. Als Kulturen kommen insbesondere infrage: Rüben, Sojabohnen, Bohnen, Baumwolle, Raps,
+            Erdnüsse, Gemüse, Mais und Reis.
+            <!--  EPO <DP n="24">  -->
+        </p>
+        <p id="p0051" num="0051">Die erfindungsgemäßen Wirkstoffe können in die üblichen Formulierungen Übergeführt
+            werden, wie Lösungen, Emulsionen, Suspensionen, Pulver, Pasten und Granulate. Diese werden in bekannter
+            Weise hergestellt, z. B. durch Vermischen der Wirkstoffe mit Streckmitteln, also flüssigen Lösungsmitteln,
+            unter Druck stehenden verflüssigten Gasen und/oder festen Trägerstoffen, gegebenenfalls unter Verwendung von
+            oberflächenaktiven Mitteln, also Emulgiermitteln und/oder Dispergiermitteln und/oder schaumerzeugenden
+            Mitteln. Im Falle der Benutzung von Wasser als Streckmittel können z. B. auch organische Lösungsmittel als
+            Hilfslösungsmittel verwendet werden. Als flüssige Lösungsmittel kommen im wesentlichen in Frage: Aromaten,
+            wie Xylol, Toluol, Benzol oder Alkylnaphthaline, chlorierte Aromaten oder chlorierte aliphatische
+            Kohlenwasserstoffe, wie Chlorbenzole, Chloräthylene oder Methylenchlorid, aliphatische Kohlenwasserstoffe,
+            wie Cyclohexan oder Paraffine, z. B. Erdölfraktionen, Alkohole, wie Butanol oder Glycol sowie deren Äther
+            und Ester, Ketone, wie Aceton, Methyläthylketon, Methylisobutylketon oder Cyclohexanon, stark polare
+            Lösungsmittel, wie Dimethylformamid und Dimethylsulfoxid, sowie Wasser; mit verflüssigten gasförmigen
+            Streckmitteln oder Trägerstoffen sind solche Flüssigkeiten gemeint, welche bei normaler Temperatur und unter
+            Normaldruck gasförmig sind, z. B. Aerosol-Treibgase, wie Dichlordifluormethan oder Trichlorfluormethan; als
+            feste Trägerstoffe: natürliche Gesteinsmehle, wie Kaoline, Tonerden, Talkum, Kreide, Quarz, Attapulgit,
+            Montmorillonit oder Diatomeenerde und syn-' thetische Gesteinsmehle, wie hochdisperse Kieselsäure,
+            Aluminiumoxid und Silikate; als Emulgiermittel; nichtionogene und anionische Emulgatoren, wie
+            Polyoxyäthylen-Fettsäure-Ester,Polyoxy- äthylen-Fettalkohol-Äther, z.B. Alkylaryl-polyglycol-Äther,
+            Alkylsulfonate, Alkylsulfate, Arylsulfonate sowie Eiweißhydrolysate; als Dispergiermittel: z. B. Lignin-
+            Sulfitablauge:a und Methylcellulose.
+        </p>
+        <!--  EPO <DP n="25">  -->
+        <p id="p0052" num="0052">Die crfindungsgemäßen Wirkstoffe können als solche oder in ihren Formulierungen zur
+            Verstärkung und Ergänzung ihres Wirkungsspektrums je nach beabsichtigter Verwendung mit anderen herbiziden
+            Wirkstoffen kombiniert werden, wobei Fertiqformulierung oder Tankmischung möglich ist.
+        </p>
+        <p id="p0053" num="0053">Besonders hervorzuheben sind die Kombinationen der.erfindungsgemäßen Wirkstoffe mit
+            4-Amino-3-methyl-6-phenyl-1,2,4-triazin-5(4H)-on (Metamitron) für Rübenkulturen,
+            4-Amino-6-tert.-butyl-3-methylthio-1,2,4-triazin-5(4H)-on (Metribuzin) für Sojabohnen, Tomaten und
+            Kartoffeln und 2-Chlor-4-äthylamino-6-isopropylamino-1,3,5-triazin (Atrazin) für Mais und Sojabohnen, mit
+            3-(3,4-Dichlorphenyl)-1,1-dimethylharnstoff (Diuron) und 3-(3-Trifluormethylphenyl)-1,1-dimethylhamstoff
+            (Fluomethuron) für Baumwolle.
+        </p>
+        <p id="p0054" num="0054">Die Formulierungen enthalten im allgemeinen zwischen 0,1 und 95 Gewichtsprozent
+            Wirkstoff, vorzugsweise zwischen 0,5 und 90 Gewichtsprozent.
+        </p>
+        <p id="p0055" num="0055">Die Wirkstoffe können als solche, in Form ihrer Formulierungen oder der daraus
+            bereiteten Anwendungsformen, wie gebrauchsfertige Lösungen, Emulsionen, Suspensionen, Pulver, Pasten und
+            Granulate angewendet werden. Die Anwendung geschieht in üblicher Weise, z.B. durch Spritzen, Sprühen,
+            Stäuben, Streuen und Gießen.
+        </p>
+        <p id="p0056" num="0056">
+            Die erfindungsgemäßen Wirkstoffe können sowohl nach als auch insbesondere vor dem Auflaufen der Pflenzen
+            appliziert werden. Sie können auch vor der Saat in den Boden eingearbeitet werden.
+            <!--  EPO <DP n="26">  -->
+            Die aufgewandte Wirkstoffmenge kann in größeren Bereichen schwanken. Sie hängt im wesentlichen von der Art
+            des gewünschtem Effekts ab. Im allgemeinen liegen die Aufwandmengen zwischen 0,1 und 10 kg Wirkstoff pro ha,
+            vorzugsweise zwischen 0,2 und 6 kg/ha.
+        </p>
+        <p id="p0057" num="0057">Die erfindungsgemäßen Wirkstoffe besitzen nicht nur herbizide Eigenschaften, sondern
+            darüberhinaus auch eine fungizide und insektizide Wirksamkeit.
+        </p>
+        <p id="p0058" num="0058">Die guten herbiziden Wirkungen der erfindungsgemäßen Wirkstoffe und ihre selektiven
+            Einsatzmöglichkeiten gehen aus den nachfolgenden Beispielen hervor.
+        </p>
+        <!--  EPO <DP n="27">  -->
+        <heading id="h0001">Beispiel A</heading>
+        <heading id="h0002">Pre-emergence-Test</heading>
+        <heading id="h0003">Lösungsmittel: 5 Gewichtsteile Aceton</heading>
+        <heading id="h0004">Emulgator: 1 Gewichtsteil Alkylarylpolyglycoläther</heading>
+        <p id="p0059" num="0059">Zur Herstellung einer zweckmäßigen Wirkstoffzubereitung vermischt man 1 Gewichtsteil
+            Wirkstoff mit der angegebenen Menge Lösungsmittel, gibt die angegebene Menge Emulgator zu und verdünnt das
+            Konzentrat mit Wasser auf die gewünschte Konzentration.
+        </p>
+        <p id="p0060" num="0060">
+            Samen der Testpflanzen werden in normalen Boden ausgesät und nach 24 Stunden mit der Wirkstoffzubereitung
+            begossen. Dabei hält man die Wassermenge pro Flächeneinheit zweckmäßigerweise konstant. Die
+            Wirkstoffkonzentration in der Zubereitung spielt keine Rolle, entscheidend ist nur die Aufwandmenge des
+            Wirkstoffs pro Flächeneinheit. Nach drei Wochen wird der Schädigungsgrad der Pflanzen bonitiert in %
+            Schädigung im Vergleich zur Entwicklung der unbehandelten Kontrolle. Es bedeuten:
+            <ul id="ul0015" list-style="none">
+                <li>0 % = keine Wirkung (wie unbehandelte Kontrolle) 100 % = totale Vernichtung</li>
+            </ul>
+        </p>
+        <p id="p0061" num="0061">
+            Wirkstoffe, Aufwandmengen und Resultate gehen aus der nachfolgenden Tabelle hervor:
+            <!--  EPO <DP n="28">  -->
+            <tables id="tabl0001" num="0001">
+                <img id="ib0017" file="imgb0017.tif" wi="105" he="223" img-content="table" img-format="tif"
+                     inline="no"/>
+            </tables>
+            <!--  EPO <DP n="29">  -->
+            Herstellungsbeispiele
+        </p>
+        <heading id="h0005">Beispiel 1</heading>
+        <p id="p0062" num="0062">
+            <chemistry id="chem0017" num="0017">
+                <img id="ib0018" file="imgb0018.tif" wi="87" he="19" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+        </p>
+        <heading id="h0006">(Verfahrensvariante a)</heading>
+        <p id="p0063" num="0063">Zu einem Gemisch von 4,8 g (0,2 Mol) Natriumhydrid (6,0 g 80%iges Natriumhydrid in
+            Paraffinöl) in 200 ml absolutem Dioxan werden bei Raumtemperatur unter Rühren 20,4 g (0,2 Mol)
+            Tetrahydrofurfurylalkohol zugetropft. Man erhitzt danach noch 30 Minuten unter Rückfluß, kühlt auf 50°C ab
+            und tropft dann zu dem so erhaltenen Natriumsalz 38 g (0,2 Mol) 2-Fluorbenzylbromid zu. Anschließend erhitzt
+            man noch 3 Stunden unter Rückfluß, läßt auf Raumtemperatur abkühlen, versetzt zur Zerstörung von
+            überschüssigem Natriumhydrid mit 20 ml Methanol und engt durch Abdestillieren des Lösungsmittels im Vakuum
+            ein. Der Rückstand wird in 200 ml Wasser aufgenommen und mit Methylenchlorid extrahiert. Die organische
+            Phase wird über Natriumsulfat getrocknet, filtriert, das Lösungsmittel abgezogen und der Rückstand im Vakuum
+            fraktioniert. Man erhält 37,8 g (90 % der Theorie) 2-(2-Fluorbenzyloxymethyl)-tetrahydrofuran vom Siedepunkt
+            79°C/0,1 mm.
+        </p>
+        <heading id="h0007">Beispiel 2</heading>
+        <p id="p0064" num="0064">
+            <chemistry id="chem0018" num="0018">
+                <img id="ib0019" file="imgb0019.tif" wi="104" he="19" img-content="chem" img-format="tif" inline="no"/>
+            </chemistry>
+        </p>
+        <heading id="h0008">(Verfahrensvariante d)</heading>
+        <p id="p0065" num="0065">25 g (0,1 Mol) 2-[1-(2-Chlorbenzyloxy)-propyl]-furan werden in 200 ml Methanol gelöst
+            und nach Zugabe von 5 g Rhodium-Katalysator (5% Rhodium auf Aluminiumoxid) 4 Stunden bei 5 atü und
+            Raumtemperatur hydriert. Danach wird der Katalysator abfiltriert, das Filtrat durch Abdestillieren des
+            Lösungsmittels im Vakuum eingeengt und der Rückstand fraktioniert im Vakuum destilliert. Man erhält 15,7 g
+            (62 % der Theorie) 2-[1-(2-Chlorbenzyloxy)-propyl]-tetrahydrofuran vom Siedepunkt 101-105°C/0,1 mm.
+        </p>
+        <!--  EPO <DP n="30">  -->
+        <p id="p0066" num="0066">
+            In analoger Weise können die in der nachfolgenden TabeIle 1 aufgeführten Verbindungen hergestellt werden.
+            <tables id="tabl0002" num="0002">
+                <img id="ib0020" file="imgb0020.tif" wi="146" he="83" img-content="table" img-format="tif" inline="no"/>
+            </tables>
+            <!--  EPO <DP n="31">  -->
+            <tables id="tabl0003" num="0003">
+                <img id="ib0021" file="imgb0021.tif" wi="159" he="210" img-content="table" img-format="tif"
+                     inline="no"/>
+            </tables>
+            <!--  EPO <DP n="32">  -->
+            <tables id="tabl0004" num="0004">
+                <img id="ib0022" file="imgb0022.tif" wi="161" he="207" img-content="table" img-format="tif"
+                     inline="no"/>
+            </tables>
+            <!--  EPO <DP n="33">  -->
+            <tables id="tabl0005" num="0005">
+                <img id="ib0023" file="imgb0023.tif" wi="139" he="202" img-content="table" img-format="tif"
+                     inline="no"/>
+            </tables>
+            <!--  EPO <DP n="34">  -->
+            <tables id="tabl0006" num="0006">
+                <img id="ib0024" file="imgb0024.tif" wi="76" he="213" img-content="table" img-format="tif" inline="no"/>
+            </tables>
+        </p>
+        <!--  EPO <DP n="35">  -->
+        <heading id="h0009">Herstellung von Ausgangsprodukten</heading>
+        <p id="p0067" num="0067">
+            (a) Das gemäß Beispiel 2 als Ausgangsprodukt eingesetzte 2-[1-(2-Chlorbenzyloxy)-propyl]-furan kann wie
+            folgt hergestellt werden:
+            <ul id="ul0016" list-style="none">
+                <li>Zu einem Gemisch von 4,8 g (0,2 Mol) Natriumhydrid (6,0 g 80 %iges Natriumhydrid in Paraffinöl) und
+                    200 ml absolutem Dioxan werden bei Raumtemperatur 27,2 g (0,2 Mol) 2-(1-Hyroxy- propyl)-furan
+                    zugetropft.
+                </li>
+                <li>Man erhitzt danach 30 Min. unter Rückfluß, kühlt auf 50°C ab und tropft dann zu dem so erhaltenen
+                    Natriumsalz 32 g (0,2 Mol) 2-Chlorbenzylchlorid zu. Anschließend erhitzt man noch 3 Stunden unter
+                    Rückfluß, versetzt zur Zerstörung von überschüssigem Natriumhydrid mit 20 ml Methanol und engt durch
+                    Abdestillieren des Lösungsmittels im Vakuum ein.
+                </li>
+                <li>Der Rückstand wird in 200 ml Wasser aufgenommen und mit Methylenchlorid extrahiert. Die organische
+                    Phase wird über Natriumsulfat getrocknet, filtriert, das Lösungsmittel abgezogen und der Rückstand
+                    im Vakuum fraktioniert. Man erhält 36,0 g (72 % d. Th.) 2-[1-(2-Chlorbenzyloxy)-propyl]-furan vom
+                    Siedepunkt 95 - 97°C/0,1 mm.
+                </li>
+            </ul>
+        </p>
+    </description>
+    <!--  EPO <DP n="36">  -->
+    <claims id="claims01" lang="de">
+        <claim id="c-de-0001" num="">
+            <claim-text>
+                1.) Tetrahydrofuran-Derivate der Formel
+                <chemistry id="chem0019" num="0019">
+                    <img id="ib0025" file="imgb0025.tif" wi="118" he="34" img-content="chem" img-format="tif"
+                         inline="no"/>
+                </chemistry>
+                in welcher
+                <claim-text>
+                    R
+                    <sup>1</sup>
+                    bis R
+                    <sup>6</sup>
+                    gleich oder verschieden sind und für Wasserstoff, Alkyl, Halogenalkyl, Alkoxyalkyl, gegebenenfalls
+                    substituiertes Phenyl oder gegebenenfalls substituiertes Benzyloxyalkyl stehen,
+                </claim-text>
+                <claim-text>
+                    R
+                    <sup>5</sup>
+                    und R
+                    <sup>6</sup>
+                    auch gemeinsam für einen gesättigten carbbcyclischen Ring stehen,
+                </claim-text>
+                <claim-text>
+                    R
+                    <sup>1</sup>
+                    für Wasserstoff, Alkyl, Alkenyl, Alkinyl, Cycloalkyl, Alkoxyalkyl, gegebenenfalls substituiertes
+                    Phenyl oder gegebenenfalls substituiertes Benzyloxyalkyl steht,
+                </claim-text>
+                <claim-text>
+                    R
+                    <sup>8</sup>
+                    und R
+                    <sup>9</sup>
+                    gleich oder verschieden sind und für Wasserstoff, Alkyl, Alkenyl, Alkinyl, Cycloalkyl, Alkoxy,
+                    gegebenenfalls substituiertes Phenyl oder gegebenenfalls substituiertes Benzyl und Benzyloxy stehen,
+                </claim-text>
+                <claim-text>
+                    R
+                    <sup>10</sup>
+                    für Wasserstoff, Alkyl, Alkenyl, Alkinyl, Halogenalkyl oder gegebenenfalls substituiertes Phenyl
+                    steht und
+                </claim-text>
+                <!--  EPO <DP n="37">  -->
+                <claim-text>
+                    Y für gegebenenfalls substituiertes Aryl steht, mit der Maßgabe, daß, falls Y für Phenyl steht,
+                    dieses substituiert sein muß, wenn R' bis R'
+                    <sup>0</sup>
+                    Wasserstoff bedeuten.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-0002" num="">
+            <claim-text>
+                2.) Verfahren zur Herstellung von Tetrahydrofuran-Derivaten, dadurch gekennzeichnet, daß man
+                <claim-text>
+                    (
+                    <sup>a</sup>
+                    ) Alkoholate von 2-Hydroxymethyl-tetrahydrofuran-Derivaten der Formel
+                    <chemistry id="chem0020" num="0020">
+                        <img id="ib0026" file="imgb0026.tif" wi="112" he="28" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welcher
+                    <claim-text>
+                        R' bis R
+                        <sup>9</sup>
+                        die oben angegebene Bedeutung haben und
+                    </claim-text>
+                    <claim-text>M für ein Alkali- oder Erdalkalimetall steht,</claim-text>
+                    <claim-text>
+                        mit einer Verbindung der Formel
+                        <chemistry id="chem0021" num="0021">
+                            <img id="ib0027" file="imgb0027.tif" wi="103" he="16" img-content="chem" img-format="tif"
+                                 inline="no"/>
+                        </chemistry>
+                        in welcher
+                    </claim-text>
+                    <claim-text>
+                        R
+                        <sup>10</sup>
+                        und Y die oben angegebene Bedeutung haben und
+                    </claim-text>
+                    <claim-text>
+                        Z für Halogen, insbesondere Chlor oder Brom, den Mesylat- oder Tosylat-Rest steht,
+                        <!--  EPO <DP n="38">  -->
+                        gegebenenfalls in Gegenwart eines Verdünnungsmittels umsetzt, oder daß man
+                    </claim-text>
+                </claim-text>
+                <claim-text>
+                    (b) Diole der Formel
+                    <chemistry id="chem0022" num="0022">
+                        <img id="ib0028" file="imgb0028.tif" wi="129" he="26" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welcher
+                    <claim-text>
+                        R
+                        <sup>1</sup>
+                        bis R
+                        <sup>10</sup>
+                    </claim-text>
+                    <claim-text>und Y die oben angegebene Bedeutung haben,</claim-text>
+                    <claim-text>in Gegenwart eines sauren Katalysators und gegebenenfalls in Gegenwart eines
+                        Verdünnungsmittels erhitzt; oder daß man
+                    </claim-text>
+                </claim-text>
+                <claim-text>
+                    (c) diejenigen Verbindungen der Formel (I), in denen entweder R
+                    <sup>1</sup>
+                    und R
+                    <sup>7</sup>
+                    oder R
+                    <sup>1</sup>
+                    und R
+                    <sup>4</sup>
+                    oder R
+                    <sup>4</sup>
+                    und R
+                    <sup>5</sup>
+                    für Wasserstoff stehen, dadurch erhält, daß man Dihydrofuran-Derivate der Formeln
+                    <chemistry id="chem0023" num="0023">
+                        <img id="ib0029" file="imgb0029.tif" wi="109" he="28" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    <chemistry id="chem0024" num="0024">
+                        <img id="ib0030" file="imgb0030.tif" wi="110" he="32" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    <!--  EPO <DP n="39">  -->
+                    und/oder
+                    <chemistry id="chem0025" num="0025">
+                        <img id="ib0031" file="imgb0031.tif" wi="106" he="24" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welchen
+                    <claim-text>
+                        R
+                        <sup>1</sup>
+                        bis R
+                        <sup>10</sup>
+                    </claim-text>
+                    <claim-text>und Y die oben angegebene Bedeutung haben,</claim-text>
+                    <claim-text>in Gegenwart eines Katalysators und gegebenenfalls in Gegenwart eines Verdünnungsmittels
+                        mit Wasserstoff hydriert; oder daß man
+                    </claim-text>
+                </claim-text>
+                <claim-text>
+                    (d) diejenigen Verbindungen der Formel (I), in denen R
+                    <sup>1</sup>
+                    ,
+                    <sub>R</sub>
+                    <sup>4</sup>
+                    ,
+                    <sub>R</sub>
+                    <sup>5</sup>
+                    und
+                    <sub>R</sub>
+                    <sup>7</sup>
+                    für Wasserstoff stehen, dadurch erhält, daß man Furan-Derivate der Formel
+                    <chemistry id="chem0026" num="0026">
+                        <img id="ib0032" file="imgb0032.tif" wi="100" he="27" img-content="chem" img-format="tif"
+                             inline="no"/>
+                    </chemistry>
+                    in welcher
+                    <claim-text>
+                        <sup>R2,</sup>
+                        R
+                        <sup>3</sup>
+                        , R6, R
+                        <sup>8</sup>
+                        ,
+                    </claim-text>
+                    <claim-text>
+                        R9, R
+                        <sup>10</sup>
+                        und Y die oben angegebene Bedeutung haben,
+                        <!--  EPO <DP n="40">  -->
+                        in Gegenwart eines Katalysators und gegebenenfalls in Gegenwart eines Verdünnungsmittels mit
+                        Wasserstoff hydriert.
+                    </claim-text>
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-0003" num="">
+            <claim-text>3.)Herbizide Mittel, gekennzeichnet durch einen Gehalt an Tetrahydrofuran-Derivaten gemäß
+                Anspruch 1.
+            </claim-text>
+        </claim>
+        <claim id="c-de-0004" num="">
+            <claim-text>4.)Verfahren zur Bekämpfung von unerwünschtem Pflanzenwachstum, dadurch gekennzeichnet, daß man
+                Tetrahydrofuran-Derivate gemäß Anspruch 1 auf die unerwünschten Pflanzen oder ihren Lebensraum einwirken
+                läßt.
+            </claim-text>
+        </claim>
+        <claim id="c-de-0005" num="">
+            <claim-text>5.)Verwendung von Tetrahydrofuran-Derivaten gemäß Anspruch 1 zur Bekämpfung von unerwünschtem
+                Pflanzenwachstum.
+            </claim-text>
+        </claim>
+        <claim id="c-de-0006" num="">
+            <claim-text>6.)Verfahren zur Herstellung von herbiziden Mitteln, dadurch gekennzeichnet, daß man
+                Tetrahydrofuran-Derivate gemäß Anspruch 1 mit Streckmitteln und/oder oberflächenaktiven Mitteln
+                vermischt.
+            </claim-text>
+        </claim>
+    </claims>
+    <!--  EPO <DP n="41">  -->
+    <search-report-data id="srep" lang="de" srep-office="EP" date-produced="">
+        <doc-page id="srep0001" file="srep0001.tif" wi="196" he="289" type="tif"/>
+    </search-report-data>
+</ep-patent-document>

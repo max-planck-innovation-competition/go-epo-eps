@@ -1,0 +1,420 @@
+<ep-patent-document id="EP06381048A1" file="EP06381048NWA1.xml" lang="en" country="EP" doc-number="1921219" kind="A1" date-publ="20080514" status="n" dtd-version="ep-patent-document-v1-2">
+    <SDOBI lang="en">
+        <B000>
+            <eptags>
+                <B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS......RS..</B001EP>
+                <B005EP>J</B005EP>
+                <B007EP>DIM360 Ver 2.4 (29 Nov 2007) - 1100000/0</B007EP>
+                <B053EP>A request for correction of the numbering of the claims has been filed pursuant to Rule 139 EPC. A decision on the request will be taken during the proceedings before the Examining Division (Guidelines for Examination in the EPO, A-V, 3.).</B053EP>
+            </eptags>
+        </B000>
+        <B100>
+            <B110>1921219</B110>
+            <B120>
+                <B121>EUROPEAN PATENT APPLICATION</B121>
+            </B120>
+            <B130>A1</B130>
+            <B140>
+                <date>20080514</date>
+            </B140>
+            <B190>EP</B190>
+        </B100>
+        <B200>
+            <B210>06381048.5</B210>
+            <B220>
+                <date>20061108</date>
+            </B220>
+            <B250>es</B250>
+            <B251EP>en</B251EP>
+            <B260>en</B260>
+        </B200>
+        <B400>
+            <B405>
+                <date>20080514</date>
+                <bnum>200820</bnum>
+            </B405>
+            <B430>
+                <date>20080514</date>
+                <bnum>200820</bnum>
+            </B430>
+        </B400>
+        <B500>
+            <B510EP>
+                <classification-ipcr sequence="1">
+                    <text>E04B 1/88 20060101AFI20070316BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="2">
+                    <text>E04B 1/90 20060101ALI20070316BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="3">
+                    <text>E04B 1/84 20060101ALN20070316BHEP </text>
+                </classification-ipcr>
+            </B510EP>
+            <B540>
+                <B541>de</B541>
+                <B542>Schalldämpfungs- und Brandschutzisolierplatte und Verfahren zu ihrer Herstellung</B542>
+                <B541>en</B541>
+                <B542>Sound damping and fire restistant insulating panel and its manufacturing procedure</B542>
+                <B541>fr</B541>
+                <B542>Panneau isolant insonorisant et résistant au feu et son procédé de fabrication</B542>
+            </B540>
+            <B590>
+                <B598>none</B598>
+            </B590>
+        </B500>
+        <B700>
+            <B710>
+                <B711>
+                    <snm>Lloveras Calvo, Juan</snm>
+                    <iid>07273700</iid>
+                    <irf>20062127</irf>
+                    <adr>
+                        <str>C/Industria nau 4 Pol. Ind. Pla de la Costa 08182 Sant Feliu de Codines</str>
+                        <city>Barcelona</city>
+                        <ctry>ES</ctry>
+                    </adr>
+                </B711>
+            </B710>
+            <B720>
+                <B721>
+                    <snm>Lloveras Calvo, Juan</snm>
+                    <adr>
+                        <str>C/Industria nau 4 Pol. Ind. Pla de la Costa 08182 Sant Feliu de Codines</str>
+                        <city>Barcelona</city>
+                        <ctry>ES</ctry>
+                    </adr>
+                </B721>
+            </B720>
+            <B740>
+                <B741>
+                    <snm>Esteban Perez-Serrano, Maria Isabel</snm>
+                    <iid>00158882</iid>
+                    <adr>
+                        <str>UDAPI & ASOCIADOS Explanada, 8</str>
+                        <city>28040 Madrid</city>
+                        <ctry>ES</ctry>
+                    </adr>
+                </B741>
+            </B740>
+        </B700>
+        <B800>
+            <B840>
+                <ctry>AT</ctry>
+                <ctry>BE</ctry>
+                <ctry>BG</ctry>
+                <ctry>CH</ctry>
+                <ctry>CY</ctry>
+                <ctry>CZ</ctry>
+                <ctry>DE</ctry>
+                <ctry>DK</ctry>
+                <ctry>EE</ctry>
+                <ctry>ES</ctry>
+                <ctry>FI</ctry>
+                <ctry>FR</ctry>
+                <ctry>GB</ctry>
+                <ctry>GR</ctry>
+                <ctry>HU</ctry>
+                <ctry>IE</ctry>
+                <ctry>IS</ctry>
+                <ctry>IT</ctry>
+                <ctry>LI</ctry>
+                <ctry>LT</ctry>
+                <ctry>LU</ctry>
+                <ctry>LV</ctry>
+                <ctry>MC</ctry>
+                <ctry>NL</ctry>
+                <ctry>PL</ctry>
+                <ctry>PT</ctry>
+                <ctry>RO</ctry>
+                <ctry>SE</ctry>
+                <ctry>SI</ctry>
+                <ctry>SK</ctry>
+                <ctry>TR</ctry>
+            </B840>
+            <B844EP>
+                <B845EP>
+                    <ctry>AL</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>BA</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>HR</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>MK</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>RS</ctry>
+                </B845EP>
+            </B844EP>
+        </B800>
+    </SDOBI>
+    <abstract id="abst" lang="en">
+        <p id="pa01" num="0001">Insulating panel which comprises a core implemented in silica fibre which has individual metallic sheets bonded on both surfaces, forming an assembly capable of supporting temperatures in the order of 1200°C, as well as offering good sound damping, the assembly does not surpass 18mm in thickness overall. For the manufacture thereof the metallic sheets are scraped on their bonding surface, a primer or corrosion inhibitor is applied to them, and then they are dried with a stream of air at 80°C, finally a preferably reactive polyurethane glue is applied on which the metallic sheets are laid applying pressure, finally allowing it to cure.</p>
+    </abstract>
+    <!--  EPO <DP n="1">  -->
+    <description id="desc" lang="en">
+        <heading id="h0001">
+            <b>
+                <u style="single">OBJECT OF THE INVENTION</u>
+            </b>
+        </heading>
+        <p id="p0001" num="0001">The object of the present invention is a sound damping and fire resistant insulating panel, which is formed by a central layer manufactured from silica fibre, having metallic sheets bonded on both surfaces of the central core or blanket.</p>
+        <p id="p0002" num="0002">Also the object of the present invention is the manufacturing procedure necessary to be able to carry out the performance of the manufacturing procedure of the panel object of the invention.</p>
+        <p id="p0003" num="0003">The present panel is characterized in its high level of thermal insulation, having an exceptional resistance to chemical attack, also noteworthy is its high mechanical strength at high temperatures, being able to withstand continuous exposure to temperatures above 1200° C.</p>
+        <p id="p0004" num="0004">The present panel is characterized in its structural rigidity resulting from the adhesion of individual metallic sheets on both surfaces of the central blanket or core of silica fibre.</p>
+        <p id="p0005" num="0005">
+            The panel is also characterized in the high level of sound damping it offers, resulting from the association of the silica fibre with the structural characteristics that the bonded metallic sheets provide.
+            <!--  EPO <DP n="2">  -->
+        </p>
+        <p id="p0006" num="0006">Therefore, the present invention falls within the ambit of the insulating panels with a high fire resistance rating and that also have a high level of sound damping.</p>
+        <heading id="h0002">
+            <b>
+                <u style="single">BACKGROUND OF THE INVENTION.</u>
+            </b>
+        </heading>
+        <p id="p0007" num="0007">Up to now various panels are known which offer different qualities relative to their sound absorption capacity, or fire resistance capacity.</p>
+        <p id="p0008" num="0008">
+            For example, in the patent
+            <patcit id="pcit0001" dnum="ES2115900">
+                <text>ES 2115900</text>
+            </patcit>
+            a sound absorption panel is disclosed which has a central core of mineral fibre, which has individual fibreglass sheets bonded on each surface, and on one of them is bonded additionally a watertight sheet based on Kraft paper on which an aluminium sheet is laid. No mention is made of its thermal insulation properties.
+        </p>
+        <p id="p0009" num="0009">
+            In the Spanish Utility Model
+            <patcit id="pcit0002" dnum="ES1060278U">
+                <text>ES 1060278U</text>
+            </patcit>
+            a sandwich panel for construction is described formed of a central core which has external layers bonded on both surfaces. The central core consists of a cellular material comprising aluminium foam with a small titanium content, utilized as an expansion agent or foam agent. This sandwich panel is stable up to temperatures equal to 550° C.
+        </p>
+        <p id="p0010" num="0010">
+            There are other insulating panels which use glass or mineral fibre as constructive element for their core or interior, however the temperature they can stand is 450° C and 600° C if the exposure is short. Moreover, these panels have a substantial bulk or thickness, which is between 5cm and 20cm, a most undesirable feature speaking from the point of view of its construction. In addition they offer no properties as regards sound damping.
+            <!--  EPO <DP n="3">  -->
+        </p>
+        <p id="p0011" num="0011">Thus, it is an object of the present invention to overcome the preceding drawbacks, achieving a panel which withstands continuous exposure to temperatures of more than 1200° C, the thickness of which is clearly reduced with respect to similar panels that are being used at the moment, and wherein substantial sound damping is also achieved. All of this is achieved with the panel object of the present invention.</p>
+        <heading id="h0003">
+            <b>
+                <u style="single">DESCRIPTION OF THE INVENTION.</u>
+            </b>
+        </heading>
+        <p id="p0012" num="0012">The proposed invention of a sound damping and fire resistant insulating panel, object of the invention, basically comprises a panel which is formed by a central core implemented with a silica fibre blanket, on which individual metallic sheets are bonded on both surfaces. The blanket implemented with silica fibre is highly flexible, maintaining its mechanical strength intact up to 850° C, being able to withstand continuous exposure at temperatures above 1200° C.</p>
+        <p id="p0013" num="0013">In addition, Silica fibre is characterized in having a high acoustic attenuation, that is, its behaviour is good as a sound damping element.</p>
+        <p id="p0014" num="0014">
+            Therefore, silica fibre is a suitable material for the construction of fire resistant and sound damping panels.
+            <br/>
+            Given the flexibility of the silica fibre blanket, and with the object of providing it with greater rigidity which facilitates the handling and erection thereof, individual metallic sheets are bonded on both surfaces.
+        </p>
+        <p id="p0015" num="0015">
+            The metallic sheets only have the task of
+            <!--  EPO <DP n="4">  -->
+            providing the Silica fibre blanket with a certain structural rigidity in its constitution in panels, not serving as collaborating element in relation with the fire resistant properties thereof.
+        </p>
+        <p id="p0016" num="0016">The metallic sheets do collaborate and can improve the sound damping properties if they have a certain configuration. Thus, if for example on one of the two sheets a series of perforations are made, this configuration signifies a clear enhancement in the sound damping coefficient of the panel than if one of the sheets were simply not perforated.</p>
+        <p id="p0017" num="0017">Therefore, the sheets should not have a certain thickness, but rather it should be sufficient to achieve a structural rigidity of the panel. The material of the sheets can be aluminium, for its low weight, and for its high aesthetic effect, it being possible to employ sheets of galvanized iron or steel.</p>
+        <p id="p0018" num="0018">In those situations where it is desired to equip the panels with a certain weight, with the object of preventing them being moved by the wind, for example use in building roofs and the like, at least one of the two sheets which covers the central blanket or core of Silica fibre, is made of galvanized iron or steel, which provides the panel with sufficient weight to impede the possibility of it being easily blown away.</p>
+        <p id="p0019" num="0019">
+            In the end, through the properties of the Silica fibre blanket or core, the final thickness of the panel does not surpass 18mm, which makes it especially suitable for the lining of large rooms, the aluminium sheets having a thickness of between 0.1mm and 1.5mm.
+            <!--  EPO <DP n="5">  -->
+        </p>
+        <p id="p0020" num="0020">Among the countless applications that the insulating panel object of the invention can have, in the event that galvanized iron sheets are used as the metallic sheets, it can serve as an element for lining Transformer Substations, given the insulating, fire resistant, and sound damping properties it has, by using galvanized iron as the metal, screening of the electromagnetic radiations is also achieved. And should an improved acoustic attenuation be desired, the closest surface to the source of radiation would be perforated by means of regularly distributed perforations.</p>
+        <heading id="h0004">
+            <b>
+                <u style="single">DESCRIPTION OF THE DRAWINGS.</u>
+            </b>
+        </heading>
+        <p id="p0021" num="0021">To supplement the description that will be given below and with the object of assisting in a better understanding of the characteristics of the invention, this descriptive specification is accompanied with a set of drawings wherein, by way of illustration and not restrictively, the most significant details of the invention are represented.</p>
+        <p id="p0022" num="0022">
+            <figref idref="f0001">Figure 1</figref>
+            shows a representation in perspective of part of a panel object of the invention, wherein the constructional characteristics thereof are observed.
+        </p>
+        <heading id="h0005">
+            <b>
+                <u style="single">PREFERRED EMBODIMENT OF THE INVENTION,</u>
+            </b>
+        </heading>
+        <p id="p0023" num="0023">In light of the aforementioned figures a description is provided below of a preferred mode of embodiment of the invention as well as the explanation of the drawings.</p>
+        <p id="p0024" num="0024">
+            In
+            <figref idref="f0001">figure 1</figref>
+            , it can be observed that the insulating panel object of the invention is formed by a
+            <!--  EPO <DP n="6">  -->
+            core (1) implemented in Silica fibre, shaped in blanket form and that has metallic sheets (2) and (3) bonded on both surfaces.
+        </p>
+        <p id="p0025" num="0025">Specifically on one of the surfaces of the silica fibre blanket which forms the core (1), a sheet (1) is laid which will be mounted on the non-visible surface of the panel. This sheet can be made of Aluminium or any other metallic material. In the event that it is desired to provide the panel with a certain weight, a sheet of galvanized iron or steel can be used, so that it increases its weight and prevents it being blown off, through the action of the wind.</p>
+        <p id="p0026" num="0026">On the other surface of the Silica fibre blanket, which will be the visible surface of the panel, a dressed metallic sheet (3) will be laid, since it is the visible part of the panel, it is preferred that aluminium be used, for its high aesthetic value.</p>
+        <p id="p0027" num="0027">Both sheets (2) and (3) serve to give structural rigidity to the blanket with the silica fibre core (1), and improve the sound damping provided by the silica fibre core.</p>
+        <p id="p0028" num="0028">Nevertheless, and with the object of improving the acoustic attenuation achieved by the panel, on one of the sheets which cover the core, specifically the visible sheet (3), a series of perforations (4) are made which by leaving the silica fibre core in direct contact with the exterior, and forming an alternating surface of metallic material and silica fibre achieves a substantial acoustic attenuation.</p>
+        <p id="p0029" num="0029">
+            With regard to the procedure that should be
+            <!--  EPO <DP n="7">  -->
+            followed in the manufacture of the panel object of the invention, this consists of the following stages or steps:
+            <ul id="ul0001" list-style="dash" compact="compact">
+                <li>Sanding or scraping the metallic sheets on the surface that will be bonded to the silica fibre core.</li>
+                <li>Applying a primer or polymer as inhibitor of future corrosion, by means of a spray appliance or by roller.</li>
+                <li>Drying the primer by means of a hot-air stream that is at a temperature of about 80° C.</li>
+                <li>Application of adhesive glue.</li>
+                <li>Mounting the sheets on each of the blanket surfaces that form the silica fibre core.</li>
+                <li>Application of pressure.</li>
+                <li>Curing for several days.</li>
+            </ul>
+            In the event that the glue used for the bonding of the metallic sheets to the silica fibre core is a reactive polyurethane glue, the application of the glue is carried out by means of a hot-melt arrangement which progressively melts the glue, making it pass through a machine with rollers which are at a temperature of between 120° and 130°, or by means of a spreading sill making it fall as a film, or by means of a spray gun. The application of the glue by means of a gun is carried out by ribbon or by spray. Subsequently the metallic sheets are laid on both surfaces and pressure applied by means of a two roll calender, allowing the bonding to cure for several days.
+        </p>
+        <p id="p0030" num="0030">It is not considered necessary to extend this description further for any expert in the field to understand the scope of the invention and the advantages that arise thereof.</p>
+        <p id="p0031" num="0031">
+            The materials, form size and layout of the
+            <!--  EPO <DP n="8">  -->
+            elements and can be subject to variation provided they do not alter the essential nature of the invention.
+        </p>
+        <p id="p0032" num="0032">The terms in which this specification has been expressed are to be taken always in the broadest sense and in a non restrictive way.</p>
+    </description>
+    <!--  EPO <DP n="9">  -->
+    <claims id="claims01" lang="en">
+        <claim id="c-en-0001" num="">
+            <claim-text>
+                <b>1.</b>
+                Sound damping and fire resistant insulating panel
+                <b>characterized in that</b>
+                it comprises a blanket which forms the core implemented in silica fibre, individual metallic sheets being bonded on both surfaces.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0002" num="">
+            <claim-text>
+                <b>2.</b>
+                Sound damping and fire resistant insulating panel according to the first claim,
+                <b>characterized in that</b>
+                the metallic sheets are aluminium sheets.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0003" num="">
+            <claim-text>
+                <b>3.</b>
+                Sound damping and fire resistant insulating panel according to the first claim,
+                <b>characterized in that</b>
+                at least one of the metallic sheets, that which is mounted on the non-visible surface of the panel, is made of galvanized iron or steel.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0004" num="">
+            <claim-text>
+                <b>4.</b>
+                Sound damping and fire resistant insulating panel according to the first or second claim,
+                <b>characterized in that</b>
+                the sheet mounted on the visible surface has a series of perforations.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0005" num="">
+            <claim-text>
+                <b>5.</b>
+                Sound damping and fire resistant insulating panel according to the fourth claim,
+                <b>characterized in that</b>
+                the perforations made in the metallic sheet of the visible surface are regularly distributed.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0006" num="">
+            <claim-text>
+                <b>5.</b>
+                Sound damping and fire resistant insulating panel according to the second claim,
+                <b>characterized in that</b>
+                the thickness of the metallic sheets varies between 0.1mm and 1 . 5mm.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0007" num="">
+            <claim-text>
+                <b>6.</b>
+                Sound damping and fire resistant insulating panel according to the fifth claim,
+                <b>characterized in that</b>
+                the insulating panel has an overall thickness that does
+                <!--  EPO <DP n="10">  -->
+                not surpass 18mm.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0008" num="">
+            <claim-text>
+                <b>7.</b>
+                Sound damping and fire resistant insulating panel according to any of the preceding claims,
+                <b>characterized in that</b>
+                the temperature which the panel is able to stand in a continuous fashion is around 1200°C.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0009" num="">
+            <claim-text>
+                <b>8.</b>
+                Manufacturing procedure of the previously claimed panel,
+                <b>characterized in that</b>
+                it comprises the following stages:
+                <claim-text>• Sanding or scraping the metallic sheets on the surface that will be bonded to the silica fibre core.</claim-text>
+                <claim-text>
+                    • Applying a primer or polymer as inhibitor of future corrosion, by means of a spray gun or by roller.
+                    <claim-text>- Drying the primer by means of a hot-air stream which is at a temperature of about 80°C.</claim-text>
+                </claim-text>
+                <claim-text>• Application of adhesive glue.</claim-text>
+                <claim-text>• Mounting the sheets on each of the blanket surfaces that form the silica fibre core.</claim-text>
+                <claim-text>• Application of pressure.</claim-text>
+                <claim-text>• Curing for several days.</claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-0010" num="">
+            <claim-text>
+                <b>9.</b>
+                Manufacturing procedure according to claim 8,
+                <b>characterized in that</b>
+                , in the event that the glue used for the bonding of the metallic sheets on the silica fibre core is a reactive polyurethane glue, the application of the glue is carried out by means of a hot-melt arrangement element which progressively melts the glue, applying it either by means of a machine with rollers which are at a temperature between 120° and 130°, or by means of a spreading sill making a film fall or by means of a spray gun, subsequently mounting the metallic sheets on both
+                <!--  EPO <DP n="11">  -->
+                surfaces and applying pressure by means of a two roll calender, allowing the adhesion to cure for several days.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0011" num="">
+            <claim-text>
+                <b>10.</b>
+                Manufacturing procedure according to claim 8,
+                <b>characterized in that</b>
+                the application of the glue by means of a gun is carried out either by means of a ribbon or by spraying.
+            </claim-text>
+        </claim>
+    </claims>
+    <!--  EPO <DP n="12">  -->
+    <drawings id="draw" lang="en">
+        <figure id="f0001" num="1">
+            <img id="if0001" file="imgf0001.tif" wi="148" he="203" img-content="drawing" img-format="tif"/>
+        </figure>
+    </drawings>
+    <search-report-data id="srep" lang="en" srep-office="EP" date-produced="">
+        <doc-page id="srep0001" file="srep0001.tif" wi="152" he="233" type="tif"/>
+        <doc-page id="srep0002" file="srep0002.tif" wi="154" he="233" type="tif"/>
+    </search-report-data>
+    <ep-reference-list id="ref-list">
+        <heading id="ref-h0001">
+            <b>REFERENCES CITED IN THE DESCRIPTION</b>
+        </heading>
+        <p id="ref-p0001" num="">
+            <i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i>
+        </p>
+        <heading id="ref-h0002">
+            <b>Patent documents cited in the description</b>
+        </heading>
+        <p id="ref-p0002" num="">
+            <ul id="ref-ul0001" list-style="bullet">
+                <li>
+                    <patcit id="ref-pcit0001" dnum="ES2115900">
+                        <document-id>
+                            <country>ES</country>
+                            <doc-number>2115900</doc-number>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0001">[0008]</crossref>
+                </li>
+                <li>
+                    <patcit id="ref-pcit0002" dnum="ES1060278U">
+                        <document-id>
+                            <country>ES</country>
+                            <doc-number>1060278</doc-number>
+                            <kind>U</kind>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0002">[0009]</crossref>
+                </li>
+            </ul>
+        </p>
+    </ep-reference-list>
+</ep-patent-document>
