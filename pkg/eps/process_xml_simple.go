@@ -20,6 +20,24 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	patentDoc.DocNumber, _ = all.Attr("doc-number")
 	patentDoc.Lang, _ = all.Attr("lang")
 	patentDoc.Country, _ = all.Attr("country")
+	// title
+	/*
+		<B540>
+			<B541>de</B541>
+			<B542>VERFAHREN UND...</B542>
+			<B541>en</B541>
+			<B542>PROCEDURE AND ...</B542>
+		</B540>
+	*/
+	titles := all.Find("B540")
+	titles.Children().Each(func(i int, c *goquery.Selection) {
+		if c.Is("B541") && c.Next() != nil && c.Next().Is("B542") {
+			patentDoc.Title = append(patentDoc.Title, Title{
+				Language: c.Text(),
+				Text:     c.Next().Text(),
+			})
+		}
+	})
 	// abstract
 	abstract := all.Find("abstract")
 	abstract.Each(func(i int, a *goquery.Selection) {
@@ -44,24 +62,6 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			Id:       id,
 			Num:      num,
 		})
-	})
-	// title
-	/*
-		<B540>
-		                <B541>de</B541>
-		                <B542>VERFAHREN UND VORRICHTUNGEN ZUM VERIFIZIEREN VON KONTEXTTEILNEHMERN IN EINEM
-		                    KONTEXTVERWALTUNGSSYSTEM IN EINER VERNETZTEN UMGEBUNG
-		                </B542>
-		</B540>
-	*/
-	titles := all.Find("B540")
-	titles.Children().Each(func(i int, c *goquery.Selection) {
-		if c.Is("B541") && c.Next() != nil && c.Next().Is("B542") {
-			patentDoc.Title = append(patentDoc.Title, Title{
-				Language: c.Text(),
-				Text:     c.Next().Text(),
-			})
-		}
 	})
 	return
 }
