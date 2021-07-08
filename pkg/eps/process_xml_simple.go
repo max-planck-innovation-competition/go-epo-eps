@@ -45,6 +45,23 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			Num:      num,
 		})
 	})
-
+	// title
+	/*
+		<B540>
+		                <B541>de</B541>
+		                <B542>VERFAHREN UND VORRICHTUNGEN ZUM VERIFIZIEREN VON KONTEXTTEILNEHMERN IN EINEM
+		                    KONTEXTVERWALTUNGSSYSTEM IN EINER VERNETZTEN UMGEBUNG
+		                </B542>
+		</B540>
+	*/
+	titles := all.Find("B540")
+	titles.Children().Each(func(i int, c *goquery.Selection) {
+		if c.Is("B541") && c.Next() != nil && c.Next().Is("B542") {
+			patentDoc.Title = append(patentDoc.Title, Title{
+				Language: c.Text(),
+				Text:     c.Next().Text(),
+			})
+		}
+	})
 	return
 }

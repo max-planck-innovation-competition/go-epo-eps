@@ -10,10 +10,15 @@ type EpPatentDocumentSimple struct {
 	DatePubl    string `xml:"date-publ,attr"`
 	Status      string `xml:"status,attr"`
 	DtdVersion  string `xml:"dtd-version,attr"`
-	Title       string
+	Title       []Title
 	Abstract    []Abstract
 	Claims      []Claim
 	Description []Description
+}
+
+type Title struct {
+	Text     string
+	Language string
 }
 
 type Abstract struct {
