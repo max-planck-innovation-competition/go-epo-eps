@@ -14,6 +14,7 @@ type EpPatentDocumentSimple struct {
 	Abstract    []Abstract
 	Claims      []Claim
 	Description []Description
+	Citations   []Citation
 }
 
 type Title struct {

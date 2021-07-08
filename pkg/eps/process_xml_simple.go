@@ -63,5 +63,27 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			Num:      num,
 		})
 	})
+	// citations
+	/*
+		<patcit id="ref-pcit0001" dnum="US20120281566A">
+			<document-id>
+				<country>US</country>
+				<doc-number>20120281566</doc-number>
+				<kind>A</kind>
+			</document-id>
+		</patcit>
+		<crossref idref="pcit0001">[0006]</crossref>
+	*/
+	citations := all.Find("patcit")
+	citations.Each(func(i int, c *goquery.Selection) {
+		docId := c.Find("document-id")
+		if docId.Size() > 0 {
+			patentDoc.Citations = append(patentDoc.Citations, Citation{
+				Country:   docId.Find("country").Text(),
+				DocNumber: docId.Find("doc-number").Text(),
+				Kind:      docId.Find("kind").Text(),
+			})
+		}
+	})
 	return
 }
