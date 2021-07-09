@@ -1,0 +1,544 @@
+<ep-patent-document id="EP08018756A1" file="EP08018756NWA1.xml" lang="en" country="EP" doc-number="2055205" kind="A1"
+                    date-publ="20090506" status="n" dtd-version="ep-patent-document-v1-4">
+    <SDOBI lang="en">
+        <B000>
+            <eptags>
+                <B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORS..</B001EP>
+                <B005EP>J</B005EP>
+                <B007EP>DIM360 Ver 2.15 (14 Jul 2008) - 1100000/0</B007EP>
+            </eptags>
+        </B000>
+        <B100>
+            <B110>2055205</B110>
+            <B120>
+                <B121>EUROPEAN PATENT APPLICATION</B121>
+            </B120>
+            <B130>A1</B130>
+            <B140>
+                <date>20090506</date>
+            </B140>
+            <B190>EP</B190>
+        </B100>
+        <B200>
+            <B210>08018756.0</B210>
+            <B220>
+                <date>20081027</date>
+            </B220>
+            <B250>en</B250>
+            <B251EP>en</B251EP>
+            <B260>en</B260>
+        </B200>
+        <B300>
+            <B310>933870</B310>
+            <B320>
+                <date>20071101</date>
+            </B320>
+            <B330>
+                <ctry>US</ctry>
+            </B330>
+        </B300>
+        <B400>
+            <B405>
+                <date>20090506</date>
+                <bnum>200919</bnum>
+            </B405>
+            <B430>
+                <date>20090506</date>
+                <bnum>200919</bnum>
+            </B430>
+        </B400>
+        <B500>
+            <B510EP>
+                <classification-ipcr sequence="1">
+                    <text>A45D 8/20 20060101AFI20090304BHEP</text>
+                </classification-ipcr>
+                <classification-ipcr sequence="2">
+                    <text>A45D 8/34 20060101ALI20090304BHEP</text>
+                </classification-ipcr>
+            </B510EP>
+            <B540>
+                <B541>de</B541>
+                <B542>Haarspange</B542>
+                <B541>en</B541>
+                <B542>Bobby pin</B542>
+                <B541>fr</B541>
+                <B542>Pince à cheveux</B542>
+            </B540>
+            <B590>
+                <B598>1</B598>
+            </B590>
+        </B500>
+        <B700>
+            <B710>
+                <B711>
+                    <snm>Tsorng TA Enterprise Co., Ltd.</snm>
+                    <iid>08261390</iid>
+                    <irf>K 56 055/1jb</irf>
+                    <adr>
+                        <str>N° 28, Chun-Te 23th St.</str>
+                        <city>Tainan City</city>
+                        <ctry>TW</ctry>
+                    </adr>
+                </B711>
+            </B710>
+            <B720>
+                <B721>
+                    <snm>Tu, Jui-Ming</snm>
+                    <adr>
+                        <str>No. 28, Chun-Te 23th St.</str>
+                        <city>Tainan City</city>
+                        <ctry>TW</ctry>
+                    </adr>
+                </B721>
+            </B720>
+            <B740>
+                <B741>
+                    <snm>Kador & Partner</snm>
+                    <iid>00100211</iid>
+                    <adr>
+                        <str>Corneliusstrasse 15</str>
+                        <city>80469 München</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B741>
+            </B740>
+        </B700>
+        <B800>
+            <B840>
+                <ctry>AT</ctry>
+                <ctry>BE</ctry>
+                <ctry>BG</ctry>
+                <ctry>CH</ctry>
+                <ctry>CY</ctry>
+                <ctry>CZ</ctry>
+                <ctry>DE</ctry>
+                <ctry>DK</ctry>
+                <ctry>EE</ctry>
+                <ctry>ES</ctry>
+                <ctry>FI</ctry>
+                <ctry>FR</ctry>
+                <ctry>GB</ctry>
+                <ctry>GR</ctry>
+                <ctry>HR</ctry>
+                <ctry>HU</ctry>
+                <ctry>IE</ctry>
+                <ctry>IS</ctry>
+                <ctry>IT</ctry>
+                <ctry>LI</ctry>
+                <ctry>LT</ctry>
+                <ctry>LU</ctry>
+                <ctry>LV</ctry>
+                <ctry>MC</ctry>
+                <ctry>MT</ctry>
+                <ctry>NL</ctry>
+                <ctry>NO</ctry>
+                <ctry>PL</ctry>
+                <ctry>PT</ctry>
+                <ctry>RO</ctry>
+                <ctry>SE</ctry>
+                <ctry>SI</ctry>
+                <ctry>SK</ctry>
+                <ctry>TR</ctry>
+            </B840>
+            <B844EP>
+                <B845EP>
+                    <ctry>AL</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>BA</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>MK</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>RS</ctry>
+                </B845EP>
+            </B844EP>
+        </B800>
+    </SDOBI>
+    <abstract id="abst" lang="en">
+        <p id="pa01" num="0001">
+            A bobby pin includes a clamping ribs unit (2) and a hair fork (3). The clamping rib unit consists of a left
+            and a
+            right clamping rib member (20,21) interspaced, and the left and the right clamping rib member have a press
+            grip
+            (201,211) with a shaft hole (202,212) and a guiding groove (203,213). The hair fork has two rods (30)
+            extending from
+            a base member (31). A shaft (310) stands on the base member, extending in the shaft hole of the press grips
+            with a
+            spring (4) fitted around the shaft. In using, a user presses the two press grips to open the left and the
+            right
+            clamping rib member, with the rods of the hair fork shifted and located in the center of the bobby pin.
+            <img id="iaf01" file="imgaf001.tif" wi="116" he="70" img-content="drawing" img-format="tif"/>
+        </p>
+    </abstract>
+    <!--  EPO <DP n="1">  -->
+    <description id="desc" lang="en">
+        <heading id="h0001">BACKGROUND OF THE INVENTION</heading>
+        <heading id="h0002">1. Field of the Invention</heading>
+        <p id="p0001" num="0001">This invention relates to a bobby pin, particularly to one provided with a clamping rib
+            unit
+            consisting of a left clamping rib member and a right clamping rib member and a press grip formed on the left
+            and the
+            right clamping rib member respectively, so a user can open widely the left and the right clamping member by
+            pushing
+            down the press grips, with a hair fork inserted in the space between the left and the right clamping rib
+            member, and
+            then the left and the right clamping member are closed by releasing the press grips to clamp hair tightly in
+            three-dimension way.
+        </p>
+        <heading id="h0003">2. Description of the Prior Art</heading>
+        <p id="p0002" num="0002">
+            A first conventional bobby pin 10 shown in
+            <figref idref="f0001">Figs. 1 and 2</figref>
+            , includes an upper clamping member 100 and a lower clamping member 101, a left and a right press member 102
+            and 103
+            formed in a rear portion of the upper and the lower clamping member 100 and 101 respectively. The upper and
+            the
+            lower press member 102 and 103 are respectively provided sidewise with a shaft base 104 and 105 with a hole
+            for a
+            shaft 106 to fit through with a torque spring (not shown) fitted around the shaft 106. Then the first
+            conventional
+            bobby pin can only clamp hair in a line, practically impossible to clamp hair tightly enough, easily to
+            permit hair
+            slip off the bobby pin.
+        </p>
+        <p id="p0003" num="0003">
+            A second convention bobby pin shown in
+            <figref idref="f0002">Figs. 3 and 4</figref>
+            includes a left clamping member 110 and a right clamping member 111, and a left and a right press member 112
+            and 113
+            <!--  EPO <DP n="2">  -->
+            formed respectively on the left and the right clamping member 110 and 111, a shaft base 114 and 115
+            respectively
+            formed on the left and the right clamping member 110 and 111 for a shaft 116 to fit through and with spring
+            117
+            fitted around the shaft 116. From the
+            <figref idref="f0002">Fig. 4</figref>
+            , it can be seen that hair is clamped between the left and the right clamping member 110 and 111 crossing
+            each
+            other, with a hair fork impossible to be inserted in the bobby pin, resulting in loose clamping to slide off
+            the
+            bobby pin in the same way as the first conventional bobby pin.
+        </p>
+        <p id="p0004" num="0004">
+            Next, a third conventional bobby pin 12 shown in
+            <figref idref="f0003">Figs. 5 and 6</figref>
+            includes an upper clamping member 120 and a lower clamping member 121 almost just like the first
+            conventional bobby
+            pin, but has a larger space between the upper and the lower lamping member 120 and 121 than that of the
+            first
+            conventional one. Thus, the third conventional bobby pin clamps hair in a line too, with the mass of hair
+            clamped
+            more than that by the first conventional one, with hair being apt to slide off the upper and the lower
+            clamping
+            member 120 and 121.
+        </p>
+        <p id="p0005" num="0005">
+            A fourth conventional bobby pin 13 shown in
+            <figref idref="f0004">Figs. 7 and 8</figref>
+            includes an upper and a lower clamping member 130 and 131 nearly the same as the third conventional bobby
+            pin 12,
+            except the dimensions of the upper and the lower clamping member 130 and 131 being larger than that of the
+            third
+            conventional one. So the hair mass clamped between the upper and the lower clamping member 130 and 131 can
+            be much
+            more that of the third conventional one, also impossible to clamp hair in a solid way as the rest
+            conventional bobby
+            pins mentioned above.
+        </p>
+        <heading id="h0004">SUMMARY OF THE INVENTION</heading>
+        <p id="p0006" num="0006">
+            This invention has been devised to offer a kind of bobby
+            <!--  EPO <DP n="3">  -->
+            pin, possible to clamp hair tightly in a three-dimension way and have an ornamental effect, with the
+            following
+            features.
+            <ol id="ol0001" compact="compact" ol-style="">
+                <li>1. It consists of a left and a right clamping rib member respectively having a plurality of curved
+                    ribs
+                    arranged to fit in a space between every two ribs mutually, when the left and the right clamping rib
+                    member
+                    are closed together for clamping hair.
+                </li>
+                <li>2. It is provided with a hair fork to be positioned in the center of a space between the left and
+                    the right
+                    clamping rib member for reinforcing clamping function.
+                </li>
+                <li>3. The left and the right clamping rib member respectively have a press grip, and a user pushes down
+                    the
+                    press grips to open the left and the right clamping unit, with a guiding groove in the press grips
+                    clamping
+                    a correct rod of the hair fork to adjust the hair fork just positioned in the center of the space
+                    between
+                    the left and the right clamping unit. Then the left and the right clamping unit are closed to clamp
+                    hair
+                    quite tightly with cooperation of the hair fork and the bobby pin can have a decorative effect.
+                </li>
+            </ol>
+        </p>
+        <heading id="h0005">BRIEF DESCRIPTION OF DRAWINGS</heading>
+        <p id="p0007" num="0007">
+            This invention will be better understood by referring to the accompanying drawings, wherein:
+            <ul id="ul0001" list-style="none" compact="compact">
+                <li>
+                    <figref idref="f0001">Figure 1</figref>
+                    is a side view of a first conventional bobby pin;
+                </li>
+                <li>
+                    <figref idref="f0001">Figure 2</figref>
+                    is a perspective view of the first conventional bobby pin clamping hair;
+                </li>
+                <li>
+                    <figref idref="f0002">Figure 3</figref>
+                    is a side view of a second conventional bobby pin;
+                </li>
+                <li>
+                    <figref idref="f0002">Figure 4</figref>
+                    is a side view of the second conventional bobby pin clamping hair;
+                    <!--  EPO <DP n="4">  -->
+                </li>
+                <li>
+                    <figref idref="f0003">Figure 5</figref>
+                    is a side view of a third conventional bobby pin;
+                </li>
+                <li>
+                    <figref idref="f0003">Figure 6</figref>
+                    is a perspective view of the third conventional bobby pin;
+                </li>
+                <li>
+                    <figref idref="f0004">Figure 7</figref>
+                    is a side view of a fourth conventional bobby pin;
+                </li>
+                <li>
+                    <figref idref="f0004">Figure 8</figref>
+                    is a side view of the fourth conventional bobby pin clamping hair;
+                </li>
+                <li>
+                    <figref idref="f0005">Figure 9</figref>
+                    is a perspective view of a bobby pin in the present invention;
+                </li>
+                <li>
+                    <figref idref="f0005">Figure 10</figref>
+                    is a perspective view of a hair fork in the present invention;
+                </li>
+                <li>
+                    <figref idref="f0006">Figure 11</figref>
+                    is an upper view of the bobby pin in the present invention;
+                </li>
+                <li>
+                    <figref idref="f0006">Figure 12</figref>
+                    is a partial cross-sectional view of a left and a right clamping unit opened in the present
+                    invention;
+                </li>
+                <li>
+                    <figref idref="f0007">Figure 13</figref>
+                    is a partial cross-sectional view of the left and the right clamping unit in the present invention;
+                </li>
+                <li>
+                    <figref idref="f0007">Figure 14</figref>
+                    is a partial cross-sectional view of the line B - B in
+                    <figref idref="f0006">Fig. 11</figref>
+                    ;
+                </li>
+                <li>
+                    <figref idref="f0008">Figure 15</figref>
+                    is a front view of the bobby pin closed up in the present invention; and,
+                </li>
+                <li>
+                    <figref idref="f0008">Figure 16</figref>
+                    is a side view of the bobby pin clamping hair in the present invention.
+                </li>
+            </ul>
+        </p>
+        <heading id="h0006">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+        <p id="p0008" num="0008">
+            A preferred embodiment of a bobby pin in the present invention, as shown in
+            <figref idref="f0005">Figs. 9, 10</figref>
+            and
+            <figref idref="f0006">11</figref>
+            , includes a clamping rib unit 2 and a hair fork 3.
+        </p>
+        <p id="p0009" num="0009">
+            The clamping rib unit 2 is composed of a left clamping rib member 20 and a right clamping rib member 21, and
+            the
+            left and
+            <!--  EPO <DP n="5">  -->
+            the right clamping member 20 and 21 respectively have a plurality of curved ribs 200 and 210 arranged spaced
+            apart
+            in such a way that each rib 200 of the left clamping rib member 20 insert in a gap between every two
+            adjacent ribs
+            210 of the right clamping rib member 201 when they are closed. Further the left and the right clamping rib
+            member 20
+            and 21 are respectively provided with a press grip 201 and 211 formed symmetrically in an end, and a shaft
+            hole 202
+            and 212 are respectively formed in the press grip 202 and 212 respectively as shown in
+            <figref idref="f0008">Fig. 15</figref>
+            . Further, the press grips 201 and 211 have a correct groove 203 and 213 respectively in an inner surface as
+            shown
+            in
+            <figref idref="f0006">Figs. 12</figref>
+            ,
+            <figref idref="f0007">13 and 14</figref>
+            .
+        </p>
+        <p id="p0010" num="0010">
+            The hair fork 3 is provided with two rods spaced apart 30 and a base member 31. The rods 30 extend out from
+            the base
+            member 31, and a shaft 310 is formed integral to stand upright on the base member 31, fitting in the shaft
+            holes 202
+            and 212 of the press grips 201 and 211, as shown in
+            <figref idref="f0007">Figs. 14</figref>
+            and
+            <figref idref="f0008">15</figref>
+            , with a spring 4 fitting around the shaft 310. The spring 4 is preferably a torque one, having two ends 40
+            and 41
+            extending to push against the inner surface of the press grips 201 and 211 so that the left and the right
+            clamping
+            rib member 20 and 21 can elastically and automatically be pushed back to close after opened. Then the bobby
+            pin 10
+            can maintain clamping function with ease. In addition, the base member 31 has a correct block 311 sidewise
+            on the
+            rear end. So when a user presses down the press grids 201 and 211 to force the left and the right clamping
+            rib
+            member 20 and 21 open, the correct grooves 203 and 213 can clamp the correct block 311 therein, so that the
+            hair
+            fork 3 can be adjusted to position just in the center of the space between the left and the
+            <!--  EPO <DP n="6">  -->
+            right clamping rib member 20 and 21, as shown in
+            <figref idref="f0008">Fig. 15</figref>
+            .
+        </p>
+        <p id="p0011" num="0011">
+            In handling the bobby pin 10, a user first inserts the hair fork 3 in a topknot 5 as shown In
+            <figref idref="f0008">Fig. 16</figref>
+            , and then the curved ribs 200 and 210 of the left and the right clamping rib member 20 and 21 are opened by
+            pressing the press grips 201, 211, moved into hair, and then released the press grips 201 and 211 to let the
+            two
+            clamping rib member 20 and 21 to close and clamp hair, with the hair fork 3 extending in the hair near the
+            head
+            skin. Then the hair can tightly be clamped in three dimensions in a solid way, as shown in
+            <figref idref="f0008">Fig. 16</figref>
+            .
+        </p>
+        <p id="p0012" num="0012">While the preferred embodiment of the invention has been described above, it will be
+            recognized
+            and understood that various modifications may be made therein and the appended claims are intended to cover
+            all such
+            modifications that may fall within the spirit and scope of the invention.
+        </p>
+    </description>
+    <!--  EPO <DP n="7">  -->
+    <claims id="claims01" lang="en">
+        <claim id="c-en-0001" num="0001">
+            <claim-text>
+                A bobby pin comprising:
+                <claim-text>A clamping rib unit consisting of a left clamping rib member and a right clamping rib
+                    member, said
+                    left and said right clamping rib member having a plurality of curved ribs apace apart properly, said
+                    left
+                    and said right clamping rib member respectively provided with a press grip formed in one end, said
+                    press
+                    grip bored with a shaft hole and formed with a correct groove in an inner surface; and;
+                </claim-text>
+                <claim-text>a hair fork having a rod and a base member, said rod extending out from said base member,
+                    said base
+                    member having a shaft standing upright sidewise, said shaft extending in said shaft hole of said
+                    press grip
+                    of said left and said right clamping rib member, a spring fitting around said shaft, said base
+                    member
+                    provided with a correct block.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-0002" num="0002">
+            <claim-text>The bobby pin as claimed in Claim 1, wherein said curved ribs of said left and the right
+                clamping rib
+                member respectively fit in a space between every two adjacent ribs of an opposite clamping rib member
+                when said
+                left and said right clamping rib member are closed up.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0003" num="0003">
+            <claim-text>The bobby pin as claimed in Claim 1, wherein two rods extend spaced apart out of said base
+                member..
+            </claim-text>
+        </claim>
+        <claim id="c-en-0004" num="0004">
+            <claim-text>The bobby pin as claimed in Claim 1, wherein said shaft of said base member of said hair fork is
+                integrally formed with said hair fork.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0005" num="0005">
+            <claim-text>The bobby pin as claimed in Claim 1, wherein two ends of said spring respectively extend to push
+                against
+                an inner surface of said press grip of said left and said right clamping rib member.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0006" num="0006">
+            <claim-text>
+                A bobby pin comprising:
+                <!--  EPO <DP n="8">  -->
+                <claim-text>a clamping rib unit consisting of a left clamping rib member and a right clamping rib
+                    member, said
+                    left and said left clamping rib member respectively having a plurality of curved ribs, said left and
+                    said
+                    right clamping rib member respectively having a press grip formed in one end, each said press grip
+                    having a
+                    shaft hole, a hair fork formed inside said clamping rib unit and having a rod member and a base
+                    member, said
+                    base member of said hair fork provided with a shaft, said shaft extending in said shaft hole of said
+                    left
+                    and said right clamping rib member; and,
+                </claim-text>
+                <claim-text>said hair fork moving together with said left and said right clamping rib member when said
+                    left and
+                    said right clamping rib member are opened out so that said hair fork may be corrected to position
+                    just in a
+                    center of a space between said left and said right clamping rib member, said hair fork and said left
+                    and
+                    said right clamping rib member clamping hair together at the same time in a tightly
+                    three-dimensional way.
+                </claim-text>
+            </claim-text>
+        </claim>
+    </claims>
+    <!--  EPO <DP n="9">  -->
+    <drawings id="draw" lang="en">
+        <figure id="f0001" num="1,2">
+            <img id="if0001" file="imgf0001.tif" wi="139" he="224" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="10">  -->
+        <figure id="f0002" num="3,4">
+            <img id="if0002" file="imgf0002.tif" wi="150" he="214" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="11">  -->
+        <figure id="f0003" num="5,6">
+            <img id="if0003" file="imgf0003.tif" wi="115" he="219" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="12">  -->
+        <figure id="f0004" num="7,8">
+            <img id="if0004" file="imgf0004.tif" wi="134" he="220" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="13">  -->
+        <figure id="f0005" num="9,10">
+            <img id="if0005" file="imgf0005.tif" wi="146" he="227" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="14">  -->
+        <figure id="f0006" num="11,12">
+            <img id="if0006" file="imgf0006.tif" wi="164" he="231" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="15">  -->
+        <figure id="f0007" num="13,14">
+            <img id="if0007" file="imgf0007.tif" wi="152" he="215" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="16">  -->
+        <figure id="f0008" num="15,16">
+            <img id="if0008" file="imgf0008.tif" wi="147" he="209" img-content="drawing" img-format="tif"/>
+        </figure>
+    </drawings>
+    <search-report-data id="srep" lang="en" srep-office="EP" date-produced="">
+        <doc-page id="srep0001" file="srep0001.tif" wi="161" he="233" type="tif"/>
+        <doc-page id="srep0002" file="srep0002.tif" wi="162" he="233" type="tif"/>
+    </search-report-data>
+</ep-patent-document>

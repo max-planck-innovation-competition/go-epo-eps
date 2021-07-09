@@ -1,0 +1,1125 @@
+<!--  This XML data has been generated under the supervision of the European Patent Office  -->
+<ep-patent-document id="EP19188132B1" file="EP19188132NWB1.xml" lang="en" country="EP" doc-number="3582580" kind="B1" date-publ="20210707" status="n" dtd-version="ep-patent-document-v1-5-1">
+    <SDOBI lang="en">
+        <B000>
+            <eptags>
+                <B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP>
+                <B005EP>J</B005EP>
+                <B007EP>BDM Ver 1.7.2 (20 November 2019) - 2100000/0</B007EP>
+            </eptags>
+        </B000>
+        <B100>
+            <B110>3582580</B110>
+            <B120>
+                <B121>EUROPEAN PATENT SPECIFICATION</B121>
+            </B120>
+            <B130>B1</B130>
+            <B140>
+                <date>20210707</date>
+            </B140>
+            <B190>EP</B190>
+        </B100>
+        <B200>
+            <B210>19188132.5</B210>
+            <B220>
+                <date>20140910</date>
+            </B220>
+            <B240>
+                <B241>
+                    <date>20190810</date>
+                </B241>
+                <B242>
+                    <date>20200819</date>
+                </B242>
+            </B240>
+            <B250>en</B250>
+            <B251EP>en</B251EP>
+            <B260>en</B260>
+        </B200>
+        <B300>
+            <B310>13186547</B310>
+            <B320>
+                <date>20130927</date>
+            </B320>
+            <B330>
+                <ctry>EP</ctry>
+            </B330>
+        </B300>
+        <B400>
+            <B405>
+                <date>20210707</date>
+                <bnum>202127</bnum>
+            </B405>
+            <B430>
+                <date>20191218</date>
+                <bnum>201951</bnum>
+            </B430>
+            <B450>
+                <date>20210707</date>
+                <bnum>202127</bnum>
+            </B450>
+            <B452EP>
+                <date>20210201</date>
+            </B452EP>
+        </B400>
+        <B500>
+            <B510EP>
+                <classification-ipcr sequence="1">
+                    <text>H04W 76/28 20180101AFI20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="2">
+                    <text>H04W 52/02 20090101ALI20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="3">
+                    <text>H04W 72/04 20090101ALI20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="4">
+                    <text>H04W 40/00 20090101ALI20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="5">
+                    <text>H04W 76/27 20180101ALI20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="6">
+                    <text>H04W 4/70 20180101ALI20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="7">
+                    <text>H04W 36/30 20090101ALN20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="8">
+                    <text>H04W 88/12 20090101ALN20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="9">
+                    <text>H04J 11/00 20060101ALN20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="10">
+                    <text>H04W 88/16 20090101ALN20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="11">
+                    <text>H04W 68/02 20090101ALN20201221BHEP </text>
+                </classification-ipcr>
+                <classification-ipcr sequence="12">
+                    <text>H04L 29/06 20060101ALN20201221BHEP </text>
+                </classification-ipcr>
+            </B510EP>
+            <B540>
+                <B541>de</B541>
+                <B542>KOMMUNIKATIONSVORRICHTUNG UND -VERFAHREN</B542>
+                <B541>en</B541>
+                <B542>COMMUNICATIONS DEVICE AND METHOD</B542>
+                <B541>fr</B541>
+                <B542>DISPOSITIF ET PROCÉDÉ DE COMMUNICATIONS</B542>
+            </B540>
+            <B560>
+                <B561>
+                    <text>US-A1- 2012 281 566</text>
+                </B561>
+            </B560>
+        </B500>
+        <B600>
+            <B620>
+                <parent>
+                    <pdoc>
+                        <dnum>
+                            <anum>17197840.6</anum>
+                            <pnum>3301995</pnum>
+                        </dnum>
+                        <date>20171023</date>
+                    </pdoc>
+                    <pdoc>
+                        <dnum>
+                            <anum>14761663.5</anum>
+                            <pnum>3039941</pnum>
+                        </dnum>
+                        <date>20140910</date>
+                    </pdoc>
+                </parent>
+            </B620>
+        </B600>
+        <B700>
+            <B720>
+                <B721>
+                    <snm>MARTIN, Brian Alexander</snm>
+                    <adr>
+                        <str>c/o Sony Europe IP Europe Jays Close, Viables</str>
+                        <city>Basingstoke, Hampshire RG22 4SB</city>
+                        <ctry>GB</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>WAKABAYASHI, Hideji</snm>
+                    <adr>
+                        <str>c/o Sony Europe Limited IP Europe Jays Close, Viables</str>
+                        <city>Basingstoke, Hampshire RG22 4SB</city>
+                        <ctry>GB</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>KAHTAVA, Jussi</snm>
+                    <adr>
+                        <str>c/o Sony Europe Limited IP Europe Jays Close, Viables</str>
+                        <city>Basingstoke, Hampshire RG22 4SB</city>
+                        <ctry>GB</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>MORIOKA, Yuichi</snm>
+                    <adr>
+                        <str>c/o Sony Europe Limited IP Europe Jays Close, Viables</str>
+                        <city>Basingstoke, Hampshire RG22 4SB</city>
+                        <ctry>GB</ctry>
+                    </adr>
+                </B721>
+            </B720>
+            <B730>
+                <B731>
+                    <snm>SONY Corporation</snm>
+                    <iid>101825199</iid>
+                    <irf>P103307EP1AA</irf>
+                    <adr>
+                        <str>1-7-1 Konan, Minato-ku</str>
+                        <city>Tokyo 108-0075</city>
+                        <ctry>JP</ctry>
+                    </adr>
+                </B731>
+            </B730>
+            <B740>
+                <B741>
+                    <snm>D Young & Co LLP</snm>
+                    <iid>101533551</iid>
+                    <adr>
+                        <str>120 Holborn</str>
+                        <city>London EC1N 2DY</city>
+                        <ctry>GB</ctry>
+                    </adr>
+                </B741>
+            </B740>
+        </B700>
+        <B800>
+            <B840>
+                <ctry>AL</ctry>
+                <ctry>AT</ctry>
+                <ctry>BE</ctry>
+                <ctry>BG</ctry>
+                <ctry>CH</ctry>
+                <ctry>CY</ctry>
+                <ctry>CZ</ctry>
+                <ctry>DE</ctry>
+                <ctry>DK</ctry>
+                <ctry>EE</ctry>
+                <ctry>ES</ctry>
+                <ctry>FI</ctry>
+                <ctry>FR</ctry>
+                <ctry>GB</ctry>
+                <ctry>GR</ctry>
+                <ctry>HR</ctry>
+                <ctry>HU</ctry>
+                <ctry>IE</ctry>
+                <ctry>IS</ctry>
+                <ctry>IT</ctry>
+                <ctry>LI</ctry>
+                <ctry>LT</ctry>
+                <ctry>LU</ctry>
+                <ctry>LV</ctry>
+                <ctry>MC</ctry>
+                <ctry>MK</ctry>
+                <ctry>MT</ctry>
+                <ctry>NL</ctry>
+                <ctry>NO</ctry>
+                <ctry>PL</ctry>
+                <ctry>PT</ctry>
+                <ctry>RO</ctry>
+                <ctry>RS</ctry>
+                <ctry>SE</ctry>
+                <ctry>SI</ctry>
+                <ctry>SK</ctry>
+                <ctry>SM</ctry>
+                <ctry>TR</ctry>
+            </B840>
+        </B800>
+    </SDOBI>
+    <description id="desc" lang="en">
+        <!--  EPO <DP n="1">  -->
+        <heading id="h0001">
+            <b>
+                <u>TECHNICAL FIELD OF THE DISCLOSURE</u>
+            </b>
+        </heading>
+        <p id="p0001" num="0001">The present disclosure relates to communications devices.</p>
+        <heading id="h0002">
+            <b>
+                <u>BACKGROUND OF THE DISCLOSURE</u>
+            </b>
+        </heading>
+        <p id="p0002" num="0002">Mobile communications systems continue to be developed to provide wireless communications services to a greater variety of electronic devices. In more recent years, third and fourth generation mobile telecommunication systems, such as those based on the 3GPP defined UMTS and Long Term Evolution (LTE) architectures have been developed to support more sophisticated communications services to personal computing and communications devices than simple voice and messaging services offered by previous generations of mobile telecommunication systems. For example, with the improved radio interface and enhanced data rates provided by LTE systems, a user may enjoy high data rate applications such as mobile video streaming and mobile video conferencing that would previously only have been available via a fixed line data connection. The demand to deploy third and fourth generation networks is therefore strong and the coverage area of these networks, i.e. geographic locations where access to the networks is possible, is expected to increase rapidly.</p>
+        <p id="p0003" num="0003">More recently it has been recognised that rather than providing high data rate communications services to certain types of electronics devices, it is also desirable to provide communications services to electronics devices that are simpler and less sophisticated. For example, so-called machine type communication (MTC) applications may be semi-autonomous or autonomous wireless communication devices which may communicate small amounts of data on a relatively infrequent basis. Some examples include so-called smart meters which, for example, are located in a customer's house and periodically transmit information back to a central MTC server data relating to the customer's consumption of a utility such as gas, water, electricity and so on.</p>
+        <p id="p0004" num="0004">Whilst it can be convenient for a communications device such as an MTC type device to take advantage of the wide coverage area provided by a third or fourth generation mobile telecommunication network there are at present disadvantages. Unlike a conventional third or fourth generation communications device such as a smartphone, a lower complexity device may operate with a lower bandwidth and be preferably relatively simple and inexpensive. The type of functions performed by the MTC-type device (e.g. collecting and reporting back data) do not require particularly complex processing to perform.</p>
+        <p id="p0005" num="0005">As will be appreciated, there may be a desire for many types of communications devices and mobile communications networks to use communications resources as efficiently as possible and to reduce power consumption. It is known for example to reduce the power consumed by a communications device by performing what is known as discontinuous reception. Discontinuous reception is a technique in which a communications device may be radio resource connected, but after monitoring a control channel to determine whether communications resources have been allocated to the communications device, the communications device can sleep for a remainder of a time before another transmission may occur on control channel. Accordingly the communications device can save power.</p>
+        <p id="p0006" num="0006">
+            <patcit id="pcit0001" dnum="US20120281566A">
+                <text>US 2012/0281566</text>
+            </patcit>
+            Alrelates to a method and apparatus for controlling connectivity to a network for intermittent data services.
+            <!--  EPO <DP n="2">  -->
+        </p>
+        <heading id="h0003">
+            <b>
+                <u>SUMMARY OF THE DISCLOSURE</u>
+            </b>
+        </heading>
+        <p id="p0007" num="0007">
+            The invention is defined by the appended claims.
+            <!--  EPO <DP n="3">  -->
+        </p>
+        <heading id="h0004">
+            <b>
+                <u>BRIEF DESCRIPTION OF DRAWINGS</u>
+            </b>
+        </heading>
+        <p id="p0008" num="0008">
+            Arrangements of the present disclosure will now be described by way of example only with reference to the accompanying drawings in which like parts are provided with corresponding reference numerals and in which:
+            <ul id="ul0001" list-style="none" compact="compact">
+                <li>
+                    <figref idref="f0001">Figure 1</figref>
+                    provides a schematic diagram illustrating an example of a mobile communications network configured in accordance with LTE;
+                </li>
+                <li>
+                    <figref idref="f0001">Figure 2</figref>
+                    provides a schematic diagram illustrating an arrangement of an Enhanced Packet Service bearer established for communicating data packets via the mobile communications network;
+                </li>
+                <li>
+                    <figref idref="f0002">Figure 3</figref>
+                    provides a schematic diagram representing the states of the communications device including whether the device is EMM registered or ECM connected;
+                </li>
+                <li>
+                    <figref idref="f0003">Figure 4</figref>
+                    is a schematic illustration of state transitions of a communications device operating in the mobile communications network of
+                    <figref idref="f0001">Figure 1</figref>
+                    ;
+                </li>
+                <li>
+                    <figref idref="f0004">Figure 5</figref>
+                    is a simplified call flow diagram illustrating a process in which a communications device establishes and an EPS bearer for communicating data via the mobile communications network shown in
+                    <figref idref="f0001">Figure 1</figref>
+                    ;
+                </li>
+                <li>
+                    <figref idref="f0005">Figure 6</figref>
+                    is a schematic block diagram illustrating functions performed by infrastructure equipment of the mobile indications network shown in
+                    <figref idref="f0001">Figure 1</figref>
+                    to provide an EPS bearer;
+                </li>
+                <li>
+                    <figref idref="f0006">Figure 7</figref>
+                    is a schematic block diagram illustrating the protocol stack for a control plane of infrastructure equipment forming part of the mobile communications network shown in
+                    <figref idref="f0001">Figure 1</figref>
+                    ;
+                </li>
+                <li>
+                    <figref idref="f0007">Figure 8</figref>
+                    is a schematic block diagram illustrating the protocol stack for user plane of a communications device (UE) and is a base station (eNB);
+                </li>
+                <li>
+                    <figref idref="f0008">Figure 9a</figref>
+                    is a call flow diagram illustrating an exchange of signalling messages between a communications device and infrastructure equipment of the mobile communications network shown in
+                    <figref idref="f0001">Figure 1</figref>
+                    to establish a communications context; and
+                    <figref idref="f0009">Figure 9b</figref>
+                    is a corresponding call flow diagram illustrating an exchange of messages to release communications resources;
+                </li>
+                <li>
+                    <figref idref="f0010">Figure 10</figref>
+                    is a schematic illustration of a state diagram of a communications device operating in accordance with the present technique which includes a new power saving state;
+                </li>
+                <li>
+                    <figref idref="f0011">Figure 11</figref>
+                    is a schematic illustration of state transition diagram of a communications device which transitions to a power saving state in accordance with the present technique;
+                </li>
+                <li>
+                    <figref idref="f0012">Figure 12</figref>
+                    is a call flow diagram illustrating an exchange of messages which includes the operation of a communications device which enters a power saving state in accordance with the present technique;
+                </li>
+                <li>
+                    <figref idref="f0013">Figure 13</figref>
+                    is a schematic illustration of state transition diagram representing the operations of a communications device which transitions to a power saving state from an Idle state in accordance with a previously proposed arrangement;
+                </li>
+                <li>
+                    <figref idref="f0014">Figure 14</figref>
+                    is a schematic illustration of an example of signalling messages providing an indication of power saving power saving states being transmitted from a base station (eNodeB) to a communications device (UE);
+                </li>
+                <li>
+                    <figref idref="f0014">Figure 15</figref>
+                    is a schematic illustration of an example of signalling messages providing an indication of conditions for entering one or more power saving power saving states being transmitted from a base station (eNodeB) to a communications device (UE);
+                </li>
+                <li>
+                    <figref idref="f0014">Figure 16</figref>
+                    is a schematic illustration of an example of a signalling message instructing a communications device to enter a power saving power saving state being transmitted from a base station (eNodeB) to a communications device (UE);
+                    <!--  EPO <DP n="4">  -->
+                </li>
+                <li>
+                    <figref idref="f0013">Figure 17</figref>
+                    provides a representation of a first state diagram of a communications device operating in accordance with the present technique;
+                </li>
+                <li>
+                    <figref idref="f0015">Figure 18</figref>
+                    provides a representation of a second state diagram of a communications device operating in accordance with the present technique;
+                </li>
+                <li>
+                    <figref idref="f0015">Figure 19</figref>
+                    provides a representation of a third state diagram of a communications device operating in accordance with the present technique;
+                </li>
+                <li>
+                    <figref idref="f0016">Figure 20</figref>
+                    provides a representation of a power saving power saving state providing a plurality of different power saving states or sub-states of a communications device operating in accordance with the present technique; and
+                </li>
+                <li>
+                    <figref idref="f0017">Figure 21</figref>
+                    provides a schematic block diagram of a communications device and a base station configured in accordance with an example of the present disclosure.
+                </li>
+            </ul>
+            <!--  EPO <DP n="5">  -->
+        </p>
+        <heading id="h0005">
+            <b>
+                <u>DESCRIPTION OF EXAMPLE ARRANGEMENTS</u>
+            </b>
+        </heading>
+        <p id="p0009" num="0009">The example arrangements will be generally described in the context of a 3GPP LTE architecture. However, the invention is not limited to an implementation in a 3GPP LTE architecture. Conversely, any suitable mobile architecture is considered to be relevant.</p>
+        <heading id="h0006">
+            <b>
+                <u>Conventional Network</u>
+            </b>
+        </heading>
+        <p id="p0010" num="0010">
+            <figref idref="f0001">Figure 1</figref>
+            provides a schematic diagram illustrating the basic functionality of a conventional mobile telecommunications network. The network includes one or more base stations 102 (one base station represented) connected to a serving gateway (S-GW) 103 for traffic in the user plane and to a Mobility Management Entity (MME) for signalling in the control plane. In LTE, the base stations are called e-NodeB, which are referred to in the following description as eNB. Each base station provides a coverage area 103 within which data can be communicated to and from communications devices 101. Data is transmitted from a base station 102 to a communications device 101 within a coverage area via a radio downlink. Data is transmitted from a communications device 101 to a base station 102 via a radio uplink. The core network, comprising the MME 105, the S-GW 103 and the PDN-Gateway (P-GW) 104, routes data to and from the communications devices 101 and provides functions such as authentication, mobility management, charging and so on. The P-GW is connected to one or more other networks, which may for example include the internet, an IMS core network, etc. In the illustration of
+            <figref idref="f0001">Figure 1</figref>
+            , connections on the user plane have been represented with a plain line while connections on the control plane have been represented with a dashed line.
+        </p>
+        <p id="p0011" num="0011">The term communications devices will be used to refer to a communications terminal or apparatus which can transmit or receive data via the mobile communications system. Other terms may also be used for communications devices such as personal computing apparatus, remote terminal, transceiver device or user equipment (UE) which may or may not be mobile.</p>
+        <p id="p0012" num="0012">
+            <figref idref="f0001">Figure 2</figref>
+            illustrates an example of a path followed by a message 130 communicated by a communications device 101. In that example an MTC communications device 101, wishes to send the message 130 to a destination 120, the destination being reachable via the internet. In this example, a destination device is represented as a computer. However the destination 120 could be an element of any suitable type where the element can be addressed by the communications device 101. For example, the destination device 120 may be another communications device, a personal computer, a server, a proxy, or an intermediary element (to a final destination).
+        </p>
+        <p id="p0013" num="0013">The following description provides a summary explanation of an example of operation in which a communications device communicates the message 130 via an LTE network, which is helpful in appreciating some aspects and advantages of the present technique.</p>
+        <p id="p0014" num="0014">
+            In order for the communications device 101 to send data to a destination, an EPS bearer between the communications device 101 and the PGW 104 is set up, the EPS bearer being partially carried over a GTP tunnel between the eNB 102 and the SGW and another GTP tunnel between SGW and PGW 104, as illustrated in
+            <figref idref="f0001">Figure 2</figref>
+            . As the message 130 is carried to the destination device, it is sent from the communications device 101, at a first end of an EPS bearer to the eNB 102 (step 1), then to the S-GW 103 (step 2) and then to the P-GW 104 (step 3), at the other end of the EPS bearer. The P-GW 104 then forwards the message 130 to the destination 120 (step 4).
+        </p>
+        <p id="p0015" num="0015">
+            <figref idref="f0002">Figure 3</figref>
+            illustrates the various transitions between the four possible combinations of ECM states (connected or idle) and EMM states (registered or unregistered) as defined in the LTE standards for a communications device with a view to illustrating how communications devices' connections are managed. The acronym ECM stands for "EPS Connection Management" and the ECM state generally indicates whether the communications device has a Non-Access Stratum (NAS) connection set up with
+            <!--  EPO <DP n="6">  -->
+            the MME. In LTE, as the communications device connects to the MME and switches to ECM_connected, it also sets up an EPS bearer, that is, a data connection to the P-GW via the S-GW. Also, as the communications device switches from ECM_connected to ECM_idle, the EPS bearer is torn down, and all S1 and RRC connections are released. The acronym EMM stands for "EPS Mobility Management" and the EMM state generally indicates whether a communications device is attached to the network. When the communications device is in EMM_unregistered, it may for example be turned off, out of coverage or connected to a different network. In contrast, when a communications device is in EMM_registered, it is attached to the network and, as such, it has an IP address and a NAS security context in the MME. It may or may not have an EPS bearer set up, but in any case, it has some context associated with it in the MME (e.g. NAS security context) and in the P-GW (e.g. the IP address). In addition the MME will know in which tracking areas the UE is located. The four ECM/EMM states and the transitions between them is described next.
+        </p>
+        <p id="p0016" num="0016">The communications device 101 is assumed to start from a state 153 in which the communications device 101 is not connected to the network. In the state 153, the communications device is in EMM_unregistered and ECM_idle states. From this state, the communications device can attach to the network to be in EMM_registered and ECM_connected states. However, in order to attach, the communications device cannot switch to EMM_registered if it has not switched to ECM_connected first. In other words, starting from state 153, the communications device cannot go to states 152 or 151 and it has to go to state 154 first. Therefore, as illustrated by arrow 161, a communications device in state 153 can attach to the network by first switching to ECM connected and then to EMM_registered. As a communications device starts an attachment procedure from state 153, the communications device moves from a state 153 where it does not have any connection to a state 151 where it has a NAS connection to the MME, an IP address allocated by the P-GW, and a EPS bearer to the P-GW via the e-NB and the S-GW.</p>
+        <p id="p0017" num="0017">Transitions between states 151 and 152 occur when a data connection (EPS bearer) is set up (164) or when all data connections have been released (165). Generally, transition 165 occurs when the user had an EPS bearer active and has not been using the bearer for a certain time. The network can then decide that the communications device no longer needs an EPS bearer and thus release all the corresponding resources and switch the communications device to ECM_idle. Transition 164 generally occurs when the communications device has not been using any EPS bearer (see for example the discussion on transition 164) and now has data to send or receive. An EPS bearer is then set up for this communications device and it is switched to ECM_connected. Whenever the communications device is EMM_registered, regardless of the ECM states, the communications device will have an IP address that can be used to reach the communications device, in other words an IP context remains active even if no actual EPS bearer is currently active (e.g. state 152).</p>
+        <p id="p0018" num="0018">If the communications device detaches from the network, for example because it is turned off, moving to a different network, or for any other reason, it will switch from any state it is into state 153, releasing any outstanding EPS bearer or context that was previously maintained for the communications device, via transitions 162 or 163.</p>
+        <p id="p0019" num="0019">
+            As can be understood, the state 154 where the communications device is in ECM_connected and in EMM_unregistered is a transient state and the communications device does not generally remain in that particular state. A communications device in that state is either a communications device switching from state 153 (detached and inactive) to state 151 (attached and active) or a communications device switching from state 151 to state 153.
+            <!--  EPO <DP n="7">  -->
+        </p>
+        <p id="p0020" num="0020">
+            RRC states are also provided to reflect the status of the RRC connection between the communications device and the eNB (RRC_connected and RRC_idle). Under conventional operation conditions, the RRC states correspond to the ECM states: if the communications device is in ECM_connected, it should also be in RRC_connected and if it is in ECM_idle, it should also be in RRC_idle. Discrepancies between ECM and RRC states may occur for a short period of time as a connection is being set-up or torn-down. An illustration of the states of a communications device 101 which include both the ECM states and the RRC states is illustrated in
+            <figref idref="f0003">Figure 4</figref>
+            .
+        </p>
+        <p id="p0021" num="0021">
+            As shown in
+            <figref idref="f0003">Figure 4</figref>
+            a communications device 101 may start in the RRC Idle/ECM Idle state when the device is off and not being used by the user. The off state is therefore represented by a box 201. As soon as the communications device 101 is activated it must connect to the MME 105 in order to perform a tracking area update and to active services to the communications device. Accordingly, the communications device moves into an RRC connected state 204 but with the ECM Idle state because an EPS bearer has not yet been established. It is only after an EPS bearer has been established that the communications device 101 moves into an RRC connected and ECM connected state 206. A general illustration of the process by which data is communicated via an EPS bearer after a UE moves from an off state to an ECM connected and RRC connected state this shown in
+            <figref idref="f0004">Figure 5</figref>
+            .
+        </p>
+        <p id="p0022" num="0022">
+            <figref idref="f0004">Figure 5</figref>
+            illustrates an example of the messages exchanged for setting up a connection from the communications device 101 to the destination 120, for using the connection to communicate data and for releasing the connection after the communications between the communications device 101 and the destination 120 have been completed. The call flow of
+            <figref idref="f0004">Figure 5</figref>
+            can be schematically divided into four steps A-D. Before step A starts, the communications device 101 is in the ECM_idle state which means that the communications device 101 is not currently communicating. At step A (messages 1-3) an RRC connection is set up between the communications device 101 and the eNB 102 for controlling communications between the communications device 101 and the eNB 102. Once this RRC connection has been successfully established, at step B (messages 3-12), the communications device 101 can establish a NAS connection with the MME 105. Following this NAS connection request from the communications device 101 to the MME 105, the MME sets up a connection (e.g. EPS bearer) between the communications device 101 and the P-GW 104, via the S-GW 103 and the eNB 102, and controls this connection. Although they have not been represented here, messages may also be sent to the P-GW 104, for example from the S-GW 103, for setting up the connection (e.g. EPS bearer) at the P-GW 104, for example the GTP tunnel and EPS bearer. At the end of step B, the communications device 101 has an EPS bearer set-up and available to send and receive messages and is therefore in the ECM-connected state. The call flow of
+            <figref idref="f0003">Figure 4</figref>
+            is an illustration and some of the messages may vary, for example depending on the EMM state before step A. For example, the communications device may be in EMM_unregistered state and switch to EMM_registered during step B, or may already be in EMM_registered before step A starts.
+        </p>
+        <p id="p0023" num="0023">
+            During step A, a RRC connection is setup between the communications device 101 and the eNB 102. Once this RRC connection has been set up, at time t
+            <sub>1</sub>
+            , the eNB maintains an RRC context, referred to as Cont_RRC, for the duration of the RRC connection. In other words, until the RRC is released, the eNB will maintain this Cont_RRC. Such a context may for example include a communications device identifier (e.g. C-RNTI), power control settings, mobility settings, security settings, other radio settings or any other information. There will also be a corresponding context in the UE storing similar information pertaining to the operation of the radio layers, however, this is not shown in the diagram.
+            <!--  EPO <DP n="8">  -->
+        </p>
+        <p id="p0024" num="0024">
+            Once the RRC connection has been set up, a NAS connection is set up between the communications device 101 and the MME 105. Once this NAS connection has been set up, at time t
+            <sub>2</sub>
+            , the MME 105 maintains a context for this NAS connection to the communications device 101, referred to as Cont_NAS, for the duration of the NAS connection. Such a NAS context may for example include a terminal identifier, a terminal's IP address, a current eNB, mobility settings, security settings, QoS settings, or any other information. As explained above, when the communications device 101 attaches/sets up a data connection via the mobile network, an EPS bearer is set up in the user plane between the communications device and the P-GW 104, the bearer being controlled in the control plane by the MME 105. There will also be a context in the UE storing UE related information pertaining to the NAS protocol. Note that the context Cont_NAS shown in the diagram as being stored at the MME, may include more information than just that used by or transferred in EPC NAS signalling procedures, it may also contain information pertaining to the session which has been gathered by the MME from for example, an HSS.
+        </p>
+        <p id="p0025" num="0025">
+            Once the RRC connection, the NAS connection and the EPS bearer have been set up, the communications device can send uplink data through the EPS bearer and to the destination. Even though in the example of
+            <figref idref="f0004">Figure 5</figref>
+            , the communications device 101 sends uplink data, the same connection setup would occur for a downlink or for an uplink and downlink transmission. Likewise the path of an acknowledgement message has been illustrated in the example of
+            <figref idref="f0004">Figure 5</figref>
+            even though there may not be any acknowledgement message in other examples. As discussed earlier, this may for example be dependent upon the type of protocol(s) used for transmitting the data.
+        </p>
+        <p id="p0026" num="0026">
+            As can be seen in
+            <figref idref="f0004">Figure 5</figref>
+            , Cont_RRC and Cont_NAS are maintained for the duration of the RRC and NAS connection (i.e. until they are expressly released with a connection release message exchange) and, as a result, the RRC context is used for every packet that eNB 101 receives from or sends to the communications device 101. Once the EPS bearer can be released, the NAS connection between the communications device 101 and the MME 105 is released at the same time. As a result, at the time t
+            <sub>3</sub>
+            where the NAS connection is released, the context Cont_NAS is also released. The tearing down of the NAS connection is followed by a tearing down of the corresponding RRC connection at time t
+            <sub>4</sub>
+            . Again, as the RRC connection is released, the context Cont_RRC is also released.
+        </p>
+        <p id="p0027" num="0027">At a point in time after completion of step C, the resources are released (step D). Step D could happen at any time after step C, for example just after message 20, or at a later point in time, for example after the communications device 101 stopped communicating for a predetermined time. The aim of step D is to release all unused connections, that is, to release the NAS connection between the MME 105 and the communications device 101 (also leading to the release of resources such as the GTP tunnel between S-GW and eNB and the EPS bearer), and to release the RRC connection between the communications device 101 and the eNB 102. Again, depending on whether the communications device 101 should remain in EMM_registered after step D or should switch to EMM_unregistered, the call flow for step D is likely to be affected. For example, the communications device 101 may remain in EMM_registered if the communications device simply releases the RRC connection, NAS connection and EPS bearer because it has been inactive for too long, or the communications device 101 may de-attach from the network and switch to EMM_unregistered (for example following a handover to a GSM network).</p>
+        <heading id="h0007">
+            <b>
+                <u>Protocol Stack within Network Elements</u>
+            </b>
+        </heading>
+        <p id="p0028" num="0028">
+            As will be appreciated from those skilled in the art each of the network elements shown in
+            <figref idref="f0004">Figure 5</figref>
+            performs various functions in order to establish the EPS bearer and allow the communications
+            <!--  EPO <DP n="9">  -->
+            device 101 to move from the EPM and RRC Idle states to the ECM connected and RRC connected states. This is achieved using various functions performed at each of the different protocol layers in both a user plane protocol stack and a control plane protocol stack. The functions performed by each of the network elements are shown in
+            <figref idref="f0005">Figure 6</figref>
+            . As shown in
+            <figref idref="f0005">Figure 6</figref>
+            the eNB 102 includes and intercell radio resource management entity 301, a radio bearer controller 302, a connection management controller 304, a radio admission control 306, an eNB measurement configuration and provision entity 308 and a dynamic resource allocation or scheduler 310 which operate for example as explained in 3GPP document TS36.300 to provide radio resources to the communications device and to manage the connection and mobility. In respect of the control plane signalling the MME communicates signalling messages to the eNB 102 using an NAS security function 320, an Idle state mobility handling 322 and an EPS bearer controller 304. Control plane functions or NAS functions performed by the serving gateway include mobility anchoring 330 as well as UPI address allocation performed by the P-GW 104 340 and packet filtering 342.
+            <br/>
+            Correspondingly the protocol stack for the control plane entities illustrated in
+            <figref idref="f0006">Figure 7</figref>
+            which facilitate the non access stratum (NAS) signalling is supported by a protocol stack which includes a relay resource connection layer 400, a packet data conversions protocol layer 402, a radio link control layer 404, a medium access control layer 406 and the physical layer 408.
+            <br/>
+            In contrast the user plane protocol stack is showing in
+            <figref idref="f0007">Figure 8</figref>
+            where corresponding elements showing in
+            <figref idref="f0006">Figure 7</figref>
+            are correspondingly labelled.
+        </p>
+        <p id="p0029" num="0029">
+            As will be appreciated by those skilled in the art, each of the layers in the protocol stack of the user plane and the control plane are required to monitor the current state of the transmission of data at each of the protocol layers in order to maintain for example security and data delivery to form the EPS bearer for communicating packet data from the communications device 101 across the mobile communications network to the destination 120.
+            <br/>
+            <figref idref="f0008">Figures 9a</figref>
+            and
+            <figref idref="f0009">9b</figref>
+            illustrate signalling transitions and messages which are required for the communications device 101 to pass from an RRC Idle and ECM Idle state to an RRC connected and ECM connected state back to the ECM Idle and RRC Idle state. In
+            <figref idref="f0008">Figure 9a</figref>
+            from a start state, in which the communications device 101 is in the RRC Idle and ECM Idle state 201, the communications device 101 performs a random access procedure 501 in order to request and be granted uplink resources in order to transmit an RRC connection request message 502. The eNode-B 102 responds with an RRC connection set up message 504 and then an RRC connection setup complete message is sent from the communications device. At this point the communications device 101 is in the RRC connected but ECM Idle state. Following the RRC connection setup complete message, the communications device 101 transmits an attach request/PDM connection request to the eNode-B 102 506. The eNode-B 102 then forwards the attached request/PDN connectivity message 508 to the MME 105 in order to establish an EPS bearer. Following transmission of the attach request/PDM connectivity request 508 the MME 105 and the eNB 102 and the communications device 105, 102, 101 perform a security procedure 510 in order to authenticate the communications device. After this process a context is established for the communications device for the EPS bearer. Accordingly, the MME 105 transmits an initial context setup request/attach accept, activate default bearer context request 512 to the eNB 102 which then forwards an RRC connection reconfiguration or attach accept/active default bearer message 514. The communications device 101 then transmits an RRC connection reconfiguration complete message 514 and in response the eNB 102 transmits and initial context setup response message 516 to the MME 105. The eNB 102 transmits an RLC Ack message 518 to the communications terminal 101. The communications device 101 then transmits an uplink
+            <!--  EPO <DP n="10">  -->
+            information transfer attach complete/active accept message 518 which prompts the eNB 102 to transmit an uplink NAS transport (attach complete/active default accept message 520). After this message the eNB 102 transmits an RLC Ack message 522 at which point the communications device moves to the RRC connected/ECM connected state 206.
+        </p>
+        <p id="p0030" num="0030">
+            <figref idref="f0009">Figure 9b</figref>
+            shows the message flow for moving from the RRC connected and ECM connected states to the RRC Idle and ECM Idle states corresponding the call flow diagram showing in
+            <figref idref="f0008">Figure 9a</figref>
+            . As shown in
+            <figref idref="f0009">Figure 9b</figref>
+            the communications device 101 is transmitting uplink data using transmission messages 530 which are acknowledged by the eNB 102 with a downlink data message 532 providing an RLC Ack. The data transmitted on the uplink to the eNB 102 is then forwarded to the PGN 104 via the established EPS bearer 534. It then follows a TCP Ack transmitted on the downlink and messages associated with a transmission of acknowledgement of downlink data transmissions 536. After the communications terminal 101 has transmitted an uplink data RLC acknowledgement message 540 which could be the final data transmission for the uplink by the communications device 101, the communications device 101 may determine that there is no more data to send as represented by the box X 542. Only the eNB (communication device 102) can release the RRC connection, provided for the communications device 102, using an RRC connection release message by detecting a period of inactivity. Releasing the RRC connection will normally be the context at the eNB and MME (however this is dependent on network implementation). This release follows and exchange of messages 544 to release the RRC connect and also release the communications context of the communications terminal 101 using messages exchanged between the eNB and the PGW104.
+        </p>
+        <heading id="h0008">
+            <b>
+                <u>Power Saving State from Connected</u>
+            </b>
+        </heading>
+        <p id="p0031" num="0031">
+            As explained above, arrangements provide an arrangement in which a communications device is configured to enter a power saving state from either the RRC connected state or the RRC idle state. In some examples the communications device can be configured under the control of the communications network to enter the power saving state from the idle state or the connected state. This configuration can include identifying operations that the communications device can perform in order to enter the power saving state, which depend on the state transitions from either the idle or the connected states. The operations performed by the communications device also depend on the state transitions of the communications device from the power saving state to the idle or the connected states. More detail will be provided in the following sections, which provide an explanation of how a communications device is configured to enter a power saving state and the preconditions for entering the power saving state. However the following paragraphs provide an explanation of how a communications device can be arranged to transition from the connected state to a reduced power state, which is also disclosed in our co-pending
+            <patcit id="pcit0002" dnum="GB1307186A">
+                <text>UK patent application 1307186.5</text>
+            </patcit>
+            .
+        </p>
+        <p id="p0032" num="0032">According to the present technique examples are arranged such that a mobile communications device enters a reduced power state when predetermined conditions are met. The reduced power state may be termed a "stasis state", because when the transition is from the connected state to the reduced power state, because the context information associated with the communications device's connection is stored because the communications terminal may transition back to the connected state. However other terms may be used such as "power saving state", "dormant state", "sleep state" or any other term suggesting a lower level of activity than the usual activity states.</p>
+        <p id="p0033" num="0033">
+            For example one of the predetermined conditions may be that the communications device is instructed to enter a reduced power state by the wireless access network. In another example of the predetermined conditions for entering a reduced power state, the communications device may no longer have data or signalling to send or receive for a predetermined time. In one arrangement in
+            <!--  EPO <DP n="11">  -->
+            which the communications device detects that it should enter a reduced power state, the communications device transmits a signal to the mobile communications network and more particularly in the present arrangement to an eNB 102. For this arrangement, the eNB 102 having also detected the reduced power state receives a message and, in order to avoid having to perform all of the signalling required to set up an EPS bearer again, the current state of each of the protocol stacks for the current EPS bearer are saved by the eNB and other network elements. Accordingly, for example the communications device 101 retains the connection identifier which is used by the network to support the RRC connection and ECM connection state such as for example the CRNTI. In another example, the transition from RRC Connected to power saving state may include a release of the resources and RRC Connection, resulting in the communications device only being able to return from the power saving state to the Idle state, and must perform a full RRC Connection establishment in order to move back to RRC Connected.
+            <figref idref="f0010">Figure 10</figref>
+            provides an arrangement of the present technique in which the communications device 101 includes a reduced power state for the RRC state. Thus as shown in
+            <figref idref="f0010">Figure 10</figref>
+            , which corresponds to
+            <figref idref="f0003">Figure 4</figref>
+            , a reduced power state 250 is provided to an adapted communications device 101 in order to allow the communications device 101 to transition from an RRC connected state to a reduced power or sleep state in which power consumption is reduced. As will be explained shortly in other examples the communications device 101 may transition from the RRC idle state to a reduced power state. However, when transitioning from the RRC connected state, the state of the protocols within the protocol stack on both the eNB 102 and the UE 101 may be effectively frozen and stored and the C-RNTI for the UE is saved by the eNB pending further communications. However, the physical radio resources are released. Alternatively the transition from RRC Connected to power saving state may include a release of the resources and RRC Connection, resulting in the UE only being able to return from the power saving state to the Idle state
+        </p>
+        <p id="p0034" num="0034">
+            A state diagram showing the changes of the state by the communications device to reach the reduced power state 250 is shown in
+            <figref idref="f0011">Figure 11</figref>
+            , where the states are numbered in correspondence with those of
+            <figref idref="f0003">Figures 4</figref>
+            and
+            <figref idref="f0010">10</figref>
+            . The message state flow is summarised with respect to the numbering of the state transitions shown in
+            <figref idref="f0011">Figure 11</figref>
+            as follows:
+            <ul id="ul0002" list-style="none">
+                <li>
+                    1. A communications device determines, in accordance with predetermined conditions, to enter a reduced power state 250 in which the power of the communications device is reduced by suspending or reducing the performance of one or more functions. For example, one of the predetermined conditions may be that the communications device has no more data to transmit on the uplink to the communications network or that it does not expect to receive any further data on the downlink. In the latter case the communications device may receive a message on the down-link that it should enter a power saving state. The point at which the communications device or the communications network therefore decides that it has no more requirements for communications resources is identified with the point "x" in
+                    <figref idref="f0009">Figure 9b</figref>
+                    . In one example, in order to enter an RRC power saving state 250, the communications device 101, whilst in the RRC connected and ECM connected state 206, transmits an RRC stasis request message in state 206 before it can transition to the RRC stasis and ECM connected state 250. However in other examples, the communications device 101 may receive a message from the eNB 102 instructing it to enter the power saving state.
+                    <!--  EPO <DP n="12">  -->
+                </li>
+                <li>2a. In some examples the communications device may then receive an RRC power saving state confirm message, RRC Connection Reconfiguration or RRC Connection Release message and moves from the RRC connected/ECM connected state 206 to the power saving state 250 and either the ECM connected state or the ECM Idle state.</li>
+                <li>2b. In some circumstances the communications device 101 may receive an RRC power saving reject message from the communications network, or may receive no response, for example where the communications network finds that it now has data to send to the communications device or if the stasis mode for both the eNode-B and the communications device is not supported by the mobile communications network.</li>
+                <li>3. The communications device then decides that it should transmit data for example, as a result of new data being ready to be transmitted in the device's packet data buffer or as a result of periodic tracking are update timer expiry. Thus having received a packet for transmission the communications device needs to move back to the RRC connected and ECM connected state 206. Another reason for moving back to the RRC connected and ECM connected state 206 is that measurements performed by the communications device might indicate that it should hand over to another eNode-B in which case a communications device must be in the RRC and ECM connected state 206.</li>
+                <li>4. The communications device initiates the RACH procedure for example the MAC layer transmission described in section 5.1.5 of TS36.321. This essentially involves transmitting random access message using contention access as it conventionally arranged with mobile communications network. The PRACH includes the CRNTI which was previously stored by the communications device and by the eNB 102. As such when the eNB receives the CRNTI of the communications device in the PRACH message the eNB can immediately recognise that the communications device transmitted the PRACH message and also recognised that the communications device 102 concerned is currently in the power saving state 250. The eNB therefore moves the communications device back to the RRC connected ECM connected state 206 and transmits an RRC connection re-establishment request message to the communications device 101.</li>
+                <li>5. Therefore on completion of the RACH procedure (RAR received) communications device transmits the RRC connection re-establishment request message to the eNB 102. On receipt of the RRC connection of establishment message the communications device has then successfully reestablished the RRC connection and moves to the RRC connected/ECM connected state 206.</li>
+                <li>6. If the communications device receives an RRC connection re-establishment reject message then a communications device transitions back to the RRC Idle but ECM connected state 252.</li>
+                <li>7. In other examples as will be explained below, the communications device can move from the RRC Idle state to the power saving state 250, in accordance with predetermined conditions. However once in the power saving state 250, the communications device 102 cannot move to the RRC connected state without establishing a context and so must perform an RRC connection establishment.</li>
+            </ul>
+            <!--  EPO <DP n="13">  -->
+        </p>
+        <p id="p0035" num="0035">
+            A call flow diagram corresponding to the call flow diagrams shown in
+            <figref idref="f0008">Figures 9a</figref>
+            and
+            <figref idref="f0009">9b</figref>
+            but adapted to include the call flow messages associated with a transition to the reduced power state 250 is shown in
+            <figref idref="f0012">Figure 12. Figure 12</figref>
+            is now summarised as follows:
+            <br/>
+            Starting from the RRC connected/ECM connected state 206 the communications device 101 transmits data packets on the uplink and receives acknowledgment on the downlink or receives downlink data packets and transmits acknowledgements on the uplink as explained with reference to
+            <figref idref="f0004">Figure 5</figref>
+            ,
+            <figref idref="f0008">9a</figref>
+            and
+            <figref idref="f0009">9b</figref>
+            . This effective therefore forms part of section C of the flow diagram of
+            <figref idref="f0004">Figure 5</figref>
+            . At point X in
+            <figref idref="f0012">Figure 12</figref>
+            the communications device 101 detects one or more of the predetermined conditions for entering a power saving state, for example that it has no more data packets to transmit. For this example the communications device transmits an RRC stasis message request or UE assistance information message 600. If the communications network can support the new power saving state then the communications network transmits an RRC stasis message confirm or RRC Connection Reconfiguration or RRC Connection Release message to the communications device 101 as message 602. At this point both the communications device and the eNode-B may confirm that the CRNTI the RLC and PDCP sequence numbers and the MAC configuration etc. are to be retained and stored so that effectively the EPC bearer moves into a power saving state in that it still exists but there are no packets being transmitted via the EPS bearer. Alternatively when in the power saving state the communications device could release the CRNTI the RLC and PDCP sequence numbers and the MAC configuration pending a return from the power saving state to the Idle state.
+        </p>
+        <p id="p0036" num="0036">Accordingly, when the communications terminal transmits data packets again via the EPS bearer there may be no need to re-establish the tunnelling between the various nodes of the communications network in order to establish the EPS bearer. The communications device 101 then transmits a RRC stasis ECM connected message 604 to the eNB to confirm that it has entered the power saving state. Therefore in a period E the communications device has entered the power saving state 250.</p>
+        <p id="p0037" num="0037">Whilst in the power saving state 250 the communications device may detect that it needs to move back to the RRC connected and ECM connected state 206. This can be to transmit data from the uplink because the communications device detects that it has new packet data to be transmitted. Alternatively, in case the power saving state is configured to monitor paging occasions, the network may detect that it may need to transmit on the downlink and therefore signals to the communications device using a conventional paging message that it needs to move back to the RRC connect and ECM connected states. Alternatively, the communications terminal which continues to monitor neighbouring base stations and may decide that it needs to hand over or reselect to one of the neighbouring base stations as a result of measurement of radio link quality being taken in accordance with a conventional handover or reselection arrangement.</p>
+        <p id="p0038" num="0038">
+            Again, this would require the communications device 101 to move back to the RRC connected/ECM connected state 206 or the idle state. In order for the communications device 101 to move back to the ECM connected/RRC connected state 206, the communications device transits a PRACH message. The communications device receives but then discards the C-RNTI assigned via the RAR message 608 and uses the retained C-RNTI. The C-RNTI which was retained should not be used by any other communications device. Accordingly the eNB 102 reserves the C-RNTI for the communications device during a time when the communications device is in the power saving state so that this is not allocated to another communications device in the cell. The RRC connection request re-establishment request message 610 sent by the communications terminal 101 includes the retained
+            <!--  EPO <DP n="14">  -->
+            C-RNTI. The RRC connection re-establishment request message may include an indication of a status of the packet communications buffer stasis. The eNode-B 102 then transmits and RRC connection re-establishment message 612 to the communications device 101 which responds with an RRC connection re-establishment complete message 614. At this point the communications device has returned to the RRC connected/ECM connected state 206 and transmits data on the uplink in accordance with a conventional operation identified as a phase C shown in
+            <figref idref="f0004">Figure 5</figref>
+            and also in the first part of
+            <figref idref="f0012">Figure 12</figref>
+            .
+        </p>
+        <p id="p0039" num="0039">
+            As will be appreciated by transitioning to the power saving state the communications terminal can release its radio communications resources and enter a power down state thus saving power. However, if there is new data to be transmitted communications device does not have to proceed through the entire message exchange shown in
+            <figref idref="f0008">Figure 9a</figref>
+            and
+            <figref idref="f0009">9b</figref>
+            in order to communicate packet data again. This is because the stats of the protocol stacks are retained for example the RLC layer and PDCP sequence numbers are maintained as well as the MAC configuration for the communications link. In addition on the network side the EPS bearer is also retained and just needs to be reactivated by transmitting data packets in a conventional arrangement. Accordingly, it is possible to reduce network resources consumed the result of signalling and reduce an amount of redundant information which is communicated in order to establish the EPS bearer.
+        </p>
+        <heading id="h0009">
+            <b>Power Saving State from Idle</b>
+        </heading>
+        <p id="p0040" num="0040">
+            As indicated above with reference to
+            <figref idref="f0011">Figure 11</figref>
+            , a power saving state 250 can be entered from the Idle state 204. One example of a transition from the Idle state to a power saving state 250 will now be explained in more detail.
+            <figref idref="f0013">Figure 13</figref>
+            provides an example of a previously proposed power saving state which can be specified as a new RRC state or a new sub-state of Idle mode, which is applicable for both EUTRAN and UTRAN. This is disclosed in
+            <nplcit id="ncit0001" npl-type="s">
+                <text>3GPP Technical report TR 37.869 and in TR23.887v0.10.1, section 7.1.3.3 "Power Saving State for Devices</text>
+            </nplcit>
+            ".
+        </p>
+        <p id="p0041" num="0041">
+            According to the example illustrated in
+            <figref idref="f0013">Figure 13</figref>
+            , a communications device can move to a power saving state, after an active time period. For example a timer which is started when the communications device moves to the idle state 204, is used to measure when the device has remained in the Idle state 204 for a predetermined period without performing any data or signalling transmission or reception, so that the timer is effectively an inactivity timer. This can be referred to as a non-access stratum (NAS) timer, which is a known timer added to support a power saving state in Idle mode. After the predetermined period (NAS time period) the communications device can drop into the power saving 250.
+        </p>
+        <p id="p0042" num="0042">
+            In the power saving state the communications device can remain attached. However, all access stratum (AS) functionalities stop, that is to say that, when the access stratum layer is deactivated by the NAS layer, the communications device stops all access stratum procedures.
+            <br/>
+            The communications device is reachable for down-link data during the time that the UE is in RRC/S1 connected state and during the active time period (i.e. via paging). The communications device wakes up, going back to the Idle state 204, when the device has up-link data pending or when it needs to perform a tracking area update (TAU).
+        </p>
+        <p id="p0043" num="0043">
+            As indicated above, when the communications device enters the power saving state 250 from the Idle state 204, or when the transition from RRC Connected to power saving state includes a release of RRC Connection, it does not have a communications context and therefore does not have an RRC connection. As such to move from the power saving state 250 to the connected state 206, the
+            <!--  EPO <DP n="15">  -->
+            communications device 101 must either perform an RRC connection establishment from the power saving state 250 or transition back to the Idle state 204 before moving to the connected state 206.
+        </p>
+        <p id="p0044" num="0044">According to the present technique, when one or more predetermined conditions are satisfied, a communications device may enter the power saving state, in which the power consumption may be reduced by either suspending some operations which the communications device would normally perform or reducing the performance of some functions. As such the EUTRAN RRC state may be configured to behave in accordance with the power saving state. This allows the power saving state to be adaptable for different types of MTC applications/devices or smartphones and also different network deployment scenarios.</p>
+        <p id="p0045" num="0045">
+            According to the present technique, at least one of the following properties may be configured in a power saving state:
+            <ul id="ul0003" list-style="dash" compact="compact">
+                <li>
+                    Allowable state transitions
+                    <ul id="ul0004" list-style="none" compact="compact">
+                        <li>∘ UE may be configured to be allowed to enter and/or leave a power saving state from idle mode;</li>
+                        <li>∘ UE may be configured to be allowed to enter and/or leave the power saving state from connected mode. If the UE is allowed to leave the power saving state directly to RRC Connected, then some resource and context information must be stored such as C-RNTI when the UE leaves RRC Connected to power saving state. Otherwise all context information should be released and deleted when moving from RRC Connected to power saving state.</li>
+                        <li>∘ UE may be allowed to do both, or any combination of entering/leaving from idle and/or connected.</li>
+                    </ul>
+                </li>
+                <li>
+                    State transition mechanism
+                    <ul id="ul0005" list-style="none" compact="compact">
+                        <li>∘ UE may be configured to enter the power saving state only when explicitly commanded by the network from an RRC connected mode</li>
+                        <li>∘ UE may be configured with a data inactivity timer after which the UE shall enter the power saving state from idle and/or connected mode</li>
+                        <li>
+                            ∘ UE may be required to send a request to the network to enter the power saving state
+                            <br/>
+                            ▪ This may be timer based, or based on internal UE event (UE implementation dependent method to determine no more data transfer is needed)
+                        </li>
+                        <li>∘ UE may be required to periodically leave the power saving state and return to the RRC connected, for example by performing a tracking area update, to go to RRC connected mode for a short period of time</li>
+                        <li>∘ UE may be allowed to leave the power saving state only when determined by the UE, for example based on an internal mechanism, or based on measurement event</li>
+                    </ul>
+                </li>
+                <li>
+                    Discontinuous Reception (DRX) behaviour or dormant behaviour.
+                    <ul id="ul0006" list-style="none" compact="compact">
+                        <li>∘ If DRX is configured, the UE must perform measurements and listen to paging occasions during it's time in a power saving state. The DRX length is likely to be configured to a longer period than connected (or idle) states in order that the UE can save more power.</li>
+                        <li>∘ If the power saving state is configured, when the UE enters this power saving state it behaves as if the Access Stratum (AS) is switched off. This offers a greater power saving, however it is more suitable for MTC devices, which do not need to be paged with any high latency.</li>
+                    </ul>
+                </li>
+                <li>
+                    Mobility.
+                    <!--  EPO <DP n="16">  -->
+                    <ul id="ul0007" list-style="none" compact="compact">
+                        <li>∘ UE may be configured in one power saving state so that mobility is reduced or not required (e.g. stationary device), so that all functions associated with measuring neighbouring base stations and determining whether to handover to another bases station are disabled</li>
+                        <li>∘ UE may be configured to perform idle mode cell reselection</li>
+                        <li>∘ UE may be allowed not to perform mobility, until UE needs to return to a normal activity state, in which case UE may be required to perform measurements and perform cell selection/reselection or measurement report before exiting the state</li>
+                        <li>∘ UE may be configured to perform e.g. RSRP measurements, and exit the state in case any measurement event / cell reselection criteria is met, in order to send a report to the NW or reselect to a new cell (also trigger condition for state change)- maybe configurable depending whether UE is moving or stationary.</li>
+                    </ul>
+                </li>
+            </ul>
+        </p>
+        <p id="p0046" num="0046">Measurement may be used to trigger which state transition the UE should make, for example, still in coverage of the same eNB -> transition to connected, out of coverage -> transition to idle to perform a reselection.</p>
+        <heading id="h0010">
+            <b>Configuration of Power Saving State</b>
+        </heading>
+        <p id="p0047" num="0047">
+            According to one example, the network may signal the different preconditions for transitioning from the idle/connected states to the power saving state. As shown in
+            <figref idref="f0014">Figure 14</figref>
+            , an eNB 102 transmits first signalling information via one or more messages 652, which indicates to the communications device (UE) 101 one or more conditions for changing from the idle or the connected state to the power saving state. Correspondingly
+            <figref idref="f0014">Figure 15</figref>
+            provides an example in which the eNB 102 transmits second signalling information via one or more messages 654, which indicates to the communications device (UE) 101 one or more power saving power saving states which may be used. For example the power saving state A may specify reduced mobility, power saving periods, whereas power saving state B may specify an extended DRX cycle or functions which may be disabled during a period when the receiver is in-active and not receiving, as indicated above. As a further example,
+            <figref idref="f0014">Figure 16</figref>
+            illustrates an arrangement in which the network signals to the UE 101 that it should enter one of the power saving states using a signalling message 656.
+        </p>
+        <p id="p0048" num="0048">
+            <figref idref="f0013">Figures 17</figref>
+            ,
+            <figref idref="f0015">18 and 19</figref>
+            provide an example in which the state transitions of the UE 101 as signalled using the signalling messages 650, are specified to allow only certain of the possible transitions as explained above. For example as shown in
+            <figref idref="f0013">Figure 17</figref>
+            , there is no NAS inactivity timer configured, therefore if the UE is released to idle mode, the UE will never automatically move to power saving mode, but rather will do this only upon command from the wireless communications network. This provides the network with a per-UE and per-connection control of when the UE goes to power saving state, and allows this without wasting power waiting for expiry of an inactivity timer. In one example the UE enters the idle state when leaving a power saving power saving state, when up-link data needs to be sent, or at the latest when periodic TAU expires.
+        </p>
+        <p id="p0049" num="0049">
+            For the example state transitions shown in
+            <figref idref="f0015">Figure 18</figref>
+            , and as explained above with reference to
+            <figref idref="f0013">Figure 13</figref>
+            , the UE is configured with a NAS inactivity timer, and can move from idle to a power saving state upon expiry. It is likely that the wireless communications network will not use RRC Connection release to move to a power saving state, but rather rely on inactivity times from the UE. This provides an advantage that the UE does not need to indicate any assistance information while in connected mode, that the UE would like to go to a power saving state. The TAU timer might be
+            <!--  EPO <DP n="17">  -->
+            disabled to allow for longer times in power saving state without having to perform periodic registration, which can potentially be disabled also in the example shown in
+            <figref idref="f0013">Figure 17</figref>
+            .
+        </p>
+        <p id="p0050" num="0050">
+            One example of this arrangement could be for example that the NAS inactivity timer is used to indicate that the communications terminal should use the power saving state (basic reduced functions would be switching off AS completely). If timer is set to 0 then UE can only go directly from connected->connection release->power saving, and not use idle->power saving transition. If timer is >0 then communications device can go from idle when the timer expires. Then the timer would therefore indicate the communications device should use the power saving state that switches off AS functions.
+            <br/>
+            In one implementation, the arrangement shown in
+            <figref idref="f0013">Figures 17</figref>
+            and
+            <figref idref="f0015">18</figref>
+            which does not allow for some state transitions from or to the power saving power saving state is achieved by arranging for the NAS periodic timer to be enabled or disabled or set to 0, hence enabling or disabling the transition from idle to power saving power saving states. If disabled, then the only way for the UE to move to power saving would be via RRC Connection Release.
+        </p>
+        <p id="p0051" num="0051">
+            A further example is provided in
+            <figref idref="f0015">Figure 19</figref>
+            , in which a further option is illustrated which might be more widely applicable to other example applications than for example a power saving power saving state configuration for an MTC device, perhaps for example for smartphones. If the state transition from power saving state to connected state 206 is enabled, then the communications device would have to store context and resource information when moving from the connected state 206 to a power saving state. Mobility and paging behaviour may also be needed as configurable options. In one implementation the same RRC state may be configured in a different way, rather than introducing further RRC states.
+        </p>
+        <p id="p0052" num="0052">
+            <figref idref="f0016">Figure 20</figref>
+            provides an illustration of different power saving states 250, which may be signaled to the communications device 101 by the messages 652 shown in
+            <figref idref="f0014">Figure 14</figref>
+            or predefined within the communications device. As shown in
+            <figref idref="f0016">Figure 20</figref>
+            , three power saving states 670, 672, 674 are shown. In one example, each of the states 670, 672, 674 may be signaled using an enumerated type signaled to the communications device 101. This may be provided using network system information, or in dedicated signalling, which provides an indication of the state behaviour the communications device should use for power saving state). Each of the configured sub-state has pre-defined properties (either hard-coded in the specification, or configured via system information such as the allowed state changes, the state change triggers, and other behaviour such as mobility and paging behaviour.
+        </p>
+        <p id="p0053" num="0053">As will be appreciated if the communications device is transitioning from the idle mode to the power saving state then no context exists for communicating data as explained above. Accordingly in the power saving state the state of the protocol stacks and the identity numbers for identifying the communications device with respect to a communications bearer do not exist and so are not stored. As will be appreciated from the explanation provided above, examples can provide an advantage in that configurable state transition behaviour can make power saving state more controllable and more flexible and so more available for different applications. As such the communications network can more easily control the behaviour of the communications device and different behaviour is more suitable for different network vendors and device types. Furthermore some configurations can save more power and/or signalling overhead but are applicable only for MTC devices, whereas other configurations are more suitable for use with smartphones, but do not save as much power.</p>
+        <heading id="h0011">
+            <b>Example Implementation</b>
+        </heading>
+        <p id="p0054" num="0054">
+            A diagram of an adapted communications device 101 and eNB 102 which provides an example is shown in
+            <figref idref="f0017">Figure 21</figref>
+            .
+            <!--  EPO <DP n="18">  -->
+        </p>
+        <p id="p0055" num="0055">
+            As shown in
+            <figref idref="f0017">Figure 21</figref>
+            , a communications device also referred to as a UE 101 comprises a transmitter and receiver unit 701 and a controller 702. The controller 702 controls the transceiver unit 701 in order to transmit and receive data which is fed to a processor 704 which hosts applications programs and other processes for providing user services and for controlling the communications device 101. Data transmitted on the down-link and received for transmission on the up-link by the communications device 101 is fed to a data buffer 706. The data buffer 706 buffers the data packets for transmission on the uplink to the mobile communications network or buffers data packets received on the downlink which are transmitted from and the eNB 102 to the communications device 101. As explained above when the communications device enters the power saving state from the RRC connected state but not the idle state, the state of the protocol stacks including sequence numbers, security keys etc are stored in a data store 708 with a channel identifier such as a C-RNTI are stored. This information, which is related to the communications context of the communications device can be used to reactivate the communications context of the communications device 101 which has been used to transmit data packets on the uplink or receive data packets on the downlink via the EPS bearer across the mobile communications network, which is associated with the communications context.
+        </p>
+        <p id="p0056" num="0056">
+            Also shown in
+            <figref idref="f0017">Figure 21</figref>
+            is a base station or eNB 102, which comprises a transmitter and receiver unit 720 and a controller at 722. An adapted scheduler 724 is used to schedule the allocation of uplink and downlink communications resources in accordance with a conventional operation. However in combination with controller 722, when a power saving state message is received from a communications device 101 (power saving state initiated by the UE) or if the eNB 102 instructs the UE to enter a power saving state, from the connected state, then, in one example, the controller 722 arranges for the corresponding state of the protocol stack associated with the EPS bearer establish for the communications device to be stored in a data store 726. The communications buffer 728 is provided to buffer data packets received from respective EPS bearers for transmission to communications devices within a cell served by the eNB 182. Therefore, as explained above, once a power saving state message is detected by the controller 722, a scheduler 724 releases communications resources allocated to communications terminal 101 which has entered the power saving state and the controller 722 may store the state of the protocol stack including sequence numbers and security keys.
+        </p>
+        <p id="p0057" num="0057">Various further aspects and features of the present disclosure are defined in the appended claims. Various combinations of the features of the dependent claims may be made with those of the independent claims other than the specific combinations recited for the claim dependency. Arrangements of the present disclosure have been defined largely in terms of reduced capability devices transmitting data via a virtual carrier inserted in a conventional LTE based host carrier.</p>
+    </description>
+    <claims id="claims01" lang="en">
+        <!--  EPO <DP n="19">  -->
+        <claim id="c-en-01-0001" num="0001">
+            <claim-text>
+                A communications device (101) for transmitting data to and receiving data from a mobile communications network, the mobile communications network including one or more network elements providing a wireless access interface for communicating with the communications device, the communications device comprising:
+                <claim-text>a transmitter unit (701) configured to transmit signals to the mobile communications network via the wireless access interface provided by the one or more network elements of the mobile communications network, and</claim-text>
+                <claim-text>a receiver unit (701) configured to receive signals from the mobile communications network via the wireless access interface provided by the one or more network elements of the mobile communications network, and</claim-text>
+                <claim-text>a controller (702) configured to control the receiver unit to receive one or more signalling messages from the mobile communications network , and the transmitter unit to transmit one or more signalling messages to the communications network,</claim-text>
+                <claim-text>to establish a communications context for communicating data packets using a packet communications bearer from the communications device via the mobile communications network when operating in a connected state (206), the connected state being one of an ECM connected state and an RRC connected state, and</claim-text>
+                <claim-text>to release the communications context and the packet communications bearer to an idle state (204), the idle state being one of an ECM idle state and an RRC idle state,</claim-text>
+                <claim-text>
+                    <b>characterised in that</b>
+                    the communications device is configured
+                </claim-text>
+                <claim-text>to receive signalling information providing an indication of a plurality of power saving states (670, 672, 674), each of the power saving states providing an associated set of one or more functions, performed by at least one of the receiver, the transmitter or the controller, which can be changed to reduce power consumed by the communications device, and</claim-text>
+                <claim-text>when in either the idle state or the connected state, to enter one of the plurality of power saving states in which the one or more of the operations performed by at least one of the receiver, the transmitter or the controller are configured in accordance with the indication of the changed functions received in the signalling information from the mobile communications network.</claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0002" num="0002">
+            <claim-text>A communications device as claimed in Claim 1, wherein the signalling information received from the mobile communications network provides an indication of the conditions for changing from one of the connected state or the idle state to each of the power saving states.</claim-text>
+        </claim>
+        <claim id="c-en-01-0003" num="0003">
+            <claim-text>
+                A communications device as claimed in Claim 1, wherein the communications device is configured to enter one of the power saving states in accordance with predetermined conditions, wherein the predetermined conditions include whether or not the communications device can enter one of the plurality of power saving states from the idle state or the connected state.
+                <!--  EPO <DP n="20">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0004" num="0004">
+            <claim-text>A communications device as claimed in Claim 1, wherein the communications device is configured to enter one of the power saving states in accordance with predetermined conditions, wherein the predetermined conditions include entering the power saving state in response to a signalling message received from the communications network and the communications device is configured to enter one of the plurality of power saving states in response to the signalling message received from the mobile communications network.</claim-text>
+        </claim>
+        <claim id="c-en-01-0005" num="0005">
+            <claim-text>A communications device as claimed in Claim 1, wherein the communications device is configured to enter one of the power saving states in accordance with predetermined conditions, wherein the predetermined conditions include entering the power saving state when a parameter is compared with a predetermined value, and the communications device is configured to enter one of the plurality of power saving states in response to a comparison between the value and the parameter measured by the controller.</claim-text>
+        </claim>
+        <claim id="c-en-01-0006" num="0006">
+            <claim-text>A communications device as claimed in Claim 5, comprising a clock and the parameter measured by the controller is a predetermined passage of time since data has been transmitted via the packet communications bearer.</claim-text>
+        </claim>
+        <claim id="c-en-01-0007" num="0007">
+            <claim-text>
+                A communications device as claimed in Claim 1, wherein the communications device is configured, when in the idle state
+                <br/>
+                to receive paging messages, when transmitted, from the mobile communications network,
+                <br/>
+                to control the receiver to perform measurements for maintaining access to the wireless access interface for transmitting and receiving the signals via the mobile communications network when in a connected state, wherein in one of the plurality of power saving states the changed operations performed by the at least one of the transmitter, the receiver or the controller include at least one of
+                <br/>
+                reducing a number of occasions when the receiver is powered to receive the paging messages,
+                <br/>
+                reducing the amount of measurements performed by the receiver.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0008" num="0008">
+            <claim-text>A communications device as claimed in Claim 1, wherein the communications device is configured to receive signals transmitted via the wireless access interface in accordance with a discontinuous reception cycle in which the receiver is powered down and cannot receive the signals for a predetermined period, and the changed operations performed by the receiver in the power saving state includes increasing the temporal length of the discontinuous transmission cycle.</claim-text>
+        </claim>
+        <claim id="c-en-01-0009" num="0009">
+            <claim-text>
+                A communications device as claimed in Claim 1, wherein the communications device is configured
+                <br/>
+                to change the operations of the controller, the receiver and the transmitter to transition to the idle state or the connected state in accordance with at least one of
+                <br/>
+                <!--  EPO <DP n="21">  -->
+                a requirement to perform a tracking area up-date,
+                <br/>
+                a requirement to transmit data to the wireless communications network,
+                <br/>
+                receiving a paging message from the wireless communications network, after a predetermined time in the power saving state, or
+                <br/>
+                after time determined from measurements performed before entering the power saving state.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0010" num="0010">
+            <claim-text>
+                A communications device as claimed in claim 9,
+                <br/>
+                wherein the communications device is configured
+                <br/>
+                to change the operations of the controller, the receiver and the transmitter to transition to the idle state or the connected state from the power saving state in accordance with measurements performed in the power saving state.
+            </claim-text>
+        </claim>
+        <claim id="c-en-01-0011" num="0011">
+            <claim-text>A communications device as claimed in claim 10, wherein the measurements performed by controller include a measurement of a received signal strength of signals received from one or more infrastructure equipment, and depending on the received signal strength, moving to the idle state for re-establishing the connection or moving to the connected state with an existing connection.</claim-text>
+        </claim>
+    </claims>
+    <claims id="claims02" lang="de">
+        <!--  EPO <DP n="22">  -->
+        <claim id="c-de-01-0001" num="0001">
+            <claim-text>
+                Kommunikationsvorrichtung (101) zum Senden von Daten an ein, und zum Empfangen von Daten von einem Mobilfunknetzwerk, wobei das Mobilfunknetzwerk ein oder mehrere Netzwerkelemente umfasst, die eine drahtlose Zugangsschnittstelle zum Kommunizieren mit der Kommunikationsvorrichtung bereitstellen, wobei die Kommunikationsvorrichtung umfasst:
+                <claim-text>eine Sendereinheit (701), die konfiguriert ist zum Senden von Signalen an das Mobilfunknetzwerk über die drahtlose Zugangsschnittstelle, die von dem einen oder den mehreren Netzwerkelementen des Mobilfunknetzwerks bereitgestellt werden, und</claim-text>
+                <claim-text>eine Empfängereinheit (701), die konfiguriert ist zum Empfangen von Signalen von dem Mobilfunknetzwerk über die drahtlose Zugangsschnittstelle, die von dem einen oder den mehreren Netzwerkelementen des Mobilfunknetzwerks bereitgestellt werden, und</claim-text>
+                <claim-text>eine Steuereinheit (702), die konfiguriert ist zum Steuern der Empfängereinheit, um eine oder mehrere Signalisierungsnachrichten von dem Mobilfunknetzwerk zu empfangen, und der Sendereinheit, um eine oder mehrere Signalisierungsnachrichten an das Mobilfunknetzwerk zu senden,</claim-text>
+                <claim-text>
+                    zum Einrichten eines Kommunikationskontexts zum Kommunizieren von Datenpaketen mithilfe eines Paketkommunikationsträgers von der Kommunikationsvorrichtung über das Mobilfunknetzwerk,
+                    <!--  EPO <DP n="23">  -->
+                    wenn es in einem verbundenen Zustand (206) funktioniert, wobei der verbundene Zustand einer eines verbundenen ECM-Zustands und eines verbundenen RRC-Zustands ist, und
+                </claim-text>
+                <claim-text>zum Freigeben des Kommunikationskontexts und des Paketkommunikationsträgers für einen Ruhezustand (204), wobei der Ruhezustand einer eines ECM-Ruhezustands und eines RRC-Ruhezustands ist,</claim-text>
+                <claim-text>
+                    <b>dadurch gekennzeichnet, dass</b>
+                    die Kommunikationsvorrichtung konfiguriert ist:
+                    <claim-text>zum Empfangen von Signalisierungsinformationen, die eine Anzeige einer Vielzahl von Energiesparzuständen (670, 672, 674) bereitstellen, wobei jeder der Energiesparzustände eine zugehörige Gruppe von einer oder mehreren Funktionen bereitstellt, die von mindestens einem des Empfängers, des Senders oder der Steuereinheit ausgeführt werden und die verändert werden können, um die Energie zu verringern, die von der Kommunikationsvorrichtung verbraucht wird, und</claim-text>
+                    <claim-text>wenn sie sich entweder in dem Ruhezustand oder dem verbundenen Zustand befindet, zum Eintreten in einen aus der Vielzahl von Energiesparzuständen, in dem die eine oder mehreren Operationen, die durch mindestens einen des Empfängers, des Senders oder der Steuereinheit ausgeführt werden, gemäß der Anzeige der veränderten Funktionen konfiguriert werden, die in den Signalisierungsinformationen von dem Mobilfunknetzwerk empfangen wird.</claim-text>
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0002" num="0002">
+            <claim-text>Kommunikationsvorrichtung nach Anspruch 1, wobei die Signalisierungsinformationen, die von dem Mobilfunknetzwerk empfangen werden, eine Anzeige der Bedingungen zum Wechseln von einem des verbundenen Zustands oder des Ruhezustands zu jedem der Energiesparzustände bereitstellen.</claim-text>
+        </claim>
+        <claim id="c-de-01-0003" num="0003">
+            <claim-text>
+                Kommunikationsvorrichtung nach Anspruch 1, wobei die Kommunikationsvorrichtung konfiguriert ist zum
+                <!--  EPO <DP n="24">  -->
+                Eintreten in einen der Energiesparzustände gemäß den vorbestimmten Bedingungen, wobei die vorbestimmten Bedingungen enthalten, ob die Kommunikationsvorrichtung gegebenenfalls von dem Ruhezustand oder dem verbundenen Zustand in einen aus der Vielzahl von Energiesparzuständen eintreten kann.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0004" num="0004">
+            <claim-text>Kommunikationsvorrichtung nach Anspruch 1, wobei die Kommunikationsvorrichtung konfiguriert ist zum Eintreten in einen der Energiesparzustände gemäß den vorbestimmten Bedingungen, wobei die vorbestimmten Bedingungen ein Eintreten in den Energiesparzustand als Reaktion auf eine Signalisierungsnachricht aufweisen, die von dem Mobilfunknetzwerk empfangen wurde, und wobei die Kommunikationsvorrichtung konfiguriert ist zum Eintreten in einen aus der Vielzahl von Energiesparzuständen als Reaktion auf die Signalisierungsnachricht, die von dem Mobilfunknetzwerk empfangen wurde.</claim-text>
+        </claim>
+        <claim id="c-de-01-0005" num="0005">
+            <claim-text>Kommunikationsvorrichtung nach Anspruch 1, wobei die Kommunikationsvorrichtung konfiguriert ist zum Eintreten in einen der Energiesparzustände gemäß den vorbestimmten Bedingungen, wobei die vorbestimmten Bedingungen ein Eintreten in den Energiesparzustand aufweisen, wenn ein Parameter mit einem vorbestimmten Wert verglichen wird, und wobei die Kommunikationsvorrichtung konfiguriert ist zum Eintreten in einen aus der Vielzahl von Energiesparzuständen als Reaktion auf einen Vergleich zwischen dem Wert und dem Parameter, der durch die Steuereinheit gemessen wurde.</claim-text>
+        </claim>
+        <claim id="c-de-01-0006" num="0006">
+            <claim-text>
+                Kommunikationsvorrichtung nach Anspruch 5, die einen Taktgeber umfasst und wobei der durch die Steuereinheit gemessene Parameter ein vorbestimmter Zeitablauf ist, seitdem die Daten über den Paketkommunikationsträger gesendet wurden.
+                <!--  EPO <DP n="25">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0007" num="0007">
+            <claim-text>
+                Kommunikationsvorrichtung nach Anspruch 1, wobei die Kommunikationsvorrichtung, wenn sie sich in dem Ruhezustand befindet, konfiguriert ist:
+                <claim-text>zum Empfangen von Funkrufnachrichten, wenn sie von dem Mobilfunknetzwerk gesendet werden,</claim-text>
+                <claim-text>
+                    zum Steuern des Empfängers, um Messungen zum Beibehalten eines Zugriffs auf die drahtlose Zugangsschnittstelle für ein Senden und Empfangen der Signale über das Mobilfunknetzwerk auszuführen, wenn sie sich in einem verbundenen Zustand befindet, wobei in einem aus der Vielzahl von Energiesparzuständen die veränderten Operationen, die durch den mindestens einen des Senders, des Empfängers oder der Steuereinheit ausgeführt werden, mindestens eine aufweisen von:
+                    <claim-text>Verringern einer Anzahl von Gelegenheiten, wenn der Empfänger mit Energie versorgt wird, zum Empfangen der Funkrufnachrichten,</claim-text>
+                    <claim-text>Verringern der Menge von Messungen, die von dem Empfänger ausgeführt werden.</claim-text>
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0008" num="0008">
+            <claim-text>Kommunikationsvorrichtung nach Anspruch 1, wobei die Kommunikationsvorrichtung konfiguriert ist zum Empfangen von Signalen, die über die drahtlose Zugangsschnittstelle gemäß einem diskontinuierlichen Empfangszyklus gesendet werden, in dem der Empfänger nicht mit Energie versorgt wird und die Signale während eines vorbestimmten Zeitraums nicht empfangen kann, und wobei die veränderten Operationen, die von dem Empfänger in dem Energiesparzustand ausgeführt werden, ein Vergrößern der zeitlichen Länge des diskontinuierlichen Sendezyklus aufweisen.</claim-text>
+        </claim>
+        <claim id="c-de-01-0009" num="0009">
+            <claim-text>
+                Kommunikationsvorrichtung nach Anspruch 1, wobei die Kommunikationsvorrichtung konfiguriert ist zum Verändern der Operationen der Steuereinheit, des Empfängers und des Senders, um gemäß einer der Folgenden in den Ruhezustand oder den verbundenen Zustand überzugehen:
+                <!--  EPO <DP n="26">  -->
+                <claim-text>eine Anforderung zum Ausführen einer Aktualisierung eines Verfolgungsbereichs,</claim-text>
+                <claim-text>eine Anforderung zum Senden von Daten an das drahtlose Kommunikationsnetzwerk,</claim-text>
+                <claim-text>Empfangen einer Funkrufnachricht von dem drahtlosen Kommunikationsnetzwerk nach einem vorbestimmten Zeitraum in dem Energiesparzustand, oder</claim-text>
+                <claim-text>nach einem Zeitraum, der aus den Messungen ermittelt wird, die vor dem Eintreten in den Energiesparzustand ausgeführt wurden.</claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0010" num="0010">
+            <claim-text>
+                Kommunikationsvorrichtung nach Anspruch 9,
+                <br/>
+                wobei die Kommunikationsvorrichtung konfiguriert ist zum Verändern der Operationen der Steuereinheit, des Empfängers und des Senders, um gemäß den Messungen, die in dem Energiesparzustand ausgeführt werden, in den Ruhezustand oder den verbundenen Zustand überzugehen.
+            </claim-text>
+        </claim>
+        <claim id="c-de-01-0011" num="0011">
+            <claim-text>Kommunikationsvorrichtung nach Anspruch 10, wobei die Messungen, die von der Steuereinheit ausgeführt werden, eine Messung einer empfangenen Signalstärke von Signalen aufweisen, die von einem oder mehreren Infrastrukturgeräten empfangen werden, und abhängig von der empfangenen Signalstärke, Wechseln in den Ruhezustand zum Wiederherstellen der Verbindung oder Wechseln in den verbundenen Zustand mit einer bestehenden Verbindung.</claim-text>
+        </claim>
+    </claims>
+    <claims id="claims03" lang="fr">
+        <!--  EPO <DP n="27">  -->
+        <claim id="c-fr-01-0001" num="0001">
+            <claim-text>
+                Dispositif de communication (101) pour transmettre des données à un réseau de communication mobile et recevoir des données à partir de celui-ci, le réseau de communication mobile comprenant un ou plusieurs éléments de réseau fournissant une interface d'accès sans fil pour communiquer avec le dispositif de communication, le dispositif de communication comprenant :
+                <claim-text>une unité d'émission (701) configurée pour transmettre des signaux au réseau de communication mobile via l'interface d'accès sans fil fournie par le ou les éléments de réseau du réseau de communication mobile, et</claim-text>
+                <claim-text>une unité de réception (701) configurée pour recevoir des signaux à partir du réseau de communication mobile via l'interface d'accès sans fil fournie par le ou les éléments de réseau du réseau de communication mobile, et</claim-text>
+                <claim-text>un contrôleur (702) configuré pour commander l'unité de réception pour recevoir un ou plusieurs messages de signalisation à partir du réseau de communication mobile, et l'unité d'émission pour transmettre un ou plusieurs messages de signalisation au réseau de communication,</claim-text>
+                <claim-text>
+                    pour établir un contexte de communication pour communiquer des paquets de données en utilisant un support de communication par paquets à partir du dispositif de communication via le réseau de
+                    <!--  EPO <DP n="28">  -->
+                    communication mobile lorsqu'il fonctionne dans un état connecté (206), l'état connecté étant l'un d'un état connecté ECM et d'un état connecté RRC, et
+                </claim-text>
+                <claim-text>pour libérer le contexte de communications et le support de communication par paquets dans un état de repos (204), l'état de repos étant l'un d'un état de repos ECM et d'un état de repos RRC,</claim-text>
+                <claim-text>
+                    <b>caractérisé en ce que</b>
+                    le dispositif de communication est configuré
+                </claim-text>
+                <claim-text>pour recevoir des informations de signalisation fournissant une indication d'une pluralité d'états d'économie d'énergie (670, 672, 674), chacun des états d'économie d'énergie fournissant un ensemble associé d'une ou plusieurs fonctions, exécutées par au moins l'un du récepteur, de l'émetteur ou du contrôleur, qui peuvent être modifiées pour réduire l'énergie consommée par le dispositif de communication, et</claim-text>
+                <claim-text>lorsqu'il se trouve soit dans l'état de repos, soit dans l'état connecté, pour entrer dans l'un de la pluralité d'états d'économie d'énergie dans lesquels la ou les opérations effectuées par au moins l'un du récepteur, de l'émetteur ou du contrôleur sont configurées conformément à l'indication des fonctions modifiées reçue dans les informations de signalisation à partir du réseau de communication mobile.</claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0002" num="0002">
+            <claim-text>Dispositif de communication selon la revendication 1, dans lequel les informations de signalisation reçues à partir du réseau de communication mobile fournissent une indication des conditions de passage de l'un de l'état connecté ou de l'état de repos à chacun des états d'économie d'énergie.</claim-text>
+        </claim>
+        <claim id="c-fr-01-0003" num="0003">
+            <claim-text>
+                Dispositif de communication selon la revendication 1, dans lequel le dispositif de communication est configuré pour entrer dans l'un des états d'économie d'énergie en fonction de conditions prédéterminées, dans lequel les conditions prédéterminées comprennent le fait que le dispositif de
+                <!--  EPO <DP n="29">  -->
+                communication peut ou non entrer dans l'un de la pluralité d'états d'économie d'énergie à partir de l'état de repos ou de l'état connecté.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0004" num="0004">
+            <claim-text>Dispositif de communication selon la revendication 1, dans lequel le dispositif de communication est configuré pour entrer dans l'un des états d'économie d'énergie en fonction de conditions prédéterminées, dans lequel les conditions prédéterminées comprennent l'entrée dans l'état d'économie d'énergie en réponse à un message de signalisation reçu à partir du réseau de communication et le dispositif de communication est configuré pour entrer dans l'un de la pluralité d'états d'économie d'énergie en réponse au message de signalisation reçu à partir du réseau de communication mobile.</claim-text>
+        </claim>
+        <claim id="c-fr-01-0005" num="0005">
+            <claim-text>Dispositif de communication selon la revendication 1, dans lequel le dispositif de communication est configuré pour entrer dans l'un des états d'économie d'énergie en fonction de conditions prédéterminées, dans lequel les conditions prédéterminées comprennent l'entrée dans l'état d'économie d'énergie lorsqu'un paramètre est comparé à une valeur prédéterminée, et le dispositif de communication est configuré pour entrer dans l'un de la pluralité d'états d'économie d'énergie en réponse à une comparaison entre la valeur et le paramètre mesuré par le contrôleur.</claim-text>
+        </claim>
+        <claim id="c-fr-01-0006" num="0006">
+            <claim-text>Dispositif de communication selon la revendication 5, comprenant une horloge et le paramètre mesuré par le contrôleur est un temps écoulé prédéterminé depuis que les données ont été transmises via le support de communication par paquets.</claim-text>
+        </claim>
+        <claim id="c-fr-01-0007" num="0007">
+            <claim-text>
+                Dispositif de communication selon la revendication 1, dans lequel le dispositif de
+                <!--  EPO <DP n="30">  -->
+                communication est configuré, lorsqu'il est dans l'état de repos, pour
+                <br/>
+                recevoir des messages de radiomessagerie, lorsqu'ils sont transmis, à partir du réseau de communication mobile,
+                <br/>
+                commander le récepteur afin qu'il effectue des mesures pour maintenir l'accès à l'interface d'accès sans fil pour transmettre et recevoir les signaux via le réseau de communication mobile lorsqu'il est dans un état connecté, dans lequel, dans l'un de la pluralité d'états d'économie d'énergie, les opérations modifiées effectuées par l'au moins un de l'émetteur, du récepteur ou du contrôleur comprennent au moins l'une des opérations suivantes :
+                <claim-text>réduire le nombre d'occasions où le récepteur est alimenté pour recevoir les messages de radiomessagerie,</claim-text>
+                <claim-text>réduire le nombre de mesures effectuées par le récepteur.</claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0008" num="0008">
+            <claim-text>Dispositif de communication selon la revendication 1, dans lequel le dispositif de communication est configuré pour recevoir des signaux transmis via l'interface d'accès sans fil en fonction d'un cycle de réception discontinu dans lequel le récepteur est mis hors tension et ne peut pas recevoir les signaux pendant une période prédéterminée, et les opérations modifiées effectuées par le récepteur dans l'état d'économie d'énergie comprennent l'augmentation de la longueur temporelle du cycle de transmission discontinu.</claim-text>
+        </claim>
+        <claim id="c-fr-01-0009" num="0009">
+            <claim-text>
+                Dispositif de communication selon la revendication 1, dans lequel le dispositif de communication est configuré pour
+                <br/>
+                modifier les opérations du contrôleur, du récepteur et de l'émetteur afin de passer à l'état de repos ou à l'état connecté en fonction d'au moins l'un parmi
+                <br/>
+                <!--  EPO <DP n="31">  -->
+                une obligation d'effectuer une mise à jour de la zone de suivi,
+                <br/>
+                une obligation de transmettre des données au réseau de communication sans fil,
+                <br/>
+                la réception d'un message de radiomessagerie à partir du réseau de communication sans fil, après un temps prédéterminé dans l'état d'économie d'énergie, ou
+                <br/>
+                après un temps déterminé à partir de mesures effectuées avant d'entrer dans l'état d'économie d'énergie.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0010" num="0010">
+            <claim-text>
+                Dispositif de communication selon la revendication 9,
+                <br/>
+                dans lequel le dispositif de communication est configuré pour
+                <br/>
+                modifier les opérations du contrôleur, du récepteur et de l'émetteur afin de passer à l'état de repos ou à l'état connecté depuis l'état d'économie d'énergie en fonction de mesures effectuées dans l'état d'économie d'énergie.
+            </claim-text>
+        </claim>
+        <claim id="c-fr-01-0011" num="0011">
+            <claim-text>Dispositif de communication selon la revendication 10, dans lequel les mesures effectuées par le contrôleur comprennent une mesure d'une intensité de signal reçu de signaux reçus à partir d'un ou plusieurs équipements d'infrastructure, et selon l'intensité du signal reçu, le passage à l'état de repos pour rétablir la connexion ou le passage à l'état connecté avec une connexion existante.</claim-text>
+        </claim>
+    </claims>
+    <drawings id="draw" lang="en">
+        <!--  EPO <DP n="32">  -->
+        <figure id="f0001" num="1,2">
+            <img id="if0001" file="imgf0001.tif" wi="165" he="217" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="33">  -->
+        <figure id="f0002" num="3">
+            <img id="if0002" file="imgf0002.tif" wi="165" he="176" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="34">  -->
+        <figure id="f0003" num="4">
+            <img id="if0003" file="imgf0003.tif" wi="161" he="171" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="35">  -->
+        <figure id="f0004" num="5">
+            <img id="if0004" file="imgf0004.tif" wi="165" he="164" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="36">  -->
+        <figure id="f0005" num="6">
+            <img id="if0005" file="imgf0005.tif" wi="165" he="169" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="37">  -->
+        <figure id="f0006" num="7">
+            <img id="if0006" file="imgf0006.tif" wi="147" he="114" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="38">  -->
+        <figure id="f0007" num="8">
+            <img id="if0007" file="imgf0007.tif" wi="101" he="87" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="39">  -->
+        <figure id="f0008" num="9a">
+            <img id="if0008" file="imgf0008.tif" wi="165" he="233" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="40">  -->
+        <figure id="f0009" num="9b">
+            <img id="if0009" file="imgf0009.tif" wi="162" he="210" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="41">  -->
+        <figure id="f0010" num="10">
+            <img id="if0010" file="imgf0010.tif" wi="163" he="159" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="42">  -->
+        <figure id="f0011" num="11">
+            <img id="if0011" file="imgf0011.tif" wi="157" he="169" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="43">  -->
+        <figure id="f0012" num="12">
+            <img id="if0012" file="imgf0012.tif" wi="165" he="232" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="44">  -->
+        <figure id="f0013" num="13,17">
+            <img id="if0013" file="imgf0013.tif" wi="165" he="230" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="45">  -->
+        <figure id="f0014" num="14,15,16">
+            <img id="if0014" file="imgf0014.tif" wi="151" he="231" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="46">  -->
+        <figure id="f0015" num="18,19">
+            <img id="if0015" file="imgf0015.tif" wi="165" he="209" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="47">  -->
+        <figure id="f0016" num="20">
+            <img id="if0016" file="imgf0016.tif" wi="165" he="128" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="48">  -->
+        <figure id="f0017" num="21">
+            <img id="if0017" file="imgf0017.tif" wi="165" he="176" img-content="drawing" img-format="tif"/>
+        </figure>
+    </drawings>
+    <ep-reference-list id="ref-list">
+        <heading id="ref-h0001">
+            <b>REFERENCES CITED IN THE DESCRIPTION</b>
+        </heading>
+        <p id="ref-p0001" num="">
+            <i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i>
+        </p>
+        <heading id="ref-h0002">
+            <b>Patent documents cited in the description</b>
+        </heading>
+        <p id="ref-p0002" num="">
+            <ul id="ref-ul0001" list-style="bullet">
+                <li>
+                    <patcit id="ref-pcit0001" dnum="US20120281566A">
+                        <document-id>
+                            <country>US</country>
+                            <doc-number>20120281566</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0001">[0006]</crossref>
+                </li>
+                <li>
+                    <patcit id="ref-pcit0002" dnum="GB1307186A">
+                        <document-id>
+                            <country>GB</country>
+                            <doc-number>1307186</doc-number>
+                            <kind>A</kind>
+                        </document-id>
+                    </patcit>
+                    <crossref idref="pcit0002">[0031]</crossref>
+                </li>
+            </ul>
+        </p>
+        <heading id="ref-h0003">
+            <b>Non-patent literature cited in the description</b>
+        </heading>
+        <p id="ref-p0003" num="">
+            <ul id="ref-ul0002" list-style="bullet">
+                <li>
+                    <nplcit id="ref-ncit0001" npl-type="s">
+                        <article>
+                            <atl>Power Saving State for Devices</atl>
+                            <serial>
+                                <sertitle>3GPP Technical report TR 37.869 and in TR23.887v0.10.1, section 7.1.3.3</sertitle>
+                            </serial>
+                        </article>
+                    </nplcit>
+                    <crossref idref="ncit0001">[0040]</crossref>
+                </li>
+            </ul>
+        </p>
+    </ep-reference-list>
+</ep-patent-document>
