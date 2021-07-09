@@ -42,3 +42,10 @@ patentHTMLData, err := eps.GetPatentHTML(patentID)
 patentZIPData, err := eps.GetPatentZIP(patentID)
 patentPDFData, err := eps.GetPatentPDF(patentID)
 ```
+
+### Transform xml data to golang struct
+
+```go
+import eps
+epPatentDocumentSimple, err := eps.ProcessXMLSimple(patentXMLData)
+```

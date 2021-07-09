@@ -1,5 +1,6 @@
 package eps
 
+// EpPatentDocumentSimple is a simple representation of the xml data
 type EpPatentDocumentSimple struct {
 	ID          string `xml:"id,attr"`
 	File        string `xml:"file,attr"`
