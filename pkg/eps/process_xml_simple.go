@@ -133,6 +133,29 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			Name:    c.Find("snm").Text(),
 		})
 	})
-
+	// representatives
+	/*
+		<B740>
+			<B741>
+				<snm>D Young & Co LLP</snm>
+				<iid>101533551</iid>
+				<adr>
+					<str>120 Holborn</str>
+					<city>London EC1N 2DY</city>
+					<ctry>GB</ctry>
+				</adr>
+			</B741>
+		</B740>
+	*/
+	representatives := all.Find("B741")
+	representatives.Each(func(i int, c *goquery.Selection) {
+		patentDoc.Representatives = append(patentDoc.Representatives, Representative{
+			IID:     c.Find("iid").Text(),
+			Country: c.Find("adr ctry").Text(),
+			City:    c.Find("adr city").Text(),
+			Street:  c.Find("adr str").Text(),
+			Name:    c.Find("snm").Text(),
+		})
+	})
 	return
 }

@@ -61,4 +61,11 @@ func TestProcessXMLSimple2(t *testing.T) {
 	ass.Equal("1-7-1 Konan, Minato-ku", patDoc.Owners[0].Street)
 	ass.Equal("Tokyo 108-0075", patDoc.Owners[0].City)
 	ass.Equal("JP", patDoc.Owners[0].Country)
+	// representative
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal("D Young & Co LLP", patDoc.Representatives[0].Name)
+	ass.Equal("101533551", patDoc.Representatives[0].IID)
+	ass.Equal("120 Holborn", patDoc.Representatives[0].Street)
+	ass.Equal("London EC1N 2DY", patDoc.Representatives[0].City)
+	ass.Equal("GB", patDoc.Representatives[0].Country)
 }
