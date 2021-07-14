@@ -20,6 +20,7 @@ type EpPatentDocumentSimple struct {
 	Owners            []Owner
 	Representatives   []Representative
 	ContractingStates []Country
+	Classes           []Class
 }
 
 type Country string
@@ -74,4 +75,9 @@ type Representative struct {
 	City    string
 	Street  string
 	Name    string
+}
+
+type Class struct {
+	Text     string
+	Sequence int
 }

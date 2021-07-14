@@ -3,6 +3,8 @@ package eps
 import (
 	"bytes"
 	"github.com/PuerkitoBio/goquery"
+	log "github.com/sirupsen/logrus"
+	"strconv"
 )
 
 // ProcessXMLSimple transforms the raw response of the xml data into a simple patent
@@ -169,6 +171,29 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	countries := all.Find("B840 ctry")
 	countries.Each(func(i int, c *goquery.Selection) {
 		patentDoc.ContractingStates = append(patentDoc.ContractingStates, Country(c.Text()))
+	})
+	// Classifications
+	/*
+		<B510EP>
+			<classification-ipcr sequence="1">
+				<text>B60T 17/22 20060101AFI20200403BHEP</text>
+			</classification-ipcr>
+		</B510EP>
+	*/
+	classes := all.Find("B510EP classification-ipcr")
+	classes.Each(func(i int, c *goquery.Selection) {
+		seq, ex := c.Attr("sequence")
+		if !ex {
+			log.Warn("classification ipcr: seq does not exist")
+		}
+		seqInt, warn := strconv.Atoi(seq)
+		if warn != nil {
+			log.Warn("classification ipcr: can not parse seq string", warn)
+		}
+		patentDoc.Classes = append(patentDoc.Classes, Class{
+			Text:     c.Find("text").Text(),
+			Sequence: seqInt,
+		})
 	})
 	return
 }
