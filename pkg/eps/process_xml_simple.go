@@ -19,7 +19,8 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	patentDoc.ID, _ = all.Attr("id")
 	patentDoc.DocNumber, _ = all.Attr("doc-number")
 	patentDoc.Lang, _ = all.Attr("lang")
-	patentDoc.Country, _ = all.Attr("country")
+	country, _ := all.Attr("country")
+	patentDoc.Country = Country(country)
 	// title
 	/*
 		<B540>
@@ -79,7 +80,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 		docId := c.Find("document-id")
 		if docId.Size() > 0 {
 			patentDoc.Citations = append(patentDoc.Citations, Citation{
-				Country:   docId.Find("country").Text(),
+				Country:   Country(docId.Find("country").Text()),
 				DocNumber: docId.Find("doc-number").Text(),
 				Kind:      docId.Find("kind").Text(),
 			})
@@ -102,7 +103,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	inventors := all.Find("B721")
 	inventors.Each(func(i int, c *goquery.Selection) {
 		patentDoc.Inventors = append(patentDoc.Inventors, Inventor{
-			Country: c.Find("adr ctry").Text(),
+			Country: Country(c.Find("adr ctry").Text()),
 			City:    c.Find("adr city").Text(),
 			Street:  c.Find("adr str").Text(),
 			Name:    c.Find("snm").Text(),
@@ -127,7 +128,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 		patentDoc.Owners = append(patentDoc.Owners, Owner{
 			IID:     c.Find("iid").Text(),
 			IRF:     c.Find("irf").Text(),
-			Country: c.Find("adr ctry").Text(),
+			Country: Country(c.Find("adr ctry").Text()),
 			City:    c.Find("adr city").Text(),
 			Street:  c.Find("adr str").Text(),
 			Name:    c.Find("snm").Text(),
@@ -151,11 +152,23 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	representatives.Each(func(i int, c *goquery.Selection) {
 		patentDoc.Representatives = append(patentDoc.Representatives, Representative{
 			IID:     c.Find("iid").Text(),
-			Country: c.Find("adr ctry").Text(),
+			Country: Country(c.Find("adr ctry").Text()),
 			City:    c.Find("adr city").Text(),
 			Street:  c.Find("adr str").Text(),
 			Name:    c.Find("snm").Text(),
 		})
+	})
+	// ContractingStates
+	/*
+		<B800>
+			<B840>
+				<ctry>AL</ctry>
+				<ctry>AT</ctry>
+
+	*/
+	countries := all.Find("B840 ctry")
+	countries.Each(func(i int, c *goquery.Selection) {
+		patentDoc.ContractingStates = append(patentDoc.ContractingStates, Country(c.Text()))
 	})
 	return
 }

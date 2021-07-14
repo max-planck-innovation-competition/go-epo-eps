@@ -31,6 +31,7 @@ func TestProcessXMLSimple2(t *testing.T) {
 	ass.NoError(err)
 
 	ass.NotEmpty(patDoc.Title)
+	ass.Equal(Country("EP"), patDoc.Country)
 	ass.Equal("de", patDoc.Title[0].Language)
 	ass.Equal("KOMMUNIKATIONSVORRICHTUNG UND -VERFAHREN", patDoc.Title[0].Text)
 	ass.Equal("en", patDoc.Title[1].Language)
@@ -41,10 +42,10 @@ func TestProcessXMLSimple2(t *testing.T) {
 	ass.NotEmpty(patDoc.Claims)
 	ass.NotEmpty(patDoc.Citations)
 	// citations
-	ass.Equal("US", patDoc.Citations[0].Country)
+	ass.Equal(Country("US"), patDoc.Citations[0].Country)
 	ass.Equal("20120281566", patDoc.Citations[0].DocNumber)
 	ass.Equal("A", patDoc.Citations[0].Kind)
-	ass.Equal("GB", patDoc.Citations[1].Country)
+	ass.Equal(Country("GB"), patDoc.Citations[1].Country)
 	ass.Equal("1307186", patDoc.Citations[1].DocNumber)
 	ass.Equal("A", patDoc.Citations[1].Kind)
 	// inventors
@@ -52,7 +53,7 @@ func TestProcessXMLSimple2(t *testing.T) {
 	ass.Equal("MARTIN, Brian Alexander", patDoc.Inventors[0].Name)
 	ass.Equal("c/o Sony Europe IP Europe Jays Close, Viables", patDoc.Inventors[0].Street)
 	ass.Equal("Basingstoke, Hampshire RG22 4SB", patDoc.Inventors[0].City)
-	ass.Equal("GB", patDoc.Inventors[0].Country)
+	ass.Equal(Country("GB"), patDoc.Inventors[0].Country)
 	// owners
 	ass.NotEmpty(patDoc.Owners)
 	ass.Equal("SONY Corporation", patDoc.Owners[0].Name)
@@ -60,12 +61,16 @@ func TestProcessXMLSimple2(t *testing.T) {
 	ass.Equal("P103307EP1AA", patDoc.Owners[0].IRF)
 	ass.Equal("1-7-1 Konan, Minato-ku", patDoc.Owners[0].Street)
 	ass.Equal("Tokyo 108-0075", patDoc.Owners[0].City)
-	ass.Equal("JP", patDoc.Owners[0].Country)
+	ass.Equal(Country("JP"), patDoc.Owners[0].Country)
 	// representative
 	ass.NotEmpty(patDoc.Representatives)
 	ass.Equal("D Young & Co LLP", patDoc.Representatives[0].Name)
 	ass.Equal("101533551", patDoc.Representatives[0].IID)
 	ass.Equal("120 Holborn", patDoc.Representatives[0].Street)
 	ass.Equal("London EC1N 2DY", patDoc.Representatives[0].City)
-	ass.Equal("GB", patDoc.Representatives[0].Country)
+	ass.Equal(Country("GB"), patDoc.Representatives[0].Country)
+	// ContractingStates
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(Country("AL"), patDoc.ContractingStates[0])
+	ass.Equal(Country("AT"), patDoc.ContractingStates[1])
 }
