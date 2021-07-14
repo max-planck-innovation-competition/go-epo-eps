@@ -85,5 +85,54 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			})
 		}
 	})
+	// inventors
+	/*
+		<B720>
+			<B721>
+				<snm>MARTIN, Brian Alexander</snm>
+				<adr>
+					<str>c/o Sony Europe IP Europe Jays Close, Viables</str>
+					<city>Basingstoke, Hampshire RG22 4SB</city>
+					<ctry>GB</ctry>
+				</adr>
+			</B721>
+
+
+	*/
+	inventors := all.Find("B721")
+	inventors.Each(func(i int, c *goquery.Selection) {
+		patentDoc.Inventors = append(patentDoc.Inventors, Inventor{
+			Country: c.Find("adr ctry").Text(),
+			City:    c.Find("adr city").Text(),
+			Street:  c.Find("adr str").Text(),
+			Name:    c.Find("snm").Text(),
+		})
+	})
+	// owners
+	/*
+		<B720>
+			<B721>
+				<snm>MARTIN, Brian Alexander</snm>
+				<adr>
+					<str>c/o Sony Europe IP Europe Jays Close, Viables</str>
+					<city>Basingstoke, Hampshire RG22 4SB</city>
+					<ctry>GB</ctry>
+				</adr>
+			</B721>
+
+
+	*/
+	owners := all.Find("B731")
+	owners.Each(func(i int, c *goquery.Selection) {
+		patentDoc.Owners = append(patentDoc.Owners, Owner{
+			IID:     c.Find("iid").Text(),
+			IRF:     c.Find("irf").Text(),
+			Country: c.Find("adr ctry").Text(),
+			City:    c.Find("adr city").Text(),
+			Street:  c.Find("adr str").Text(),
+			Name:    c.Find("snm").Text(),
+		})
+	})
+
 	return
 }

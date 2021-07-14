@@ -16,6 +16,8 @@ type EpPatentDocumentSimple struct {
 	Claims      []Claim
 	Description []Description
 	Citations   []Citation
+	Inventors   []Inventor
+	Owners      []Owner
 }
 
 type Title struct {
@@ -44,4 +46,20 @@ type Citation struct {
 	Country   string
 	DocNumber string
 	Kind      string
+}
+
+type Inventor struct {
+	Country string
+	City    string
+	Street  string
+	Name    string
+}
+
+type Owner struct {
+	Country string
+	IID     string
+	IRF     string
+	City    string
+	Street  string
+	Name    string
 }
