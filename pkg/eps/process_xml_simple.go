@@ -222,10 +222,9 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 		if warn != nil {
 			log.Warn("classification ipcr: can not parse seq string", warn)
 		}
-		patentDoc.Classes = append(patentDoc.Classes, Class{
-			Text:     strings.TrimSpace(c.Find("text").Text()),
-			Sequence: seqInt,
-		})
+		// do not use trim here
+		item := NewClassificationItem(c.Find("text").Text(), seqInt)
+		patentDoc.Classifications = append(patentDoc.Classifications, item)
 	})
 	return
 }
