@@ -1,16 +1,18 @@
 package eps
 
+import "time"
+
 // EpPatentDocumentSimple is a simple representation of the xml data
 type EpPatentDocumentSimple struct {
-	ID                string  `xml:"id,attr"`
-	File              string  `xml:"file,attr"`
-	Lang              string  `xml:"lang,attr"`
-	Country           Country `xml:"country,attr"`
-	DocNumber         string  `xml:"doc-number,attr"`
-	Kind              string  `xml:"kind,attr"`
-	DatePubl          string  `xml:"date-publ,attr"`
-	Status            string  `xml:"status,attr"`
-	DtdVersion        string  `xml:"dtd-version,attr"`
+	ID                string
+	File              string
+	Lang              string
+	Country           Country
+	DocNumber         string
+	Kind              string
+	DatePubl          time.Time
+	Status            string
+	DtdVersion        string
 	Title             []Title
 	Abstract          []Abstract
 	Claims            []Claim

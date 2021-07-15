@@ -5,6 +5,11 @@ import (
 	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
 	"strconv"
+	"time"
+)
+
+const (
+	layoutDatePubl = "20060102"
 )
 
 // ProcessXMLSimple transforms the raw response of the xml data into a simple patent
@@ -18,9 +23,24 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	if all == nil {
 		return
 	}
+
 	patentDoc.ID, _ = all.Attr("id")
 	patentDoc.DocNumber, _ = all.Attr("doc-number")
+	patentDoc.Kind, _ = all.Attr("kind")
+	patentDoc.Status, _ = all.Attr("status")
+	patentDoc.DtdVersion, _ = all.Attr("dtd-version")
+
+	// parse the date form the string
+	dateString, _ := all.Attr("date-publ")
+	parsedDate, errDate := time.Parse(layoutDatePubl, dateString)
+	if errDate != nil {
+		log.Warn("can not parse date", dateString)
+	} else {
+		patentDoc.DatePubl = parsedDate
+	}
+
 	patentDoc.Lang, _ = all.Attr("lang")
+	patentDoc.File, _ = all.Attr("file")
 	country, _ := all.Attr("country")
 	patentDoc.Country = Country(country)
 	// title
