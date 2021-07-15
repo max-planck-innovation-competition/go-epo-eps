@@ -83,6 +83,6 @@ func TestProcessXMLSimple2(t *testing.T) {
 	ass.Equal(Country("AT"), patDoc.ContractingStates[1])
 	// Classes
 	ass.NotEmpty(patDoc.Classes)
-	ass.Equal("H04W 76/28 20180101AFI20201221BHEP ", patDoc.Classes[0].Text)
-	ass.Equal("H04W 52/02 20090101ALI20201221BHEP ", patDoc.Classes[1].Text)
+	ass.Equal("H04W 76/28 20180101AFI20201221BHEP", patDoc.Classes[0].Text)
+	ass.Equal("H04W 52/02 20090101ALI20201221BHEP", patDoc.Classes[1].Text)
 }
