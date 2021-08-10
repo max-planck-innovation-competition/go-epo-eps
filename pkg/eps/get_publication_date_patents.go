@@ -31,19 +31,23 @@ func GetPublicationDatePatents(date time.Time) (res []PatentItem, err error) {
 		log.Error(err)
 		return
 	}
-	defer resp.Body.Close()
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
 		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
 		return
 	}
-
 	// Load the HTML document
 	doc, err := goquery.NewDocumentFromReader(resp.Body)
 	if err != nil {
-		log.Fatal(err)
+		log.Error(err)
+		return
 	}
-
+	// close body
+	err = resp.Body.Close()
+	if err != nil {
+		log.Error(err)
+		return
+	}
 	// Find the dates and links
 	doc.Find("a").Each(func(i int, s *goquery.Selection) {
 		// For each item found, get the link and the name

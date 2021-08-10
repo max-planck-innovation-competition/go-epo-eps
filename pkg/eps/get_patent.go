@@ -42,13 +42,22 @@ func getPatent(patentID string, format PatentExportFormat) (res []byte, err erro
 		log.Error(err)
 		return
 	}
-	defer resp.Body.Close()
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
 		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
 		return
 	}
 	res, err = io.ReadAll(resp.Body)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	// close body
+	err = resp.Body.Close()
+	if err != nil {
+		log.Error(err)
+		return
+	}
 	return
 }
 
@@ -93,13 +102,22 @@ func GetPatentHTML(patentID string) (res []byte, err error) {
 		log.Error(err)
 		return
 	}
-	defer resp.Body.Close()
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
 		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
 		return
 	}
 	res, err = io.ReadAll(resp.Body)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	// close body
+	err = resp.Body.Close()
+	if err != nil {
+		log.Error(err)
+		return
+	}
 	return
 }
 
@@ -144,7 +162,6 @@ func GetPatentPDF(patentID string) (res []byte, err error) {
 		log.Error(err)
 		return
 	}
-
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
 		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
