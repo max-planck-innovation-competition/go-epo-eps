@@ -31,12 +31,6 @@ func GetVersions() (res []string, err error) {
 		log.Error(err)
 		return
 	}
-	// close body
-	err = resp.Body.Close()
-	if err != nil {
-		log.Error(err)
-		return
-	}
 	// Find the links
 	doc.Find("a").Each(func(i int, s *goquery.Selection) {
 		// For each item found, get the link and the name
@@ -45,7 +39,11 @@ func GetVersions() (res []string, err error) {
 		log.Info("name: ", name, " link: ", link)
 		res = append(res, link)
 	})
-
+	// close body
+	err = resp.Body.Close()
+	if err != nil {
+		log.Error(err)
+		return
+	}
 	return
-
 }
