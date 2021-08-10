@@ -4,14 +4,13 @@ import (
 	"errors"
 	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
-	"net/http"
 	"strconv"
 )
 
 // GetVersions retrieves the REST API version from the endpoint
 func GetVersions() (res []string, err error) {
 	// init http client
-	client := &http.Client{}
+	client := NewHttpClient()
 	// make request
 	url := ENDPOINT_HOST + ENDPOINT_ROOT
 	log.Debug("GET: ", url)

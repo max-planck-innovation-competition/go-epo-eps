@@ -4,7 +4,6 @@ import (
 	"errors"
 	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
-	"net/http"
 	"strconv"
 	"time"
 )
@@ -23,7 +22,7 @@ func GetPublicationDatePatents(date time.Time) (res []PatentItem, err error) {
 	// generate the date string for the url param from the time object
 	urlDateString := date.Format(layoutRetrievingDate)
 	// init http client
-	client := &http.Client{}
+	client := NewHttpClient()
 	// make request
 	url := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates/" + urlDateString + "/patents"
 	log.Debug("GET: ", url)

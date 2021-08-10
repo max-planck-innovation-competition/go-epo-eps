@@ -25,7 +25,7 @@ const (
 // getPatent executes the http request using the id and the export format
 func getPatent(patentID string, format PatentExportFormat) (res []byte, err error) {
 	// init http client
-	client := &http.Client{}
+	client := NewHttpClient()
 	// build req
 	url := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/patents/" + patentID + "/document." + strings.ToLower(string(format))
 	log.Debug("GET: ", url)
@@ -79,7 +79,7 @@ func GetPatentHTML(patentID string) (res []byte, err error) {
 	}
 	// now perform the second request
 	// init http client
-	client := &http.Client{}
+	client := NewHttpClient()
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		log.Error(err)
@@ -130,7 +130,7 @@ func GetPatentPDF(patentID string) (res []byte, err error) {
 	}
 	// now perform the second request
 	// init http client
-	client := &http.Client{}
+	client := NewHttpClient()
 	req, err := http.NewRequest("GET", url, nil)
 	if err != nil {
 		log.Error(err)
@@ -144,12 +144,22 @@ func GetPatentPDF(patentID string) (res []byte, err error) {
 		log.Error(err)
 		return
 	}
-	defer resp.Body.Close()
+
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
 		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
 		return
 	}
 	res, err = io.ReadAll(resp.Body)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	// close body
+	err = resp.Body.Close()
+	if err != nil {
+		log.Error(err)
+		return
+	}
 	return
 }

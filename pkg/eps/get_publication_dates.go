@@ -4,7 +4,6 @@ import (
 	"errors"
 	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
-	"net/http"
 	"strconv"
 	"time"
 )
@@ -22,7 +21,7 @@ const (
 // GetPublicationDates retrieves the publication dates of patents from the endpoint
 func GetPublicationDates() (res []PublicationDate, err error) {
 	// init http client
-	client := &http.Client{}
+	client := NewHttpClient()
 	// make request
 	url := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates"
 	log.Debug("GET: ", url)
