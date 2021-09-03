@@ -178,5 +178,19 @@ func GetPatentPDF(patentID string) (res []byte, err error) {
 		log.Error(err)
 		return
 	}
+	// check if blacklisted
+	err = CheckIfBlackListed(res)
+	if err != nil {
+		log.Error(err)
+		return
+	}
+	return
+}
+
+func CheckIfBlackListed(res []byte) (err error) {
+	bodyString := string(res)
+	if strings.Contains(bodyString, "The European publication server has detected a very high level of data flow to your IP address. Such traffic could potentially disturb the access to the service for other users.") {
+		err = errors.New("client and IP blacklisted")
+	}
 	return
 }
