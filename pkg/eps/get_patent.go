@@ -58,6 +58,12 @@ func getPatent(patentID string, format PatentExportFormat) (res []byte, err erro
 		log.Error(err)
 		return
 	}
+	// check if blacklisted
+	err = CheckIfBlackListed(res)
+	if err != nil {
+		log.Error(err)
+		return
+	}
 	return
 }
 
