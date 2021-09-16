@@ -49,3 +49,11 @@ patentPDFData, err := eps.GetPatentPDF(patentID)
 import eps
 epPatentDocumentSimple, err := eps.ProcessXMLSimple(patentXMLData)
 ```
+
+
+## Environment
+
+```
+PROXY=http...
+HTTP_PROXY=http...
+```
