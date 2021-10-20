@@ -9,7 +9,7 @@ Alpha Version
 
 ## Installation
 
-Put the package under your project folder and add the following in import:
+Add the package to your project via the following command:
 
 ```shell
 go get github.com/max-planck-innovation-competition/go-epo-eps

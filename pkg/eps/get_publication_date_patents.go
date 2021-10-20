@@ -19,14 +19,14 @@ const (
 
 // GetPublicationDatePatents retrieves the patent list of a given date
 func GetPublicationDatePatents(date time.Time) (res []PatentItem, err error) {
-	// generate the date string for the url param from the time object
+	// generate the date string for the reqUrl param from the time object
 	urlDateString := date.Format(layoutRetrievingDate)
 	// init http client
 	client := NewHttpClient()
 	// make request
-	url := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates/" + urlDateString + "/patents"
-	log.Debug("GET: ", url)
-	resp, err := client.Get(url)
+	reqUrl := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates/" + urlDateString + "/patents"
+	log.Debug("GET: ", reqUrl)
+	resp, err := client.Get(reqUrl)
 	if err != nil {
 		log.Error(err)
 		return

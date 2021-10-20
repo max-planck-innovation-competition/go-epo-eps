@@ -23,9 +23,9 @@ func GetPublicationDates() (res []PublicationDate, err error) {
 	// init http client
 	client := NewHttpClient()
 	// make request
-	url := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates"
-	log.Debug("GET: ", url)
-	resp, err := client.Get(url)
+	reqUrl := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates"
+	log.Debug("GET: ", reqUrl)
+	resp, err := client.Get(reqUrl)
 	if err != nil {
 		log.Error(err)
 		return
