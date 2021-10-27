@@ -20,19 +20,19 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	if err != nil {
 		return
 	}
-	all := doc.Find("ep-patent-document")
-	if all == nil {
+	root := doc.Find("ep-patent-document")
+	if root == nil {
 		return
 	}
 
-	patentDoc.ID, _ = all.Attr("id")
-	patentDoc.DocNumber, _ = all.Attr("doc-number")
-	patentDoc.Kind, _ = all.Attr("kind")
-	patentDoc.Status, _ = all.Attr("status")
-	patentDoc.DtdVersion, _ = all.Attr("dtd-version")
+	patentDoc.ID, _ = root.Attr("id")
+	patentDoc.DocNumber, _ = root.Attr("doc-number")
+	patentDoc.Kind, _ = root.Attr("kind")
+	patentDoc.Status, _ = root.Attr("status")
+	patentDoc.DtdVersion, _ = root.Attr("dtd-version")
 
 	// parse the date form the string
-	dateString, _ := all.Attr("date-publ")
+	dateString, _ := root.Attr("date-publ")
 	parsedDate, errDate := time.Parse(layoutDatePubl, dateString)
 	if errDate != nil {
 		log.Warn("can not parse date", dateString)
@@ -40,9 +40,9 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 		patentDoc.DatePubl = parsedDate
 	}
 
-	patentDoc.Lang, _ = all.Attr("lang")
-	patentDoc.File, _ = all.Attr("file")
-	country, _ := all.Attr("country")
+	patentDoc.Lang, _ = root.Attr("lang")
+	patentDoc.File, _ = root.Attr("file")
+	country, _ := root.Attr("country")
 	patentDoc.Country = Country(strings.TrimSpace(country))
 	// title
 	/*
@@ -53,47 +53,41 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			<B542>PROCEDURE AND ...</B542>
 		</B540>
 	*/
-	titles := all.Find("B540")
+	titles := root.Find("B540")
 	titles.Children().Each(func(i int, c *goquery.Selection) {
 		if c.Is("B541") && c.Next() != nil && c.Next().Is("B542") {
 			patentDoc.Title = append(patentDoc.Title, Title{
-				Language: strings.TrimSpace(c.Text()),
+				Language: strings.ToLower(strings.TrimSpace(c.Text())),
 				Text:     strings.TrimSpace(c.Next().Text()),
 			})
 		}
 	})
 	// abstract
-	abstract := all.Find("abstract")
-	abstract.Each(func(i int, a *goquery.Selection) {
-		lang, _ := a.Attr("lang")
-		patentDoc.Abstract = append(
-			patentDoc.Abstract,
-			Abstract{
-				Text:     strings.TrimSpace(a.Text()),
-				Language: lang,
-			},
-		)
-	})
+	abstract := root.Find("abstract")
+	patentDoc.Abstract = append(
+		patentDoc.Abstract,
+		Abstract{
+			Text:     strings.TrimSpace(abstract.Text()),
+			Language: strings.ToLower(strings.TrimSpace("en")),
+		},
+	)
 	// description
-	description := all.Find("description")
-	description.Each(func(i int, d *goquery.Selection) {
-		lang, _ := d.Attr("lang")
-		patentDoc.Description = append(
-			patentDoc.Description,
-			Description{
-				Text:     strings.TrimSpace(d.Text()),
-				Language: lang,
-			})
-	})
+	description := root.Find("description")
+	patentDoc.Description = append(
+		patentDoc.Description,
+		Description{
+			Text:     strings.TrimSpace(description.Text()),
+			Language: strings.ToLower(strings.TrimSpace("en")),
+		})
 	// claims
-	claims := all.Find("claims")
+	claims := root.Find("claims")
 	claims.Each(func(i int, c *goquery.Selection) {
 		lang, _ := c.Attr("lang")
 		id, _ := c.Attr("id")
 		num, _ := c.Attr("num")
 		patentDoc.Claims = append(patentDoc.Claims, Claim{
 			Text:     strings.TrimSpace(c.Text()),
-			Language: strings.TrimSpace(lang),
+			Language: strings.TrimSpace(strings.ToLower(lang)),
 			Id:       id,
 			Num:      strings.TrimSpace(num),
 		})
@@ -109,7 +103,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 		</patcit>
 		<crossref idref="pcit0001">[0006]</crossref>
 	*/
-	citations := all.Find("patcit")
+	citations := root.Find("patcit")
 	citations.Each(func(i int, c *goquery.Selection) {
 		docId := c.Find("document-id")
 		if docId.Size() > 0 {
@@ -134,7 +128,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 
 
 	*/
-	inventors := all.Find("B721")
+	inventors := root.Find("B721")
 	inventors.Each(func(i int, c *goquery.Selection) {
 		patentDoc.Inventors = append(patentDoc.Inventors, Inventor{
 			Country: Country(strings.TrimSpace(c.Find("adr ctry").Text())),
@@ -157,7 +151,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 
 
 	*/
-	owners := all.Find("B731")
+	owners := root.Find("B731")
 	owners.Each(func(i int, c *goquery.Selection) {
 		patentDoc.Owners = append(patentDoc.Owners, Owner{
 			Country: Country(strings.TrimSpace(c.Find("adr ctry").Text())),
@@ -182,7 +176,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			</B741>
 		</B740>
 	*/
-	representatives := all.Find("B741")
+	representatives := root.Find("B741")
 	representatives.Each(func(i int, c *goquery.Selection) {
 		patentDoc.Representatives = append(patentDoc.Representatives, Representative{
 			Country: Country(strings.TrimSpace(c.Find("adr ctry").Text())),
@@ -200,7 +194,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 				<ctry>AT</ctry>
 
 	*/
-	countries := all.Find("B840 ctry")
+	countries := root.Find("B840 ctry")
 	countries.Each(func(i int, c *goquery.Selection) {
 		patentDoc.ContractingStates = append(patentDoc.ContractingStates, Country(strings.TrimSpace(c.Text())))
 	})
@@ -212,7 +206,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 			</classification-ipcr>
 		</B510EP>
 	*/
-	classes := all.Find("B510EP classification-ipcr")
+	classes := root.Find("B510EP classification-ipcr")
 	classes.Each(func(i int, c *goquery.Selection) {
 		seq, ex := c.Attr("sequence")
 		if !ex {
