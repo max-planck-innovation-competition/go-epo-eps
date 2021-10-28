@@ -84,12 +84,10 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	claims.Each(func(i int, c *goquery.Selection) {
 		lang, _ := c.Attr("lang")
 		id, _ := c.Attr("id")
-		num, _ := c.Attr("num")
 		patentDoc.Claims = append(patentDoc.Claims, Claim{
 			Text:     strings.TrimSpace(c.Text()),
 			Language: strings.TrimSpace(strings.ToLower(lang)),
 			Id:       id,
-			Num:      strings.TrimSpace(num),
 		})
 	})
 	// citations

@@ -33,7 +33,6 @@ func TestProcessXMLSimple(t *testing.T) {
 	fmt.Println(patDoc.Claims[0])
 	fmt.Println(patDoc.Description[0])
 	fmt.Println(patDoc.Citations[0])
-
 }
 
 func TestProcessXMLSimple2(t *testing.T) {

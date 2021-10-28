@@ -45,7 +45,6 @@ type Claim struct {
 	Text     string
 	Language string
 	Id       string
-	Num      string
 }
 
 type Description struct {
