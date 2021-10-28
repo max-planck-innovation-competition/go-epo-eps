@@ -1,6 +1,7 @@
 package eps
 
 import (
+	"fmt"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"testing"
@@ -24,7 +25,15 @@ func TestProcessXMLSimple(t *testing.T) {
 	ass.Equal("SURVEILLANCE DE FREIN", patDoc.Title[2].Text)
 	ass.NotEmpty(patDoc.Title)
 	ass.NotEmpty(patDoc.Claims)
+	ass.NotEmpty(patDoc.Abstract)
+	ass.NotEmpty(patDoc.Description)
 	ass.NotEmpty(patDoc.Citations)
+
+	fmt.Println(patDoc.Title[0])
+	fmt.Println(patDoc.Claims[0])
+	fmt.Println(patDoc.Description[0])
+	fmt.Println(patDoc.Citations[0])
+
 }
 
 func TestProcessXMLSimple2(t *testing.T) {
