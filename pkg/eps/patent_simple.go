@@ -102,7 +102,7 @@ type ClassificationItem struct {
 
 var reClassification = regexp.MustCompile(`([ABCDEFGH])([0-9]{1,2})([A-Z]) *([0-9]{1,4})\/([0-9]{1,6}) *([0-9]{8})([CAS])([FL])([IN])([0-9]{8})([BRVD])([HMG])([A-Z]{2}) *`)
 
-func NewClassificationItem(text string, sequence int) (c ClassificationItem) {
+func NewClassificationItemFromString(text string, sequence int) (c ClassificationItem) {
 	c = ClassificationItem{
 		Text:     text,
 		Sequence: sequence,
