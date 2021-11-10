@@ -82,8 +82,14 @@ type Representative struct {
 	Name    string
 }
 
+type ClassificationSystem string
+
+const IPC ClassificationSystem = "IPC"
+const CPC ClassificationSystem = "CPC"
+
 type ClassificationItem struct {
 	Text                   string
+	System                 ClassificationSystem
 	Sequence               int
 	Section                string
 	Class                  string
@@ -102,8 +108,9 @@ type ClassificationItem struct {
 
 var reClassification = regexp.MustCompile(`([ABCDEFGH])([0-9]{1,2})([A-Z]) *([0-9]{1,4})\/([0-9]{1,6}) *([0-9]{8})([CAS])([FL])([IN])([0-9]{8})([BRVD])([HMG])([A-Z]{2}) *`)
 
-func NewClassificationItemFromString(text string, sequence int) (c ClassificationItem) {
+func NewIpcrClassificationItemFromString(text string, sequence int) (c ClassificationItem) {
 	c = ClassificationItem{
+		System:   IPC,
 		Text:     text,
 		Sequence: sequence,
 	}
