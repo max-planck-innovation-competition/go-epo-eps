@@ -33,7 +33,8 @@ func GetPublicationDatePatents(date time.Time) (res []PatentItem, err error) {
 	}
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
-		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
+		log.WithField("url", reqUrl).
+			Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
 		return
 	}
 	// Load the HTML document

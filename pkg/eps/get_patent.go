@@ -44,7 +44,8 @@ func getPatent(patentID string, format PatentExportFormat) (res []byte, err erro
 	}
 	if resp.StatusCode != 200 {
 		err = errors.New("No 200 status code: " + strconv.Itoa(resp.StatusCode))
-		log.Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
+		log.WithField("url", reqUrl).
+			Errorf("status code error: %d %s", resp.StatusCode, resp.Status)
 		return
 	}
 	res, err = io.ReadAll(resp.Body)
