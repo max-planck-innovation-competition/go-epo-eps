@@ -9,6 +9,7 @@ import (
 // EpPatentDocumentSimple is a simple representation of the xml data
 type EpPatentDocumentSimple struct {
 	ID                string
+	Aliases           []string
 	File              string
 	Lang              string
 	Country           Country
