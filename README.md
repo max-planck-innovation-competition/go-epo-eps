@@ -1,4 +1,7 @@
-# Go API client for the European Publication Server web service
+# GO EPO-EPS
+[![Go Report Card](https://goreportcard.com/badge/github.com/max-planck-innovation-competition/go-epo-eps)](https://goreportcard.com/report/github.com/max-planck-innovation-competition/go-epo-eps)
+
+Go API Client for the European Publication Server Web Service
 
 The European Publication Server's REST API enables access to XML, HTML, TIFF images, and PDF/A versions of European A
 and B publications.
