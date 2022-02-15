@@ -1,5 +1,6 @@
 # GO EPO-EPS
 [![Go Report Card](https://goreportcard.com/badge/github.com/max-planck-innovation-competition/go-epo-eps)](https://goreportcard.com/report/github.com/max-planck-innovation-competition/go-epo-eps)
+[![Go Reference](https://pkg.go.dev/badge/github.com/max-planck-innovation-competition/go-epo-eps.svg)](https://pkg.go.dev/github.com/max-planck-innovation-competition/go-epo-eps)
 
 Go API Client for the European Publication Server Web Service
 
