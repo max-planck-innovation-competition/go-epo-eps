@@ -11,6 +11,8 @@ and B publications.
 
 Alpha Version
 
+**⚠️ Experimental - Not ready for production.**
+
 ## Installation
 
 Add the package to your project via the following command:
