@@ -7,6 +7,431 @@ import (
 	"testing"
 )
 
+/*
+tests:
+v 1.0 A1 A2 (no B1 B2)
+v 1.1 A1 B1 B2
+v 1.2
+v 1.3
+v 1.4
+v 1.5 A1 A2 B1 B2
+v 1.5.1 A1 A2 B1 B2
+*/
+
+//v 1.0
+func TestProcessXMLSimple10A1(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-0-A1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP01963450A1", patDoc.ID)
+	ass.Equal("01963450.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1325900", patDoc.DocNumber)
+	ass.Equal("A1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20030709", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-0", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("VERFAHREN ZUR HERSTELLUNG VON FLUORALKANOL", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("PROCESS FOR PRODUCING FLUOROALKANOL", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("PROCEDE DE PRODUCTION DE FLUOROALCANOL", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(441, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(1, len(patDoc.Claims))
+	ass.Equal(1807, len(patDoc.Claims[0].Text))
+	ass.Equal("en", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(17802, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("JP"), patDoc.Inventors[0].Country)
+	ass.Equal("Ichihara-shi,\nChiba 290-8566", patDoc.Inventors[0].City)
+	ass.Equal("10, Goikaigan", patDoc.Inventors[0].Street)
+	ass.Equal("TOHMA, Toshihiko", patDoc.Inventors[0].Name)
+
+	ass.Equal(Country("JP"), patDoc.Inventors[1].Country)
+	ass.Equal("Ichihara-shi,\nChiba 290-8566", patDoc.Inventors[1].City)
+	ass.Equal("10, Goikaigan", patDoc.Inventors[1].Street)
+	ass.Equal("WADA, Akihiro", patDoc.Inventors[1].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(Country("DE"), patDoc.Representatives[0].Country)
+	ass.Equal("00100651", patDoc.Representatives[0].IID)
+	ass.Equal("81671 München", patDoc.Representatives[0].City)
+	ass.Equal("Grafinger Strasse 2", patDoc.Representatives[0].Street)
+	ass.Equal("Müller-Boré & Partner\nPatentanwälte", patDoc.Representatives[0].Name)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(20, len(patDoc.ContractingStates))
+	for i := 0; i <= 19; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.Empty(patDoc.Classifications)
+}
+
+func TestProcessXMLSimple10A2(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-0-A2.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP02019404A2", patDoc.ID)
+	ass.Equal("02019404.xml", patDoc.File)
+	ass.Equal("de", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1326188", patDoc.DocNumber)
+	ass.Equal("A2", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20030709", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-0", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("Verfahren und System zur Ermittlung von infolge der Nutzung einer Anlage anfallenden Nutzungsgebühren", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("Method and system for establishing the usage costs for the use of an apparatus", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("Procédé et appareil pour la génération des coûts d' utilisation pour l' utilisation d' un appareil", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(1085, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(1, len(patDoc.Claims))
+	ass.Equal(6334, len(patDoc.Claims[0].Text))
+	ass.Equal("de", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(22464, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("DE"), patDoc.Inventors[0].Country)
+	ass.Equal("32760 Detmold", patDoc.Inventors[0].City)
+	ass.Equal("Auf dem Brinke 18", patDoc.Inventors[0].Street)
+	ass.Equal("Bibelhausen, Volker, Dipl.-Ing.", patDoc.Inventors[0].Name)
+
+	// representatives
+	ass.Empty(patDoc.Representatives)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(24, len(patDoc.ContractingStates))
+	for i := 0; i <= 23; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.Empty(patDoc.Classifications)
+}
+
+//v 1.1
+func TestProcessXMLSimple11A1(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-1-A1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP78100007A1", patDoc.ID)
+	ass.Equal("EP78100007NWA1.xml", patDoc.File)
+	ass.Equal("de", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("0000002", patDoc.DocNumber)
+	ass.Equal("A1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("19781220", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-1", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("Tetrahydrofuran-Derivate, Verfahren zu ihrer Herstellung sowie ihre Verwendung als Herbizide.", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("Tetrahydrofurane derivatives, processes for their preparation and their use as herbicides", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("Dérivés du tétrahydrofuranne, leurs procédés de préparation et leur utilisation comme herbicides", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(526, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(1, len(patDoc.Claims))
+	ass.Equal(6893, len(patDoc.Claims[0].Text))
+	ass.Equal("de", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(52416, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(4, len(patDoc.Inventors))
+	ass.Equal(Country("DE"), patDoc.Inventors[0].Country)
+	ass.Equal("D-5600 Wuppertal 1", patDoc.Inventors[0].City)
+	ass.Equal("Wormser strasse 23", patDoc.Inventors[0].Street)
+	ass.Equal("Schmidt, Thomas, Dr.", patDoc.Inventors[0].Name)
+
+	ass.Equal(Country("DE"), patDoc.Inventors[1].Country)
+	ass.Equal("D-5600 Wuppertal 1", patDoc.Inventors[1].City)
+	ass.Equal("In den Birken 81", patDoc.Inventors[1].Street)
+	ass.Equal("Draber, Wilfried, Dr.", patDoc.Inventors[1].Name)
+
+	ass.Equal(Country("DE"), patDoc.Inventors[2].Country)
+	ass.Equal("D- 090 Leverkusen 1", patDoc.Inventors[2].City)
+	ass.Equal("Paul-Klee-Strasse 36", patDoc.Inventors[2].Street)
+	ass.Equal("Eue, Ludwig, Dr.", patDoc.Inventors[2].Name)
+
+	ass.Equal(Country("DE"), patDoc.Inventors[3].Country)
+	ass.Equal("D-5000 Köln 80", patDoc.Inventors[3].City)
+	ass.Equal("Hahnenweg 5", patDoc.Inventors[3].Street)
+	ass.Equal("Schmidt, Robert Rudolf, Dr.", patDoc.Inventors[3].Name)
+
+	// representatives
+	ass.Empty(patDoc.Representatives)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(7, len(patDoc.ContractingStates))
+	for i := 0; i <= 6; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.Empty(patDoc.Classifications)
+}
+
+func TestProcessXMLSimple11B1(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/grant/v1-1-B1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP98948476B1", patDoc.ID)
+	ass.Equal("EP98948476NWB1.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1019261", patDoc.DocNumber)
+	ass.Equal("B1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20030709", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-1", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("INTELLIGENTES BREMSSYSTEM FÜR MATERIALHANDHABUNGSFAHRZEUGE", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("INTELLIGENT BRAKING SYSTEM FOR MATERIALS HANDLING VEHICLES", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("SYSTEME DE FREINAGE INTELLIGENT POUR VEHICULES DE MANUTENTION DE MATIERES", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(3, len(patDoc.Claims))
+	ass.Equal(10506, len(patDoc.Claims[0].Text))
+	ass.Equal("en", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+	ass.Equal(11253, len(patDoc.Claims[1].Text))
+	ass.Equal("de", patDoc.Claims[1].Language)
+	ass.Equal("claims02", patDoc.Claims[1].Id)
+	ass.Equal(13369, len(patDoc.Claims[2].Text))
+	ass.Equal("fr", patDoc.Claims[2].Language)
+	ass.Equal("claims03", patDoc.Claims[2].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(35365, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("US"), patDoc.Inventors[0].Country)
+	ass.Equal("Minster, OH 45865", patDoc.Inventors[0].City)
+	ass.Equal("276 South Frankfort Street", patDoc.Inventors[0].Street)
+	ass.Equal("SHERMAN, Nicholas, J.", patDoc.Inventors[0].Name)
+
+	// owners
+	ass.NotEmpty(patDoc.Owners)
+	ass.Equal(Country("US"), patDoc.Owners[0].Country)
+	ass.Equal("01416510", patDoc.Owners[0].IID)
+	ass.Equal("SPC/P6132EP", patDoc.Owners[0].IRF)
+	ass.Equal("New Bremen,\nOhio 45869", patDoc.Owners[0].City)
+	ass.Equal("40-44 South Washington Street", patDoc.Owners[0].Street)
+	ass.Equal("CROWN EQUIPMENT CORPORATION", patDoc.Owners[0].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(Country("GB"), patDoc.Representatives[0].Country)
+	ass.Equal("00072881", patDoc.Representatives[0].IID)
+	ass.Equal("London EC4M 7ET", patDoc.Representatives[0].City)
+	ass.Equal("David Keltie Associates\nFleet Place House\n2 Fleet Place", patDoc.Representatives[0].Street)
+	ass.Equal("Cummings, Sean Patrick", patDoc.Representatives[0].Name)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(19, len(patDoc.ContractingStates))
+	for i := 0; i <= 18; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.Empty(patDoc.Classifications)
+}
+
+func TestProcessXMLSimple11B2(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/grant/v1-1-B2.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP91121229B2", patDoc.ID)
+	ass.Equal("EP91121229NWB2.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("0546210", patDoc.DocNumber)
+	ass.Equal("B2", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20030709", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-1", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("Verfahren und Vorrichtung zur Wärmebehandlung von Gussstücken", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("Method and apparatus for heat treating metal castings", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("Procédé et dispositif pour le traitement thermique de pièces coulées", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(3, len(patDoc.Claims))
+	ass.Equal(9576, len(patDoc.Claims[0].Text))
+	ass.Equal("en", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+	ass.Equal(10999, len(patDoc.Claims[1].Text))
+	ass.Equal("de", patDoc.Claims[1].Language)
+	ass.Equal("claims02", patDoc.Claims[1].Id)
+	ass.Equal(11191, len(patDoc.Claims[2].Text))
+	ass.Equal("fr", patDoc.Claims[2].Language)
+	ass.Equal("claims03", patDoc.Claims[2].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(51465, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("US"), patDoc.Inventors[0].Country)
+	ass.Equal("Kennesaw,\nGeorgia 30144", patDoc.Inventors[0].City)
+	ass.Equal("743 Edgewater Lane", patDoc.Inventors[0].Street)
+	ass.Equal("Crafton, Scott P.", patDoc.Inventors[0].Name)
+
+	ass.Equal(Country("US"), patDoc.Inventors[1].Country)
+	ass.Equal("Marietta,\nGeorgia 30062", patDoc.Inventors[1].City)
+	ass.Equal("1976 Kramer Way", patDoc.Inventors[1].Street)
+	ass.Equal("Crafton, Paul M.", patDoc.Inventors[1].Name)
+
+	// owners
+	ass.NotEmpty(patDoc.Owners)
+	ass.Equal(Country("US"), patDoc.Owners[0].Country)
+	ass.Equal("01442570", patDoc.Owners[0].IID)
+	ass.Equal("23111/jst:si", patDoc.Owners[0].IRF)
+	ass.Equal("Kennesaw,\nGeorgia 30144", patDoc.Owners[0].City)
+	ass.Equal("2871 McCollum Parkway, N.W.", patDoc.Owners[0].Street)
+	ass.Equal("CONSOLIDATED ENGINEERING COMPANY, INC.", patDoc.Owners[0].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(Country("DE"), patDoc.Representatives[0].Country)
+	ass.Equal("00088023", patDoc.Representatives[0].IID)
+	ass.Equal("81541 München", patDoc.Representatives[0].City)
+	ass.Equal("Hofstetter, Schurack & Skora\nPatentanwälte\nBalanstrasse 57", patDoc.Representatives[0].Street)
+	ass.Equal("Schurack, Eduard F.", patDoc.Representatives[0].Name)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(8, len(patDoc.ContractingStates))
+	for i := 0; i <= 7; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.Empty(patDoc.Classifications)
+}
+
+//v 1.5
 func TestProcessXMLSimple15A1(t *testing.T) {
 	ass := assert.New(t)
 	data, err := ioutil.ReadFile("test-data/application/v1-5-A1.xml")
@@ -631,6 +1056,7 @@ func TestProcessXMLSimple15B2(t *testing.T) {
 
 }
 
+//v 1.5.1
 func TestProcessXMLSimple151A1(t *testing.T) {
 	ass := assert.New(t)
 	data, err := ioutil.ReadFile("test-data/application/v1-5-1-A1.xml")

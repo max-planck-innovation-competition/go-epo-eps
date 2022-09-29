@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd">
+<ep-patent-document id="EP98948476B1" file="EP98948476NWB1.xml" lang="en" country="EP" doc-number="1019261" kind="B1" date-publ="20030709" status="n" dtd-version="ep-patent-document-v1-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIE......FI....CY................................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>DIM350 (Ver 2.1 Jan 2001)
+ 2100000/0</B007EP></eptags></B000><B100><B110>1019261</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20030709</date></B140><B190>EP</B190></B100><B200><B210>98948476.1</B210><B220><date>19980923</date></B220><B240><B241><date>20000502</date></B241><B242><date>20000908</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>60410 P</B310><B320><date>19970930</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20030709</date><bnum>200328</bnum></B405><B430><date>20000719</date><bnum>200029</bnum></B430><B450><date>20030709</date><bnum>200328</bnum></B450></B400><B500><B510><B516>7</B516><B511> 7B 60L   7/26   A</B511><B512> 7B 66F   9/24   B</B512><B512> 7B 60T   8/26   B</B512></B510><B540><B541>de</B541><B542>INTELLIGENTES BREMSSYSTEM FÜR MATERIALHANDHABUNGSFAHRZEUGE</B542><B541>en</B541><B542>INTELLIGENT BRAKING SYSTEM FOR MATERIALS HANDLING VEHICLES</B542><B541>fr</B541><B542>SYSTEME DE FREINAGE INTELLIGENT POUR VEHICULES DE MANUTENTION DE MATIERES</B542></B540><B560><B561><text>EP-A- 0 361 708</text></B561><B561><text>DE-A- 4 434 328</text></B561><B561><text>DE-C- 3 122 720</text></B561><B561><text>US-A- 4 265 337</text></B561><B561><text>US-A- 5 340 202</text></B561><B562><text>PATENT ABSTRACTS OF JAPAN vol. 097, no. 006, 30 June 1997 &amp; JP 09 046808 A (JATCO CORP), 14 February 1997</text></B562></B560></B500><B700><B720><B721><snm>SHERMAN, Nicholas, J.</snm><adr><str>276 South Frankfort Street</str><city>Minster, OH 45865</city><ctry>US</ctry></adr></B721></B720><B730><B731><snm>CROWN EQUIPMENT CORPORATION</snm><iid>01416510</iid><irf>SPC/P6132EP</irf><adr><str>40-44 South Washington Street</str><city>New Bremen,
+Ohio 45869</city><ctry>US</ctry></adr></B731></B730><B740><B741><snm>Cummings, Sean Patrick</snm><sfx>et al</sfx><iid>00072881</iid><adr><str>David Keltie Associates
+Fleet Place House
+2 Fleet Place</str><city>London EC4M 7ET</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>MC</ctry><ctry>NL</ctry><ctry>PT</ctry><ctry>SE</ctry></B840><B860><B861><dnum><anum>US9819910</anum></dnum><date>19980923</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO99016636</pnum></dnum><date>19990408</date><bnum>199914</bnum></B871></B870></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001">BACKGROUND OF THE INVENTION</heading>
+<p id="p0001" num="0001">The present invention relates in general to materials handling vehicles and, more particularly, to methods and apparatus for braking such vehicles. While the present invention is generally applicable to materials handling vehicles, it will be described herein with reference to a rider reach fork lift truck for which it is particularly applicable and for which it is initially being utilized.</p>
+<p id="p0002" num="0002">Braking of fork lift trucks may be accomplished through the use of a mechanical brake, such as disclosed in U.S. Patent No. 5,057,728, which is incorporated herein by reference, or by using the dynamic braking characteristics of the electric traction motor, such as disclosed in U.S. Patent No. 5,340,202, which is incorporated herein by reference.</p>
+<p id="p0003" num="0003">The brake shown in the '728 patent is a three-step brake; that is, the brake is capable of providing three levels of braking force, depending upon braking requirements. Of course, mechanical brakes are subject to wear; therefore, to reduce wear, and since regenerative braking using the traction motor conserves battery charge, it is desirable to use the electric motor for as much of the braking requirements as possible. On a rider reach fork lift truck, a single, electrically powered and steerable drive wheel is mounted on one corner of the power unit of the truck, and a caster wheel is mounted on the other corner. For some trucks, the caster wheel is also provided with a brake or a caster brake.</p>
+<p id="p0004" num="0004">Thus, while motor braking and mechanical braking of the drive wheel and, in some applications also mechanical braking of the caster wheel, are known for materials handling vehicles, there is an ongoing need to improve the methods and apparatus which operate and coordinate these braking systems for improved braking performance. Such improvements would better adapt braking performance for known operating conditions of travel direction and allowable travel speed/fork height, distribute braking requirements between mechanical braking and regenerative<!-- EPO <DP n="2"> --> on the drive wheel. Preferably, the improved braking control would be computer controlled and hence be easily adaptable in the field and also enable simplified manufacturing of materials handling vehicles utilizing the improved braking control.</p>
+<p id="p0005" num="0005">DE 4434328 discloses an accumulator brake for an industrial lift truck wherein the braking torque of the brake is dependent on the load condition of the lift truck and/or the elevation height of the forks of the truck to provide more smooth stopping of the truck even under low load or under no load conditions.</p>
+<p id="p0006" num="0006">US 4265337 discloses a speed control for a fork lift truck wherein a speed selection signal is clamped to a maximum level determined by a signal indicating the height of the forks of the truck to prevent the truck from exceeding a maximum speed dependent upon the height to which the forks are raised.</p>
+<heading id="h0002">SUMMARY OF THE INVENTION</heading>
+<p id="p0007" num="0007">The abovementioned need is met by the invention of the present application wherein a computer controlled braking system utilizes the gross vehicle weight of a materials handling vehicle and maximum allowable speeds of the vehicle to calculate braking force for the vehicle. The maximum allowable speed is determined based on the direction of travel of the vehicle: forward, i.e., forks forward; and, reverse, i.e., power unit forward, and the height of load carrying forks of the vehicle. For vehicles equipped with a caster brake, the calculated braking force is proportionally and programmably distributed between a drive brake and the caster brake. The drive brake includes a mechanical brake, which is used for braking the vehicle when moving and also holding the vehicle when parked, and motor braking which is performed by a traction motor which drives the drive wheel. The drive brake force, either the total calculated braking force or the drive brake portion of the calculated braking force if a caster brake is provided, is divided between the mechanical brake and the motor braking so that the motor provides as much braking as is possible to reduce wear on the mechanical brake and also to conserve battery power.</p>
+<p id="p0008" num="0008">For vehicles equipped with a caster brake, the caster brake portion of the calculated braking force is determined as a percentage or proportion of the total braking force. The percentage is programmable and can differ dependent upon the direction of travel of the vehicle. The caster brake portion is reduced to zero or clipped and reverts to the drive brake if it is below a minimum caster brake force. In a similar manner, if the caster brake force is calculated to be greater than a maximum<!-- EPO <DP n="3"> --> caster brake force, the caster brake force in excess of the maximum caster brake force is clipped and reverts to the drive brake. A maximum caster brake current can be set to accommodate different brake hardware. A user of the vehicle can select adjustments to the calculated drive brake force and, if provided, can also select independent adjustments to the calculated caster brake force.</p>
+<p id="p0009" num="0009">In accordance with one aspect of the present invention, a method for braking a materials handling vehicle comprises setting a gross vehicle weight for the vehicle, determining a maximum allowable speed for the vehicle, detecting a service brake request and, upon receiving a service brake request, calculating braking force for the vehicle in response to the gross vehicle weight and the maximum allowable speed. The calculated braking force may then be converted into braking control actions. The step of determining a maximum allowable speed for the materials handling vehicle may comprise the steps of determining a height of materials handling forks of the vehicle, and correlating a maximum allowable vehicle speed with the height of materials handling forks of the vehicle. The step of determining a maximum allowable speed for the materials handling vehicle may further comprise determining a direction of travel of the materials handling vehicle, and correlating the maximum allowable vehicle speed with the direction of travel of the vehicle.</p>
+<p id="p0010" num="0010">The step of calculating braking force may comprise the steps of setting braking force for a materials handling vehicle equal to the gross vehicle weight multiplied by 0.03 times the maximum allowable speed for the materials handling vehicle, and solving the resulting equation. To optimize brake performance for the particular floor conditions, the method may further comprise determining a user adjustment setting for the braking force, and adjusting the braking force with the user adjustment setting.</p>
+<p id="p0011" num="0011">Preferably, the materials handling vehicle has a drive wheel driven by a traction motor and a mechanical brake associated with the drive wheel, and the braking force is then divided between the two by determining a portion of the braking force to be performed by the mechanical brake, and a portion of the braking force to be performed by operation of the traction motor. The step of determining a portion of the braking force to be performed by operation of the traction motor may comprise<!-- EPO <DP n="4"> --> subtracting the portion of the braking force to be performed by the mechanical brake and a rolling resistance of the vehicle from the braking force. In that event, if the result of subtracting the braking force to be performed by the mechanical brake and the rolling resistance of the vehicle from the braking force is less than zero, the portion of the braking force to be performed by operation of the traction motor is set to zero.</p>
+<p id="p0012" num="0012">If the vehicle has a caster brake in addition to a drive brake, the method may comprise determining a caster brake portion of the braking force, and a drive brake portion of the braking force. The step of determining a caster brake portion of the braking force preferably comprises taking a percentage of the braking force as the caster brake portion of the braking force. The method may further comprise taking a first percentage of the braking force as the caster brake portion for vehicle travel in a first direction, and taking a second percentage of the braking force as the caster brake portion for vehicle travel in a second direction opposite to the first direction. The method may further comprise determining a user adjustment setting for the caster brake portion, and adjusting the caster brake portion in accordance with the user adjustment setting. Also, the method may further comprise determining a user adjustment setting for the drive brake portion, and adjusting the drive brake portion in accordance with the user adjustment setting. Preferably, separate and independent user adjustments are available for the caster brake portion and the drive brake portion.</p>
+<p id="p0013" num="0013">For caster brake operation, a minimum caster brake force may be set with the caster brake portion being compared to the minimum caster brake force and set to zero if the caster brake force is less than the minimum caster brake force. Similarly, a maximum caster brake force may be set with the caster brake portion being compared to the maximum caster brake force and set to the maximum caster brake force if the caster brake force is greater than the maximum caster brake force. The determination of the drive brake portion of the braking force may comprise subtracting the caster brake portion of the braking force from the braking force. Normally, the caster brake is electrical and the method further comprises setting a maximum caster<!-- EPO <DP n="5"> --> brake current, and limiting current to the caster brake to the maximum caster brake current. In this way, a variety of caster brake hardware can be accommodated. To ensure vehicle stopping, a timer is started when the operating speed of the vehicle falls below a first given speed, such as 1 MPH, and, upon expiration of the timer, if the operating speed exceeds a second given speed, the mechanical brake is fully applied.</p>
+<p id="p0014" num="0014">In accordance with another aspect of the present invention, a braking system for a materials handling vehicle comprises a computer programmed to: determine a maximum allowable speed for the materials handling vehicle, and calculate braking force for the vehicle in response to a gross vehicle weight and the maximum allowable speed. The gross vehicle weight is normally set in the computer; however, it can be changed if the truck is modified or change is otherwise necessary. The computer may be further programmed to determine a user adjustment setting for the braking force, and adjust the braking force with the user adjustment setting. Preferably, the materials handling vehicle comprises a drive wheel driven by a traction motor and a mechanical brake associated with the drive wheel, and the computer is further programmed to: determine a portion of the braking force to be performed by the mechanical brake, and determine a portion of the braking force to be performed by operation of the traction motor.</p>
+<p id="p0015" num="0015">When the materials handling vehicle further comprises a caster brake, the computer is further programmed to determine a caster brake portion of the braking force, and determine a drive brake portion of the braking force. The computer can be further programmed to determine a user adjustment setting for the caster brake portion of the braking force, and adjust the caster brake portion of the braking force with the user adjustment setting. Similarly, the computer can be further programmed to determine a user adjustment for the drive brake portion of the braking force, and adjust the drive brake portion of the braking force with the user adjustment setting. Preferably, the computer is programmed to utilize separate and independent user adjustments for the caster brake portion and the drive brake portion.<!-- EPO <DP n="6"> --></p>
+<p id="p0016" num="0016">Where the materials handling vehicle has a drive wheel driven by a traction motor and a mechanical brake associated with the drive wheel, the computer may be further programmed to: determine an operating speed of the vehicle, start a timer when the operating speed of the vehicle falls below a first given speed, upon expiration of the timer determine whether the operating speed exceeds a second given speed, and fully apply the mechanical brake if the operating speed exceeds the second given speed upon expiration of the timer.</p>
+<p id="p0017" num="0017">It is, thus, an object of the invention of the present application to provide computer control of braking force calculations and adjustments at the time a service brake request is received; to provide braking force calculations based on the gross vehicle weight of a materials handling vehicle and the maximum allowable speed of the vehicle in response to a service brake request; to have different braking efforts depending on the direction of travel in order to take advantage of the difference in the dynamic weight distribution that is a function of travel direction and consequently be able to optimize the braking performance (stopping distance) for each direction of travel; to adjust the individual wheel brake forces in order to optimize the brake performance for the particular floor condition; to properly proportion the brake effort between drive wheel and caster wheel brakes; and, to control the braking effort in accordance with the maximum allowable travel speed (which is a function of fork height and travel direction) in order to improve the dynamic feel of the truck while braking.</p>
+<p id="p0018" num="0018">Other objects and advantages of the invention will be apparent from the following description, the accompanying drawings and the appended claims.</p>
+<heading id="h0003">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p0019" num="0019">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Fig. 1 is a perspective view of a rider reach fork lift truck incorporating the braking methods and apparatus of the present invention;</li>
+<li>Fig. 2 is a side elevational view of the lift truck of Fig. 1;<!-- EPO <DP n="7"> --></li>
+<li>Fig. 3 is an perspective view of a power unit of the truck of Fig. 1, taken from the right rear of the truck;</li>
+<li>Fig. 4 is a simplified block diagram of the control circuit of the present invention; and</li>
+<li>Fig. 5 is a flow chart illustrating operation of the braking methods and apparatus of the present invention.</li>
+</ul></p>
+<heading id="h0004">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p0020" num="0020">Figs. 1 - 3 show a rider reach fork lift truck 10 that includes a power unit 15 which includes an operator's compartment 20, a battery compartment 30, and a motor compartment 40. A battery 35, see Fig. 2, in the battery compartment 30 supplies power to a traction motor 42 which is located in the motor compartment 40 and connected to a steerable drive wheel 50 located at the left rear corner of the power unit 15 and to hydraulic motors (not shown) which supply power to several different systems within the truck 10. Attached to the motor 42 is a brake 44 and a tachometer 46. A caster wheel 55 is mounted at the right rear corner of the power unit 15. A conventional caster wheel brake 55a, see Fig. 4, is provided on some trucks. A pair of outriggers 60 support the front end of the truck 10.</p>
+<p id="p0021" num="0021">In the operator's compartment 20 are mounted a steering tiller 100 for controlling the direction of travel of the truck 10 and a control handle 110 for controlling the speed of travel and the forward and reverse direction of the truck 10 as well as fork height, fork extension, and fork tilt and side-shift.</p>
+<p id="p0022" num="0022">A mast assembly 70, mounted to the front of the power unit 15 of the truck 10, includes an overhead guard 75. A pair of forks 80 are carried on a fork carriage mechanism 85 which is carried on extendable mast elements 90. The fork carriage mechanism 85 may include a reach mechanism 92 to allow the forks 80 to be extended forward of the mast assembly 70, a side shift mechanism to permit the forks 80 to be moved from side to side relative to the mast assembly 70, and a tilt mechanism to permit the forks 80 to be tilted relative to the horizontal.<!-- EPO <DP n="8"> --></p>
+<p id="p0023" num="0023">As described in U. S. Patent 5,586,620, which is incorporated herein by reference, the reach mechanism 92 is attached to the extensible mast assembly 70 by an assembly 94. A hydraulic cylinder (not shown) is operated by the control handle 110 to control the height of the forks 80. As shown in Fig. 2, the assembly 94 is raised. The height of the forks 80 is measured by a digital encoder, represented at 190, which may be similar to the device shown in U.S. Patent 5,103,226, which is incorporated herein by reference.</p>
+<p id="p0024" num="0024">The forks 80 may be tilted through a range shown by the arrows 96 by means of a hydraulic cylinder 200 located between the forks 80 and the fork carriage 85. The weight of the load on the forks 80 is measured by a pressure transducer 210 that is attached to a hydraulic line connected to the cylinder 200.</p>
+<p id="p0025" num="0025">Also located within the operator's compartment 20, depending on the truck model, may be a seat assembly 120 which is attached to the right side 122 of the power unit 15, as shown. When installed, the seat assembly 120 includes a back rest 125, a seat 130, and a shelf 135. The seat assembly is vertically adjustable for operator comfort. An armrest 140 is also supported on the seat assembly 120 for movement therewith.</p>
+<p id="p0026" num="0026">On the floor of the operator's compartment 20 are two pedals 150 and 155. The left-hand pedal 150 operates an electric switch to control braking of the truck 10 while the right-hand pedal 155 operates a switch indicating the presence of the operator's foot thereon. Also located within the operator's compartment are three additional pedals: a pedal 160 which corresponds to the pedal 150; a pedal 165 which corresponds to the pedal 155; and, a pedal 170 which is an additional brake pedal.</p>
+<p id="p0027" num="0027">The operator must have one foot on and depress the pedal 150 or 160 in order for the truck 10 to move; otherwise, the truck's brakes will be fully applied. The operator must also depress either pedal 155 or 165 in order for the truck 10 to move, if it is stopped. If the truck 10 is moving, removal of the foot from the pedals 155 or 165 will cause the truck 10 to coast. The switches controlled by pedals 155 and 165 are known as "presence" or "cut back" switches. Pedal 170 is an axillary brake<!-- EPO <DP n="9"> --> switch. Anytime the operator depresses pedal 170, the brakes of the truck 10 will be immediately applied.</p>
+<p id="p0028" num="0028">An operator's console 180 provides the operator with information regarding the status of the battery voltage and may provide additional information including indications regarding the fork height and the weight of the load on the forks 80.</p>
+<p id="p0029" num="0029">The simplified block diagram of Fig. 4 shows various components used in connection with the present invention which are associated with a microprocessor 300 contained in a primary control module, referred to as the Access 3 module, of an electronic control system for the truck 10.</p>
+<p id="p0030" num="0030">The truck 10 includes two braking modes. In the first mode, commonly referred as "plugging," movement of the handle 110 in the direction opposite to the current direction of travel is recognized as a plugging request and results in braking by action of the traction motor 42. In the second mode, commonly known as service braking, the operator either removes the foot from pedals 150 or 160, or depresses the pedal 170. The methods and apparatus of the present invention perform service braking in response to a service brake request resulting in a combination of regenerative braking performed by the traction motor 42 and mechanical braking performed by the brake 44 and, if a caster brake is provided on the truck, by the caster brake.</p>
+<p id="p0031" num="0031">In response to the service brake request, the invention of the present application controls the braking of the truck 10 to improve truck braking performance by calculating the braking force to be applied using the gross vehicle weight (GVW) and the maximum allowable travel speed, which is dependent upon the travel direction of the truck 10 and the height of the forks, at the time the service brake request is received. The allocation of braking effort between the mechanical brake, i.e., the brake 44, for the drive wheel 50, and regeneration braking of the traction motor 42 is optimized to reduce wear on the mechanical brake consistent with the ability of the motor 42 to provide the necessary braking torque. On those trucks equipped with a caster brake on the caster wheel 55, allocation of braking effort between the drive brake and the caster brake is also performed based on the truck<!-- EPO <DP n="10"> --> weight distribution and coefficients of friction of the drive tire and the caster tire. Service braking operations of the invention of the present application, which are performed under the control of the microprocessor 300, will now be described with reference to Fig. 5.</p>
+<p id="p0032" num="0032">When a service brake request is detected due to operation of one of the brake pedals 150, 160 or 170, the total brake force is calculated based on an American National Standards Institute (ANSI) requirement:<maths id="math0001" num=""><math display="block"><mrow><mtext>Total Brake Force = (3 × V × GVW) / 100</mtext></mrow></math><img id="ib0001" file="imgb0001.tif" wi="82" he="5" img-content="math" img-format="tif"/></maths> where GVW is gross vehicle weight in pounds and V is the maximum allowable speed for the vehicle. For the present invention, the GVW used includes the total unloaded weight of the vehicle and the maximum rated load weight for the vehicle, i.e., GVW is the total allowable fully loaded weight for the vehicle. And, V is the maximum allowable speed in miles per hour (MPH) for the fully loaded vehicle. For example, for two different rider reach fork lift truck models of the RR5000 series of fork lift trucks manufactured by the Crown Equipment Corporation, one having a 42" wide power unit and the other having a 48" wide power unit, the maximum allowable speed V is determined from the following table based on the direction of travel of the truck and the fork height:<!-- EPO <DP n="11"> --> 
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<tgroup cols="5" colsep="1" rowsep="1">
+<colspec colnum="1" colname="col1" colwidth="31.50mm" colsep="1"/>
+<colspec colnum="2" colname="col2" colwidth="31.50mm"/>
+<colspec colnum="3" colname="col3" colwidth="31.50mm" colsep="1"/>
+<colspec colnum="4" colname="col4" colwidth="31.50mm"/>
+<colspec colnum="5" colname="col5" colwidth="31.50mm"/>
+<thead valign="top">
+<row>
+<entry namest="col1" nameend="col5" align="center">Max Vehicle Speed in MPH</entry></row>
+<row rowsep="1">
+<entry namest="col1" nameend="col1" align="left">Fork Height</entry>
+<entry namest="col2" nameend="col2" align="center">42" FF</entry>
+<entry namest="col3" nameend="col3" align="center">42" PUF</entry>
+<entry namest="col4" nameend="col4" align="center">48" FF</entry>
+<entry namest="col5" nameend="col5" align="center">48" PUF</entry></row></thead>
+<tbody valign="top">
+<row>
+<entry namest="col1" nameend="col1" align="left">&lt;free lift</entry>
+<entry namest="col2" nameend="col2" align="char" char=".">5.7</entry>
+<entry namest="col3" nameend="col3" align="char" char=".">7.2</entry>
+<entry namest="col4" nameend="col4" align="char" char=".">6.2</entry>
+<entry namest="col5" nameend="col5" align="char" char=".">7.5</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left">&gt;free lift &lt; 270" CBH</entry>
+<entry namest="col2" nameend="col2" align="char" char=".">3.0</entry>
+<entry namest="col3" nameend="col3" align="char" char=".">3.0</entry>
+<entry namest="col4" nameend="col4" align="char" char=".">3.0</entry>
+<entry namest="col5" nameend="col5" align="char" char=".">3.0</entry></row>
+<row rowsep="1">
+<entry namest="col1" nameend="col1" align="left">&gt;270" CBH</entry>
+<entry namest="col2" nameend="col2" align="char" char=".">1.5</entry>
+<entry namest="col3" nameend="col3" align="char" char=".">1.5</entry>
+<entry namest="col4" nameend="col4" align="char" char=".">1.5</entry>
+<entry namest="col5" nameend="col5" align="char" char=".">1.5</entry></row></tbody></tgroup>
+</table>
+</tables> where "FF" means Forks Forward, "PUF" means Power Unit Forward, free lift refers to a staging or collapsed height of the mast of the truck, and CBH refers to a cutback height above which the maximum allowable speed of the truck is reduced to a creep speed of 1.5 MPH.</p>
+<p id="p0033" num="0033">The total braking force is split or divided between the drive tire and the caster tire based on known weight distribution and tire coefficient of friction. Since the 42" power unit has no caster brake, 100% of the braking is done by the drive tire.</p>
+<p id="p0034" num="0034">The drive tire brake force or drive brake force is further split between motor regenerative braking and the brake 44 or three-step friction brake on an armature shaft of the motor 42. The motor regenerative braking portion is made as large as possible, up to the practical torque output limit for regeneration. The remaining braking portion is performed by the three-step brake 44. The drive wheel braking force and the caster wheel braking force can each be further adjusted to optimize stopping distance for a particular floor condition. Adjustments are made by the user through operation of a display service menu on the operator's console 180 or other input device to the microprocessor 300.<!-- EPO <DP n="12"> --></p>
+<p id="p0035" num="0035">Accordingly, when a service brake request is received by the microprocessor 300 from switches associated with one of the pedals 150, 160 or 170, for use in traction/brake control, see blocks 220, 222 of Fig. 5, the total brake force (TBF) is calculated, see block 224, using the equation:<maths id="math0002" num=""><math display="block"><mrow><mtext>TBF = GVW × .03 × V</mtext></mrow></math><img id="ib0002" file="imgb0002.tif" wi="46" he="4" img-content="math" img-format="tif"/></maths> where GVW or gross vehicle weight is set equal to an allowable fully loaded vehicle weight and V is the maximum allowable vehicle velocity obtained, for example, from the above table by using fork height and direction of travel of the truck. By using the GVW of the truck to calculate the total braking force, all trucks with the same allowable speed will produce effectively the same stopping "g" force regardless of truck weights so that the trucks will stop in approximately the same distance if traveling in at the same speed and will have the same stopping "feel" when service braking is performed. The use of gross vehicle weight to calculate the total braking force also makes production of a variety of trucks more simple since the brakes do not need to be adjusted dependent upon the weight of the vehicles, as in the past, but will have appropriate braking forces due to the brake force calculation aspect of the invention of the present application.</p>
+<p id="p0036" num="0036">After the total braking force is calculated, the caster share of the total braking force, i.e., the amount of braking force which is to be provided by the caster brake of the truck, is determined, see block 226. Of course, if no caster brake is provided on the truck, as is the case of the 42" wide truck, all the braking force is applied by the drive wheel brake 44. The caster share can be programmed into the microprocessor 300 and can be set to different values depending on whether the truck is traveling in the forward direction (PERF), i.e., with the forks 80 forward, or in the reverse direction (PERR), i.e., with the power unit 15 forward. In a working embodiment of the invention of the present application, a default caster brake portion setting of 25% is utilized (PERF = PERR = 25%), due to the weight distribution of the truck 10, with the default brake portion being utilized for both forward and reverse directions of travel.<!-- EPO <DP n="13"> --> However, any appropriate caster brake portion setting can be made as desired or necessary for a particular truck or operating conditions.</p>
+<p id="p0037" num="0037">Due to variations in floor conditions and brake hardware, provision is made for adjusting brake forces to optimize braking conditions for a given application. For caster brake adjustments, user performance settings allow the user to adjust the caster brake force applied when the forks are below free lift. Thus, the user selects a multiplier which is used to modify the caster brake force. The multiplier can range from below one to above one with a series of nine stepped percentages ranging from approximately 62% to approximately 127% being utilized in a working embodiment of the present invention. Thus, the operator can select caster brake modifying settings (CSET) of 1 through 9 to optimize caster braking for floor or other operating conditions.</p>
+<p id="p0038" num="0038">A maximum caster brake value (CSTMAX) can also be set to accommodate differences in brake hardware. If a caster brake value greater than the maximum caster brake value is selected, the caster brake value is set to the maximum caster brake value with the remainder of the requested caster brake value being "clipped" and transferred back to the drive wheel brake to maintain the total brake force calculated above.</p>
+<p id="p0039" num="0039">A minimum caster brake value is also set (CSTMIN) and if a caster brake value less than the minimum allowable caster brake value is requested, the caster brake value is set to zero with the clipped amount again being transferred back to the drive wheel brake to maintain the total brake force as calculated above. The caster brake also will not be applied if the forks are lifted above a maximum height or caster height (HT). For example, the caster height may be set to the cutback height or other height as required for a given truck.</p>
+<p id="p0040" num="0040">In summary, an initial caster brake force (CST1) is calculated by taking the caster brake percentage (PERC) of the total braking force. It is noted that different caster brake percentages can be used for forward travel (PERC = PERF) and reverse travel (PERC = PERR) of the truck:<!-- EPO <DP n="14"> --><maths id="math0003" num=""><math display="block"><mrow><mtext>CST1 = TBF × PERC</mtext></mrow></math><img id="ib0003" file="imgb0003.tif" wi="41" he="4" img-content="math" img-format="tif"/></maths></p>
+<p id="p0041" num="0041">Next, any user adjustment is made by multiplying CST1 by the user adjustment (CSET) to obtain a user modified or adjusted caster brake force (CST2):<maths id="math0004" num=""><math display="block"><mrow><mtext>CST2 = CST1 × CSET</mtext></mrow></math><img id="ib0004" file="imgb0004.tif" wi="43" he="4" img-content="math" img-format="tif"/></maths></p>
+<p id="p0042" num="0042">The fork height is then compared to the caster height and, if greater than the caster height (HT), a final caster brake force (CSET3) is set to zero:<maths id="math0005" num=""><math display="block"><mrow><mtext>CST3 = 0</mtext></mrow></math><img id="ib0005" file="imgb0005.tif" wi="19" he="4" img-content="math" img-format="tif"/></maths> The final caster brake force (CST3) is also set to zero if CST2 is less than the minimum allowable caster brake value (CSTMIN). If these instances do not apply, then CST2 is tested to see if it exceeds the maximum caster brake force (CSTMAX) and if so CST3 is set equal to the maximum caster brake force:<maths id="math0006" num=""><math display="block"><mrow><mtext>CST3 = CSTMAX</mtext></mrow></math><img id="ib0006" file="imgb0006.tif" wi="34" he="4" img-content="math" img-format="tif"/></maths> If none of these instances apply, then CST3 is set equal to CST2:<maths id="math0007" num=""><math display="block"><mrow><mtext>CST3 = CST2</mtext></mrow></math><img id="ib0007" file="imgb0007.tif" wi="26" he="4" img-content="math" img-format="tif"/></maths></p>
+<p id="p0043" num="0043">Once the force to be applied by the caster brake CST3 has been determined, the caster brake current (CSTAMP) or current to be applied to the caster brake must be determined. The caster brake current is dependent upon the caster brake hardware and can be calculated by the microprocessor 300; however, in a working embodiment of the invention of the present application a caster brake lookup table is utilized. For a specific caster brake used on the 48" truck the following lookup table applies:<!-- EPO <DP n="15"> --> 
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<tgroup cols="3" colsep="1" rowsep="1">
+<colspec colnum="1" colname="col1" colwidth="52.50mm"/>
+<colspec colnum="2" colname="col2" colwidth="52.50mm"/>
+<colspec colnum="3" colname="col3" colwidth="52.50mm"/>
+<thead valign="top">
+<row>
+<entry namest="col1" nameend="col1" align="center">CSTAMP (Current)</entry>
+<entry namest="col2" nameend="col2" align="left">i</entry>
+<entry namest="col3" nameend="col3" align="center">CST3 (Force)</entry></row></thead>
+<tbody valign="top">
+<row>
+<entry namest="col1" nameend="col1" align="right">0</entry>
+<entry namest="col2" nameend="col2" align="left">1</entry>
+<entry namest="col3" nameend="col3" align="right">0</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">0.5</entry>
+<entry namest="col2" nameend="col2" align="left">2</entry>
+<entry namest="col3" nameend="col3" align="right">0</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">1.0</entry>
+<entry namest="col2" nameend="col2" align="left">3</entry>
+<entry namest="col3" nameend="col3" align="right">160</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">1.5</entry>
+<entry namest="col2" nameend="col2" align="left">4</entry>
+<entry namest="col3" nameend="col3" align="right">370</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">2.0</entry>
+<entry namest="col2" nameend="col2" align="left">5</entry>
+<entry namest="col3" nameend="col3" align="right">550</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">2.5</entry>
+<entry namest="col2" nameend="col2" align="left">6</entry>
+<entry namest="col3" nameend="col3" align="right">665</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">3.0</entry>
+<entry namest="col2" nameend="col2" align="left">7</entry>
+<entry namest="col3" nameend="col3" align="right">755</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="right">3.5</entry>
+<entry namest="col2" nameend="col2" align="left">8</entry>
+<entry namest="col3" nameend="col3" align="right">815</entry></row>
+<row rowsep="1">
+<entry namest="col1" nameend="col1" align="right">4.0</entry>
+<entry namest="col2" nameend="col2" align="left">9</entry>
+<entry namest="col3" nameend="col3" align="right">865</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0044" num="0044">The caster brake current (CSTAMP) is determined by using the required caster brake force (CST3) to enter the table and then interpolating within the table. For example, the caster brake force (CST3) may be compared to the table forces until the force read from the table is greater than CST3, i.e, if a caster force of 800 pounds is required, an initial entry into the table is made at a force of 815 pounds (i = 8) which is greater than the required 800 pounds. Interpolation can then be performed by subtracting the force at i -1 from the required force (800 - 755) and dividing the result by the force at i minus the force at i -1 (815 - 755) to obtain an interpolation fraction which is multiplied by the current difference from table entry i to table entry i-1 to obtain an interpolation current. The interpolation current is then added to the caster current value at the i-1 entry to obtain the required caster brake current (CSTAMP).</p>
+<p id="p0045" num="0045">To accommodate caster brake hardware differences, a maximum caster current value (CST_MAXAMP) can be set so that the current to the caster brake will never go above the maximum caster current value. If CST3 is greater than the highest caster brake force in the table, the caster brake current is then set to the maximum caster current value:<!-- EPO <DP n="16"> --><maths id="math0008" num=""><math display="block"><mrow><mtext>CSTAMP = CST_MAXAMP</mtext></mrow></math><img id="ib0008" file="imgb0008.tif" wi="52" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0046" num="0046">Having completed determination of the caster brake share for service braking, the drive side share for service braking is determined, see block 228. The drive side brake force (BF) share is determined by subtracting the caster share of the braking from the total braking force (TBF) calculated above and adding back any adjustments that were made due to limitations of the caster braking. More particularly, the initial caster brake force (CST1) is subtracted from the total braking force (TBF) to find the original percentage of the total braking force to be provided by the drive side brake. Adjustments to the original percentage drive side braking force are calculated by subtracting the final caster brake force (CSET3) from the adjusted caster brake force (CST2) with the result being added to the original percentage drive side braking force to obtain the drive side brake force (BF).</p>
+<p id="p0047" num="0047">As with the caster brake force, due to variations in floor conditions and brake hardware, provision is made for adjusting the drive brake force to optimize braking conditions for a given application. For drive brake adjustments, user performance settings allow the user to adjust the drive brake force applied when the forks are below free lift. Thus, the user selects a multiplier which is used to modify the drive brake force. The multiplier can range from below one to above one with a series of nine stepped percentages ranging from approximately 62% to approximately 127% being utilized in a working embodiment of the present invention. Thus, the operator can select drive brake modifying settings (DSET) of 1 through 9 to optimize drive braking for floor or other operating conditions:<maths id="math0009" num=""><math display="block"><mrow><mtext>BF = [(TBF - CST1) + (CST2 - CST3)] × DSET</mtext></mrow></math><img id="ib0009" file="imgb0009.tif" wi="93" he="5" img-content="math" img-format="tif"/></maths></p>
+<p id="p0048" num="0048">Once the drive side brake force is finally determined, it has to be distributed between the motor 42 and the mechanical brake 44 with the motor 42 providing as much braking force as possible. To ensure that calculated braking forces do not exceed the capability of the braking devices, limits are placed on the calculated<!-- EPO <DP n="17"> --> braking forces. The maximum braking force that the mechanical brake 44 can supply is defined as parking brake maximum (PBMAX) and the maximum motor regeneration braking force is defined as (SEMAX). The rolling resistance (RR) of the truck is also taken into consideration when calculating the drive side brake force with the rolling resistance of the truck being defined by:<maths id="math0010" num=""><math display="block"><mrow><mtext>RR = GVW × 0.016</mtext></mrow></math><img id="ib0010" file="imgb0010.tif" wi="38" he="4" img-content="math" img-format="tif"/></maths> where GVW again is the gross vehicle weight which is set equal to the total allowable fully loaded vehicle weight.</p>
+<p id="p0049" num="0049">The motor and friction or mechanical brake forces are then found by first determining the minimum step brake (STEPBK) level (1/2, 2/3 or 3/3) required to keep the motor force from exceeding its limit (SEMAX), see block 230. Thus:<maths id="math0011" num=""><math display="block"><mrow><mtext>if (BF - (SEMAX + RR)) 〉 (2/3) then STEPBK = 3/3;</mtext></mrow></math><img id="ib0011" file="imgb0011.tif" wi="105" he="6" img-content="math" img-format="tif"/></maths> otherwise,<maths id="math0012" num=""><math display="block"><mrow><mtext>if (BF - (SEMAX + RR)) 〉 (1/3) then STEPBK = 2/3;</mtext></mrow></math><img id="ib0012" file="imgb0012.tif" wi="105" he="6" img-content="math" img-format="tif"/></maths> otherwise,<maths id="math0013" num=""><math display="block"><mrow><mtext>STEPBK = 1/3.</mtext></mrow></math><img id="ib0013" file="imgb0013.tif" wi="28" he="4" img-content="math" img-format="tif"/></maths></p>
+<p id="p0050" num="0050">Next the motor torque setpoint is determined by subtracting a calculated step brake force (STEPBK_FR) and the rolling resistance (RR) from the drive side brake force (BF) and converting it to torque at the motor 42, see block 232.<maths id="math0014" num=""><math display="block"><mrow><mtext>MOTOR = (BF - STEPBK_FR - RR) [if MOTOR 〈 0 set MOTOR = 0]</mtext></mrow></math><img id="ib0014" file="imgb0014.tif" wi="138" he="6" img-content="math" img-format="tif"/></maths> where STEPBK_FR = 0.132 × GVW × 1/3, 2/3 or 3/3.<maths id="math0015" num=""><math display="block"><mrow><mtext>BRAKE T = MOTOR × TORQUE_CONVERSION_CONST</mtext></mrow></math><img id="ib0015" file="imgb0015.tif" wi="110" he="5" img-content="math" img-format="tif"/></maths> where TORQUE_CONVERSION_CONST is a constant which converts braking force at the tire to torque at the motor for a given vehicle and calculation of this constant is<!-- EPO <DP n="18"> --> well known to those skilled in the art. For example, this constant for the RR5000 series of fork lift trucks manufactured by the Crown Equipment Corporation is calculated to be equal to 0.04315. Having determined the caster and drive brake forces, the brakes are applied, see block 234. The applied braking force is maintained until the service brake request is terminated, see block 236, at which time the traction/brake control within the microprocessor 300 once again awaits the next service brake request, see block 220.</p>
+<p id="p0051" num="0051">Since the motor regeneration torque begins to decay at speeds less than 1 MPH, the mechanical friction brake 44 (and the caster brake, if provided) are required to bring the truck 10 to a complete stop and hold it, for example when parked. When service braking is applied, the mechanical friction brake 44, or step brake may be applied at any of its three steps of braking (1/3, 2/3 or 3/3) with 3/3 being the brake step required to hold the truck 10 on a 15% grade. If the truck is braking on a grade and the step brake has been applied at a level less than 3/3, the truck may not be able of coming to a complete stop without additional braking from the brake 44. Accordingly, a time out is provided to fully apply the step brake to 3/3 in the event the truck has not come to a complete stop within a given period of time.</p>
+<p id="p0052" num="0052">After service braking is applied as described above, a timer (TBRAMP_COUNT) is started when the speed of the truck falls below a given speed (BRFLIP_SPEED), for example 1 MPH. If the actual sped of the truck is greater than a programable speed (BRAKE_ZEROSPEED), for example 0 MPH, after TBRAMP_COUNT times out, for example at 2 seconds, the brake 44 is applied at its full step value 3/3.</p>
+<p id="p0053" num="0053">Having thus described the invention of the present application in detail and by reference to preferred embodiments thereof, it will be apparent that modifications and variations are possible without departing from the scope of the invention defined in the appended claims.</p>
+</description><!-- EPO <DP n="19"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A method for braking a materials handling vehicle (10) comprising the steps of:
+<claim-text>setting a gross vehicle weight for a materials handling vehicle (10), said gross vehicle weight comprising the total unloaded vehicle weight and the maximum rated load weight for said materials handling vehicle (10);</claim-text>
+<claim-text>determining a maximum allowable speed for said materials handling vehicle (10); detecting a service brake request; and</claim-text>
+<claim-text>upon receiving a service brake request, calculating braking force for said vehicle (10) in response to said gross vehicle weight and said maximum allowable speed.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 1 further comprising the step of converting said braking force into braking control actions.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim I wherein said step of determining a maximum allowable speed for said materials handling vehicle (10) comprises the steps of:
+<claim-text>determining a height of materials handling forks (80) of said vehicle (10); and</claim-text>
+<claim-text>correlating a maximum allowable vehicle (10) speed with said height of materials handling forks (80) of said vehicle (10).</claim-text></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 3 wherein said step of determining a maximum allowable speed for said materials handling vehicle (10) further comprises the steps of:
+<claim-text>determining a direction of travel of said materials handling vehicle (10); and</claim-text>
+<claim-text>correlating said maximum allowable vehicle (10) speed with said direction of travel of said vehicle (10).</claim-text><!-- EPO <DP n="20"> --></claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim I wherein said step of calculating braking force upon receiving a service brake request comprises the steps of:
+<claim-text>setting braking force for a materials handling vehicle (10) equal to the gross vehicle weight multiplied by 0.03 times the maximum allowable speed for said materials handling vehicle (10); and</claim-text>
+<claim-text>solving the resulting equation.</claim-text></claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 1 further comprising the steps of:
+<claim-text>determining a user adjustment setting for said braking force; and</claim-text>
+<claim-text>adjusting said braking force with said user adjustment setting.</claim-text></claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 2 wherein said materials handling vehicle (10) has a drive wheel (50) driven by a traction motor (42) and a mechanical brake (44) associated with said drive wheel (50), and said step of converting said braking force into braking control actions comprises the steps of:
+<claim-text>determining a portion of said braking force to be performed by said mechanical brake (44); and</claim-text>
+<claim-text>determining a portion of said braking force to be performed by operation of said traction motor (42).</claim-text></claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 7 wherein said step of determining a portion of said braking force to be performed by operation of said traction motor (42) comprises the step of subtracting said portion of said braking force to be performed by said mechanical brake (44) and a rolling resistance of said vehicle (10) from said braking force.<!-- EPO <DP n="21"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 8 further comprising the step of setting said portion of said braking force to be performed by operation of said traction motor (42) to zero if the result of subtracting said braking force to be performed by said mechanical brake (44) and said rolling resistance of said vehicle (10) from said braking force is less than zero.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 2 wherein said vehicle (10) has a drive brake (44) and a caster brake (55a) and said step of converting said braking force into braking control actions comprises the steps of:
+<claim-text>determining a caster brake portion of said braking force; and</claim-text>
+<claim-text>determining a drive brake portion of said braking force.</claim-text></claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 wherein said step of determining a caster brake portion of said braking force comprises the step of taking a percentage of said braking force as said caster brake portion of said braking force.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 11 further comprising the steps of:
+<claim-text>taking a first percentage of said braking force as said caster brake portion for vehicle (10) travel in a first direction; and</claim-text>
+<claim-text>taking a second percentage of said braking force as said caster brake portion for vehicle (10) travel in a second direction opposite to said first direction.</claim-text></claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 further comprising the steps of:
+<claim-text>determining a user adjustment setting for said caster brake portion; and</claim-text>
+<claim-text>adjusting said caster brake portion with said user adjustment setting.</claim-text><!-- EPO <DP n="22"> --></claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 13 further comprising the steps of:
+<claim-text>determining a user adjustment setting for said drive brake portion; and</claim-text>
+<claim-text>adjusting said drive brake portion with said user adjustment setting,</claim-text></claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 further comprising the steps of:
+<claim-text>determining a user adjustment setting for said drive brake portion; and</claim-text>
+<claim-text>adjusting said drive brake portion with said user adjustment setting.</claim-text></claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 further comprising the steps of:
+<claim-text>setting a minimum caster brake force;</claim-text>
+<claim-text>comparing said caster brake portion to said minimum caster brake force; and</claim-text>
+<claim-text>setting said caster brake force to zero if said caster brake force is less than said minimum caster brake force.</claim-text></claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 further comprising the steps of:
+<claim-text>setting a maximum caster brake force;</claim-text>
+<claim-text>comparing said caster brake portion to said maximum caster brake force; and</claim-text>
+<claim-text>setting said caster brake force to said maximum caster brake force if said caster brake force is greater than said maximum caster brake force.</claim-text></claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 wherein said step of determining a drive brake portion of said braking force comprises the step of subtracting said caster brake portion of said braking force from said braking force.</claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 10 wherein said caster brake (55a) is electrical and said method further comprises the steps of:<!-- EPO <DP n="23"> -->
+<claim-text>setting a maximum caster brake current; and</claim-text>
+<claim-text>limiting current to said caster brake (55a) to said maximum caster brake current.</claim-text></claim-text></claim>
+<claim id="c-en-01-0020" num="0020">
+<claim-text>A method for braking a materials handling vehicle (10) as claimed in claim 7 further comprising the steps of:
+<claim-text>determining an operating speed of said vehicle (10);</claim-text>
+<claim-text>starting a timer when said operating speed of said vehicle (10) falls below a first given speed;</claim-text>
+<claim-text>upon expiration of said timer determining whether said operating speed exceeds a second given speed; and</claim-text>
+<claim-text>fully applying said mechanical brake (44) if said operating speed exceeds said second given speed upon expiration of said timer.</claim-text></claim-text></claim>
+<claim id="c-en-01-0021" num="0021">
+<claim-text>A braking system for a materials handling vehicle (10) comprising:
+<claim-text>a computer (300) programmed to:
+<claim-text>determine a maximum allowable speed for said materials handling vehicle (10); and</claim-text>
+<claim-text>calculate braking force for said vehicle (10) in response to a gross vehicle weight and said maximum allowable speed, said gross vehicle weight comprising the total unloaded vehicle weight and the maximum rated load weight for said materials handling vehicle (10).</claim-text></claim-text></claim-text></claim>
+<claim id="c-en-01-0022" num="0022">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 21 wherein said gross vehicle weight is set in said computer (300).</claim-text></claim>
+<claim id="c-en-01-0023" num="0023">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 21 wherein<br/>
+said computer (300) is further programmed to:
+<claim-text>determine a user adjustment setting for said braking force; and</claim-text>
+<claim-text>adjust said braking force with said user adjustment setting.</claim-text><!-- EPO <DP n="24"> --></claim-text></claim>
+<claim id="c-en-01-0024" num="0024">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 21 wherein said materials handling vehicle (10) further comprises a drive wheel (50) driven by a traction motor (42) and a mechanical brake (44) associated with said drive wheel (50), and said computer (300) is further programmed to:
+<claim-text>determine a portion of said braking force to be performed by said mechanical brake (44); and</claim-text>
+<claim-text>determine a portion of said braking force to be performed by operation of said traction motor (42).</claim-text></claim-text></claim>
+<claim id="c-en-01-0025" num="0025">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 21 wherein said materials handling vehicle (10) further comprises a drive brake (44) and a caster brake (55a) and said computer (300) is further programmed to:
+<claim-text>determine a caster brake portion of said braking force; and</claim-text>
+<claim-text>determine a drive brake portion of said braking force.</claim-text></claim-text></claim>
+<claim id="c-en-01-0026" num="0026">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 25 wherein said computer (300) is further programmed to:
+<claim-text>determine a user adjustment setting for said caster brake portion of said braking force; and</claim-text>
+<claim-text>adjust said caster brake portion of said braking force with said user adjustment setting for said caster brake portion.</claim-text></claim-text></claim>
+<claim id="c-en-01-0027" num="0027">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 26 wherein said computer (300) is further programmed to:
+<claim-text>determine a user adjustment setting for said drive brake portion of said braking force; and</claim-text>
+<claim-text>adjust said drive brake portion of said braking force with said user adjustment setting for said drive brake portion.</claim-text></claim-text></claim>
+<claim id="c-en-01-0028" num="0028">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 25 wherein said computer (300) is further programmed to:<!-- EPO <DP n="25"> -->
+<claim-text>determine a user adjustment setting for said drive brake portion of said braking force; and</claim-text>
+<claim-text>adjust said drive brake portion of said braking force with said user adjustment setting for said drive brake portion.</claim-text></claim-text></claim>
+<claim id="c-en-01-0029" num="0029">
+<claim-text>A braking system for a materials handling vehicle (10) as claimed in claim 21 wherein said materials handling vehicle (10) has a drive wheel (50) driven by a traction motor (42) and a mechanical brake (44) associated with said drive wheel (50), said computer (300) being further programmed to:
+<claim-text>determine an operating speed of said vehicle (10);</claim-text>
+<claim-text>start a timer when said operating speed of said vehicle (10) falls below a first given speed;</claim-text>
+<claim-text>upon expiration of said timer determine whether said operating speed exceeds a second given speed; and</claim-text>
+<claim-text>fully apply said mechanical brake (44) if said operating speed exceeds said second given speed upon expiration of said timer.</claim-text></claim-text></claim>
+</claims><!-- EPO <DP n="26"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10), umfassend die Schritte:
+<claim-text>Einstellung eines Gesamt-Fahrzeuggewichtes für ein Materialhandhabungs-Fahrzeug (10), wobei das Gesamt-Fahrzeuggewicht umfasst das gesamte unbeladene Fahrzeuggewicht und das maximal bemessene Lastgewicht für das Materialhandhabungs-Fahrzeug (10);</claim-text>
+<claim-text>Festlegung einer maximal statthaften Geschwindigkeit für das Materialhandhabungs-Fahrzeug (10);</claim-text>
+<claim-text>Feststellung einer Betriebs-Bremsanforderung; und</claim-text>
+<claim-text>beim Empfang einer Betriebs-Bremsanforderung Berechnung der Bremskraft für das Fahrzeug (10) aufgrund des Gesamt-Fahrzeuggewichtes und der maximal statthaften Geschwindigkeit.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 1, ferner umfassend den Schritt der Umwandlung der Bremskraft in Brems-Steueraktionen.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 1, wobei der Schritt der Festlegung einer maximal statthaften Geschwindigkeit für das Materialhandhabungs-Fahrzeug (10) die Schritte umfasst:
+<claim-text>Festlegung einer Höhe der Material-Handhabungsgabeln (80) des Fahrzeuges (10); und</claim-text>
+<claim-text>Korrelation einer maximal statthaften Fahrzeug(10)-Geschwindigkeit zu der Höhe der Material-Handhabungsgabeln (80) des Fahrzeuges (10).</claim-text></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 3, wobei der Schritt der Festlegung einer<!-- EPO <DP n="27"> --> maximal statthaften Geschwindigkeit für das Materialhandhabungs-Fahrzeug (10) ferner die Schritte umfasst:
+<claim-text>Feststellung einer Fahrtrichtung des Materialhandhabungs-Fahrzeuges (10); und</claim-text>
+<claim-text>Korrelation der maximal statthaften Fahrzeug(10)-Geschwindigkeit zu der Fahrtrichtung des Fahrzeuges (10).</claim-text></claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 1, wobei der Schritt der Berechnung der Bremskraft beim Empfang einer Betriebs-Bremsanforderung die Schritte umfasst:
+<claim-text>Einstellung der Bremskraft für ein Materialhandhabungs-Fahrzeug (10) entsprechend dem Gesamt-Fahrzeuggewicht multipliziert mit dem 0,03-fachen der maximal statthaften Geschwindigkeit für das Materialhandhabungs-Fahrzeug (10); und</claim-text>
+<claim-text>Lösung der sich ergebenden Gleichung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 1, ferner umfassend die Schritte:
+<claim-text>Feststellung einer Benutzer-Einstellung für die Bremskraft; und</claim-text>
+<claim-text>Einstellung der Bremskraft mit dieser Benutzer-Einstellung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 2, wobei das Materialhandhabungs-Fahrzeug (10) ein durch einen Traktionsmotor (42) angetriebenes Antriebsrad (50) und eine dem Antriebsrad (50) zugeordnete mechanische Bremse (44) besitzt, und der Schritt der Umwandlung der Bremskraft in Brems-Steueraktionen die Schritte umfasst:
+<claim-text>Festlegung eines Anteiles der durch die mechanische Bremse (44) auszuführenden Bremskraft; und</claim-text>
+<claim-text>Festlegung eines Anteiles der durch den Betrieb des Traktionsmotors (42) auszuführenden Bremskraft.</claim-text><!-- EPO <DP n="28"> --></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 7, wobei der Schritt der Festlegung eines Anteiles der durch den Traktionsmotor (42) auszuführenden Bremskraft umfasst den Schritt der Subtraktion des Anteiles der durch die mechanische Bremse (44) auszuführenden Bremskraft und eines Rollwiderstandes des Fahrzeuges (10) von der Bremskraft.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 8, ferner umfassend den Schritt der Einstellung des Anteiles der Bremskraft, der durch den Betrieb des Traktionsmotors (42) auszuführen ist, auf Null, wenn das Ergebnis der Subtraktion der durch die mechanische Bremse (44) auszuführenden Bremskraft und des Rollwiderstandes des Fahrzeuges (10) von der Bremskraft geringer als Null ist.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 2, wobei das Fahrzeug (10) eine Antriebsbremse (44) und eine Schwenkrollenbremse (55a) besitzt und der Schritt der Umwandlung der Bremskraft in Brems-Steueraktionen die Schritte umfasst:
+<claim-text>Festlegung eines Schwenkrollen-Anteiles der Bremskraft; und</claim-text>
+<claim-text>Festlegung eines Antriebs-Bremsanteils der Bremskraft.</claim-text></claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, wobei der Schritt der Festlegung eines Schwenkroll-Bremsanteiles der Bremskraft umfasst den Schritt des Nehmens eines Prozentsatzes der Bremskraft als den Schwenkrollen-Bremsanteil der Bremskraft.<!-- EPO <DP n="29"> --></claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 11, ferner umfassend die Schritte:
+<claim-text>Nehmen eines ersten Prozentsatzes der Bremskraft als den Schwenkrollen-Bremsanteil für die Fahrzeug(10)-Fahrt in einer ersten Richtung; und</claim-text>
+<claim-text>Nehmen eines zweiten Prozentsatzes der Bremskraft als Schwenkrollen-Bremsanteil für die Fahrzeug(10)-Fahrt in einer zweiten Richtung entgegengesetzt zu der ersten Richtung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, ferner umfassend die Schritte:
+<claim-text>Festlegung einer Benutzereinstellung für den Schwenkrollen-Bremsanteil; und</claim-text>
+<claim-text>Einstellung des Schwenkrollen-Bremsanteiles mit der Benutzereinstellung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 13, ferner umfassend die Schritte:
+<claim-text>Festlegung einer Benutzereinstellung für den Antriebs-Bremsanteil; und</claim-text>
+<claim-text>Einstellung des Antriebs-Bremsanteiles mit der Benutzereinstellung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, ferner umfassend die Schritte:
+<claim-text>Festlegung einer Benutzereinstellung für den Antriebs-Bremsanteil; und</claim-text>
+<claim-text>Einstellung des Antriebs-Bremsanteiles mit der Benutzereinstellung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, femer umfassend die Schritte:
+<claim-text>Einstellung einer Minimum-Schwenkrollen-Bremskraft;<!-- EPO <DP n="30"> --></claim-text>
+<claim-text>Vergleich des Schwenkrollen-Bremsanteiles mit der Minimum-Schwenkrollen-Bremskraft; und</claim-text>
+<claim-text>Einstellung der Schwenkrollen-Bremskraft auf Null, wenn die Schwenkrollen-Bremskraft geringer als die Minimum-Schwenkrollen-Bremskraft ist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, ferner umfassend die Schritte:
+<claim-text>Einstellung einer Maximum-Schwenkrollen-Bremskraft;</claim-text>
+<claim-text>Vergleich des Schwenkrollen-Bremsanteiles mit der Maximum-Schwenkrollen-Bremskraft; und</claim-text>
+<claim-text>Einstellung der Schwenkrollen-Bremskraft auf die Maximum-Schwenkrollen-Bremskraft, wenn die Schwenkrollen-Bremskraft größer als die Maximum-Schwenkrollen-Bremskraft ist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, wobei der Schritt der Festlegung eines Antriebs-Bremsanteiles der Bremskraft den Schritt umfasst der Subtraktion des Schwenkrollen-Bremsanteiles der Bremskraft von der Bremskraft.</claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 10, wobei die Schwenkrollenbremse (55a) elektrisch ist und das Verfahren ferner die Schritte umfasst:
+<claim-text>Einstellung eines maximalen Schwenkrollen-Bremsstromes; und</claim-text>
+<claim-text>Begrenzung des Stromes zu der Schwenkrollenbremse (55a) auf den maximalen Schwenkrollen-Bremsstrom.</claim-text></claim-text></claim>
+<claim id="c-de-01-0020" num="0020">
+<claim-text>Verfahren zur Bremsung eines Materialhandhabungs-Fahrzeuges (10) nach Anspruch 7, ferner umfassend die Schritte:
+<claim-text>Feststellung einer Betriebsgeschwindigkeit des Fahrzeuges (10);<!-- EPO <DP n="31"> --> Starten eines Zeitgebers, wenn die Betriebsgeschwindigkeit des Fahrzeuges (10) unter eine erste vorgegebene Geschwindigkeit fällt;</claim-text>
+<claim-text>bei Ablauf des Zeitgebers Feststellung, ob die Betriebsgeschwindigkeit eine zweite vorgegebene Geschwindigkeit übersteigt; und</claim-text>
+<claim-text>vollständiges Anlegen der mechanischen Bremse (44), wenn die Betriebsgeschwindigkeit die zweite vorgegebene Geschwindigkeit beim Ablauf des Zeitgebers übersteigt.</claim-text></claim-text></claim>
+<claim id="c-de-01-0021" num="0021">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10), umfassend:
+<claim-text>Einen Computer (300), der programmiert ist, um:
+<claim-text>eine maximal statthafte Geschwindigkeit für das Materialhandhabungs-Fahrzeug (10) festzustellen; und</claim-text>
+<claim-text>eine Bremskraft für das Fahrzeug (10) zu berechnen aufgrund eines Gesamt-Fahrzeuggewichtes und der maximal statthaften Geschwindigkeit, wobei das Gesamt-Fahrzeuggewicht das gesamte unbeladene Fahrzeuggewicht und das maximal bemessene Lastgewicht für das Materialhandhabungs-Fahrzeug (10) umfasst.</claim-text></claim-text></claim-text></claim>
+<claim id="c-de-01-0022" num="0022">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 21, wobei das Gesamt-Fahrzeuggewicht in dem Computer (300) eingestellt ist.</claim-text></claim>
+<claim id="c-de-01-0023" num="0023">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 21, wobei der Computer (300) ferner programmiert ist, um:
+<claim-text>eine Benutzereinstellung für die Bremskraft festzustellen; und</claim-text>
+<claim-text>die Bremskraft mit der Benutzereinstellung einzustellen.</claim-text><!-- EPO <DP n="32"> --></claim-text></claim>
+<claim id="c-de-01-0024" num="0024">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 21, wobei das Materialhandhabungs-Fahrzeug (10) ferner ein durch einen Traktionsmotor (42) angetriebenes Antriebsrad (50) und eine dem Antriebsrad (50) zugeordnete mechanische Bremse (44) umfasst und wobei der Computer (300) ferner programmiert ist, um:
+<claim-text>einen Anteil der Bremskraft festzustellen, der durch die mechanische Bremse (44) auszuführen ist; und</claim-text>
+<claim-text>einen Anteil der Bremskraft festzustellen, der durch den Betrieb des Traktionsmotors (42) auszuführen ist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0025" num="0025">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 21, wobei das Materialhandhabungs-Fahrzeug (10) eine Antriebsbremse (44) und eine Schwenkrollenbremse (55a) umfasst und der Computer (300) ferner programmiert ist, um:
+<claim-text>einen Schwenkrollen-Bremsanteil der Bremskraft festzulegen; und</claim-text>
+<claim-text>einen Antriebs-Bremsanteil der Bremskraft festzulegen.</claim-text></claim-text></claim>
+<claim id="c-de-01-0026" num="0026">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 25, wobei der Computer (300) ferner programmiert ist, um:
+<claim-text>eine Benutzereinstellung für den Schwenkrollen-Bremsanteil der Bremskraft festzustellen; und</claim-text>
+<claim-text>den Schwenkrollen-Bremsanteil der Bremskraft mit der Benutzereinstellung für den Schwenkrollen-Bremsanteil einzustellen.</claim-text></claim-text></claim>
+<claim id="c-de-01-0027" num="0027">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 26, wobei der Computer (300) ferner programmiert ist, um:
+<claim-text>eine Benutzereinstellung für den Antriebs-Bremsanteil der Bremskraft festzustellen; und<!-- EPO <DP n="33"> --></claim-text>
+<claim-text>den Antriebs-Bremsanteil der Bremskraft mit der Benutzereinstellung für den Antriebs-Bremsanteil einzustellen.</claim-text></claim-text></claim>
+<claim id="c-de-01-0028" num="0028">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 25, wobei der Computer (300) ferner programmiert ist, um:
+<claim-text>eine Benutzereinstellung für den Antriebs-Bremsanteil der Bremskraft festzustellen; und</claim-text>
+<claim-text>den Antriebs-Bremsanteil der Bremskraft mit der Benutzereinstellung für den Antriebs-Bremsanteil einzustellen.</claim-text></claim-text></claim>
+<claim id="c-de-01-0029" num="0029">
+<claim-text>Bremssystem für ein Materialhandhabungs-Fahrzeug (10) nach Anspruch 21, wobei das Materialhandhabungs-Fahrzeug (10) ein durch einen Traktionsmotor (42) angetriebenes Antriebsrad (50) und eine dem Antriebsrad (50) zugeordnete mechanische Bremse (44) besitzt, und der Computer (300) ferner programmiert ist, um:
+<claim-text>eine Betriebsgeschwindigkeit des Fahrzeuges (10) festzustellen; einen Zeitgeber zu starten, wenn die Betriebsgeschwindigkeit des Fahrzeuges (10) unter eine erste vorgegebene Geschwindigkeit fällt;</claim-text>
+<claim-text>beim Ablauf des Zeitgebers festzustellen, ob die Betriebsgeschwindigkeit eine zweite vorgegebene Geschwindigkeit übersteigt; und</claim-text>
+<claim-text>die mechanische Bremse (44) vollständig anzulegen, wenn die Betriebsgeschwindigkeit die zweite vorgegebene Geschwindigkeit beim Ablauf des Zeitgebers übersteigt.</claim-text></claim-text></claim>
+</claims><!-- EPO <DP n="34"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) comprenant les étapes de :
+<claim-text>réglage d'un poids brut du véhicule pour un véhicule de manipulation de matériels (10), ledit poids brut du véhicule comprenant le poids total du véhicule déchargé et le poids maximal de la charge nominale pour ledit véhicule de manipulation de matériels (10);</claim-text>
+<claim-text>détermination d'une vitesse maximale admissible pour ledit véhicule de manipulation de matériels (10); détection d'une demande de frein de service; et</claim-text>
+<claim-text>à la réception d'une demande de frein de service, calcul de la force de freinage pour ledit véhicule (10) en réponse audit poids brut du véhicule et à ladite vitesse maximale admissible.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 1, comprenant, en outre, l'étape de conversion de ladite force de freinage en des actions de commande de freinage.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 1, dans lequel ladite étape de détermination d'une vitesse maximale admissible pour ledit véhicule de manipulation de matériels (10) comprend les étapes de :
+<claim-text>détermination d'une hauteur de fourches de manipulation de matériels (80) dudit véhicule (10); et</claim-text>
+<claim-text>corrélation d'une vitesse de véhicule (10) maximale admissible avec ladite hauteur de fourches de manipulation de matériels (80) dudit véhicule (10).</claim-text><!-- EPO <DP n="35"> --></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 3, dans lequel ladite étape de détermination d'une vitesse maximale admissible pour ledit véhicule de manipulation de matériels (10) comprend, en outre, les étapes de :
+<claim-text>détermination d'une direction de déplacement dudit véhicule de manipulation de matériels (10); et</claim-text>
+<claim-text>corrélation de ladite vitesse de véhicule (10) maximale admissible avec ladite direction de déplacement dudit véhicule (10).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 1, dans lequel ladite étape de calcul de la force de freinage à la réception d'une demande de frein de service comprend les étapes de :
+<claim-text>réglage d'une force de freinage pour un véhicule de manipulation de matériels (10) égale au poids brut du véhicule multiplié par 0,03 fois la vitesse maximale admissible pour ledit véhicule de manipulation de matériels (10); et</claim-text>
+<claim-text>résolution de l'équation résultante.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 1, comprenant, en outre, les étapes de :
+<claim-text>détermination d'un réglage d'ajustement utilisateur pour ladite force de freinage; et</claim-text>
+<claim-text>ajustement de ladite force de freinage sur ledit réglage d'ajustement utilisateur.</claim-text><!-- EPO <DP n="36"> --></claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 2, dans lequel ledit véhicule de manipulation de matériels (10) comporte une roue motrice (50) entraînée par un moteur de traction (42) et un frein mécanique (44) associé à ladite roue motrice (50) et ladite étape de conversion de ladite force de freinage en actions de commande de freinage comprend les étapes de :
+<claim-text>détermination d'une portion de ladite force de freinage qui doit être réalisée par ledit frein mécanique (44); et</claim-text>
+<claim-text>détermination d'une portion de ladite force de freinage qui doit être réalisée par le fonctionnement dudit moteur de traction (42).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 7, dans lequel ladite étape de détermination d'une portion de ladite force de freinage qui doit être réalisée par le fonctionnement dudit moteur de traction (42) comprend l'étape de soustraction de ladite portion de ladite force de freinage qui doit être réalisée par ledit frein mécanique (44) et une résistance de roulement dudit véhicule (10) de ladite force freinage.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 8, comprenant, en outre, l'étape de réglage de ladite portion de ladite force de freinage qui doit être réalisée par le fonctionnement dudit moteur de traction (42) sur zéro si le résultat de la soustraction de ladite force de freinage qui doit être réalisée par ledit frein mécanique<!-- EPO <DP n="37"> --> (44) et de ladite résistance de roulement dudit véhicule (10) de ladite force freinage est inférieur à zéro.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 2, dans lequel ledit véhicule (10) comprend un frein de commande (44) et un frein de roulette (55a) et ladite étape de conversion de ladite force de freinage en des actions de commande de freinage comprend les étapes de :
+<claim-text>détermination d'une portion de frein de roulette de ladite force de freinage; et</claim-text>
+<claim-text>détermination d'une portion de frein de commande de ladite force de freinage.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, dans lequel l'étape de détermination d'une portion de frein de roulette de ladite force de freinage comprend l'étape de prise d'un pourcentage de ladite force de freinage comme dite portion de frein de roulette de ladite force de freinage.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 11, comprenant, en outre, les étapes de :
+<claim-text>prise d'un premier pourcentage de ladite force de freinage comme dite portion de frein de roulette pour le déplacement du véhicule (10) dans une première direction; et</claim-text>
+<claim-text>prise d'un second pourcentage de ladite force de freinage comme dite portion de frein de roulette pour le<!-- EPO <DP n="38"> --> déplacement du véhicule (10) dans une seconde direction à l'opposé de la première.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, comprenant, en outre, les étapes de :
+<claim-text>détermination d'un réglage d'ajustement utilisateur pour ladite portion de frein de roulette; et</claim-text>
+<claim-text>ajustement de ladite portion de frein de roulette sur ledit réglage d'ajustement utilisateur.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 13, comprenant, en outre, les étapes de :
+<claim-text>détermination d'un réglage d'ajustement utilisateur pour ladite portion de frein de commande; et</claim-text>
+<claim-text>ajustement de ladite portion de frein de commande sur ledit réglage d'ajustement utilisateur.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, comprenant, en outre, les étapes de :
+<claim-text>détermination d'un réglage d'ajustement utilisateur pour ladite portion de frein de commande; et</claim-text>
+<claim-text>ajustement de ladite portion de frein de commande sur ledit réglage d'ajustement utilisateur.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, comprenant, en outre, les étapes de :
+<claim-text>réglage d'une force minimale de frein de roulette;<!-- EPO <DP n="39"> --></claim-text>
+<claim-text>comparaison de ladite portion de frein de roulette avec ladite force minimale de frein de roulette;</claim-text>
+<claim-text>et réglage de ladite force de frein de roulette sur zéro si ladite force de frein de roulette est inférieure à ladite force minimale de frein de roulette.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, comprenant, en outre, les étapes de :
+<claim-text>réglage d'une force maximale de frein de roulette;</claim-text>
+<claim-text>comparaison de ladite portion de frein de roulette avec ladite force maximale de frein de roulette;</claim-text>
+<claim-text>et réglage de ladite force de frein de roulette sur ladite force maximale de frein de roulette si ladite force de frein de roulette est supérieure à ladite force maximale de frein de roulette.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, dans lequel ladite étape de détermination d'une portion de frein de commande de ladite force de freinage comprend l'étape de soustraction de ladite portion de frein de roulette de ladite force de freinage de ladite force de freinage.</claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 10, dans lequel ledit frein de roulette (55a) est électrique et ledit procédé comprend, en outre les étapes de :
+<claim-text>réglage d'un courant maximal de frein de roulette; et</claim-text>
+<claim-text>limitation du courant audit frein de roulette (55a) audit courant maximal de frein de roulette.</claim-text><!-- EPO <DP n="40"> --></claim-text></claim>
+<claim id="c-fr-01-0020" num="0020">
+<claim-text>Procédé pour freiner un véhicule de manipulation de matériels (10) selon la revendication 7, comprenant, en outre les étapes de :
+<claim-text>détermination d'une vitesse de fonctionnement dudit véhicule (10);</claim-text>
+<claim-text>démarrage d'une minuterie lorsque ladite vitesse de fonctionnement dudit véhicule (10) diminue en dessous d'une première vitesse donnée;</claim-text>
+<claim-text>à l'expiration de ladite minuterie, détermination si ladite vitesse de fonctionnement dépasse une seconde vitesse donnée; et</claim-text>
+<claim-text>application intégrale dudit frein mécanique (44) si ladite vitesse de fonctionnement dépasse ladite seconde vitesse donnée lors de l'expiration de ladite minuterie.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0021" num="0021">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) comprenant :
+<claim-text>un ordinateur (300) programmé pour :
+<claim-text>déterminer une vitesse maximale admissible pour ledit véhicule de manipulation de matériels (10); et</claim-text>
+<claim-text>calculer la force de freinage pour ledit véhicule (10) en réponse à un poids brut du véhicule et à ladite vitesse maximale admissible, ledit poids brut du véhicule comprenant le poids total du véhicule déchargé et le poids maximal de la charge nominale pour ledit véhicule de manipulation de matériels (10).</claim-text></claim-text></claim-text></claim>
+<claim id="c-fr-01-0022" num="0022">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 21, dans lequel ledit poids brut du véhicule est réglé dans ledit ordinateur (300).<!-- EPO <DP n="41"> --></claim-text></claim>
+<claim id="c-fr-01-0023" num="0023">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 21, dans lequel ledit ordinateur (300) est, en outre, programmé pour :
+<claim-text>déterminer un réglage d'ajustement utilisateur pour ladite force de freinage; et</claim-text>
+<claim-text>ajuster ladite force de freinage sur ledit réglage d'ajustement.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0024" num="0024">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 21, dans lequel ledit véhicule de manipulation de matériels (10) comprend, un outre une roue motrice (50) entraînée par un moteur de traction (42) et un frein mécanique (44) associé à ladite roue motrice (50) et ledit ordinateur (300) est, en outre, programmé, pour :
+<claim-text>déterminer une portion de ladite force de freinage qui doit être réalisée par ledit frein mécanique (44); et</claim-text>
+<claim-text>déterminer une portion de ladite force de freinage qui doit être réalisée par le fonctionnement dudit moteur de traction (42).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0025" num="0025">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 21, dans lequel ledit véhicule de manipulation de matériels (10) comprend, un outre un frein de commande (44) et un frein de roulette (55a) et ledit ordinateur (300) est, en outre, programmé, pour :
+<claim-text>déterminer une portion de frein de roulette de ladite force de freinage; et</claim-text>
+<claim-text>déterminer une portion de frein de commande de ladite force de freinage.</claim-text><!-- EPO <DP n="42"> --></claim-text></claim>
+<claim id="c-fr-01-0026" num="0026">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 25, dans lequel ledit ordinateur (300) est en outre programmé pour :
+<claim-text>déterminer un réglage d'ajustement utilisateur pour ladite portion de frein de roulette de ladite force de freinage; et</claim-text>
+<claim-text>ajuster ladite portion de frein de roulette de ladite force de freinage sur ledit réglage d'ajustement utilisateur pour ladite portion de frein de roulette.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0027" num="0027">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 26, dans lequel ledit ordinateur (300) est, en outre, programmé, pour :
+<claim-text>déterminer un réglage d'ajustement utilisateur pour ladite portion de frein de commande de ladite force de freinage; et</claim-text>
+<claim-text>ajuster ladite portion de frein de commande de ladite force de freinage sur ledit réglage d'ajustement utilisateur pour ladite portion de frein de commande.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0028" num="0028">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 25, dans lequel ledit ordinateur (300) est en outre programmé pour :
+<claim-text>déterminer un réglage d'ajustement utilisateur pour ladite portion de frein de commande de ladite force de freinage; et<!-- EPO <DP n="43"> --></claim-text>
+<claim-text>ajuster ladite portion de frein de commande de ladite force de freinage sur ledit réglage d'ajustement utilisateur pour ladite portion de frein de commande.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0029" num="0029">
+<claim-text>Dispositif de freinage pour un véhicule de manipulation de matériels (10) selon la revendication 21, dans lequel ledit véhicule de manipulation de matériels (10) comporte une roue motrice (50) entraînée par un moteur de traction (42) et un frein mécanique (44) associé à ladite roue motrice (50), ledit ordinateur (300) étant en outre programmé pour :
+<claim-text>déterminer une vitesse de fonctionnement dudit véhicule (10);</claim-text>
+<claim-text>démarrer une minuterie lorsque ladite vitesse de fonctionnement dudit véhicule (10) diminue en dessous d'une première vitesse donnée;</claim-text>
+<claim-text>à l'expiration de ladite minuterie, déterminer si ladite vitesse de fonctionnement dépasse une seconde vitesse donnée; et</claim-text>
+<claim-text>appliquer intégralement ledit frein mécanique (44) si ladite vitesse de fonctionnement dépasse ladite seconde vitesse donnée lors de l'expiration de ladite minuterie.</claim-text></claim-text></claim>
+</claims><!-- EPO <DP n="44"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="153" he="207" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="45"> -->
+<figure id="f0002" num=""><img id="if0002" file="imgf0002.tif" wi="166" he="191" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="46"> -->
+<figure id="f0003" num=""><img id="if0003" file="imgf0003.tif" wi="171" he="251" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="47"> -->
+<figure id="f0004" num=""><img id="if0004" file="imgf0004.tif" wi="147" he="224" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+</ep-patent-document>
