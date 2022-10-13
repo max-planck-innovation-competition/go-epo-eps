@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.2//EN" "ep-patent-document-v1-2.dtd">
+<ep-patent-document id="EP92922494B1" file="EP92922494NWB1.xml" lang="en" country="EP" doc-number="0610335" kind="B1" date-publ="20080102" status="n" dtd-version="ep-patent-document-v1-2">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMC..IE..............................................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>DIM360 Ver 2.3  (20 Nov 2007) -  2100000/0</B007EP></eptags></B000><B100><B110>0610335</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20080102</date></B140><B190>EP</B190></B100><B200><B210>92922494.7</B210><B220><date>19921016</date></B220><B240><B241><date>19940426</date></B241><B242><date>19960619</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>777859</B310><B320><date>19911016</date></B320><B330><ctry>US</ctry></B330><B310>807529</B310><B320><date>19911213</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20080102</date><bnum>200801</bnum></B405><B430><date>19940817</date><bnum>199433</bnum></B430><B450><date>20080102</date><bnum>200801</bnum></B450><B452EP><date>20070829</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N  15/62        20060101AFI20070823BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  39/35        20060101ALI20070823BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>G01N  33/53        20060101ALI20070823BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61K  39/36        20060101ALI20070823BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>Verfahren zum Entwurf von Rekombitopen Peptiden</B542><B541>en</B541><B542>Methods for designing recombitope peptides</B542><B541>fr</B541><B542>Méthodes pour le design de peptides d'epitope recombiné</B542></B540><B560><B561><text>EP-A- 0 367 306</text></B561><B561><text>WO-A-91/06571</text></B561><B561><text>WO-A-92/04445</text></B561><B562><text>CELL vol. 52, 26 February 1988, CAMBRIDGE, NA US pages 515 - 523 ROTHBARD, J.B. ET AL. 'Structural model of HLA-DR1 restricted T cell antigen recognition' cited in the application</text></B562><B562><text>SCIENCE vol. 240, 13 May 1988, LANCASTER, PA US pages 889 - 894 EVANS, R.M. 'The steroid and thyroid hormone receptor superfamily'</text></B562><B562><text>NATURE vol. 346, 12 July 1990, LONDON GB pages 183 - 187 OTA, K. ET AL. 'T-cell recognition of an immunodominant myelin basic protein epitope in multiple sclerosis' cited in the application</text></B562><B562><text>METHODS IN ENZYMOLOGY vol. 178, 1989, ACADEMIC PRESS pages 659 - 676 FRANCIS, M.J. &amp; CLARKE, B.E. 'Peptide vaccines based on enhanced immunogenicity of peptide epitopes presented with T-cell determinants or hepatitis B core protein'</text></B562><B562><text>WANG ET AL: 'IMMUNODOMINANCE INTERMOLECULAR COMPETITION BETWEEN MHC CLASS II MOLECULES BY COVALENTLY LINKED T CELL EPITOPES' JOURNAL OF IMMUNOLOGY vol. 148, no. 10, 15 May 1992, THE WILLIAMS AND WILKINS CO. BALTIMORE, US, pages 3034 - 3041, XP001068967</text></B562><B562><text>LAI ET AL vol. 139, no. 12, 1987, pages 3973 - 3980</text></B562><B562><text>LAI ET AL vol. 144, no. 12, 1990, pages 4851 - 4856</text></B562><B562><text>PERKINS ET AL vol. 146, no. 7, 1991, pages 2137 - 2144</text></B562></B560></B500><B700><B720><B721><snm>ROGERS, Bruce, L.</snm><adr><str>54 Richardson Road</str><city>Belmont, MA 02178</city><ctry>US</ctry></adr></B721><B721><snm>MORGENSTERN, Jay, P.</snm><adr><str>322 Malborough Street</str><city>Boston, MA 02116</city><ctry>US</ctry></adr></B721><B721><snm>BOND, Julian, F.</snm><adr><str>294 Commercial Street</str><city>Weymouth, MA 02188</city><ctry>US</ctry></adr></B721><B721><snm>GARMAN, Richard, D.</snm><adr><str>21 Fessenden Road</str><city>Arlington, MA 02174</city><ctry>US</ctry></adr></B721><B721><snm>KUO, Mei-Chang</snm><adr><str>5 Cox Road</str><city>Winchester, MA 01890</city><ctry>US</ctry></adr></B721><B721><snm>MORVILLE, Malcolm</snm><adr><str>17 Twin Lakes Drive</str><city>Waterford, CT 06385</city><ctry>US</ctry></adr></B721><B721><snm>GREENSTEIN, Julia</snm><adr><str>174 Mount Vernon Street</str><city>West Newton, MA 02165</city><ctry>US</ctry></adr></B721></B720><B730><B731><snm>Merck Patent GmbH</snm><iid>07257080</iid><irf>VAP/JID/P56870P</irf><adr><str>Frankfurter Strasse 250</str><city>64293 Darmstadt</city><ctry>DE</ctry></adr></B731></B730></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>ES</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>MC</ctry><ctry>NL</ctry><ctry>SE</ctry></B840><B860><B861><dnum><anum>US1992008694</anum></dnum><date>19921016</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO1993008280</pnum></dnum><date>19930429</date><bnum>199311</bnum></B871></B870><B880><date>19940817</date><bnum>199433</bnum></B880></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001"><u style="single">Background of the Invention</u></heading>
+<p id="p0001" num="0001">T lymphocytes can mediate and regulate both the specific and non-specific effector mechanisms of immune responses. CD4+ T lymphocytes provide help for antibody production and secrete cytokines which modulate the growth of other T cells and the growth and differentiation of other immune cells such as monocytes and granulocytes. Functional and biochemical studies have demonstrated that the generation of cellular immune responses depends upon antigen receptors on T cells that recognize peptide fragments of foreign proteins associated with products of the major histocompatibility complex (MHC) that are expressed on antigen-presenting accessory cells. Recent advances in technology have made it possible to culture efficiently antigen-specific human and mouse T cell lines and clones <u style="single">in</u> <u style="single">vitro</u>. In addition, it is now possible to produce large amounts of protein antigens or their fragments using recombinant DNA technology or solid phase peptide synthesis. Thus, in the last few years, several research groups have begun to determine the linear amino acid sequences of antigenic proteins that are recognized by T cells in association with MHC (T cell epitopes).</p>
+<p id="p0002" num="0002">Peptides derived from a variety of protein antigens, including bacterial and viral pathogens, autoantigens, allergens and other experimental antigens such as hen egg lysozyme (HEL), ovalbumin (OVA) and lambda repressor (cl) have been examined for the ability to stimulate antigen-specific T cells. A wide size spectrum of peptides has been reported to serve as T cell epitopes. For example. OVA amino acid residues 324-339 (<nplcit id="ncit0001" npl-type="s"><text>Shimonkevitz, R. et al., J. Immunol., 133:2167 (1984</text></nplcit>)), HEL amino acid residues 74-96 (<nplcit id="ncit0002" npl-type="s"><text>Shastri, N. et al., J. Exp. Med. 164:882-896 (1986)</text></nplcit>; and lambda repressor (cl) amino acid residues 12-26 (<nplcit id="ncit0003" npl-type="s"><text>Lai, M.-Z et al., J. Immunol., 139:3973-3980 (1987)</text></nplcit>) have been demonstrated to trigger efficiently whole protein-primed<!-- EPO <DP n="2"> --> T cells. A peptide derived from Hepatitis B surface antigen (HBsAg amino acid residues 19-33) has recently been shown to stimulate T cell responses in a majority of human subjects who had been immunized with a recombinant hepatitis B vaccine (<nplcit id="ncit0004" npl-type="s"><text>Schad, V.C. et al., Seminars in Immunol. 3:217-224 (1991)</text></nplcit>). A major mycobacterial antigen 65-kD protein has also been epitope-mapped (<nplcit id="ncit0005" npl-type="s"><text>Lamb, J.R. et al., EMBO J., 6(5):1245-1249 (1987)</text></nplcit>). T cell epitopes have been identified in the peptides comprised of amino acid residues 112-132 and 437-459 of the 65-kD protein. Myelin basic protein (MBP), an autoantigen which induces experimental autoimmune encephalomyelitis (EAE) and the presumed autoantigen in multiple sclerosis (MS) has also been epitope-mapped in both human (<nplcit id="ncit0006" npl-type="s"><text>Ota, K. et al., Nature. 346:183-187 (1990)</text></nplcit>) and rodent (<nplcit id="ncit0007" npl-type="s"><text>Zamvil et al., Nature 324:258-260(1986)</text></nplcit>) systems. Ota et al. have identified a major T cell epitope recognized by MS patients, MBP amino acid residues 84-102. Minor epitopes (MBP amino acid residues 143-168. 61-82, 124-42 and 31-50) recognized by T cells from MS patients were also described. Zamvil et al. have shown that MBP amino acid residues 1-11 contain the major T cell epitope(s) causing EAE, in susceptible rodent strains.</p>
+<p id="p0003" num="0003">T cell epitopes present in allergenic proteins have very recently been described (<nplcit id="ncit0008" npl-type="s"><text>O'Hehir, R. et al., Ann. Rev. Immunol., 9:67-95 (1991)</text></nplcit>). Several peptides derived from the house dust mite allergen <u style="single">Der p</u> I have been shown to be T cell-reactive (<nplcit id="ncit0009" npl-type="s"><text>Thomas, W.R., et al. In Epitopes of Atopic Allergens Proceedings of Workshop from XIV Congress of the European Academy of Allergy and Clinical Immunology, Berlin (Sept. 1989) pp. 77-82</text></nplcit>; <nplcit id="ncit0010" npl-type="s"><text>O'Hehir, R.E. Annual Review Immunology 9:67-95 (1991)</text></nplcit>; <nplcit id="ncit0011" npl-type="s"><text>Stewart, G.A. et al In: Epitopes of Atopic Allergens Proceedings of Workshop from XIV Congress of the European Academy of Allergy and Clinical Immunology, Berlin (Sept. 1989) pp 41-47</text></nplcit>; and <nplcit id="ncit0012" npl-type="s"><text>Yessel, H. et al, In: I Cell Activation in Health and Disease: Discrimination Between Immunity and Tolerance, Conference 22-26 (Sept. 1990) Trinity College, Oxford U.K</text></nplcit>.). A T cell-stimulatory peptide derived from the short ragweed allergen <u style="single">Amb a</u> I amino acid residues 54-65 has also been reported (<nplcit id="ncit0013" npl-type="s"><text>Rothbard, J.B. et al., Cell, 52: 515-523 (1988)</text></nplcit>. Using a panel of T cell clones derived from a rye grass-allergic individual, Perez et al. demonstrated that T cell epitopes are contained within amino acid residues 191-210 of the protein allergen <u style="single">Lol p I</u> (<nplcit id="ncit0014" npl-type="s"><text>Perez, M. et al., J. Biol. Chem., 265(27):16210-16215 (1990)</text></nplcit>).</p>
+<p id="p0004" num="0004"><patcit id="pcit0001" dnum="WO9106571A"><text>WO91/06571</text></patcit> discloses a method for designing isolated peptides having T cell stimulating activity, comprising the steps of: i) reviewing the known protein structure of a protein allergen; ii) diving the protein allergen into at least two regions; iii) determining whether peptides corresponding to said at least two regions have T cell stimulating activity.<!-- EPO <DP n="3"> --></p>
+<p id="p0005" num="0005">Methods for designing recombitope peptides isolated peptides having T cell stimulating activity where the protein antigen to which the individual is sensitive has unknown or ill-defined T cell epitopes (e.g., some or all of the peptide regions of the protein antigen which have human T cell stimulating activity to the protein antigen have not been defined by standard T cell biology techniques, e.g., <nplcit id="ncit0015" npl-type="b"><text>Current Protocols in Immunology, edited by Coligan, J.E. et al., volume 1, (1991</text></nplcit>), or the precise human T cell epitopes of the protein antigen have not been defined by fine mapping techniques). According to one method, the known protein structure of an allergen or other protein antigen is reviewed and the allergen or other antigen is theoretically divided into at least two peptide regions of desired lengths. By theoretically is meant something that does not actually take place but rather a thought process, e.g., occurs on paper or in one's head. This division can be arbitrary, can be made according to an algorithm, or can be wholly or partially based on regions of the protein antigen known to have T cell stimulating activity, preferably human T cell stimulating activity. When just a few regions of a protein antigen which have T cell stimulating activity are known or when all the regions of the protein antigen which have human T cell stimulating activity are unknown, preferably, at least 50% and more preferably, the entire protein is divided into peptide regions of desired lengths. The peptide regions are then theoretically arranged to form at least one recombitope peptide in which the regions are rearranged in a noncontiguous order. Subsequently, at least one recombitope peptide having a rearranged configuration is produced and the ability of the recombitope peptide to stimulate human T cells is determined. In a further embodiment, the ability of a recombitope peptide found to have human T cell<!-- EPO <DP n="4"> --> stimulating activity is tested to determine its ability to bind immunoglobulin specific for the allergen or other antigen, or is tested for the absence of another undesired property (e.g., protease activity).</p>
+<heading id="h0002"><u style="single">Brief Description of the Drawings</u></heading>
+<p id="p0006" num="0006">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Fig. 1 is the nucleic acid sequence and deduced amino acid sequence of chain 1 of the human T Cell Reactive Feline Protein (TRFP) including leader sequences A and B.</li>
+<li>Fig. 2 is the nucleic acid sequence and deduced amino acid sequence of chain 2 of TRFP including a leader sequence.</li>
+<li>Fig. 3 is a graphic representation depicting the response of T cells isolated from cat-allergic patients and primed with affinity-purified TRFP to overlapping TRFP peptides analyzed by the ranked sum of peptide responses.</li>
+<li>Fig. 4 is the amino acid sequences of peptide X, peptide Y, peptide Z, peptide A and peptide B of TRFP, each of which contains at least one T cell epitope of TRFP.</li>
+<li>Fig. 5 is a schematic representation of the construction of a recombitope peptide YZX using polymerase chain maction (PCR) techniques.</li>
+<li>Fig. 6 is a schematic representation of the construction of a recombitope peptide AYZXB using PCR techniques.</li>
+<li>Fig. 7 is the nucleic acid sequences of oligonucleotides C, D, E, F, G, H, and I used in the construction of the recombitope peptide YZX and oligonucleotides J, K, L, M, N and O used in the construction of the recombitope peptide AYZXB.</li>
+<li>Fig. 8 is the nucleic acid sequence (utilizing E. coli expression codons) and the deduced amino acid sequence comprising recombitope peptide YZX. A thrombin cleavage site is shown.</li>
+<li>Fig. 9 is a schematic representation of the construction of a recombitope peptide YZX using PCR techniques with cDNA isolated from TRFP as a template.</li>
+<li>Fig. 10 is the nucleic acid sequences of primers used in the construction of recombitope peptides XZY, YXZ, and ZXY.</li>
+<li>Fig. 11 is a graphic depiction of the amino acid sequence of the individual primers used to construct the recombitope peptides XZY, YXZ and ZXY.</li>
+<li>Fig. 12 is a schematic representation of the construction of a recombitope peptide derived from phospholipase A<sub>2</sub>, which has ill-defined T cell epitopes.</li>
+<li>Fig. 13 is a representation of the results of SDS/PAGE Western immunoblot analysis detecting the binding of human IgE obtained from a cat allergic individual to various protein samples, including recombitope peptides XYZ, XZY, YXZ, YZX, ZXY and ZYX.<!-- EPO <DP n="5"> --></li>
+<li>Fig. 14 is a graphic representation of the results of ELISA analysis illustrating the binding of human IgE obtained from a cat allergic individual to various protein samples, including recombitope peptides XYZ, XZY, YXZ, YZX, ZXY, and ZYX.</li>
+<li>Fig. 15a, 15b and 15c are graphic representations depicting the responses of T cell lines from three patients primed <u style="single">in</u> <u style="single">vitro</u> to TRFP, recombitope peptide YXZ, or recombitope peptide YZX, and analyzed for response to various peptides.</li>
+<li>Fig. 16 is a graphic representation depicting responses of murine T cells immunized with recombitope peptide YZX and analyzed for response <u style="single">in vitro</u> to culture with the recombitope peptide YZX as measured by IL-2 production.</li>
+</ul></p>
+<heading id="h0003"><u style="single">Detailed Description of the Invention</u></heading>
+<p id="p0007" num="0007">The present invention relates to a method for designing isolated peptides, termed recombitope peptides, having T cell stimulating activity, such as induction of T cell proliferation, lymphokine secretion and/ofT cell anergy/toIerization. Recombitope peptides preferably have human T cell stimulating activity and are useful in diagnosing and treating sensitivity in an individual to a protein allergen, autoantigen or other protein antigen. In general, preferred recombitope peptides comprise at least two regions derived from the same or from different protein allergens or other protein antigens, each region preferably having human T cell stimulating activity as determined by standard T cell biology techniques, and thus comprising at least one T cell epitope. In order to determine precise T cell epitopes by, for example, fine mapping techniques, the peptide regions comprising at least one T cell epitope that have been defined by standard T cell biology techniques can be modified by addition or deletion of amino acid residues at either the amino or carboxy terminus of the peptide regions and tested to determine a change in T cell reactivity to the modified peptide. Furthermore, if two or more peptide regions which share an area of overlap are found to have human T cell stimulating activity, as determined be standard T cell biology techniques, additional peptides can be produced comprising all or a portion of such peptide regions and these additional peptides can be tested by the above fine mapping procedure. As a result of fine mapping, a set of human T cell epitopes comprising amino acid residues essential to T cell recognition can be produced.</p>
+<p id="p0008" num="0008">Recombitope peptides can be produced by recombinant DNA techniques in a host cell transformed with a nucleic acid sequence coding for such recombitope peptide, or by chemical synthesis, or in certain limited situations by chemical cleavage of a protein allergen or other protein antigen. When produced by recombinant techniques, host cells transformed with nucleic acid encoding a recombitope peptide are cultured in a medium suitable for the cells and recombitope<!-- EPO <DP n="6"> --> peptides can be purified from cell culture medium, host cells, or both using techniques known in the art for purifying peptides or proteins including ion-exchange chromatography, isoelectricfocusing, gel filtration chromatography, ultrafiltration, electrophoresis or immunopurification with antibodies specific for the recombitope peptide, the protein allergen or other antigen from which the recombitope peptide is derived, or a portion thereof. Thus, one aspect of this invention provides a recombitope peptide produced in a host cell transformed with a nucleic acid sequence coding for a recombitope peptide, or the functional equivalent of the nucleic acid sequence. Recombitope peptides of the invention are isolated such that the recombitope peptide is substantially free of cellular material or culture medium when produced by recombinant DNA techniques, or substantially free of chemical precursors or other chemicals when synthesized chemically, or obtained by chemical cleavage of a protein allergen or other protein antigen.</p>
+<p id="p0009" num="0009">To obtain preferred recombitope peptides of the present invention comprising at least two T cell epitopes of a protein allergen or other protein antigen or at least two regions, each region comprising at least one T cell epitope of a protein allergen or other antigen, the T cell epitopes or regions containing T cell epitope(s) are arranged in a configuration different from a naturally-occurring configuration of the T cell epitopes or regions in the allergen or antigen. For example, the T cell epitopes or regions containing T cell epitope(s) can be arranged in a noncontiguous configuration and can preferably be derived from the same protein allergen or other antigen. Noncontiguous is defined as an arrangement of amino acids comprising T cell epitopes or regions containing T cell epitope(s) which is different than that of an amino acid sequence present in the protein allergen or other protein antigen from which the epitopes or regions are derived. Furthermore, the noncontiguous T cell epitopes or regions containing T cell epitopes can be arranged in a nonsequential order (e.g., in an order different from the order of the amino acids of the native protein allergen or other protein antigen from which the T cell epitopes or region containing T cell epitope(s) are derived in which amino acids are arranged from an amino terminus to a carboxy terminus.) A preferred recombitope peptide comprises at least 15%, more preferably at least 30%, even more preferably at least 50% and most preferably up to 100% of the T cell epitopes of a protein allergen or other protein antigen.</p>
+<p id="p0010" num="0010">In the situation where the T cell epitopes of a protein allergen or other protein antigen are unknown or ill-defined (e.g., some or all of the peptide regions of the protein antigen which have human T cell stimulating activity have not been defined by standard T cell biology techniques or the precise human T cell epitopes of the protein antigen have not been defined by fine mapping techniques), a recombitope<!-- EPO <DP n="7"> --> peptide may be obtained by reviewing the known protein structure of an allergen or other antigen and theoretically dividing the allergen or antigen into at least two peptide regions of desired lengths. For example, the protein sequence of the allergen or other antigen can be systematically divided into at least two non-overlapping peptide regions of desired lengths, or at least two overlapping peptide regions of desired lengths and theoretically arranged to form at least one recombitope peptide in which the at least two regions are rearranged in a noncontiguous and preferably nonsequential order. This division into peptide regions can be arbitrary, can be made according to an algorithm, or can be wholly or partially based on regions of the protein antigen known to comprise at least one T cell epitope.</p>
+<p id="p0011" num="0011">When just a few of the peptide regions of the protein allergen or other protein antigen comprising at least one T cell epitope are known or when all the regions of the protein allergen or other protein antigens which have human T cell stimulating activity are unknown, preferably, at least 50% of the entire protein sequence of the protein allergen or other protein antigen and more preferably, the entire protein sequence of the protein allergen or other protein antigen is divided and rearranged into one or more recombitope peptides. The purpose behind using such a large percentage of the protein sequence of the protein antigen in forming the recombitope peptide is so that the resultant recombitope peptide comprises at least 15%, more preferably at least 30%, even more preferably at least 50%, and most preferably at least 100% of the T cell epitopes of the protein antigen. Of course, it the few peptide regions of the protein antigen each known to comprise at least one T cell epitope constitute the above-stated percentage of the T cell epitopes of the protein antigen and such peptide regions do not constitute at least 50% of the entire protein sequence of the protein antigen, it is not necessary to use such a large percentage of the entire protein sequence in forming the recombitope peptide. According to this method, recombitope peptides can then be produced recombinantly or synthetically and the ability of the recombitope peptide to stimulate human T cells can be determined. When the recombitope peptide comprises regions derived from a protein allergen, the individual peptide regions can be produced and tested to determine which regions bind immunoglobulin E specific for the allergen and which of such regions would cause the release of mediators (e.g. histamine) from mast cells or basophils. Those peptide regions found to bind immunoglobulin E and cause the release of mediators from mast cells or basophils in greater than approximately 10-15% of the allergic sera tested are preferably not included in the peptide regions arranged to form recombitope peptides.</p>
+<p id="p0012" num="0012">Constructing a recombitope peptide derived from phospholipase A2, a major allergen from honeybee venom can be used as an illustrative example of the<!-- EPO <DP n="8"> --> construction of a recombitope peptide when the protein structure of a protein antigen is known, but the T cell epitopes are unknown or ill-defined. Phospholipase A<sub>2</sub> is composed of 134 amino acids as defined by cDNA cloning (<nplcit id="ncit0016" npl-type="s"><text>Kuchler, K. et al. Eur. J. Biochem. 184:249-254</text></nplcit>). This amino acid sequence can be divided into regions, each preferably containing 20 to 35 amino acid residues, each region preferably overlapping another region by about 10 amino acids (see Fig. 12). Although Fig. 12 shows the entire protein sequence of the protein divided into regions, the total sequence used to form at least one recombitope peptide can be substantially less than the entire protein sequence. To maximize the potential of including T cell epitopes in the constructed recombitope peptide, areas of overlap and length of each region can be designed to maintain the presence of T cell epitopes predicted using algorithms (<nplcit id="ncit0017" npl-type="s"><text>Rothbard, J. and Taylor, W.R. EMBO J. 7:93-100 (1988)</text></nplcit>; <nplcit id="ncit0018" npl-type="s"><text>Berzofsky, J.A. Philos Trans R. Soc. Lond. 323:535-544 (1989)</text></nplcit>). Preferably, human T cell epitopes within a protein allergen can be predicted using known HLA class II specific binding specific amino acid residues. Furthermore, to minimize the likelihood that the constructed recombitope peptide will bind human allergic IgE, the amino acid sequence of the resulting recombitope peptide can be made different from that of the native structure of phospholipase A<sub>2</sub> by scrambling the regions and/or by transposing amino terminal regions or carboxy terminal regions to the opposite end of the molecule (i.e., amino acid residues located at the amino terminus of the native protein can be placed in the carboxy terminus of the recombitope peptide). A similar procedure can be utilized to construct a recombitope peptide derived from an autoantigen with a known protein structure, but with undefined T cell epitopes such as glutamic acid decarboxylase (e.g., <nplcit id="ncit0019" npl-type="s"><text>Samama, J.P., and Mallet, J. Journal of Neurochemistry 54:703-705 (1990)</text></nplcit>), insulin <u style="single">(</u><nplcit id="ncit0020" npl-type="b"><text>Joslin's Diabetes Mellitus, 12th Edition, Eds. A. Marble et al., Lea &amp; Febiger, Philadelphia, p. 67 (1985</text></nplcit>)), , etc. In this situation, the peptide regions are arranged in a configuration different from a naturally-occurring configuration of the regions in the autoantigen to eliminate an undesired property of the autoantigen such as immunoglobulin binding or enzymatic activity.</p>
+<p id="p0013" num="0013">Recombitope peptides comprising at least two regions derived from an allergen or other antigen are tested to determine those recombitope peptides having T cell stimulating activity (i.e., proliferation, lymphokine secretion and/or induction of T cell anergy/ tolerization) and thus comprise at least one T cell epitope. For example, human T cell stimulating activity can be tested by culturing T cells obtained from an individual sensitive to a protein allergen or protein antigen (i.e., an individual who has an immune response to the protein allergen or protein antigen) with a recombitope peptide derived from the protein allergen or antigen and<!-- EPO <DP n="9"> --> determining the presence of proliferation by the T cells in response to the recombitope peptide. As described in detail in the Examples, stimulation indices for responses by T cells to recombitope peptides can be calculated as the maximum CPM in response to recombitope peptide divided by the medium control CPM. As used throughout this application, human T cell stimulating activity is defined as a stimulation index of at least 2.0. A stimulation index of at least 2.0 is considered positive for purposes of defining recombitope peptides useful as immunotherapeutic agents. Preferred recombitope peptides have a stimulation index of at least 2.5, more preferably at least 3.5, and most preferably at least 5.0.</p>
+<p id="p0014" num="0014">In addition, preferred recombitope peptides of the invention derived from protein allergens do not bind immunoglobulin E (IgE) or bind IgE to a substantially lesser extent than the protein allergen(s) from which the peptides are derived binds IgE. The major complications of standard immunotherapy are systemic responses such as anaphylaxis. Immunoglobulin E is a mediator of anaphylactic reactions which result from the binding and cross-linking of antigen to IgE on mast cells or basophils and the release of mediators (e.g., histamine, serotonin, eosinophil chemotactic factors). Thus, anaphylaxis could be avoided by the use of a recombitope peptide which does not bind IgE, or if the recombitope peptide binds IgE, such binding does not result in the release of mediators (e.g., histamine, etc.) from mast cells or basophils. In addition, recombitope peptides which have minimal IgE stimulating activity are particularly desirable for therapeutic effectiveness. Minimal IgE stimulating activity refers to IgE production that is less than the amount of IgE production and/or IL-4 production stimulated by the whole protein allergen.</p>
+<p id="p0015" num="0015">A recombitope peptide of the invention derived from a protein allergen, when administered to an individual sensitive to the protein allergen, is capable of modifying the allergic response of the individual to the allergen. Particularly, recombitope peptides comprising at least two T cell epitopes of a protein allergen or at least two regions derived from a protein allergen, each region preferably comprising at least one T cell epitope, when administered to an individual sensitive to the allergen are capable of modifying T cell response of the individual to the allergen. As used herein, modification of the allergic response of an individual sensitive to a protein allergen can be defined as non-responsiveness or diminution in symptoms to the allergen, as determined by standard clinical procedures (see e.g., <nplcit id="ncit0021" npl-type="s"><text>Varney et al., British Medical Journal 302: 265-269 (1990</text></nplcit>)).</p>
+<p id="p0016" num="0016">As a result of the work described herein, recombitope peptides derived from protein allergens or other protein antigens and having T cell stimulating activity or preferably comprising two regions each having at least one T cell epitope have been produced. T cell epitopes are believed to be involved in initiation and perpetuation of<!-- EPO <DP n="10"> --> the immune response to a protein allergen or other protein antigen which is responsible respectively for the clinical symptoms of allergy or other diseases. These T cell epitopes are thought to trigger early events at the level of the T helper cell by binding to an appropriate HLA molecule on the surface of an antigen presenting cell and stimulating the relevant T cell subpopulation. These events lead to T cell proliferation, lymphokine secretion, local inflammatory reactions, recruitment of additional immune cells to the site, and activation of the B cell cascade leading to production of antibodies. One isotype of these antibodies, IgE, is fundamentally important to the development of allergic symptoms and its production is influenced early in the cascade of events, at the level of the T helper cell, by the nature of the lymphokines secreted. A T cell epitope is the basic element or smallest unit of recognition by a T cell receptor, where the epitope comprises amino acids essential to receptor recognition and may be contiguous and/or non-contiguous in the amino acid sequence of the protein. A T cell epitope, as used herein has a stimulation index of at least 2.0, more preferably at least 2.5, even more preferably at least 3.5 and most preferably at least 5.0. Amino acid sequences which mimic those of the T cell epitopes and which modify the allergic response to protein allergens are within the scope of this invention.</p>
+<p id="p0017" num="0017">Exposure of patients to recombitope peptides of the present invention derived from protein allergens or other protein antigens may tolerize or anergize appropriate T cell subpopulations such that they become unresponsive to the protein allergen or other antigen and do not participate in stimulating an immune response upon such exposure. In addition, administration of a recombitope peptide of the present invention derived from a protein allergen may modify the lymphokine secretion profile as compared with exposure to the naturally-occurring protein allergen or portion thereof (e.g., result in a decrease of IL-4 and/or an increase in IL-2). Furthermore, exposure to the recombitope peptide may influence T cell subpopulations which normally participate in the response to the allergen such that these T cells are drawn away from the site(s) of normal exposure to the allergen (e.g., nasal mucosa, skin, and lung) towards the site(s) of therapeutic administration of the recombitope peptide. This redistribution of T cell subpopulations may ameliorate or reduce the ability of an individual's immune system to stimulate the usual immune response at the site of normal exposure to the allergen, resulting in a diminution in allergic symptoms.</p>
+<p id="p0018" num="0018">Recombitope peptides of the invention preferably comprise at least two T cell epitopes (e.g., the recombitope peptide comprises at least approximately eight amino acid residues, and preferably at least fifteen amino acid residues). Other recombitope peptides of the invention comprise at least two regions derived from the same or from<!-- EPO <DP n="11"> --> different protein allergens or other protein antigens, said recombitope peptides having T cell stimulating activity and each region preferably having human T cell stimulating activity and accordingly comprising at least one T cell epitope of a protein allergen or other protein antigen. In general, each such region of a recombitope peptide comprises at least approximately seven amino acid residues of at least one protein allergen. Each such region of a recombitope peptide preferably comprise at least two T cell epitopes (e.g., the recombitope peptide comprises at least approximately eight amino acid residues and preferably at least fifteen amino acid residues). Recombitope peptides of the invention can comprise as many amino acid residues as desired and preferably comprise at least about 7, more preferably at least about 15, even more preferably at least about 30 and most preferably at least about 40 amino acid residues of a protein allergen or other protein antigen. A region of a recombitope peptide preferably comprises up to 45 amino acid residues in length, more preferably up to 40 amino acid residues in length, and most preferably up to 30 amino acid residues in length, as increases in length of a region of a recombitope peptide may result in difficulty in peptide synthesis as well as retention of an undesirable property (e.g., immunoglobulin binding or enzymatic activity) due to maintenance of conformational similarity between the region and the protein allergen or other protein antigen from which it is derived. If desired, the amino acid sequences of the regions can be produced and joined by a linker to increase sensitivity to processing by antigen-presenting cells. Such linker can be any non-epitope amino acid sequence or other appropriate linking or joining agent.</p>
+<p id="p0019" num="0019">When recombitope peptides are derived from protein allergens, they can comprise at least two regions derived from different protein allergens from the same genus, such as: the genus <u style="single">Dermatophagoides:</u> the genus <u style="single">Felis;</u> the genus <u style="single">Ambrosia:</u> the genus <u style="single">Lolium</u>; the genus <u style="single">Cryptomeria;</u> the genus <u style="single">Alternaria</u>; the genus <u style="single">Alder;</u> the genus <u style="single">Betula;</u> the genus <u style="single">Ouercus;</u> the genus <u style="single">Olea</u>; the genus <u style="single">Artemisia;</u> the genus <u style="single">Plantago;</u> the genus <u style="single">Parietaria</u>; the genus <u style="single">Canine;</u> the genus <u style="single">Blattella</u>, the genus <u style="single">Apis;</u> and the genus <u style="single">Periplaneta</u>. In addition, recombitope peptides can comprise at least two regions derived from cross-reactive species, for example one region derived from <u style="single">Dermatophagoides pteronyssinus</u> and one region derived from <u style="single">Dermatophagoides farinae</u>. In another embodiment, the regions can be derived from the same species (e.g., one region derived from <u style="single">Der p</u> I and one region derived from <u style="single">Der p</u> II; one region derived from <u style="single">Der f</u> I and one region derived from <u style="single">Der f</u> II; one region derived from <u style="single">Amb a</u> I and one region derived from <u style="single">Amb a</u> II; one region derived from <u style="single">Lol p</u> I and one region derived from <u style="single">Lol p</u> IX; and one region derived from <u style="single">Cry j</u> I and one region derived from <u style="single">Cry j</u> II). Furthermore, recombitope peptides can comprise at least two regions derived from different protein allergens from the same group, such<!-- EPO <DP n="12"> --> as one region derived from a group I protein allergen of <u style="single">Dermatophagoides pteronyssinus</u> (i.e., <u style="single">Der p</u> I) and one region derived from a group I protein allergen of <u style="single">Dermatophagoides</u> <u style="single">farinae</u> (i.e., <u style="single">Der f</u> I). Alternatively, the regions can be derived from different protein allergens from the same family (e.g., <u style="single">Amb a</u> I.1, <u style="single">Amb a</u> 1.2, <u style="single">Amb a</u> I.3, and <u style="single">Amb a</u> I.4). Particularly preferred recombitope peptides for treating sensitivity to <u style="single">Felis</u> <u style="single">domesticus</u> are derived from the genus <u style="single">Felis</u> and comprise regions selected from peptides X, Y, Z, A and B. of TRFP, the amino acid sequences of each peptide as shown in Fig. 4, and modifications thereof, such as peptide C, which is a one amino acid addition to peptide A and is shown in Fig 4. Preferred recombitope peptides comprise peptide YZX and peptide AYZXB. Throughout the application, the letters X, Y, Z, A, B, and C refer respectively to peptide X, peptide Y, peptide Z, peptide A, peptide B, and peptide C and when the letters are used together (e.g., YZX), we are referring to a recombitope peptide comprising peptide Y, peptide Z and peptide X in the sequential order specified (i.e., YZX refers to a recombitope peptide comprising the amino acid sequence of peptide Y followed immediately, without any intervening amino acid residues, by the amino acid sequence of peptide Z followed immediately, without any intervening amino acid residues, by the amino acid sequence of peptide X). The recombitope peptides of the invention, e.g., YZX, can comprise additional amino acid residues of either the amino or carboxy terminus of the recombitope peptide.</p>
+<p id="p0020" num="0020">Recombitope peptides of the invention can be derived from protein antigens other than protein allergens where enhancement or depression of an antigen specific immune response is desired. For example, regions having human T cell stimulating activity of a known autoantigen involved in the pathogenesis of an autoimmune disease or T cell epitopes of a known autoantigen can be identified and combined in a recombitope peptide to decrease the antibody response to the autoantigen, to interfere with efficacy and/or decrease immune complex related side effects. In order to preserve the T cell reactivity of the autoantigen, regions of the autoantigen having human T cell stimulating activity could be defined by standard T cell biology techniques, or if desired, precise T cell epitopes can be defined by fine mapping techniques and a recombitope peptide comprising at least two regions each having human T cell stimulating activity and comprising at least one T cell epitope produced. For example, if three regions having human T cell stimulating activity or three T cell epitopes were found in an autoantigen in a sequential and contiguous order 1, 2, 3 from an amino terminus to a carboxy terminus, six possible recombitope peptides utilizing each region or each T cell epitope once could be produced comprising the three regions or T cell epitopes in various orders (e.g., 213, 312, 132, 321, 123, 231). These six recombitope peptides could be tested for the<!-- EPO <DP n="13"> --> ability to stimulate T cell activity and for the absence of an undesired property present in the autoantigen, e.g., the inability of the recombitope peptide(s) to bind autoantibodies. Alternatively, as described previously, recombitope peptides can be constructed from an autoantigen without knowing which regions have T cell stimulating activity or what the precise T cell epitopes are. The recombitope peptides which stimulate T cells and do not have undesired properties of the autoantigen (e.g., do not bind autoantibodies in a substantial percentage of individuals sensitive to the autoantigen) are selected for use as immunotherapeutics or diagnostic agents. In the form of a therapeutic composition, the recombitope peptide would be delivered in a physiologically acceptable vehicle in the absence of adjuvant to allow the recombitope peptide to induce antigen specific tolerance to the autoantigen from which the recombitope is derived and regulate any potentially damaging immune response. Among autoantigens useful in producing recombitope peptides are insulin, glutamic acid decarboxylase (64K), PM-1 and carboxypeptidase in diabetes; myelin basic protein in multiple sclerosis; rh factor in erythroblastosis fetalis; acetylcholine receptors in myasthenia gravis; thyroid receptors in Graves' Disease; basement membrane proteins in Good Pasture's syndrome; and thyroid proteins in thyroiditis. For example, regions having human T cell stimulating activity of myelin basic protein (MBP); e.g. a region comprising all or a portion of amino acid residues 84-106 and more preferably 84-102 and more preferably 89-101 of human MBP and a region comprising all or a portion of amino acid residues 140-172 and more preferably 143-168 of human MBP, can comprise a recombitope peptide of the invention for use in treating multiple sclerosis.<!-- EPO <DP n="14"> --></p>
+<p id="p0021" num="0021">It is also possible to modify the structure of recombitope peptides for such purposes as increasing solubility, enhancing therapeutic or preventive efficacy, or stability (e.g., shelf life <u style="single">ex vivo</u>, and resistance to proteolytic degradation <u style="single">in vivo</u>). A modified recombitope peptide can be produced in which the amino acid sequence has been altered, such as by amino acid substitution, deletion, or addition, to modify immunogenicity and/or reduce allergenicity, or to which a component has been added for the same purpose. For example, the amino acid residues essential to T cell epitope function can be determined using known techniques (e.g., substitution of each<!-- EPO <DP n="15"> --> residue and determination of presence or absence of T cell reactivity). Those residues shown to be essential can be modified (e.g., replaced by another amino acid whose presence is shown to enhance T cell reactivity), as can those which are not required for T cell reactivity (e.g., by being replaced by another amino acid whose incorporation enhances T cell reactivity but does not diminish binding to relevant MHC). Another example of a modification of recombitope peptides is substitution of cysteine residues preferably with alanine, or glutamic acid, or alternatively with serine or threonine to minimize dimerization via disulfide linkages. In order to enhance stability and/or reactivity, recombitope peptides can also be modified to incorporate one or more polymorphisms in the amino acid sequence of a protein allergen resulting from natural allelic variation. Additionally, D-amino acids, non-natural amino acids or non-amino acid analogues can be substituted or added to produce a modified peptide within the scope of this invention. Furthermore, recombitope peptides can be modified using the polyethylene glycol (PEG) method of A. Schon and co-workers (Wie et al. <u style="single">supra</u>) to produce a peptide conjugated with PEG. Modifications of recombitope peptides can also include reduction/alkylation (<nplcit id="ncit0022" npl-type="b"><text>Tarr in: Methods of Protein Microcharacterization, J.E. Silvered. Humana Press, Clifton, NJ, pp 155-194 (1986</text></nplcit>)); acylation (Tarr, <u style="single">supra</u>); esterification (Tarr, <u style="single">supra</u>); chemical coupling to an appropriate carrier (<nplcit id="ncit0023" npl-type="b"><text>Mishell and Shiigi, eds, Selected Methods in Cellular Immunology, WH Freeman, San Francisco, CA (1980</text></nplcit>); <patcit id="pcit0002" dnum="US4939239A"><text>U.S. Patent 4,939,239</text></patcit>); or mild formalin treatment (<nplcit id="ncit0024" npl-type="s"><text>Marsh International Archives of Allergy and Applied Immunology 41: 199-215 (1971</text></nplcit>)).</p>
+<p id="p0022" num="0022">To facilitate purification and potentially increase solubility of recombitope peptides, it is possible to add reporter group(s) to the peptide backbone. For example, poly-histidine can be added to a recombitope peptide to purify the recombitope peptide on immobilized metal ion affinity chromatography (<nplcit id="ncit0025" npl-type="s"><text>Hochuli, E. et al., Bio/Technology, 6:1321-1235 (1988)</text></nplcit>). In addition, specific endoprotease cleavage sites can be introduced, if desired, between a reporter group and amino acid sequences of a recombitope peptide to facilitate isolation of recombitope peptides free of irrelevant sequences. In order to successfully desensitize an individual to a protein antigen, it may be necessary to increase the solubility of a recombitope peptide by adding functional groups to the peptide or by not including hydrophobic T cell epitopes or regions containing hydrophobic epitopes in the recombitope peptides.</p>
+<p id="p0023" num="0023">To potentially aid proper antigen processing of T cell epitopes within a recombitope peptide, canonical protease sensitive sites can be recombinantly or synthetically engineered between regions, each comprising at least one T cell epitope. For example, charged amino acid pairs, such as KK or RR, can be introduced between regions within a recombitope peptide during recombinant construction of the<!-- EPO <DP n="16"> --> recombitope peptide. The resulting recombitope peptide can be rendered sensitive to cathepsin and/or other trypsin-like enzymes cleavage to generate portions of the recombitope peptide containing one or more T cell epitopes. In addition, such charged amino acid residues can result in an increase in solubility of a recombitope peptide.</p>
+<p id="p0024" num="0024">Site-directed mutagenesis of DNA encoding a recombitope peptide can be used to modify the structure of the recombitope peptide. Such methods may involve PCR (<nplcit id="ncit0026" npl-type="s"><text>Ho et al., Gene 77:51-59 (1989</text></nplcit>)) or total synthesis of mutated genes (<nplcit id="ncit0027" npl-type="s"><text>Hostomsky, Z., et al., Biochem. Biophys. Res. Comm. 161:1056-1063 (1989</text></nplcit>)). To enhance bacterial expression, the aforementioned methods can be used in conjunction with other procedures to change the eucaryotic codons in DNA constructs encoding recombitope peptides to ones preferentially used in <u style="single">E. coli.</u></p>
+<p id="p0025" num="0025">The present invention also provides nucleic acid sequences coding for recombitope peptides of the invention. Nucleic acid sequences used in any embodiment of this invention can be cDNA as described herein, or alternatively, can be any oligodeoxynucleotide sequence having all or a portion of a sequence represented herein, or their functional equivalents. Such oligodeoxynucleotide sequences can be produced chemically or mechanically, using known techniques. A functional equivalent of an oligonucleotide sequence is one which is 1) a sequence capable of hybridizing to a complementary oligonucleotide to which the oligonucleotide sequence (or corresponding sequence portions) or fragments thereof hybridizes, or 2) the sequence (or corresponding sequence portion) complementary to the oligonucleotide sequence and/or 3) a sequence which encodes a product (e.g., a protein, a polypeptide or a peptide) having the same functional characteristics of the product encoded by the oligonucleotide sequence (or corresponding sequence portion). Whether a functional equivalent must meet one or more criteria will depend on its use (e.g., if it is to be used only as a probe for hybridization, it need meet only the first or second criteria and if it is to be used to produce a peptide of the present invention, it need only meet the third criterion).</p>
+<p id="p0026" num="0026">As described in the Examples which follow, chains 1 and 2 of the human T cell Reactive Feline Protein (TRFP) (Figs. 1 and 2) have been recombinantly expressed in <u style="single">E.</u> <u style="single">coli</u> and purified. T cell epitope studies using overlapping peptide regions derived from the TRFP amino acid sequence were used to identify multiple T cell epitopes in each chain of TRFP. As described in detail in Example 2. DNA constructs were assembled in which three regions (designated peptide X, peptide Y and peptide Z), each containing at least one major human T cell epitope of TRFP were linked in six possible combinations to produce six DNA constructs encoding recombitope peptides comprising the three regions in six different configurations.<!-- EPO <DP n="17"> --> Since peptide X shares 5 amino acids at its carboxy terminus with 5 amino acids at the amino terminus of peptide Y, recombitope peptides XYZ and ZXY could have been constructed with or without duplication of said 5 amino acids (See Fig. 11 where ZXY is constructed without duplication of the 5 amino acid sequence). In the following Examples, the recombitope peptides were assembled contiguously, without duplication of the 5 amino acid sequence. In addition to the three regions X. Y and Z, other regions, each containing at least one human T cell epitope, could also be included in the recombitope peptides and DNA constructs having four or more regions (of N! configurations, where N= the number of regions) produced. Alternatively, one or more regions can be substituted for peptide X, peptide Y, or peptide Z, such as peptide A or B as shown in Fig. 4, to produce for example recombitope peptide AXY.</p>
+<p id="p0027" num="0027">Detailed protocols are described for the cleavage and removal of extraneous sequences added to recombitope peptides as an aid to purification. Purified recombitope peptides have been examined for the binding of human cat-allergic patients' IgE on Western blots and compared to IgE binding of recombinant chains 1 and 2 of TRFP. An ELISA was performed to examine allergic IgE binding to recombitope peptides relative to native TRFP, recombinant chain 1, and recombinant chain 2. The work described herein demonstrates that recombitope peptides of the present invention have T cell stimulating activity even though their epitope configuration generally differs from that found in the native TRFP protein sequence. Furthermore, use of the recombitope peptides as prophylactic agents has been shown to render mice unresponsive upon antigen challenge with native TRFP, recombinant chain 1, or chain 2 of TRFP, or the recombitope peptide used.</p>
+<p id="p0028" num="0028">This invention is further illustrated by the following examples.</p>
+<heading id="h0004"><u style="single">Example 1 T Cell Epitope Studies with Overlapping TRFP Peptides</u></heading>
+<p id="p0029" num="0029">Peripheral blood mononuclear cells (PBMC) were purified by Ficoll-Hypaque centrifugation of 60 ml of heparinized peripheral blood from cat-allergic patients, who exhibited clinical symptoms of cat allergy and who were skin test positive with cat extract. Ten million PBMC from an individual patient were cultured in 10 ml RPMI-1640 (Gibco) containing 5% pooled human AB serum and supplemented with glutamine, penicillin, streptomycin and HEPES buffer (complete RPMI-1640) in the presence of 20 µg native affinity-purified TRFP/ml of culture at 37°C for 7 days. Viable cells were then purified by Ficoll-Hypaque centrifugation and cultured for 2 additional weeks in complete RPMI-1640 containing 5 units recombinant human IL-2/ml and 5 units recombinant human IL-4/ml. The resting T cells resulting from the culture were then tested in a secondary proliferation assay using a 96 well microtiter<!-- EPO <DP n="18"> --> plate to assess T cell responses to the various TRFP peptides or proteins (TRFP antigens) as shown in Fig. 3. For assay, 2 X 10<sup>4</sup> resting T cells were cultured in complete RPMI-1640 for 3 days at 37°C in the presence of 5 X 10<sup>4</sup> autologous PBMC (3500 Rads) as antigen presenting cells with a various concentration of one of the TRFP antigens in each well in the amount of 200 µl per well. Each well then received 1 µCi tritiated thymidine for 16 hours. The counts incorporated were collected onto glass fiber filters and processed for liquid scintillation counting. The stimulation indices for responses to each peptide were then calculated as the maximum CPM in response to antigen divided by the medium control CPM. A stimulation index of 2.5 was considered to be a positive T cell response. (As used throughout this application, human T cell stimulating activity is defined as a stimulation index of at least 2.0. However, the stimulation index of the T cell epitopes or regions to be used in producing a recombitope of the invention is at least 2.0. preferably at least 2.5, more preferably at least 3.5 and most preferably at least 5.0.) A summary of the results of 34 such experiments is shown in Fig. 3. The top five peptide responses to the overlapping set of TRFP peptides covering chain 1 and chain 2 of TRFP by the T cell line derived from each patient were ranked, assigning the highest positive response a 5, the next highest positive a 4, and so on. The sum of the ranks obtained for each peptide was then calculated and is displayed on the histogram in Fig. 3. This type of analysis highlights the relative importance of different regions of the TRFP molecule in the T cell response to the intact protein. The results indicate that the major regions of T cell reactivity in this panel of patients are encompassed (in order of importance) by Fel-14.2 (chain 1, amino acid residues 29-42), Fel-3.1 (chain 1, amino acid residues 18-32), Fel-2 (chain 1, amino acid residues 9-25), Fel-21 (chain 1, amino acid residues 56-70), Fel-29 (chain 1, amino acid residues 56-70), Fel-1.2 (chain 1, amino acid residues 1-17), Fel-4 (chain 1, amino acid residues 37-55), Fel-18 (chain 2, amino acid residues 23-48), Fel-25 (chain 2, amino acid residues 49-68) Fel-16 (chain 2, amino acid residues 1-22) and Fel 23 (chain 1, amino acid residues 51-66). A set of peptides was then designed to cover these regions. Portions of Fel-1.2, Fel-2, Fel-3.1 and Fel-14.2 comprise peptide X (chain 1, amino acid residues 7-33). Portions of Fel-3.1, Fel-14.2, and fel-4 comprise peptide Y (chain 1, amino acid residues 29-55). Portions of Fel-16, Fel-17 and Fel-18 comprise peptide Z (chain 2, amino acid residues 14-39). Portions of Fel-4, Fel 21 and Fel-23 comprise peptide A. Portions of Fel-29 comprise peptide B. Peptides X, Y, Z, A and B are shown in Fig. 4.</p>
+<heading id="h0005"><u style="single">Example 2 Construction and Expression of Recombitope Peptides</u></heading><!-- EPO <DP n="19"> -->
+<p id="p0030" num="0030">PCR methods (Polymerase Chain Reaction) using synthetic oligonucleotides were used to construct DNAs encoding the sequences of peptides X, Y, and Z. With the aim of enhancing expression in <i>E. coli,</i> the codons in the oligonucleotides were selected from a table of those prevalent in highly expressed <i>E</i>. <i>coli</i> proteins. <nplcit id="ncit0028" npl-type="s"><text>Sharp, P. M., et al., Nucl. Acids Res. 16:8207 (1988</text></nplcit>). The oligonucleotides and PCR procedures used to construct recombitope peptides are described in detail below.</p>
+<p id="p0031" num="0031">Oligonucleotides were designed with <i>E</i>. <i>coli</i> preferred codons as schematically represented in Figs. 5 and 6. These oligonucleotides (C.D,E,F,G,H,I,J.K.L.M,N and O shown in Fig. 7), were amplified using a Perkin Elmer/Cetus GeneAmp kit, in two separate PCR reactions (PCR#1 and PCR#2, respectively wherein PCR #1 resulted in the synthesis of the 5' portion of the DNA molecule encoding the recombitope peptide and PCR #2 resulted in the synthesis of the 3' portion of the DNA molecule encoding the recombitope peptide). This approach was taken due to the presence of a sequence (KALPV) in both peptide X and peptide Y that was found to interfere in the proper PCR generation of recombitope YZX when a single PCR reaction was performed with oligonucleotides (C-I). In producing recombitope peptide AYZXB, as shown in Fig. 6, the oligonucleotides used in PCR #1 were N,J,K, and C-I and the oligonucleotides used in PCR #2 were C-I and L,M,O. In producing recombitope peptide YZX, as shown in Fig. 5, the oligonucleotides used in PCR #1 were C,D E and F, whereas the oligonucleotides used in PCR #2 were F, G, H and I. Each reaction mixture (10 µg) generated the 5' half and 3' half respectively, of the intended YZX structure (Fig. 5). These PCR mixtures, after the addition of Taq polymerase, were subjected to the following program with cycles of denaturation, annealing and polymerization:
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="15mm"/>
+<colspec colnum="2" colname="col2" colwidth="51mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<thead>
+<row>
+<entry valign="top">STEP#</entry>
+<entry valign="top">TEMPERATURE</entry>
+<entry valign="top">TIME</entry></row></thead>
+<tbody>
+<row>
+<entry>1</entry>
+<entry>94°C</entry>
+<entry>1 MINUTE</entry></row>
+<row>
+<entry>2</entry>
+<entry>50°C</entry>
+<entry>1.5 MINUTES</entry></row>
+<row>
+<entry>3</entry>
+<entry>75°C</entry>
+<entry>2 MINUTES</entry></row>
+<row>
+<entry>4</entry>
+<entry>REPEAT STEPS 1-3 (4 TIMES)</entry>
+<entry/></row>
+<row>
+<entry>5</entry>
+<entry>94°C</entry>
+<entry>1 MINUTE</entry></row>
+<row>
+<entry>6</entry>
+<entry>60°C</entry>
+<entry>1.5 MINUTE</entry></row>
+<row>
+<entry>7</entry>
+<entry>75°C</entry>
+<entry>2 MINUTES</entry></row>
+<row>
+<entry>8</entry>
+<entry>REPEAT STEPS 5-7 (20 TIMES)</entry>
+<entry/></row>
+<row>
+<entry>9</entry>
+<entry>HOLD AT 4°C</entry>
+<entry/></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0032" num="0032">After completion of the PCR#1 and PCR#2 reactions in the construction of the YZX structure, aliquots from each (100 p moles of the 10 µg total reaction mixture; 1/100 volume) were added to a third PCR reaction mixture containing a set<!-- EPO <DP n="20"> --> of 5' and 3' primers (100 p mole of primers C and I). A third PCR reaction (PCR #3) was performed utilizing this third PCR reaction mixture as previously described for PCR reactions #1 and #2 except that the annealing temperature in Step 6 was raised to 65°C. The completion of PCR#3 produced the DNA encoding recombitope peptide YZX. The PCR#3 reaction method is similar to that described in <nplcit id="ncit0029" npl-type="s"><text>Horton, R. M., et al. Gene 77:61 (1989</text></nplcit>). The whole reaction mixture used in PCR#3 was fractionated on a 2% agarose gel and the appropriate sized band (230 bp) was electroeluted from the gel slice and precipitated. The isolated DNA encoding recombitope peptide YZX was subjected to another PCR reaction using excess 5' and 3' amplification primers (C and I). This final product was digested with the restriction enzymes BamH I and then cloned into the vector pET11d under the transcriptional control of the phage T7 gn 10 lac 0 fusion promoter. <nplcit id="ncit0030" npl-type="s"><text>Studier, F. W., et al. Methods in Enzymol. 185:60 (1990</text></nplcit>).</p>
+<p id="p0033" num="0033">A polylinker encoding six sequential histidines, (CAC)<sub>6</sub>, was cloned in-frame onto the 5' end of the DNA encoding recombitope peptide YZX. The six histidine (H6 or His6) leader sequence allowed purification of the expressed recombitope peptide using QIAGEN NTA-Agarose (Diagen Gmbh, Dusseldorf, Germany), a Ni<sup>2+</sup> chelating support. <nplcit id="ncit0031" npl-type="s"><text>Hochuli, E., et al., BioTechnology 6:1321 (1988</text></nplcit>). DNA encoding site-specific enzymatic cleavage sites (e.g., Thrombin, Factor X<sub>a</sub>, etc) can be inserted using PCR methods between the polyhistidine encoding (H<sub>6</sub>) sequence and the DNA encoding the recombitope peptide backbone. In the case of recombitope peptide YZX, a thrombin recognition site (LVPRGS) was inserted. <nplcit id="ncit0032" npl-type="s"><text>Uhlen, M., and Moks, T. Methods in Enzymol. 185:129 (1990</text></nplcit>), <nplcit id="ncit0033" npl-type="s"><text>Chang, J.-Y. Eur. J. Biochem. 151:217 (1985</text></nplcit>).</p>
+<p id="p0034" num="0034">A similar procedure to that described above to construct DNA encoding the recombitope peptide YZX was used to construct DNA encoding the recombitope peptides XYZ and ZYX. In addition, other peptides containing T cell epitopes can be added to an existing recombitope backbone structure such as YZX (as produced above) as was the case with the construction of recombitope peptide AYZXB (see Figs. 6 and 7). Alternatively, peptides containing T cell epitopes can be produced without the use of an existing recombitope backbone using methods outlined herein. To produce recombitope peptide AYZXB, oligonucleotide primers (J-M) with overlapping regions to each end of recombitope peptide YZX and a 5' and 3' amplification primer (N and O) were produced. (As shown in Fig. 6, the darkened part of the molecule is the overlapping sequence). PCR reactions were performed as described above. The resulting AYZXB fragment was isolated and subcloned into the pET 11DH<sub>6</sub> TH vector.<!-- EPO <DP n="21"> --></p>
+<p id="p0035" num="0035">An alternative procedure was used to construct the DNA encoding recombitope peptides XZY, YXZ, and ZXY. Each of the DNA constructs encoding recombitope peptides XZY, YXZ and ZXY were ligated at the codon encoding the most N- terminal amino acid of the recombitope peptide with DNA encoding the leader sequence MGHHHHHHEF (where amino acids EF are encoded by the Eco RI restriction site GAATTC). DNA segments encoding the three recombitope peptides were assembled via consecutive PCR essentially as described by <nplcit id="ncit0034" npl-type="s"><text>Horton et al., (1989) Gene 77: 61-68</text></nplcit>. The DNA segments encoding peptides X. Y, and Z (shown in Fig. 4) were amplified from the <u style="single">Fel d</u> I cDNAs described in <nplcit id="ncit0035" npl-type="s"><text>Morgenstern et al., (1991) Proc. Natl. Acad. Sci. U.S.A. 88: 9690-9694</text></nplcit>. As shown in Fig. 9, which shows as a specific example the construction of the recombitope peptide XZY coding sequence, oligonucleotide primers were synthesized with a DNA sequence that would not only amplify a specific DNA segment encoding peptide X, Y or Z, but would also covalently link a small segment (9-18 base pairs) of the DNA segment encoding the adjacent peptide X, Y, or Z. PCR was performed using Vent<sup>TM</sup> polymerase according to New England Biolabs' instructions with an amplification program of 30 X [94°C 1 min./60°C 1 min. 30 sec./72°C 1 min.]. The primers used for PCR amplifications are shown in Fig. 10. Individual recombitope peptide encoding/linker DNA fragments from PCR amplifications were purified by preparative gel electrophoresis in 3% (wt./vol.) NuSieve (FMC) agarose. These individual PCR fragments were then linked in a second PCR reaction to form a DNA construct encoding XZY as shown in Figs. 9 and 11. In order to link these PCR fragments, 3% NuSieve gel slices containing the initial PCR products were melted at 70°C, and 1 µl of each were added to a Vent™ PCR polymerase reaction which employed the 5' RI (NH<sub>2</sub>-terminal) and 3' Bam (COOH-terminal) primers.</p>
+<p id="p0036" num="0036">Because of the restriction sites present in the expression vector, pET11d (Studier <u style="single">et al</u>, 1990) , all extreme 5' primers had EcoR I encoding sites [GAATTC] in frame with the DNA encoding the NH<sub>2</sub>-tenminal amino acids of the particular recombitope, while the ends of the extreme 3' primers had BamH I encoding sites [GGATCC]. DNA constructs encoding recombitope peptides XZY, YXZ, and ZXY produced from the secondary PCR were EcoR I/BamH I digested and electrophoresed through a 0.5 (wt./vol.) SeaPlaque (FMC) agarose gel. Gel slices containing the DNA constructs were melted at 70°C and added to a ligation reaction with EcoR I/BamH I digested Bluescript KS plasmid (Stratagene). The ligation was transformed into competent XL-1 Blue bacteria (Stratagene), and recombinant plasmids with inserts identified by diagnostic restriction digests after isolation using Qiatop kit (Diagen GmbH). The sequence of inserts was verified by dideoxy chain-termination sequence analysis using a Sequenase II kit (United States Biochemicals).<!-- EPO <DP n="22"> --></p>
+<p id="p0037" num="0037">Bluescript KS plasmids harboring DNA constructs encoding recombitope peptides XZY, YXZ and ZXY inserts with correct nucleotide sequence were EcoR I/BamH I digested and the DNA constructs isolated from a 0.6% SeaPlaque gel for subcloning into the expression vector pET11 d in frame with the DNA encoding the NH<sub>2</sub>-terminal leader MGHHHHHHEF as mentioned above. The constructs were subcloned into the EcoR I/BamH I digested pET11 d His<sub>6</sub> <i>Amb a</i> I.1 HR. This ligation served to exchange the DNA construct for an insert, in this case the cDNA of the major ragweed allergen, <i>Amb a</i> I.1 (<nplcit id="ncit0036" npl-type="s"><text>Rafnar et al., (1991) J. Biol. Chem. 226:1229-1236</text></nplcit>). pET11d His <i>Amb a</i> I.1 ΔHR was derived from pET 11d in two steps. First pET11d was Eco RI/HinD III digested, blunted with Klenow fragment of <i>E. coli</i> DNA polymerase, and ligated back to itself to create pET11d ΔHR: a pET11d plasmid lacking Hind III and EcoR I sites. Then pET11d His<sub>6</sub><i>Amb a</i> I.1 ΔHR was formed by excising the H<sub>6</sub><i>Amb</i> aI.1 cassette from the expression vector pET11d His<sub>6</sub><i>Amb</i> αI as an Nco I/BamH I fragment and ligating it into Nco I/BamH I digested pET11d ΔHR. Recombinant plasmids were identified by diagnostic restriction digests after isolation via a Qiatip kit, and positive plasmids transformed into competent BL21 [DE3] bacteria for expression. BL21 [DE3] contains a recombinant phage 1 lysogen, DE3, with a phage T7 RNA polymerase gene under the transcriptional control of the lac UV5 promoter. T7 RNA polymerase gene expression is induced by the addition of IPTG, which in turn leads to high level expression of the recombinant gene subcloned 3' of the pET vector's T7 <i>gn</i> 10 lac 0 fusion promoter.</p>
+<p id="p0038" num="0038">PCR-derived DNA fragments encoding (H<sub>6</sub>) fusions of mature chains 1 and 2 of TRFP subcloned into pSEM (<patcit id="pcit0003" dnum="US662276A" dnum-type="L"><text>U.S.S.N. 662,276 filed February 28, 1991</text></patcit>) were excised and ligated into pET11d. This was achieved by attaching Bcl I linkers to the Pst I sites at the 3' ends of the two chains, Nco I digesting at the 5' end of the chains and inserting the 5' Nco I/3' Bcl I fragment into 5'Nco I/3'BamH I digested pET11d.</p>
+<p id="p0039" num="0039">The recombinant peptide chains 1 and 2 of TRFP as well as the recombitope peptides XYZ, XZY, YZX, ZYX, ZXY and YXZ were expressed in <i>E. coli</i> and purified essentially as outlined below. BL21 DE3 host bacteria harboring the pET11d expression DNA constructs were freshly streaked onto a BHI agar plate (3.7% wt./vol. Difco Brain Heart Infusion; 1.5% wt./vol. Difco agar) supplemented with 200 µg/ml ampicillin and incubated overnight at 37°C. A single colony was inoculated into a 2 ml of 200 µg/ml ampicillin/BHI media (3.7% wt./vol. Difco Brain Heart Infusion) and shaken at 300 rpm at 37°C until turbid but not saturated. The 2 ml culture was then added to 100 ml of 200 µg/ml ampicillin/BHI media, shaken at 300 rpm at 37°C until turbid but not saturated, at which point the culture was divided into 18 X 250 ml (4.5 liters) of 200 µg/ml ampicillin/BHI media and shaken at 300<!-- EPO <DP n="23"> --> rpm at 37°C. When the OD<sub>595</sub> of the culture reached 1.0, expression of the recombinant peptides as (His)<sub>6</sub> fusion peptides was induced by the addition of IPTG to 400 µM. and allowed to continue for two hours.</p>
+<p id="p0040" num="0040">Bacteria were harvested by centrifugation at 10.000 X <i>g</i> for 15 minutes, and resuspended in 1/50<sup>th</sup> volume 6 M guanidine HCl, 100 mM 2-mercaptoethanol, 100 mM NaPO<sub>4</sub>, 10 mM Tris at pH 8.0. Recombinant chain 1 and chain 2 and recombitope peptides (recombinant peptides) were extracted by vigorous shaking of the resuspended bacteria for 1 hour at 25°C. This suspension was subjected to centrifugation at 15,000 X g, the supernatant removed, adjusted to pH 8.0 with 10 N NaOH. and applied to an NTA agarose column that had been equilibrated in 6 M guanidine HCl, 100 mM NaPO<sub>4</sub>, 10 mM Tris at pH 8.0 until the OD<sub>280</sub> of the effluent reached background. The column buffer was then switched to 8 M urea, 100 mM NaPO<sub>4</sub>, 10 mM Tris at pH 8.0. After equilibration, a more stringent wash was performed in 8 M urea 100 mM NaOAc, 10 mM Tris pH 6.3 until the OD<sub>280</sub> of the effluent reached background. Each recombinant peptide (as an His<sub>6</sub> fusion) was then eluted in 8M urea 100 mM NaOAc, 10 mM Tris at pH 4.5 and collected in aliquots whose OD<sub>280</sub> profile was monitored. The peptide peak was dialyzed 3 times into 500 volumes of PBS (Phosphate Buffered Saline) for analysis. Yield ranged from 2 to 25 mg of recombinant peptide (His<sub>6</sub>) fusion per liter with purity (as determined by densitometric scanning of SDS polyacrylamide gels) generally exceeding 90%.</p>
+<p id="p0041" num="0041">The recombinant peptides (TRFP chain 1, TRFP chain 2, XYZ, YZX and ZYX) outlined above all possess an N-terminal sequence added as an aid to purification and expression (e.g., MGHHHHHHL VPRGS-). This irrelevant N-terminal sequence can be removed by proteolytic digestion since the sequence contains a thrombin recognition site (LVPRGS) inserted between the polyhistidine sequence and the recombitope sequence. (See Fig. 8, the arrow indicates the thrombin cleavage site.) Thrombin was used to cleave the irrelevant sequence leaving only two extra amino acid residues, GS, on the N-terminus of the TRFP chains 1 and 2 and the recombitope peptides XYZ, YZX and ZYX (<nplcit id="ncit0037" npl-type="s"><text>Chang, J.-Y. Eur. Biochem. 151:217-224 (1985)</text></nplcit>). Efficient cleavage of the fusion protein can be achieved by using a protein to thrombin ratio of 1000 to 1 for 2 hours at 25°C. The cleavage and purification scheme used to construct recombitope peptide YZX is outlined below:
+<ol id="ol0001" ol-style="">
+<li>1) recombitope peptide MGHHHHHHLVPRGS - YZX</li>
+<li>2) Dialyze into PBS, pH 8.0</li>
+<li>3) Thrombin cleavage<br/>
+<!-- EPO <DP n="24"> -->peptide: thrombin = 1000:1<br/>
+25°C, 2 hours</li>
+<li>4) Reduction with 100mM dithiothreitol<br/>
+in 5M guanidine HCL<br/>
+37°C, 30 minutes</li>
+<li>5) C<sub>4</sub> Reverse phase HPLC, pH 2.0</li>
+<li>6) Lyophilization</li>
+</ol></p>
+<p id="p0042" num="0042">Analytical reverse-phase HPLC was performed on a VYDAC 214 TP54 column with a 42ml bed volume. The column was loaded with 340 µg of recombitope peptide YZX. Semi-preparative HPLC was performed using a VYDAC 214 TP 1022 column with a 95 ml bed volume loaded with 90 mg of protein. The gradient started with 0% to 30% acetonitrile containing 0.1% trifluoroacetic acid over the first 10 minutes followed by 30% to 43% acetonitrile over 15 minutes. The mobile phase was then held at 43% acetonitrile for 10 minutes. The purified recombitope peptide YZX eluted at 43% acetonitrile. The cleavage and purification were monitored by SDS-PAGE. The identification and purity of the recombitope peptide YZX was determined by protein sequence analysis using an Applied Biosystem Inc. Protein Sequenator Model 477A.</p>
+<heading id="h0006"><u style="single">Example 3 Direct Binding Assay of IgE to TRFP Proteins and Recombitopes</u></heading>
+<p id="p0043" num="0043">Western immunoblot analysis of the recombitope peptides produced in Example 2 was performed. The concentration of all protein samples (e.g., TRFP, recombinant chain 1 of TRFP, recombinant chain 2 of TRFP, recombitope peptide XYZ, recombitope peptide XZY, recombitope peptide YXZ. recombitope peptide YZX, recombitope peptide ZXY and recombitope peptide ZYX) for gel electrophoresis was determined by the BCA method (Pierce Co.). All protein samples were loaded on the gel at 5 µg/lane except TRFP at 10 µg/lane. Protein separation was carried out on a 15% acrylamide gel, and transfer was performed by electroblotting at 1.5 Amps for 1.5 hours onto nitrocellulose paper (Schleicher and Schuell, 0.1 microns) in a Hoeffer apparatus according to the protocol of <nplcit id="ncit0038" npl-type="s"><text>Towbin, H., T. Stachlin, and J. Gordon, PNAS 76:4350 (1979</text></nplcit>). Proteins were rinsed in blot solution (25 mM Tris-HCl 7.5, 0.171 M NaCl and 0.5 ml/liter Tween 20). The blot was then blocked for one hour in blocking solution (1% milk in blot solution). Plasma from patient #417, used as a primary antibody source, was diluted in blocking<!-- EPO <DP n="25"> --> solution to 10% and preabsorbed for 1.5 hours with unused nitrocellulose (2cmx15cm). The prepared human plasma was then incubated overnight on an orbital shaker with the protein blot section of interest. Following the first antibody incubation the blot section was washed three times, each wash involved a fifteen minute incubation in blot solution. The second antibody, specific for human IgE (biotinylated goat anti-human IgE, KPL Inc.), was diluted 1:2500 in blot solution and the incubation proceeded for two hours. Excess second antibody was subsequently removed by three 15 minute incubations with blot solution. <sup>125</sup>I Iodinated streptavidin (Amersham) was diluted 1:2500 in blot solution and incubated with blots for 1 hour, at 2 µCi in a 50 ml incubation volume. Blot sections were then washed with blot solution until the detectable radioactivity in the waste solution decreased to background levels. The blot section was then wrapped in saran wrap and exposed to film overnight with a cronex intensifying screen at -80°C. The IgE binding pattern shown in Fig. 13 demonstrates reactivity to affinity purified TRFP (lane 1) chain 1, 6 KD in molecular weight and chain 2, ≥16 KD. The recombinant chain 1 shows strong IgE binding (lane 2) while recombinant chain 2 reactivity is reduced compared to chain 1 (lane 3). The recombitope peptides that show IgE binding are recombitope peptides XYZ and ZXY (lanes 4 and 8 respectively). All other recombitope peptides are negative for IgE binding by this method of analysis.</p>
+<p id="p0044" num="0044">Specific binding of IgE to recombitope peptides was also demonstrated in ELISA assays. Coming assay plates (#25882-96) were coated with 10 µg/ml of each coating antigen (i.e., TRFP, chain 1(recombinant chain 1 of TRFP), chain 2 (recombinant chain 2 of TRFP), recombitope peptide XYZ, recombitope peptide XZY, recombitope peptide YXZ, recombitope peptide YZX, recombitope peptide ZXY and recombitope peptide ZYX) listed in Fig. 14 at 50 µl/well and incubated overnight at 4°C. The coating antigens were removed and the wells were blocked with 0.5% gelatin in PBS, 200 µl/well for 2 hours at room temperature. Plasma from patient #669 was serially diluted with PBS-Tween 20 (PBS with 0.05% nonionic detergent Tween-20 Sigma, St. Louis MO) and 100 µl/well was added and incubated overnight at 4° C (plasma dilutions are tested in duplicate). The second antibody (biotinylated goat anti-Human IgE, 1:1000, Kirkegaard &amp; Perry Laboratories Inc. Gaithersburg, MD), was added at 100 µl/well for one hour at room temperature. This solution was removed and streptavidin-HRPO, 1:10,000 (Southern Biotechnology Associates, Inc., Birmingham, AL) was then added at 100 µl/well for one hour at room temperature (all wells were washed three times with PBS-Tween between each incubation step). TMB Membrane Peroxidase Substrate system (Kirkegaard &amp; Perry Laboratories) was freshly mixed, and added at 100 µl/well. The color was allowed to develop for 2-5 minutes. The reaction was stopped by the<!-- EPO <DP n="26"> --> addition of 100 µl/well of 1M phosphoric acid. Plates were read on a Microplate EL 310 Autoreader (Biotek Instruments, Winooski. VT) with a 450nm filter. The absorbance levels of duplicate wells were averaged. The graphed results (log of the dilution vs absorbance) of the ELISA assays are shown in Fig. 14.</p>
+<p id="p0045" num="0045">The results of the ELISA shown in Fig. 14 demonstrate a high level of IgE binding to TRFP with somewhat lower binding to recombinant TRFP chain 1 (chain 1) and chain 2 (chain 2). The two recombinant chains demonstrate equivalent binding with this particular patient's IgE. Only the recombitope peptide ZXY shows clear reactivity with IgE. The binding of the other recombitope peptides is at or near the background level with a slight signal from recombitope peptide XYZ. To demonstrate that recombitope peptides were present in equal amounts in both the ELISA and Western assay, anti-peptide antisera was used as a positive control and it gave fairly equivalent signals for all lanes and wells with recombitope peptides.</p>
+<heading id="h0007"><u style="single">Example 4 Human T Cell ERitope Response to Recombitope Peptides</u></heading>
+<p id="p0046" num="0046">The human cat allergic T cell response to recombitope peptides was examined. Peripheral blood mononuclear cells (PBMC) were purified by Ficoll-Hypaque centrifugation of 60 ml of heparinized peripheral blood from cat-allergic patients, who exhibited clinical symptoms of cat allergy and who were skin test positive with cat extract. Ten million PBMC from an individual patient were cultured in 10 ml RPMI-1640 containing 5% pooled human AB serum and supplemented with glutamine, penicillin, streptomycin and HEPES buffer in the presence of 10 µg native affinity-purified TRFP/ml of culture or with 25 µg purified uncleaved recombitope peptide YXZ/ml of culture or with 25 µg purified cleaved recombitope peptide YZX/ml of culture at 37°C for 7 days. Recombitope peptide YZX was cleaved with thrombin as described in Example 2. Viable cells were then purified by Ficoll-Hypaque centrifugation and cultured for 2 additional weeks in RPMI-1640/5% AB serum containing 5 units recombinant human IL-2/ml and 5 units recombinant human IL-4Iml. The resting T cells were then tested in a secondary proliferation assay using a 96 well microtiter plate to assess T cell responses to various TRFP proteins or peptides (TRFP antigens). For assay, 2 X 10<sup>4</sup> resting T cells were cultured for 3 days at 37°C in the presence of 2 X 10<sup>4</sup> autologous Epstein-Barr virus transformed B cells (25.000 Rads) as antigen presenting cells with various concentrations of antigen in 200 µl per well. Each well then received 1 µCi tritiated thymidine for 16 hours. The counts incorporated were collected onto glass fiber filters and processed for liquid scintillation counting. The stimulation indices for responses to each antigen were then calculated as the maximum CPM in response to antigen divided by the medium control CPM. A stimulation index of 2.5 was<!-- EPO <DP n="27"> --> considered to be a positive T cell response. A summary of the results of 3 such experiments (patients 522, 519, and 386 is shown in Fig. 15a. Fig. 15b and Fig. 15c. As compared to the experiments shown in Figs. 15a and 15b, in the experiment shown in Fig. 15c, Fel-1.4 (chain 1, amino acid residues 6-17) was substituted for Fel-1.2 (chain 1. amino acid residues 1-17) and Fel-33.3 (chain 2, amino acid residues 26-40) was substituted for Fel-18 (chain 2, amino acid residues 23-48) in order to more closely resemble the constituent amino acids of peptides X and Z. In addition, in this experiment one peptide derived from the Y-Z junction of recombitope peptide YZX (amino acid residues 50-55 from chain 1 of TRFP and amino acid residues 14-19 from chain 2 of TRFP) and one peptide derived from the Z-X junction of recombitope peptide YZX (amino acid residues 34-39 of chain 2 of TRFP and amino acid residues 7-12 of chain 1 of TRFP) were synthesized and tested. These junction peptides were produced in order to determine whether these areas of recombitope peptide YZX produce a non-native epitope when formed in the recombitope peptide.</p>
+<p id="p0047" num="0047">The results indicate that T cells from patient 522 primed with native TRFP positively respond to native TRFP, recombitope peptide YXZ, peptide Y, Fel-14.2 and Fel-17. In contrast, T cells primed with recombitope YXZ respond less well to native TRFP, but respond at a similar level or better to a number of synthetic peptides corresponding to portions of the TRFP molecule, including peptide X, peptide Y, peptide Z, Fel-4, Fel-3.1, Fel-2, Fel-14.2, Fel-17 and Fel-18. Similar results of an experiment with T cells from patient 519 are shown in Fig. 15b. Native TRFP-primed T cells from this patient respond to native purified TRFP, recombitope peptide YXZ and peptide Y. When the same patient's cells were primed with recombitope peptide YXZ, positive responses were shown to native TRFP, recombitope peptide YXZ, peptide X, peptide Y, peptide Z, Fel-3.1, Fel-4, and Fel-17. Fig. 15c shows a similar experiment involving purified cleaved recombitope YZX as the priming antigen. The results indicate that T cells from patient 386 primed with native TRFP positively respond to native TRFP, recombitope peptide YZX, peptide X, peptide Y, Fel-3.1, and Fel-14.2. In contrast, T cells primed with recombitope YZX respond at a similar level or better to native TRFP, recombitope peptide YZX, peptide X, peptide Y, peptide Z, Fel-2, Fel-3.1, Fel-14.2 and Fel-17. These data indicate that, at least in these three patients, T cells can efficiently recognize TRFP T cell epitopes when presented as a recombitope peptide. No epitopes present in the native TRFP molecule examined in these experiments are destroyed in the context of the YXZ recombitope peptide. The ability of the recombitope peptides YXZ or YZX to present TRFP epitopes in these experiments appears to be greater compared with the native molecule. The results from Patient<!-- EPO <DP n="28"> --> 386 demonstrate that peptides derived from the junctional areas of the recombitope YZX (YZ junction peptide and ZX junction peptide) are not recognized by T cells when presented in a recombitope peptide; therefore, no non-native epitopes are created in the junctional areas.</p>
+<heading id="h0008"><u style="single">Example 5 Murine T Cell Response to Recombitope Peptides</u></heading>
+<p id="p0048" num="0048">Mice were immunized with recombitope peptide YZX to determine whether T cell epitopes contained in the recombitope peptide derived from TRFP are capable of stimulating a T cell response. The assay determined the ability of lymph node cells to respond to the individual recombitope peptides as well as the immunizing antigen.</p>
+<p id="p0049" num="0049">10 B6CBAF1 mice were immunized subcutaneously at the base of the tail and in the thigh region with 100 µg of recombitope peptide YZX in complete Freund's adjuvant. After 10 days, the inguinal, paraaortic, and popliteal nodes of the immunized mice were removed and pooled. The lymph node cells were suspended in cold RPMI 1640 with 1% fetal bovine serum (FBS) by passage through stainless steel mesh. The cells were washed 2 times with cold RPMI-1640 containing 1% FBS and maintained at 4°C,</p>
+<p id="p0050" num="0050">The lymph node cells were plated at 4 x 10<sup>6</sup> cells/ml in RPMI 1640 with 10% FBS, 250 µg/ml penicillin G, 100 µg/ml streptomycin, and 5 x 10<sup>-5</sup> M 2-mercaptoethanol. The cells were cultured with antigen (i.e., recombitope peptide YZX, recombitope peptide ZYX, recombitope peptide XZY, peptide X, peptide Y, peptide Z, peptides X, Y and Z and <u style="single">Amb a</u> I) as indicated (Fig. 16). After 24 hours, 50 µl of supernatant was removed from each culture and frozen overnight to eliminate live cell canyover. The supernatant was warmed to 37° degrees and washed. CTLL-2 indicator cells (ATCC # T1B 214) were added (5 x 10<sup>3</sup> cells/well). This indicator cell line requires IL-2 for continued growth. After 24 hours, H<sup>3</sup>-thymidine (1µCi/well) was added and the cells were further incubated for 4 hours. The plates were frozen and thawed, harvested on a Tomtec 96 well harvester (Tomtec, Orange, Conn.), and counted on a Betaplate beta counter (Pharmacia, Gaithersburg, MD.).</p>
+<p id="p0051" num="0051">The pooled lymph node cells respond well <i>in vitro</i> in response to culture with recombitope peptide YZX, as measured by IL-2 production (Fig. 16). The media only background averaged 1500 cpm. The T cell response to recombitope peptide YZX may result from one or a combination of responses to the individual peptide containing epitopes used to construct the recombitope peptide (i.e., peptides X, Y and Z). Other recombitope peptides as well as the individual peptides X, Y and Z were cultured with lymph node cells and the response of T cells was determined. There<!-- EPO <DP n="29"> --> was significant response to each of the peptides X, Y and Z, the constituent peptides. There were strong T cell responses to several other recombitope peptides ZYX and XZY. There was a small, but significant. T cell response to a recombinant <u style="single">Amb a</u> I preparation which has the same amino-terminal leader sequences as the recombitope peptides.</p>
+<heading id="h0009"><u style="single">Example 6 Application of Recombitopes to Allergic Disease Diagnosis</u></heading>
+<p id="p0052" num="0052">The recombitope peptides can be useful as a new form of diagnosis of sensitivity to a protein allergen or a protein antigen. For example, although preferred recombitope peptides of the invention do not bind IgE, certain recombitope peptides derived from protein allergens may be capable of binding allergic patient IgE. These recombitope peptides could be used in skin testing as an accurate assay for specific Immediate Type Hypersensitivity (ITH) in an individual to the protein allergen from which the recombitope peptide is derived. The allergens for eliciting the ITH response could also be recombinant produced allergens, biochemically purified allergens from natural sources in addition to recombitope peptides with the only requirement being a high degree of specific IgE reactivity. Recombitope peptides which show no, or very low, reactivity with human IgE but comprise T cell epitopes reactive with a protein allergen can be used to elicit a Delayed Type Hypersensitivity (DTH) reaction in an individual sensitive to the allergen from which the epitopes are derived. The allergen forms for generating the DTH response can be isolated recombitope peptides, recombinant allergens or chemically modified natural or recombinant allergens (e.g., KOH treated TRFP). Again, a major requirement of the DTH provoking allergen/antigen is lack of IgE binding reactivity, or if such binding occurs, lack of mediator release from mast cells or basophils and the ability to stimulate T cells in an individual upon administration. A positive DTH is indicative of T cells of the individual specific for the epitopes within the recombitope peptide. In general, recombitope peptides are larger molecules than peptides which comprise an individual T cell epitope and are thus advantageous for DTH testing. Since the recombitope peptides are larger molecules, it is believed that they should reside in the skin (site of injection) allowing for the influx of T lymphocytes and other cells that contribute to the DTH skin response.</p>
+<p id="p0053" num="0053">The ITH reaction, which occurs within 15 to 30 minutes of skin testing, can be used in combination with a DTH reaction, with the DTH reaction appearing 48-72 hours later. It is the combination of these assays, for two different types of allergic disease related reactivities, that represents a novel diagnostic formulation. The application to the skin during skin testing with a recombitope peptide may require a different format for eliciting one response versus another (ITH vs DTH). For<!-- EPO <DP n="30"> --> example, the ITH reaction may be elicited in an individual by prick testing with a very small quantity of a therapeutic composition comprising a recombitope peptide (in this case the an IgE reactive recombitope peptide), and a pharmaceutically acceptable carrier or diluent. To elicit a DTH reaction, a large amount of a therapeutic composition comprising a recombitope peptide (in this case a non-IgE reactive recombitope peptide) and a pharmaceutically acceptable carrier or diluent is applied by an intradermal injection or tine test form (both are used for TB testing by DTH). See <nplcit id="ncit0039" npl-type="b"><text>Immunology (1985) Roitt, I.M., Brostoff, J.. Male, D.K. (eds), C.V. Mosby Co., Gower Medical Publishing, London, NY, pp. 19.2-19.18; pp.22.1-22.10</text></nplcit>. Following diagnosis with recombitope peptides of the invention individuals can be selected for specific desensitization therapy by defining, in one test set, IgE reactivity and T epitope reactivity.
+<img id="ib0001" file="imgb0001.tif" wi="131" he="183" img-content="program-listing" img-format="tif"/><!-- EPO <DP n="31"> --></p>
+<heading id="h0010">SEQUENCE LISTING</heading>
+<p id="p0054" num="0054">
+<ul id="ul0002" list-style="none">
+<li>(1) GENERAL INFORMATION:
+<ul id="ul0003" list-style="none">
+<li>(i) APPLICANT: ImmuLogic Pharmaceutical Co., Inc. 7</li>
+<li>(ii) TITLE OF INVENTION: RECOMBITOPE PEPTIDES</li>
+<li>(iii) NUMBER OF SEQUENCES: 77</li>
+<li>(iv) CORRESPONDENCE ADDRESS:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(A) ADDRESSEE: LAHIVE &amp; COCKFIELD</li>
+<li>(B) STREET: 60 State Street, suite 510</li>
+<li>(C) CITY: Boston</li>
+<li>(D) STATE: Massachusetts</li>
+<li>(E) COUNTRY: USA</li>
+<li>(F) ZIP: 02109</li>
+</ol></li>
+<li>(v) COMPUTER PEADABLE FORM:
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(A) MEDIUM TYPE: Floppy disk</li>
+<li>(B) COMPUTER: IBM PC compatible</li>
+<li>(C) OPERATING SYSTEM: PC-DOS/MS-DOS</li>
+<li>(D) SOFTWARE: ASCII text</li>
+</ol></li>
+<li>(vi) CURRENT APPLICATION DATA:
+<ol id="ol0004" compact="compact" ol-style="">
+<li>(A) APPLICATION NUMBER:PCT/<patcit id="pcit0004" dnum="US9208694B"><text>US92/08694</text></patcit></li>
+<li>(B) FILING DATE: 16-Oct-1992</li>
+<li>(C) CLASSIFICATION:</li>
+</ol></li>
+<li>(vii) PRIOR APPLICATION DATA:
+<ol id="ol0005" compact="compact" ol-style="">
+<li>(A) APPLICATION NUMBER: <patcit id="pcit0005" dnum="US777859B"><text>US 777,859</text></patcit></li>
+<li>(B) FILING DATE: 16-Oct-1991</li>
+<li>(C) CLASSIFICATION:</li>
+</ol></li>
+<li>(vii) PRIOR APPLICATION DATA:
+<ol id="ol0006" compact="compact" ol-style="">
+<li>(A) APPLICATION NUMBER: <patcit id="pcit0006" dnum="US807529B"><text>US 807,529</text></patcit></li>
+<li>(B) FILING DATE: 13-Dec-1991</li>
+<li>(C) CLASSIFICATION:</li>
+</ol></li>
+<li>(viii) ATTORNEY/AGENT INFORMATION:
+<ol id="ol0007" compact="compact" ol-style="">
+<li>(A) NAME: Amy E. Mandragouras</li>
+<li>(B) REGISTRATION NUMBER: 36,207</li>
+<li>(C) REFERENCE/DOCKET NUMBER: 027.0 PCT(IMI-015PC)</li>
+</ol></li>
+<li>(ix) TELECOMMUNICATION INFORMATION:
+<ol id="ol0008" compact="compact" ol-style="">
+<li>(A) TELEPHONE: (617) 227-7400</li>
+<li>(B) TELEFAX: (617) 227-5941</li>
+</ol></li>
+</ul><!-- EPO <DP n="32"> --><!-- EPO <DP n="33"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:1:
+<ul id="ul0004" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0009" compact="compact" ol-style="">
+<li>(A) LENGTH: 418 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0010" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 8..283</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:1:
+<img id="ib0002" file="imgb0002.tif" wi="138" he="124" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="34"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:2:
+<ul id="ul0005" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0006" list-style="none" compact="compact">
+<li>(A) LENGTH: 92 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:2:
+<img id="ib0003" file="imgb0003.tif" wi="144" he="73" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:3:
+<ul id="ul0007" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0011" compact="compact" ol-style="">
+<li>(A) LENGTH: 420 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0012" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 26..289</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:3:
+<img id="ib0004" file="imgb0004.tif" wi="145" he="18" img-content="dna" img-format="tif"/><!-- EPO <DP n="35"> -->
+<img id="ib0005" file="imgb0005.tif" wi="146" he="109" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:4:
+<ul id="ul0008" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0009" list-style="none" compact="compact">
+<li>(A) LENGTH: 88 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:4:
+<img id="ib0006" file="imgb0006.tif" wi="125" he="74" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="36"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:5:
+<ul id="ul0010" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0013" compact="compact" ol-style="">
+<li>(A) LENGTH: 476 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0014" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 8..334</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:5:
+<img id="ib0007" file="imgb0007.tif" wi="145" he="135" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:6:
+<ul id="ul0011" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0012" list-style="none" compact="compact">
+<li>(A) LENGTH: 109 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul><!-- EPO <DP n="37"> --></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:6:
+<img id="ib0008" file="imgb0008.tif" wi="133" he="85" img-content="dna" img-format="tif"/></li>
+<li>(2) INFORMATION FOR SEQ ID NO:7:
+<ul id="ul0013" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0014" list-style="none" compact="compact">
+<li>(A) LENGTH: 27 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:7:
+<img id="ib0009" file="imgb0009.tif" wi="125" he="22" img-content="dna" img-format="tif"/></li>
+</ul></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:8:
+<ul id="ul0015" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0016" list-style="none" compact="compact">
+<li>(A) LENGTH: 27 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal<!-- EPO <DP n="38"> --></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:8:
+<img id="ib0010" file="imgb0010.tif" wi="125" he="23" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:9:
+<ul id="ul0017" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0018" list-style="none" compact="compact">
+<li>(A) LENGTH: 26 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:9:
+<img id="ib0011" file="imgb0011.tif" wi="125" he="23" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:10:
+<ul id="ul0019" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0020" list-style="none" compact="compact">
+<li>(A) LENGTH: 19 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:10:
+<img id="ib0012" file="imgb0012.tif" wi="128" he="21" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:11:
+<ul id="ul0021" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0022" list-style="none" compact="compact">
+<li>(A) LENGTH: 19 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul><!-- EPO <DP n="39"> --></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:11:
+<img id="ib0013" file="imgb0013.tif" wi="124" he="21" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:12:
+<ul id="ul0023" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0015" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0016" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 10..27</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:12:
+<img id="ib0014" file="imgb0014.tif" wi="141" he="15" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:13:
+<ul id="ul0024" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0025" list-style="none" compact="compact">
+<li>(A) LENGTH: 6 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:13:
+<img id="ib0015" file="imgb0015.tif" wi="50" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:14:
+<ul id="ul0026" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0017" compact="compact" ol-style="">
+<li>(A) LENGTH: 90 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol><!-- EPO <DP n="40"> --></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0018" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 10..90</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:14:
+<img id="ib0016" file="imgb0016.tif" wi="144" he="32" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:15:
+<ul id="ul0027" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0028" list-style="none" compact="compact">
+<li>(A) LENGTH: 27 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:15:
+<img id="ib0017" file="imgb0017.tif" wi="126" he="26" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:16:
+<ul id="ul0029" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0019" compact="compact" ol-style="">
+<li>(A) LENGTH: 63 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(iv) ANTI-SENSE: YES</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:16:
+<img id="ib0018" file="imgb0018.tif" wi="147" he="19" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:17:<!-- EPO <DP n="41"> -->
+<ul id="ul0030" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0031" list-style="none" compact="compact">
+<li>(A) LENGTH: 21 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:17:
+<img id="ib0019" file="imgb0019.tif" wi="126" he="25" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:18:
+<ul id="ul0032" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0020" compact="compact" ol-style="">
+<li>(A) LENGTH: 45 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0021" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 1..45</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:18:
+<img id="ib0020" file="imgb0020.tif" wi="148" he="19" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:19:
+<ul id="ul0033" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0034" list-style="none" compact="compact">
+<li>(A) LENGTH: 15 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:19:
+<img id="ib0021" file="imgb0021.tif" wi="118" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:20:<!-- EPO <DP n="42"> -->
+<ul id="ul0035" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0022" compact="compact" ol-style="">
+<li>(A) LENGTH: 54 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(iv) ANTI-SENSE: YES</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:20:<br/>
+GTCCGGGGTA CCGGTCAGGA ACAGGTCAAC GTCACGTTTA CGTTCCGGTT CGGT    54</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:21:
+<ul id="ul0036" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0037" list-style="none" compact="compact">
+<li>(A) LENGTH: 18 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:21:
+<img id="ib0022" file="imgb0022.tif" wi="127" he="19" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:22:
+<ul id="ul0038" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0023" compact="compact" ol-style="">
+<li>(A) LENGTH: 89 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(ix) FEATURE:
+<ol id="ol0024" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 1..63</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID 110:22:
+<img id="ib0023" file="imgb0023.tif" wi="143" he="16" img-content="dna" img-format="tif"/><!-- EPO <DP n="43"> -->
+<img id="ib0024" file="imgb0024.tif" wi="147" he="15" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:23:
+<ul id="ul0039" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0040" list-style="none" compact="compact">
+<li>(A) LENGTH: 19 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:23:
+<img id="ib0025" file="imgb0025.tif" wi="126" he="22" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:24:
+<ul id="ul0041" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0025" compact="compact" ol-style="">
+<li>(A) LENGTH: 44 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(iv) ANTI-SENSE: YES</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:24:<br/>
+GGGGATCCAA GCTTCTGCAG TCTAGACTAC TAAACCGGCA GAGC    44</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:25:
+<ul id="ul0042" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0043" list-style="none" compact="compact">
+<li>(A) LENGTH: 4 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:25:
+<img id="ib0026" file="imgb0026.tif" wi="37" he="10" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="44"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:26:
+<ul id="ul0044" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0026" compact="compact" ol-style="">
+<li>(A) LENGTH: 41 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0027" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 9..41</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:26:
+<img id="ib0027" file="imgb0027.tif" wi="145" he="16" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:27:
+<ul id="ul0045" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0046" list-style="none" compact="compact">
+<li>(A) LENGTH: 11 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:27:
+<img id="ib0028" file="imgb0028.tif" wi="90" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:28:
+<ul id="ul0047" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0028" compact="compact" ol-style="">
+<li>(A) LENGTH: 60 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(iv) ANTI-SENSE: YES</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:28:<br/>
+TTCCAGAACA ACCGGCAGAG CTTTCAGCGG AGAGGTGTAG ATTTTGTCCA GCAGAGACAG    60</li>
+</ul><!-- EPO <DP n="45"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:29:
+<ul id="ul0048" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0049" list-style="none" compact="compact">
+<li>(A) LENGTH: 20 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:29:
+<img id="ib0029" file="imgb0029.tif" wi="125" he="23" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:30:
+<ul id="ul0050" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0029" compact="compact" ol-style="">
+<li>(A) LENGTH: 54 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(iv) ANTI-SENSE: YES</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:30:<br/>
+TTCAACGGTG TTCTGAACAG CTTCACCCAT AACCGGCAGA GCTTTGTACT GAGC    54</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:31:
+<ul id="ul0051" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0052" list-style="none" compact="compact">
+<li>(A) LENGTH: 18 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:31:
+<img id="ib0030" file="imgb0030.tif" wi="132" he="20" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="46"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:32:
+<ul id="ul0053" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0030" compact="compact" ol-style="">
+<li>(A) LENGTH: 65 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0031" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 1..45</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:32:
+<img id="ib0031" file="imgb0031.tif" wi="148" he="24" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:33:
+<ul id="ul0054" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0055" list-style="none" compact="compact">
+<li>(A) LENGTH: 14 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:33:
+<img id="ib0032" file="imgb0032.tif" wi="108" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:34:
+<ul id="ul0056" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0032" compact="compact" ol-style="">
+<li>(A) LENGTH: 20 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0033" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 9..20</li>
+</ol><!-- EPO <DP n="47"> --></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:34:
+<img id="ib0033" file="imgb0033.tif" wi="148" he="17" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:35:
+<ul id="ul0057" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0058" list-style="none" compact="compact">
+<li>(A) LENGTH: 4 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:35:
+<img id="ib0034" file="imgb0034.tif" wi="35" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:36:
+<ul id="ul0059" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0034" compact="compact" ol-style="">
+<li>(A) LENGTH: 35 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(iv) ANTI-SENSE: YES</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:36:<br/>
+GGGGAATTCT GCAGTTACAT TCATCTCCCC AAAGT    35</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:37:
+<ul id="ul0060" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0061" list-style="none" compact="compact">
+<li>(A) LENGTH: 4 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:37:
+<img id="ib0035" file="imgb0035.tif" wi="35" he="11" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="48"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:38:
+<ul id="ul0062" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0035" compact="compact" ol-style="">
+<li>(A) LENGTH: 288 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(ix) FEATURE:
+<ol id="ol0036" compact="compact" ol-style="">
+<li>(A) NAME/KEY: CDS</li>
+<li>(B) LOCATION: 1..288</li>
+</ol></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:38:
+<img id="ib0036" file="imgb0036.tif" wi="149" he="95" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:39:
+<ul id="ul0063" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0064" list-style="none" compact="compact">
+<li>(A) LENGTH: 96 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: protein</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:39:
+<img id="ib0037" file="imgb0037.tif" wi="133" he="22" img-content="dna" img-format="tif"/><!-- EPO <DP n="49"> -->
+<img id="ib0038" file="imgb0038.tif" wi="139" he="14" img-content="dna" img-format="tif"/><!-- EPO <DP n="50"> -->
+<img id="ib0039" file="imgb0039.tif" wi="131" he="49" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:40:
+<ul id="ul0065" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0037" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:40:<br/>
+GGGGAATTCA AGAGGGATGT TGACCTA    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:41:
+<ul id="ul0066" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0067" list-style="none" compact="compact">
+<li>(A) LENGTH: 6 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:41:
+<img id="ib0040" file="imgb0040.tif" wi="48" he="10" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:42:
+<ul id="ul0068" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0038" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA<!-- EPO <DP n="51"> --></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:42:<br/>
+CTACCTGTAT TTTTTGCGGT GGCCAAT    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:43:
+<ul id="ul0069" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0070" list-style="none" compact="compact">
+<li>(A) LENGTH: 9 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:43:
+<img id="ib0041" file="imgb0041.tif" wi="74" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:44:
+<ul id="ul0071" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0039" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:44:<br/>
+CCAGAGAGAA AAGCACTACC TGTAGTA    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:45:
+<ul id="ul0072" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0073" list-style="none" compact="compact">
+<li>(A) LENGTH: 9 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:45:
+<img id="ib0042" file="imgb0042.tif" wi="75" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:46:<!-- EPO <DP n="52"> -->
+<ul id="ul0074" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0040" compact="compact" ol-style="">
+<li>(A) LENGTH: 36 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:46:<br/>
+ATTGGCCACC GCAAAAAATA CAGGTAGTGC TTTGTA    36</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:47:
+<ul id="ul0075" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0076" list-style="none" compact="compact">
+<li>(A) LENGTH: 12 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:47:
+<img id="ib0043" file="imgb0043.tif" wi="99" he="13" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:48:
+<ul id="ul0077" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0041" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:48:<br/>
+TAGTGCTTTT CTCTCTGGTT CAGTAGC    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:49:
+<ul id="ul0078" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0079" list-style="none" compact="compact">
+<li>(A) LENGTH: 9 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal<!-- EPO <DP n="53"> -->
+<img id="ib0044" file="imgb0044.tif" wi="82" he="21" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:50:
+<ul id="ul0080" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0042" compact="compact" ol-style="">
+<li>(A) LENGTH: 29 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:50:<br/>
+GGGGATCCTT ACTCCTTATC CTCTTCTGT    29</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:51:
+<ul id="ul0081" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0082" list-style="none" compact="compact">
+<li>(A) LENGTH: 6 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:51:
+<img id="ib0045" file="imgb0045.tif" wi="50" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:52:
+<ul id="ul0083" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0043" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:52:<br/>
+GGGGAATTCA AAGCACTACC TGTAGTA    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:53:<!-- EPO <DP n="54"> -->
+<ul id="ul0084" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0085" list-style="none" compact="compact">
+<li>(A) LENGTH: 6 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:53:
+<img id="ib0046" file="imgb0046.tif" wi="53" he="12" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:54:
+<ul id="ul0086" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0044" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:54:<br/>
+GATAAGGAGA AGAGGGATGT TGACCTA    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:55:
+<ul id="ul0087" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0088" list-style="none" compact="compact">
+<li>(A) LENGTH: 9 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:55:
+<img id="ib0047" file="imgb0047.tif" wi="73" he="12" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:56:
+<ul id="ul0089" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0045" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol><!-- EPO <DP n="55"> --></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:56:<br/>
+CTACCTGTAT TTTTTGCGGT GGCCAAT    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:57:
+<ul id="ul0090" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0091" list-style="none" compact="compact">
+<li>(A) LENGTH: 9 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:57:
+<img id="ib0048" file="imgb0048.tif" wi="77" he="10" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:58:
+<ul id="ul0092" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0046" compact="compact" ol-style="">
+<li>(A) LENGTH: 36 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:58:<br/>
+TAGGTCAACA TCCCTCTTCT CCTTATCCTC TTCTGT    36</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:59:
+<ul id="ul0093" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0094" list-style="none" compact="compact">
+<li>(A) LENGTH: 12 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:59:
+<img id="ib0049" file="imgb0049.tif" wi="94" he="12" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="56"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:60:
+<ul id="ul0095" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0047" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:60:<br/>
+CGCAAAAAAT ACAGGTAGTG CTTTGTA    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:61:
+<ul id="ul0096" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0097" list-style="none" compact="compact">
+<li>(A) LENGTH: 9 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:61:
+<img id="ib0050" file="imgb0050.tif" wi="76" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:62:
+<ul id="ul0098" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0048" compact="compact" ol-style="">
+<li>(A) LENGTH: 29 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:62:<br/>
+GGGGATCCTT ATCTCTCTGG TTCAGTAGC    29</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:63:
+<ul id="ul0099" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0100" list-style="none" compact="compact">
+<li>(A) LENGTH: 6 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide<!-- EPO <DP n="57"> --></li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:63:
+<img id="ib0051" file="imgb0051.tif" wi="55" he="12" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:64:
+<ul id="ul0101" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0049" compact="compact" ol-style="">
+<li>(A) LENGTH: 27 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:64:<br/>
+GGGGAATTCT TTGCGGTGGC CAATGGA    27</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:65:
+<ul id="ul0102" list-style="none" compact="compact">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0103" list-style="none" compact="compact">
+<li>(A) LENGTH: 7 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:65:
+<img id="ib0052" file="imgb0052.tif" wi="59" he="10" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:66:
+<ul id="ul0104" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0050" compact="compact" ol-style="">
+<li>(A) LENGTH: 21 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:66:<br/>
+AAGAGGGATG TTGACCTATT C    21</li>
+</ul><!-- EPO <DP n="58"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:67:
+<ul id="ul0105" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0106" list-style="none" compact="compact">
+<li>(A) LENGTH: 7 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:67:
+<img id="ib0053" file="imgb0053.tif" wi="60" he="12" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOP. SEQ ID NO:68:
+<ul id="ul0107" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0051" compact="compact" ol-style="">
+<li>(A) LENGTH: 39 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:68:<br/>
+TAGGTCAACA TCCCTCTTTC TCTCTGGTTC AGTAGCATT    39</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:69:
+<ul id="ul0108" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0109" list-style="none" compact="compact">
+<li>(A) LENGTH: 13 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:69:
+<img id="ib0054" file="imgb0054.tif" wi="102" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:70:
+<ul id="ul0110" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0052" compact="compact" ol-style="">
+<li>(A) LENGTH: 32 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single<!-- EPO <DP n="59"> --></li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:70:<br/>
+GGGGATCCTC ACTCCTTATC CTCTTCTGTC AT    32</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:71:
+<ul id="ul0111" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0112" list-style="none" compact="compact">
+<li>(A) LENGTH: 7 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:71:
+<img id="ib0055" file="imgb0055.tif" wi="59" he="12" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:72:
+<ul id="ul0113" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0114" list-style="none" compact="compact">
+<li>(A) LENGTH: 6 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:72:
+<img id="ib0056" file="imgb0056.tif" wi="53" he="11" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:73:
+<ul id="ul0115" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0116" list-style="none" compact="compact">
+<li>(A) LENGTH: 10 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal<!-- EPO <DP n="60"> --></li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:73:
+<img id="ib0057" file="imgb0057.tif" wi="100" he="13" img-content="dna" img-format="tif"/></li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:74:
+<ul id="ul0117" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0053" compact="compact" ol-style="">
+<li>(A) LENGTH: 6 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:74:<br/>
+GAATTC    6</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:75:
+<ul id="ul0118" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ol id="ol0054" compact="compact" ol-style="">
+<li>(A) LENGTH: 6 base pairs</li>
+<li>(B) TYPE: nucleic acid</li>
+<li>(C) STRANDEDNESS: single</li>
+<li>(D) TOPOLOGY: linear</li>
+</ol></li>
+<li>(ii) MOLECULE TYPE: cDNA</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:75:<br/>
+GGATCC    6</li>
+</ul></li>
+<li>(2) INFORMATION FOR SEQ ID NO:76:
+<ul id="ul0119" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0120" list-style="none" compact="compact">
+<li>(A) LENGTH: 14 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY: linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:76:
+<img id="ib0058" file="imgb0058.tif" wi="130" he="12" img-content="dna" img-format="tif"/></li>
+</ul><!-- EPO <DP n="61"> --></li>
+<li>(2) INFORMATION FOR SEQ ID NO:77:
+<ul id="ul0121" list-style="none">
+<li>(i) SEQUENCE CHARACTERISTICS:
+<ul id="ul0122" list-style="none" compact="compact">
+<li>(A) LENGTH: 20 amino acids</li>
+<li>(B) TYPE: amino acid</li>
+<li>(D) TOPOLOGY; linear</li>
+</ul></li>
+<li>(ii) MOLECULE TYPE: peptide</li>
+<li>(v) FRAGMENT TYPE: internal</li>
+<li>(xi) SEQUENCE DESCRIPTION: SEQ ID NO:77:
+<img id="ib0059" file="imgb0059.tif" wi="128" he="25" img-content="dna" img-format="tif"/></li>
+</ul></li>
+</ul></p>
+</description><!-- EPO <DP n="62"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A method for designing an isolated peptide having an amino terminus and a carboxy terminus comprising:
+<claim-text>at least two regions derived from different protein allergens from the same genus;</claim-text>
+<claim-text>at least two regions derived from different protein allergens from cross-reactive species;</claim-text>
+<claim-text>at least two regions derived from different protein allergens from the same species;</claim-text>
+<claim-text>at least two regions derived from different protein allergens from the same group; or</claim-text>
+<claim-text>at least two regions derived from different protein allergens from the same family;</claim-text>
+each region having a human T cell stimulation index of at least 2.0 and comprising at least one T cell epitope of a protein allergen selected from the group consisting of <i>Dermatophagoides pteronyssinus</i> I (<i>Der p</i> I), <i>Dermatophagoides pteronyssinus</i> II (<i>Der p</i> II), <i>Dermatophagoides farinae</i> I <i>(Der f</i> I), <i>Dermatophagoides farinae</i> II <i>(Der f</i> II), <i>Ambrosia artemisiifolia I</i> (<i>Amba</i> I), <i>Ambrosia artemisiifolia</i> II (<i>Amba</i> II), <i>Lolium perenne</i> I (<i>Lol p</i> I) and <i>Lolium perenne</i> II (<i>Lol p IX</i>), and wherein said regions are arranged from the amino terminus to the carboxy terminus in a different order than the regions in the naturally-occurring protein allergen, comprising the steps of:
+<claim-text>a) reviewing the known protein structure of a protein allergen;</claim-text>
+<claim-text>b) dividing the protein allergen into at least two regions;</claim-text>
+<claim-text>c) determining whether the regions of step (b) have T cell stimulating activity;</claim-text>
+<claim-text>d) arranging the regions to form at least one peptide in which the regions are arranged from the amino terminus to the carboxy terminus in a different order than the regions in the naturally-occurring protein allergen; and<!-- EPO <DP n="63"> --></claim-text>
+<claim-text>e) producing at least one peptide having the configuration of the regions of step (d).</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The method of claim 1, further comprising the step of determining whether the peptide of step (e) has T cell stimulating activity.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The method of claim 1, further comprising the step of determining whether the peptide binds immunoglobulin E specific for the protein allergen of step (a).</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The method of claim 1, wherein in step (b) the protein allergen is divided into overlapping regions.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The method of claim 1, wherein step (c) further comprises determining whether said regions bind immunoglobulin E specific for the allergen of step (a) and cause the release of mediators from mast cells or basophils.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The method of claim 1, wherein the peptide is produced recombinantly.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The method of claim 1, wherein the peptide is produced synthetically.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The method of claim 1, wherein the peptide further comprises a proteolytic site inserted between at least two of said regions.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The method of claim 1, wherein each region comprises at least two T cell epitopes of the protein allergen.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The method of claim 1, wherein each region comprises at least about thirty amino acid residues of the protein allergen.<!-- EPO <DP n="64"> --></claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The method of claim 1, wherein the peptide comprises at least about forty amino acid residues of the protein allergen.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The method of claim 1, wherein the peptide comprises at least about fifteen per cent of the T cell epitopes of the protein allergen.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The method of claim 1, wherein the peptide comprises at least about thirty per cent of the T cell epitopes of the protein allergen.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>A method for designing an isolated peptide having an amino terminus and a carboxy terminus comprising at least two regions each having human T cell stimulating activity, wherein each region comprises an amino acid sequence selected from the group consisting of sequence X (SEQ ID NO:7), sequence Y (SEQ ID NO: 8), sequence Z (SEQ ID NO: 9), sequence A (SEQ ID NO: 10), and sequence B (SEQ ID NO: 11), and wherein said regions are arranged from the amino terminus to the carboxy terminus in a different order than the regions in the naturally-occurring protein allergen, comprising the steps of:
+<claim-text>a) reviewing the known protein structure of a protein allergen;</claim-text>
+<claim-text>b) dividing the protein allergen into at least two regions;</claim-text>
+<claim-text>c) determining whether the regions of step (b) have T cell stimulating activity;</claim-text>
+<claim-text>d) arranging the regions to form at least one peptide in which the regions are arranged from the amino terminus to the carboxy terminus in a different order than the regions in the naturally-occurring protein allergen; and</claim-text>
+<claim-text>e) producing at least one peptide having the configuration of the regions of step (d).</claim-text></claim-text></claim>
+</claims><!-- EPO <DP n="65"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zum Entwerfen eines isolierten Peptids mit einem Aminoterminus und einem Carboxyterminus, enthaltend:
+<claim-text>mindestens zwei Regionen, die von unterschiedlichen Proteinallergenen aus der gleichen Gattung abstammen;</claim-text>
+<claim-text>mindestens zwei Regionen, die von unterschiedlichen Proteinallergenen aus kreuzreaktiven Spezies abstammen;</claim-text>
+<claim-text>mindestens zwei Regionen, die von unterschiedlichen Proteinallergenen aus der gleichen Spezies abstammen;</claim-text>
+<claim-text>mindestens zwei Regionen, die von unterschiedlichen Proteinallergenen aus der gleichen Gruppe abstammen; oder</claim-text>
+<claim-text>mindestens zwei Regionen, die von unterschiedlichen Proteinallergenen aus der gleichen Familie abstammen;</claim-text>
+wobei jede Region einen Stimulationsindex für humane T-Zellen von mindestens 2,0 aufweist und mindestens ein T-Zellepitop eines Proteinallergens enthält, ausgewählt aus der Gruppe bestehend aus <i>Dermatophagoides pteronyssinus</i> I <i>(Der p</i> I), <i>Dermatophagoides pteronyssinus</i> II (<i>Der p</i> II), <i>Dermatophagoides farinae</i> I (<i>Der f</i> I), <i>Dermatophagoides farinae</i> I (<i>Der f</i> II), <i>Ambrosia artemisiifolia</i> I <i>(Amba I), Ambrosia artemisiifolia</i> II <i>(Amba</i> II), <i>Lolium perenne</i> I <i>(Lol p</i> I) und <i>Lolium perenne</i> II <i>(Lol p</i> IX), und wobei diese Regionen vom Aminoterminus zum Carboxyterminus in einer unterschiedlichen Reihenfolge als die Regionen in dem natürlich auftretenden Proteinallergen angeordnet sind, umfassend die Schritte:
+<claim-text>a) Überprüfen der bekannten Proteinstruktur eines Proteinallergens;</claim-text>
+<claim-text>b) Unterteilen des Proteinallergens in mindestens zwei Regionen;</claim-text>
+<claim-text>c) Bestimmen, ob die Regionen aus Schritt (b) T-Zell-stimulierende Aktivität haben;</claim-text>
+<claim-text>d) Anordnen der Regionen, um mindestens ein Peptid zu bilden, in dem die Regionen vom Aminoterminus zum Carboxyterminus in einer unterschiedlichen Reihenfolge als die Regionen in dem natürlich auftretenden Proteinallergen<!-- EPO <DP n="66"> --> angeordnet sind; und</claim-text>
+<claim-text>e) Herstellen von mindestens einem Peptid mit der Konfiguration der Regionen aus Schritt (d).</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren nach Anspruch 1, weiterhin umfassend den Schritt der Bestimmung, ob das Peptid aus Schritt (e) eine T-Zell-stimulierende Aktivität hat.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren nach Anspruch 1, weiterhin umfassend den Schritt der Bestimmung, ob das Peptid für das Proteinallergen aus Schritt (a) spezifisches Immunglobulin E bindet.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren nach Anspruch 1, wobei in Schritt (b) das Proteinallergen in überlappende Regionen unterteilt wird.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren nach Anspruch 1, wobei Schritt (c) weiterhin die Bestimmung umfasst, ob diese Regionen für das Allergen aus Schritt (a) spezifisches Immunglobulin E binden, und die Freisetzung von Mediatoren aus Mastzellen oder Basophilen verursacht.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren nach Anspruch 1, wobei das Peptid rekombinant hergestellt wird.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren nach Anspruch 1, wobei das Peptid synthetisch hergestellt wird.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren nach Anspruch 1, wobei das Peptid weiterhin eine proteolytische Stelle enthält, die zwischen mindestens zwei dieser Regionen eingefügt wird.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren nach Anspruch 1, wobei jede Region mindestens zwei T-Zellepitope des Proteinallergens enthält.<!-- EPO <DP n="67"> --></claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren nach Anspruch 1, wobei jede Region mindestens etwa dreißig Aminosäurereste des Proteinallergens enthält.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren nach Anspruch 1, wobei das Peptid mindestens etwa vierzig Aminosäurereste des Proteinallergens enthält.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach Anspruch 1, wobei das Peptid mindestens etwa fünfzehn Prozent der T-Zellepitope des Proteinallergens enthält.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren nach Anspruch 1, wobei das Peptid mindestens etwa dreißig Prozent der T-Zellepitope des Proteinallergens enthält.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren zum Entwerfen eines isolierten Peptids mit einem Aminoterminus und einem Carboxyterminus, enthaltend mindestens zwei Regionen, die jeweils Stimulierungsaktivität für humane T-Zellen aufweisen, wobei jede Region eine Aminosäuresequenz enthält, ausgewählt aus der Gruppe bestehend aus Sequenz X (SEQ ID NO: 7), Sequenz Y (SEQ ID NO: 8), Sequenz Z (SEQ ID NO: 9), Sequenz A (SEQ ID NO: 10), und Sequenz B (SEQ ID NO: 11), und wobei diese Regionen vom Aminoterminus zum Carboxyterminus in einer unterschiedlichen Reihenfolge als die Regionen in dem natürlich auftretenden Proteinallergen angeordnet sind, umfassend die Schritte:
+<claim-text>a) Überprüfen der bekannten Proteinstruktur eines Proteinallergens;</claim-text>
+<claim-text>b) Unterteilen des Proteinallergens in mindestens zwei Regionen;</claim-text>
+<claim-text>c) Bestimmen, ob die Regionen aus Schritt (b) T-Zell-stimulierende Aktivität haben;</claim-text>
+<claim-text>d) Anordnen der Regionen, um mindestens ein Peptid zu bilden, in dem die Regionen vom Aminoterminus zum Carboxyterminus in einer unterschiedlichen Reihenfolge als die Regionen in dem natürlich auftretenden Proteinallergen angeordnet sind; und</claim-text>
+<claim-text>e) Herstellen von mindestens einem Peptid mit der Konfiguration der<!-- EPO <DP n="68"> --> Regionen aus Schritt (d).</claim-text></claim-text></claim>
+</claims><!-- EPO <DP n="69"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé pour concevoir un peptide isolé comportant un terminus amino et un terminus carboxy comprenant :
+<claim-text>au moins deux régions dérivées à partir d'allergènes de protéine différents issus du même genre ;</claim-text>
+<claim-text>au moins deux régions dérivées à partir d'allergènes de protéine différents issus d'espèces à réaction mutuelle ;</claim-text>
+<claim-text>au moins deux régions dérivées à partir d'allergènes de protéine différents issus des mêmes espèces ;</claim-text>
+<claim-text>au moins deux régions dérivées à partir d'allergènes de protéine différents issus du même groupe ; ou</claim-text>
+<claim-text>au moins deux régions dérivées à partir d'allergènes de protéine différents issus de la même famille,</claim-text>
+chaque région présentant un indice de stimulation de lymphocyte T humaine d'au moins 2,0 et comprenant au moins un épitope de lymphocyte T d'un allergène de protéine choisi parmi le groupe constitué par <i>Dermatophagoides pteronyssinus</i> I <i>(Der p</i> I), <i>Dermatophagoïdes pteronyssinus</i> II <i>(Der p</i> II), <i>Dermatophagoïdes farinae I (Der f</i> I), <i>Dermatophagoïdes farinae</i> II <i>(Der f</i> II), <i>Ambrosia artemisiifolia</i> I (Amba I), Ambrosia <i>artemisiifolia</i> II (Amba II), Lolium <i>perenne</i> I <i>(Lol p</i> I<i>) et Lolium perenne</i> II <i>(Lol p</i> IX), et dans lequel lesdites régions sont agencées depuis le terminus amino jusqu'au terminus carboxy selon un ordre différent de celui des régions dans l'allergène de protéine survenant naturellement, comprenant les étapes de :
+<claim-text>a) révision de la structure de protéine connue d'un allergène de protéine ;</claim-text>
+<claim-text>b) division de l'allergène de protéine selon au moins deux régions ;</claim-text>
+<claim-text>c) détermination de si les régions de l'étape (b) présentent une activité de stimulation de lymphocyte T ;</claim-text>
+<claim-text>d) agencement des régions de manière à former au moins un peptide où les régions sont agencées depuis le terminus amino jusqu'au terminus carboxy selon un ordre différent de celui des régions dans l'allergène de protéine survenant naturellement ; et<!-- EPO <DP n="70"> --></claim-text>
+<claim-text>e) production d'au moins un peptide présentant la configuration des régions de l'étape (d).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé selon la revendication 1, comprenant en outre l'étape de détermination de si le peptide de l'étape (e) présente une activité de stimulation de lymphocyte T.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé selon la revendication 1, comprenant en outre l'étape de détermination de si le peptide lie une immunoglobuline E spécifique pour l'allergène de protéine de l'étape (a).</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé selon la revendication 1, dans lequel, au niveau de l'étape (b), l'allergène de protéine est divisé selon des régions en chevauchement.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé selon la revendication 1, dans lequel l'étape (c) comprend en outre la détermination de si lesdites régions lient une immunoglobuline E spécifique pour l'allergène de l'étape (a) et génèrent la libération de médiateurs à partir de mastocytes ou de basophiles.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé selon la revendication 1, dans lequel le peptide est produit de façon recombinante.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé selon la revendication 1, dans lequel le peptide est produit par synthèse.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé selon la revendication 1, dans lequel le peptide comprend en outre un site protéolytique inséré entre au moins deux desdites régions.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé selon la revendication 1, dans lequel chaque région comprend au moins deux épitopes de lymphocyte T de l'allergène de protéine.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé selon la revendication 1, dans lequel chaque région comprend<!-- EPO <DP n="71"> --> au moins environ 30 résidus d'acide aminé de l'allergène de protéine.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé selon la revendication 1, dans lequel le peptide comprend au moins environ 40 résidus d'acide aminé de l'allergène de protéine.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé selon la revendication 1, dans lequel le peptide comprend au moins environ 15% des épitopes de lymphocyte T de l'allergène de protéine.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé selon la revendication 1, dans lequel le peptide comprend au moins environ 30% des épitopes de lymphocyte T de l'allergène de protéine.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé pour concevoir un peptide isolé comportant un terminus amino et un terminus carboxy comprenant au moins deux régions dont chacune présente une activité de stimulation de lymphocyte T humaine, dans lequel chaque région comprend une séquence d'acides aminés choisie parmi le groupe constitué par séquence X (SEQ ID NO:7), séquence Y (SEQ ID NO:8), séquence Z (SEQ ID NO:9), séquence A (SEQ ID NO:10) et séquence B (SEQ ID NO:11) et dans lequel lesdites régions sont agencées depuis le terminus amino jusqu'au terminus carboxy selon un ordre différent de celui des régions dans l'allergène de protéine survenant naturellement, comprenant les étapes de:
+<claim-text>a) révision de la structure de protéine connue d'un allergène de protéine ;</claim-text>
+<claim-text>b) division de l'allergène de protéine selon au moins deux régions ;</claim-text>
+<claim-text>c) détermination de si les régions de l'étape (b) présentent une activité de stimulation de lymphocyte T ;</claim-text>
+<claim-text>d) agencement des régions de manière à former au moins un peptide où les régions sont agencées depuis le terminus amino jusqu'au terminus carboxy selon un ordre différent de celui des régions dans l'allergène de protéine survenant naturellement ; et</claim-text>
+<claim-text>e) production d'au moins un peptide présentant la configuration des régions de l'étape (d).</claim-text></claim-text></claim>
+</claims><!-- EPO <DP n="72"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="142" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="73"> -->
+<figure id="f0002" num=""><img id="if0002" file="imgf0002.tif" wi="146" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="74"> -->
+<figure id="f0003" num=""><img id="if0003" file="imgf0003.tif" wi="165" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="75"> -->
+<figure id="f0004" num=""><img id="if0004" file="imgf0004.tif" wi="149" he="201" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="76"> -->
+<figure id="f0005" num=""><img id="if0005" file="imgf0005.tif" wi="165" he="220" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="77"> -->
+<figure id="f0006" num=""><img id="if0006" file="imgf0006.tif" wi="165" he="220" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="78"> -->
+<figure id="f0007" num=""><img id="if0007" file="imgf0007.tif" wi="151" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="79"> -->
+<figure id="f0008" num=""><img id="if0008" file="imgf0008.tif" wi="153" he="229" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="80"> -->
+<figure id="f0009" num=""><img id="if0009" file="imgf0009.tif" wi="158" he="171" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="81"> -->
+<figure id="f0010" num=""><img id="if0010" file="imgf0010.tif" wi="165" he="219" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="82"> -->
+<figure id="f0011" num=""><img id="if0011" file="imgf0011.tif" wi="158" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="83"> -->
+<figure id="f0012" num=""><img id="if0012" file="imgf0012.tif" wi="165" he="225" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="84"> -->
+<figure id="f0013" num=""><img id="if0013" file="imgf0013.tif" wi="165" he="174" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="85"> -->
+<figure id="f0014" num=""><img id="if0014" file="imgf0014.tif" wi="165" he="219" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="86"> -->
+<figure id="f0015" num=""><img id="if0015" file="imgf0015.tif" wi="147" he="138" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="87"> -->
+<figure id="f0016" num=""><img id="if0016" file="imgf0016.tif" wi="165" he="205" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="88"> -->
+<figure id="f0017" num=""><img id="if0017" file="imgf0017.tif" wi="161" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="89"> -->
+<figure id="f0018" num=""><img id="if0018" file="imgf0018.tif" wi="146" he="153" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="90"> -->
+<figure id="f0019" num=""><img id="if0019" file="imgf0019.tif" wi="164" he="192" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="WO9106571A"><document-id><country>WO</country><doc-number>9106571</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0004]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US4939239A"><document-id><country>US</country><doc-number>4939239</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0021]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US662276A" dnum-type="L"><document-id><country>US</country><doc-number>662276</doc-number><kind>A</kind><date>19910228</date></document-id></patcit><crossref idref="pcit0003">[0038]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US9208694B"><document-id><country>US</country><doc-number>9208694</doc-number><kind>B</kind><date>19921016</date></document-id></patcit><crossref idref="pcit0004">[0054]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US777859B"><document-id><country>US</country><doc-number>777859</doc-number><kind>B</kind><date>19911016</date></document-id></patcit><crossref idref="pcit0005">[0054]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US807529B"><document-id><country>US</country><doc-number>807529</doc-number><kind>B</kind><date>19911213</date></document-id></patcit><crossref idref="pcit0006">[0054]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>SHIMONKEVITZ, R et al.</name></author><atl/><serial><sertitle>J. Immunol.</sertitle><pubdate><sdate>19840000</sdate><edate/></pubdate><vid>133</vid></serial><location><pp><ppf>2167</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0001">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>SHASTRI, N et al.</name></author><atl/><serial><sertitle>J. Exp. Med.</sertitle><pubdate><sdate>19860000</sdate><edate/></pubdate><vid>164</vid></serial><location><pp><ppf>882</ppf><ppl>896</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>LAI, M.-Z et al.</name></author><atl/><serial><sertitle>J. Immunol.</sertitle><pubdate><sdate>19870000</sdate><edate/></pubdate><vid>139</vid></serial><location><pp><ppf>3973</ppf><ppl>3980</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="s"><article><author><name>SCHAD, V.C et al.</name></author><atl/><serial><sertitle>Seminars in Immunol</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>3</vid></serial><location><pp><ppf>217</ppf><ppl>224</ppl></pp></location></article></nplcit><crossref idref="ncit0004">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="s"><article><author><name>LAMB, J.R et al.</name></author><atl/><serial><sertitle>EMBO J.</sertitle><pubdate><sdate>19870000</sdate><edate/></pubdate><vid>6</vid><ino>5</ino></serial><location><pp><ppf>1245</ppf><ppl>1249</ppl></pp></location></article></nplcit><crossref idref="ncit0005">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><author><name>OTA, K et al.</name></author><atl/><serial><sertitle>Nature</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>346</vid></serial><location><pp><ppf>183</ppf><ppl>187</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0007" npl-type="s"><article><author><name>ZAMVIL et al.</name></author><atl/><serial><sertitle>Nature</sertitle><pubdate><sdate>19860000</sdate><edate/></pubdate><vid>324</vid></serial><location><pp><ppf>258</ppf><ppl>260</ppl></pp></location></article></nplcit><crossref idref="ncit0007">[0002]</crossref></li>
+<li><nplcit id="ref-ncit0008" npl-type="s"><article><author><name>O'HEHIR, R et al.</name></author><atl/><serial><sertitle>Ann. Rev. Immunol</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>9</vid></serial><location><pp><ppf>67</ppf><ppl>95</ppl></pp></location></article></nplcit><crossref idref="ncit0008">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0009" npl-type="s"><article><author><name>THOMAS, W.R et al.</name></author><atl/><serial><sertitle>Epitopes of Atopic Allergens Proceedings of Workshop from XIV Congress of the European Academy of Allergy and Clinical Immunology</sertitle><pubdate><sdate>19890900</sdate><edate/></pubdate></serial><location><pp><ppf>77</ppf><ppl>82</ppl></pp></location></article></nplcit><crossref idref="ncit0009">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0010" npl-type="s"><article><author><name>O'HEHIR, R.E</name></author><atl/><serial><sertitle>Annual Review Immunology</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>9</vid></serial><location><pp><ppf>67</ppf><ppl>95</ppl></pp></location></article></nplcit><crossref idref="ncit0010">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0011" npl-type="s"><article><author><name>STEWART, G.A et al.</name></author><atl/><serial><sertitle>Epitopes of Atopic Allergens Proceedings of Workshop from XIV Congress of the European Academy of Allergy and Clinical Immunology</sertitle><pubdate><sdate>19890900</sdate><edate/></pubdate></serial><location><pp><ppf>41</ppf><ppl>47</ppl></pp></location></article></nplcit><crossref idref="ncit0011">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0012" npl-type="s"><article><author><name>YESSEL, H. et al.</name></author><atl/><serial><sertitle>I Cell Activation in Health and Disease: Discrimination Between Immunity and Tolerance</sertitle><pubdate><sdate>19900900</sdate><edate/></pubdate></serial></article></nplcit><crossref idref="ncit0012">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0013" npl-type="s"><article><author><name>ROTHBARD, J.B et al.</name></author><atl/><serial><sertitle>Cell</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>52</vid></serial><location><pp><ppf>515</ppf><ppl>523</ppl></pp></location></article></nplcit><crossref idref="ncit0013">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0014" npl-type="s"><article><author><name>PEREZ, M et al.</name></author><atl/><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>265</vid><ino>27</ino></serial><location><pp><ppf>16210</ppf><ppl>16215</ppl></pp></location></article></nplcit><crossref idref="ncit0014">[0003]</crossref></li>
+<li><nplcit id="ref-ncit0015" npl-type="b"><article><atl/><book><book-title>Current Protocols in Immunology</book-title><imprint><name/><pubdate>19910000</pubdate></imprint><vid>1</vid></book></article></nplcit><crossref idref="ncit0015">[0005]</crossref></li>
+<li><nplcit id="ref-ncit0016" npl-type="s"><article><author><name>KUCHLER, K et al.</name></author><atl/><serial><sertitle>Eur. J. Biochem.</sertitle><vid>184</vid></serial><location><pp><ppf>249</ppf><ppl>254</ppl></pp></location></article></nplcit><crossref idref="ncit0016">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0017" npl-type="s"><article><author><name>ROTHBARD, J</name></author><author><name>TAYLOR, W.R</name></author><atl/><serial><sertitle>EMBO J</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>7</vid></serial><location><pp><ppf>93</ppf><ppl>100</ppl></pp></location></article></nplcit><crossref idref="ncit0017">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0018" npl-type="s"><article><author><name>BERZOFSKY, J.A</name></author><atl/><serial><sertitle>Philos Trans R. Soc. Lond</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>323</vid></serial><location><pp><ppf>535</ppf><ppl>544</ppl></pp></location></article></nplcit><crossref idref="ncit0018">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0019" npl-type="s"><article><author><name>SAMAMA, J.P</name></author><author><name>MALLET, J</name></author><atl/><serial><sertitle>Journal of Neurochemistry</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>54</vid></serial><location><pp><ppf>703</ppf><ppl>705</ppl></pp></location></article></nplcit><crossref idref="ncit0019">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0020" npl-type="b"><article><atl/><book><book-title>Joslin's Diabetes Mellitus</book-title><imprint><name>Lea &amp; Febiger</name><pubdate>19850000</pubdate></imprint><location><pp><ppf>67</ppf><ppl/></pp></location></book></article></nplcit><crossref idref="ncit0020">[0012]</crossref></li>
+<li><nplcit id="ref-ncit0021" npl-type="s"><article><author><name>VARNEY et al.</name></author><atl/><serial><sertitle>British Medical Journal</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>302</vid></serial><location><pp><ppf>265</ppf><ppl>269</ppl></pp></location></article></nplcit><crossref idref="ncit0021">[0015]</crossref></li>
+<li><nplcit id="ref-ncit0022" npl-type="b"><article><atl/><book><author><name>TARR</name></author><book-title>Methods of Protein Microcharacterization</book-title><imprint><name>Humana Press</name><pubdate>19860000</pubdate></imprint><location><pp><ppf>155</ppf><ppl>194</ppl></pp></location></book></article></nplcit><crossref idref="ncit0022">[0021]</crossref></li>
+<li><nplcit id="ref-ncit0023" npl-type="b"><article><atl/><book><book-title>Selected Methods in Cellular Immunology</book-title><imprint><name>WH Freeman</name><pubdate>19800000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0023">[0021]</crossref></li>
+<li><nplcit id="ref-ncit0024" npl-type="s"><article><author><name>MARSH</name></author><atl/><serial><sertitle>International Archives of Allergy and Applied Immunology</sertitle><pubdate><sdate>19710000</sdate><edate/></pubdate><vid>41</vid></serial><location><pp><ppf>199</ppf><ppl>215</ppl></pp></location></article></nplcit><crossref idref="ncit0024">[0021]</crossref></li>
+<li><nplcit id="ref-ncit0025" npl-type="s"><article><author><name>HOCHULI, E et al.</name></author><atl/><serial><sertitle>Bio/Technology</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>6</vid></serial><location><pp><ppf>1321</ppf><ppl>1235</ppl></pp></location></article></nplcit><crossref idref="ncit0025">[0022]</crossref></li>
+<li><nplcit id="ref-ncit0026" npl-type="s"><article><author><name>HO et al.</name></author><atl/><serial><sertitle>Gene</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>77</vid></serial><location><pp><ppf>51</ppf><ppl>59</ppl></pp></location></article></nplcit><crossref idref="ncit0026">[0024]</crossref></li>
+<li><nplcit id="ref-ncit0027" npl-type="s"><article><author><name>HOSTOMSKY, Z et al.</name></author><atl/><serial><sertitle>Biochem. Biophys. Res. Comm</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>161</vid></serial><location><pp><ppf>1056</ppf><ppl>1063</ppl></pp></location></article></nplcit><crossref idref="ncit0027">[0024]</crossref></li>
+<li><nplcit id="ref-ncit0028" npl-type="s"><article><author><name>SHARP, P. M et al.</name></author><atl/><serial><sertitle>Nucl. Acids Res</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>16</vid></serial><location><pp><ppf>8207</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0028">[0030]</crossref></li>
+<li><nplcit id="ref-ncit0029" npl-type="s"><article><author><name>HORTON, R. M et al.</name></author><atl/><serial><sertitle>Gene</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>77</vid></serial><location><pp><ppf>61</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0029">[0032]</crossref></li>
+<li><nplcit id="ref-ncit0030" npl-type="s"><article><author><name>STUDIER, F. W et al.</name></author><atl/><serial><sertitle>Methods in Enzymol</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>185</vid></serial><location><pp><ppf>60</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0030">[0032]</crossref></li>
+<li><nplcit id="ref-ncit0031" npl-type="s"><article><author><name>HOCHULI, E et al.</name></author><atl/><serial><sertitle>BioTechnology</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>6</vid></serial><location><pp><ppf>1321</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0031">[0033]</crossref></li>
+<li><nplcit id="ref-ncit0032" npl-type="s"><article><author><name>UHLEN, M</name></author><author><name>MOKS, T</name></author><atl/><serial><sertitle>Methods in Enzymol.</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>185</vid></serial><location><pp><ppf>129</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0032">[0033]</crossref></li>
+<li><nplcit id="ref-ncit0033" npl-type="s"><article><author><name>CHANG, J.-Y</name></author><atl/><serial><sertitle>Eur. J. Biochem</sertitle><pubdate><sdate>19850000</sdate><edate/></pubdate><vid>151</vid></serial><location><pp><ppf>217</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0033">[0033]</crossref></li>
+<li><nplcit id="ref-ncit0034" npl-type="s"><article><author><name>HORTON et al.</name></author><atl/><serial><sertitle>Gene</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>77</vid></serial><location><pp><ppf>61</ppf><ppl>68</ppl></pp></location></article></nplcit><crossref idref="ncit0034">[0035]</crossref></li>
+<li><nplcit id="ref-ncit0035" npl-type="s"><article><author><name>MORGENSTERN et al.</name></author><atl/><serial><sertitle>Proc. Natl. Acad. Sci. U.S.A.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>88</vid></serial><location><pp><ppf>9690</ppf><ppl>9694</ppl></pp></location></article></nplcit><crossref idref="ncit0035">[0035]</crossref></li>
+<li><nplcit id="ref-ncit0036" npl-type="s"><article><author><name>RAFNAR et al.</name></author><atl/><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>226</vid></serial><location><pp><ppf>1229</ppf><ppl>1236</ppl></pp></location></article></nplcit><crossref idref="ncit0036">[0037]</crossref></li>
+<li><nplcit id="ref-ncit0037" npl-type="s"><article><author><name>CHANG, J.-Y</name></author><atl/><serial><sertitle>Eur. Biochem</sertitle><pubdate><sdate>19850000</sdate><edate/></pubdate><vid>151</vid></serial><location><pp><ppf>217</ppf><ppl>224</ppl></pp></location></article></nplcit><crossref idref="ncit0037">[0041]</crossref></li>
+<li><nplcit id="ref-ncit0038" npl-type="s"><article><author><name>TOWBIN, H</name></author><author><name>T. STACHLIN</name></author><author><name>J. GORDON</name></author><atl/><serial><sertitle>PNAS</sertitle><pubdate><sdate>19790000</sdate><edate/></pubdate><vid>76</vid></serial><location><pp><ppf>4350</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0038">[0043]</crossref></li>
+<li><nplcit id="ref-ncit0039" npl-type="b"><article><atl/><book><book-title>Immunology</book-title><imprint><name>C.V. Mosby Co., Gower Medical Publishing</name><pubdate>19850000</pubdate></imprint><location><pp><ppf>19.2</ppf><ppl>19.18</ppl></pp><pp><ppf>22.1</ppf><ppl>22.10</ppl></pp></location></book></article></nplcit><crossref idref="ncit0039">[0053]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>
