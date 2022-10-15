@@ -12,7 +12,7 @@ tests:  A1 A2 B1 B2
 v 1.0   O  O  X  X
 v 1.1   O  O  O  O
 v 1.2   O  O  O  O
-v 1.3	-  -  O  O
+v 1.3	O  O  O  O
 v 1.4   O  -  -  -
 v 1.5   O  O  O  O
 v 1.5.1 O  O  O  O
@@ -1013,6 +1013,207 @@ func TestProcessXMLSimple12B2(t *testing.T) {
 }
 
 //v 1.3
+func TestProcessXMLSimple13A1(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-3-A1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP07704233A1", patDoc.ID)
+	ass.Equal("07704233.1", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1981358", patDoc.DocNumber)
+	ass.Equal("A1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20081022", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-3", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("NÄHRSTOFFZUSAMMENSETZUNG FÜR SÄUGLINGE MIT NIEDRIGEM GEBURTSGEWICHT", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("NUTRITIONAL COMPOSITION FOR LOW BIRTH WEIGHT INFANTS", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("PRÉPARATION NUTRITIONNELLE POUR NOURRISSONS PRÉSENTANT UN POIDS FAIBLE À LA NAISSANCE", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract Empty
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.Empty(patDoc.Claims)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(0, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations Empty
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("CH"), patDoc.Inventors[0].Country)
+	ass.Equal("CH-1814 La Tour De Peilz", patDoc.Inventors[0].City)
+	ass.Equal("240 Route St. Maurice", patDoc.Inventors[0].Street)
+	ass.Equal("HASCHKE, Ferdinand", patDoc.Inventors[0].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(Country("CH"), patDoc.Representatives[0].Country)
+	ass.Equal("09331551", patDoc.Representatives[0].IID)
+	ass.Equal("CH-1800 Vevey", patDoc.Representatives[0].City)
+	ass.Equal("Nestec S.A. \nAvenue Nestlé 55", patDoc.Representatives[0].Street)
+	ass.Equal("Corticchiato, Olivier", patDoc.Representatives[0].Name)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(31, len(patDoc.ContractingStates))
+	for i := 0; i <= 30; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(1, len(patDoc.Classifications))
+	ass.Equal("A23L   1/29        20060101AFI20070911BHEP        ", patDoc.Classifications[0].Text)
+	ass.Equal(IPC, patDoc.Classifications[0].System)
+	ass.Equal(1, patDoc.Classifications[0].Sequence)
+	ass.Equal("A", patDoc.Classifications[0].Section)
+	ass.Equal("23", patDoc.Classifications[0].Class)
+	ass.Equal("L", patDoc.Classifications[0].SubClass)
+	ass.Equal("1", patDoc.Classifications[0].MainGroup)
+	ass.Equal("29", patDoc.Classifications[0].SubGroup)
+	ass.Equal("20060101", patDoc.Classifications[0].Version)
+	ass.Equal("A", patDoc.Classifications[0].ClassificationLevel)
+	ass.Equal("F", patDoc.Classifications[0].FirstLater)
+	ass.Equal("I", patDoc.Classifications[0].ClassificationValue)
+	ass.Equal("20070911", patDoc.Classifications[0].ActionDate)
+	ass.Equal("B", patDoc.Classifications[0].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[0].Source)
+	ass.Equal("EP", patDoc.Classifications[0].GeneratingOffice)
+
+}
+
+func TestProcessXMLSimple13A2(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-3-A2.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP07738344A2", patDoc.ID)
+	ass.Equal("EP07738344NWA2.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("2007181", patDoc.DocNumber)
+	ass.Equal("A2", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20081224", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-3", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("STEUERUNG FÜR EINEN INDUSTRIEROBOTER", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("CONTROLLER FOR INDUSTRIAL ROBOT", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("CONTROLEUR POUR ROBOT INDUSTRIEL", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract Empty
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(723, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(1, len(patDoc.Claims))
+	ass.Equal(1055, len(patDoc.Claims[0].Text))
+	ass.Equal("en", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(18042, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.NotEmpty(patDoc.Citations)
+	ass.Equal(Country("JP"), patDoc.Citations[0].Country)
+	ass.Equal("58181591", patDoc.Citations[0].DocNumber)
+	ass.Equal("A", patDoc.Citations[0].Kind)
+	ass.Equal(Country("JP"), patDoc.Citations[1].Country)
+	ass.Equal("4365581", patDoc.Citations[1].DocNumber)
+	ass.Equal("A", patDoc.Citations[1].Kind)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("JP"), patDoc.Inventors[0].Country)
+	ass.Equal("Kitakyushu-shi, Fukuoka 806-0004", patDoc.Inventors[0].City)
+	ass.Equal("2-1, Kurosaki-Shiroishi, Yahatanishi-ku,", patDoc.Inventors[0].Street)
+	ass.Equal("OHFUCHI, Yoshitaka\nc/o KABUSHIKI KAISHA YASKAWA DENKI", patDoc.Inventors[0].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(Country("DE"), patDoc.Representatives[0].Country)
+	ass.Equal("00100721", patDoc.Representatives[0].IID)
+	ass.Equal("80802 München", patDoc.Representatives[0].City)
+	ass.Equal("Leopoldstrasse 4", patDoc.Representatives[0].Street)
+	ass.Equal("Grünecker, Kinkeldey, \nStockmair & Schwanhäusser \nAnwaltssozietät", patDoc.Representatives[0].Name)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(2, len(patDoc.ContractingStates))
+	for i := 0; i <= 1; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(2, len(patDoc.Classifications))
+
+	ass.Equal("H05K   5/02        20060101AFI20081020BHEP        ", patDoc.Classifications[0].Text)
+	ass.Equal(IPC, patDoc.Classifications[0].System)
+	ass.Equal(1, patDoc.Classifications[0].Sequence)
+	ass.Equal("H", patDoc.Classifications[0].Section)
+	ass.Equal("05", patDoc.Classifications[0].Class)
+	ass.Equal("K", patDoc.Classifications[0].SubClass)
+	ass.Equal("5", patDoc.Classifications[0].MainGroup)
+	ass.Equal("02", patDoc.Classifications[0].SubGroup)
+	ass.Equal("20060101", patDoc.Classifications[0].Version)
+	ass.Equal("A", patDoc.Classifications[0].ClassificationLevel)
+	ass.Equal("F", patDoc.Classifications[0].FirstLater)
+	ass.Equal("I", patDoc.Classifications[0].ClassificationValue)
+	ass.Equal("20081020", patDoc.Classifications[0].ActionDate)
+	ass.Equal("B", patDoc.Classifications[0].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[0].Source)
+	ass.Equal("EP", patDoc.Classifications[0].GeneratingOffice)
+
+	ass.Equal("B25J  13/06        20060101ALI20081020BHEP        ", patDoc.Classifications[1].Text)
+	ass.Equal(IPC, patDoc.Classifications[1].System)
+	ass.Equal(2, patDoc.Classifications[1].Sequence)
+	ass.Equal("B", patDoc.Classifications[1].Section)
+	ass.Equal("25", patDoc.Classifications[1].Class)
+	ass.Equal("J", patDoc.Classifications[1].SubClass)
+	ass.Equal("13", patDoc.Classifications[1].MainGroup)
+	ass.Equal("06", patDoc.Classifications[1].SubGroup)
+	ass.Equal("20060101", patDoc.Classifications[1].Version)
+	ass.Equal("A", patDoc.Classifications[1].ClassificationLevel)
+	ass.Equal("L", patDoc.Classifications[1].FirstLater)
+	ass.Equal("I", patDoc.Classifications[1].ClassificationValue)
+	ass.Equal("20081020", patDoc.Classifications[1].ActionDate)
+	ass.Equal("B", patDoc.Classifications[1].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[1].Source)
+	ass.Equal("EP", patDoc.Classifications[1].GeneratingOffice)
+}
+
 func TestProcessXMLSimple13B1(t *testing.T) {
 	ass := assert.New(t)
 	data, err := ioutil.ReadFile("test-data/grant/v1-3-B1.xml")
