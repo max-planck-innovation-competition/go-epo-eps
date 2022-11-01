@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.0//EN" "ep-patent-document-v1-0.dtd">
+<ep-patent-document id="EP02779063B1" file="02779063.xml" lang="en" country="EP" doc-number="1442058" kind="B1" date-publ="20060719" status="n" dtd-version="ep-patent-document-v1-0">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIE......FI....CY..TRBGCZEE....SK................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>DIM360 (Ver 1.5  21 Nov 2005) -  2100000/0</B007EP></eptags></B000><B100><B110>1442058</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20060719</date></B140><B190>EP</B190></B100><B200><B210>02779063.3</B210><B220><date>20021118</date></B220><B240><B241><date>20040430</date></B241><B242><date>20050128</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>331477 P</B310><B320><date>20011116</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20060719</date><bnum>200629</bnum></B405><B430><date>20040804</date><bnum>200432</bnum></B430><B450><date>20060719</date><bnum>200629</bnum></B450><B452EP><date>20051027</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C07K  14/47        20060101AFI20050713BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  38/17        20060101ALI20050713BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>PEPTIDE ZUM EINSATZ IN DER BEHANDLUNG VON TUMOREN UND ANDEREN ZUSTÄNDEN, DIE DAS ENTFERNEN ODER ZERSTÖREN VON ZELLEN ERFORDERN</B542><B541>en</B541><B542>PEPTIDES EFFECTIVE IN THE TREATMENT OF TUMORS AND OTHER CONDITIONS REQUIRING THE REMOVAL OR DESTRUCTION OF CELLS</B542><B541>fr</B541><B542>PEPTIDES SERVANT A TRAITER DES TUMEURS OU D'AUTRES ETATS NECESSITANT LA SUPPRESSION OU LA DESTRUCTION DE CELLULES</B542></B540><B560><B561><text>WO-A-03/008444</text></B561><B561><text>US-A- 5 948 634</text></B561><B562><text>LASSERRE C ET AL.: "A Novel Gene (HIP) Activated in Human Primary Liver Cancer" CANCER RESEARCH, vol. 52, 15 September 1992 (1992-09-15), pages 5089-5095, XP001056507</text></B562><B562><text>DE REGGI M ET AL.: "The glycan moiety of human pancreatic lithostathine" EUROPEAN JOURNAL OF BIOCHEMISTRY, vol. 230, 1995, pages 503-510, XP008018805</text></B562></B560></B500><B700><B720><B721><snm>AVERBACK, Paul</snm><adr><str>383 Lakeshore Road</str><city>Beaconsfield, Québec H9W 4J1</city><ctry>CA</ctry></adr></B721><B721><snm>GEMMELL, Jack</snm><adr><str>1330 Queen Victoria Avenue</str><city>Mississauga, Ontario L5H 3H3</city><ctry>CA</ctry></adr></B721></B720><B730><B731><snm>NYMOX CORPORATION</snm><iid>02149652</iid><irf>P36775EP01</irf><adr><str>9900 Cavendish Blvd. 
+Suite 306</str><city>St. Laurent, Québec H4M 2V2</city><ctry>CA</ctry></adr></B731></B730><B740><B741><snm>Plougmann &amp; Vingtoft A/S</snm><iid>00101177</iid><adr><str>Sundkrogsgade 9, 
+P.O. Box 831</str><city>2100 Copenhagen</city><ctry>DK</ctry></adr></B741></B740></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>MC</ctry><ctry>NL</ctry><ctry>PT</ctry><ctry>SE</ctry><ctry>SK</ctry><ctry>TR</ctry></B840><B860><B861><dnum><anum>CA2002001757</anum></dnum><date>20021118</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO2003044053</pnum></dnum><date>20030530</date><bnum>200322</bnum></B871></B870><B880><date>20031211</date><bnum>000000</bnum></B880></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001"><b><i>BACKGROUND OF THE INVENTION</i></b></heading>
+<heading id="h0002"><u style="single">1. Field of the Invention</u></heading>
+<p id="p0001" num="0001">The present invention is directed to use of NTP-peptides consisting of SEQ 10 NOS 9-15 for treating conditions requiring removal or destruction of cellular elements, such as benign or malignant tumors in humans.</p>
+<heading id="h0003"><u style="single">2. Description of Related Art</u></heading>
+<p id="p0002" num="0002">The essence of many medical treatments and procedures involves the removal or destruction of harmful or unwanted tissue. Examples of such important treatments include the surgical removal of cancerous growths, the destruction of metatastic tumors through chemotherapy, and the reduction of glandular (e.g. prostate) hyperplasia. Other examples include the removal of unwanted facial hair, the removal of warts, and the removal of unwanted fatty tissue.<!-- EPO <DP n="2"> --></p>
+<p id="p0003" num="0003">There is an obvious need for an effective agent that will destroy and hence either facilitate the removal of or inhibit the further growth of harmful or unwanted cells and tissue but will have mainly local effects and minimal or absent systemic toxicity.</p>
+<p id="p0004" num="0004">Neural thread proteins and their related molecules are one class of such agents, as disclosed in US 2003/0054990 entitled: <i>Methods of Treating Tumors and Related Conditions Using Neural Thread Proteins.</i> Certain fragments of neural thread proteins and related proteins are disclosed as useful in treating tumors and other conditions requiring removal or destruction of cells in US 2003/0096350, entitled: <i>Peptides Effective In The Treatment Of Tumors And Other Conditions</i> Requiring <i>The Removal</i> Or Destruction Of <i>Cells;</i> US 2003/0096756 entitled: <i>Peptides Effective In The Treatment Of Tumors And Other Conditions Requiring The Removal Or Destruction Of Cells;</i> and US 2003/0109437, entitled: <i>Peptides Effective In The Treatment Of Tumors And Other Conditions Requiring The Removal Or Destruction Of Cells.</i></p>
+<p id="p0005" num="0005">Disclosed herein are certain other fragments of neural thread proteins that also are useful in treating tumors and other conditions requiring removal or destruction of cells.</p>
+<p id="p0006" num="0006">Cancer is an abnormality in a cell's internal regulatory mechanisms that results in uncontrolled growth and reproduction of the cell. Normal cells make up tissues, and when these cells lose their ability to behave as a specified, controlled, and coordinated unit, (dedifferentiation), the defect leads to disarray amongst the cell population. When this occurs, a tumor is formed.<!-- EPO <DP n="3"> --></p>
+<p id="p0007" num="0007">Benign overgrowths of tissue are abnormalities in which it is desirable to remove cells from an organism. Benign tumors are cellular proliferations that do not metastasize throughout the body but do, however, cause disease symptoms. Such tumors can be lethal if they are located in inaccessible areas in organs such as the brain. There are benign tumors of organs including lung, brain, skin, pituitary, thyroid, adrenal cortex and medulla, ovary, uterus, testis, connective tissue, muscle, intestines, ear, nose, throat, tonsils, mouth, liver, gall bladder, pancreas, prostate, heart, and other organs.</p>
+<p id="p0008" num="0008">Surgery often is the first step in the treatment of cancer. The objective of surgery varies. Sometimes it is used to remove as much of the evident tumor as possible, or at least to "debulk" it (remove the major bulk(s) of tumor so that there is less that needs to be treated by other means). Depending on the cancer type and location, surgery may also provide some symptomatic relief to the patient. For instance, if a surgeon can remove a large portion of an expanding brain tumor, the pressure inside the skull will decrease, leading to improvement in the patient's symptoms.</p>
+<p id="p0009" num="0009">Not all tumors are amenable to surgery. Some may be located in parts of the body that make them impossible to completely remove. Examples of these would be tumors in the brainstem (a part of the brain that controls breathing) or a tumor which has grown in and around a major blood vessel. In these cases, the role of surgery is limited due to the high risk associated with tumor removal.</p>
+<p id="p0010" num="0010">In some cases, surgery is not used to debulk tumor because it is simply not necessary. An example is Hodgkin's lymphoma, a cancer of the lymph nodes that responds very well to combinations of chemotherapy and radiation therapy. In Hodgkin's lymphoma, surgery is rarely needed to achieve cure, but almost always used to establish a diagnosis.<!-- EPO <DP n="4"> --></p>
+<p id="p0011" num="0011">Chemotherapy is another common form of cancer treatment. Essentially, it involves the use of medications (usually given by mouth or injection) which specifically attack rapidly dividing cells (such as those found in a tumor) throughout the body. This makes chemotherapy useful in treating cancers that have already metastasized, as well as tumors that have a high chance of spreading through the blood and lymphatic systems but are not evident beyond the primary tumor. Chemotherapy may also be used to enhance the response of localized tumors to surgery and radiation therapy. This is the case, for example, for some cancers of the head and neck.</p>
+<p id="p0012" num="0012">Unfortunately, other cells in the human body that also normally divide rapidly (such as the lining of the stomach and hair) also are affected by chemotherapy. For this reason, many chemotherapy agents induce undesirable side effects such as nausea, vomiting, anemia, hair loss or other symptoms. These side effects are temporary, and there exist medications that can help alleviate many of these side effects. As our knowledge has continued to grow, researchers have devised newer chemotherapeutic agents that are not only better at killing cancer cells, but that also have fewer side effects for the patient.</p>
+<p id="p0013" num="0013">Chemotherapy is administered to patients in a variety of ways. Some include pills and others are administered by an intravenous or other injection. For injectable chemotherapy, a patient goes to the doctor's office or hospital for treatment. Other chemotherapeutic agents require continuous infusion into the bloodstream, 24 hours a day. For these types of chemotherapy, a minor surgical procedure is performed to implant a small pump worn by the patient. The pump then slowly administers the medication. In many cases, a permanent port is placed in a patient's vein to eliminate the requirement of repeated needle sticks.<!-- EPO <DP n="5"> --> Radiation therapy is another commonly used weapon in the fight against cancer. Radiation kills cancer by damaging the DNA within the tumor cells. The radiation is delivered in different ways. The most common involves pointing a beam of radiation at the patient in a highly precise manner, focusing on the tumor. To do this, a patient lies on a table and the beam moves around him/ her. The procedure lasts minutes, but may be done daily for several weeks (depending on the type of tumor), to achieve a particular total prescribed dose.</p>
+<p id="p0014" num="0014">Another radiation method sometimes employed, called brachytherapy, involves taking radioactive pellets (seeds) or wires and implanting them in the body in the area of the tumor. The implants can be temporary or permanent. For permanent implants, the radiation in the seeds decays over a period of days or weeks so that the patient is not radioactive. For temporary implants, the entire dose of radiation is usually delivered in a few days, and the patient must remain in the hospital during that time. For both types of brachytherapy, radiation is generally delivered to a very targeted area to gain local control over a cancer (as opposed to treating the whole body, as chemotherapy does.)</p>
+<p id="p0015" num="0015">Some highly selected patients may be referred for bone marrow transplants. This procedure usually is performed either because a patient has a cancer that is particularly aggressive or because they have a cancer that has relapsed after being treated with conventional therapy. Bone marrow transplantation is a complicated procedure. There are many types, and they vary in their potential for causing side effects and cure. Most transplants are performed at special centers, and in many cases, their use is considered investigational.</p>
+<p id="p0016" num="0016">A number of other therapies exist, although most of them are still being explored in clinical trials and have not yet become standard care.<!-- EPO <DP n="6"> --> Examples include the use of immunotherapy, monoclonal antibodies, anti-angiogenesis factors and gene therapy.</p>
+<p id="p0017" num="0017">Immunotherapy: There are various techniques designed to help the patient's own immune system fight the cancer, quite separately from radiation or chemotherapy. Oftentimes, to achieve the goal researchers inject the patient with a specially derived vaccine.</p>
+<p id="p0018" num="0018">Monoclonal Antibodies: These are antibodies designed to attach to cancerous cells (and not normal cells) by taking advantage of differences between cancerous and non-cancerous cells in their anitgenic and/or other characteristics. The antibodies can be administered to the patient alone or conjugated to various cytotoxic compounds or in radioactive form, such that the antibody preferentially targets the cancerous cells, thereby delivering the toxic agent or radioactivity to the desired cells.</p>
+<p id="p0019" num="0019">Anti-Angiogenesis Factors: As cancer cells rapidly divide and tumors grow, they can soon outgrow their blood supply. To compensate for this, some tumors secrete a substance believed to help induce the growth of blood vessels in their vicinity, thus providing the cancer cells with a vascular source of nutrients. Experimental therapies have been designed to arrest the growth of blood vessels to tumors.</p>
+<p id="p0020" num="0020">Gene Therapy: Cancer is the product of a series of mutations that ultimately lead to the production of a cancer cell and its excessive proliferation. Cancers can be treated by introducing genes to the cancer cells that will act either to check or stop the cancer's proliferation, turn on the cell's programmed cell mechanisms to destroy the cell, enhance immune recognition of the cell, or express a pro-drug that converts to a toxic metabolite or a cytokine that inhibits tumor growth.</p>
+<p id="p0021" num="0021">Benign tumors and malformations also can be treated by a variety of methods including surgery, radiotherapy, drug therapy, thermal or<!-- EPO <DP n="7"> --> electric ablation, cryotherapy, and others. Although benign tumors do not metastasize, they can grow large and they can recur. Surgical extirpation of benign tumors has all the difficulties and side effects of surgery in general and oftentimes must be repeatedly performed for some benign tumors, such as for pituitary adenomas, meningeomas of the brain, prostatic hyperplasia, and others.</p>
+<p id="p0022" num="0022">Other conditions involving unwanted cellular elements exist where selective cellular removal is desirable. For example, heart disease and strokes commonly are caused by atherosclerosis, which is a proliferative lesion of fibrofatty and modified smooth muscle elements that distort the blood vessel wall, narrow the lumen, constrict blood flow, predispose to focal blood clots, and ultimately lead to blockage and infarction. There are various treatments for atherosclerosis such as bypass grafts; artificial grafts; angioplasty with recanalization, curettage, radiation, laser, or other removal; pharmacotherapy to inhibit atherosclerosis through lipid reduction; anti-clotting therapies; and general measures of diet, exercise, and lifestyle. A method for removing atherosclerotic lesions without the risk and side effects of surgical procedures is needed.</p>
+<p id="p0023" num="0023">Other examples of unwanted cellular elements where selective cellular removal is desirable include viral induced growths, such as warts. Another example is hypertrophic inflammatory masses found in inflammatory conditions, and hypertrophic scars or keloids. Still other examples are found in cosmetic contexts such as the removal of unwanted hair, e.g., facial hair, or for shrinkage of unwanted tissue areas for cosmetic purposes, such as in the facial dermis and connective tissues or in the dermas and connective tissue of the extremities.</p>
+<p id="p0024" num="0024">Other examples of unwanted cellular elements where selective cellular removal or the inhibition of cellular proliferation is desirable include stenosis and restenosis of any artery, valve or canal in the<!-- EPO <DP n="8"> --> circulatory system including, but not limited to, valves (e.g., aortic stenosis which involves narrowing of the aortic valve orifice), coronary arteries (e.g., coronary ostial sclerosis which involves narrowing of the mouths of the coronary arteries), carotid arteries, and renal arteries. Other examples include the inhibition or removal of unwanted cellular growth or accumulation causing the partial or complete occulsion of medical devices such as stents placed or implanted within a blood vessel for treating stenoses, strictures or aneurysms therein or within the urinary tract and in bile ducts.</p>
+<p id="p0025" num="0025">Still other examples will be obvious to those of ordinary skill in the art. In all or most of these examples there is a need for treatments that can remove or destroy the unwanted cellular elements without the risks and side effects of conventional therapies or remove the unwanted cellular elements with more precision.</p>
+<p id="p0026" num="0026">Neural thread proteins (NTP) are a family of recently characterized brain proteins. One member of this family, AD7c-NTP, is a ~41 kD membrane associated phosphoprotein with functions associated with neuritic sprouting (de la Monte <i>et al., J. Clin. Invest.,</i> 100:3093-3104 (1997); de la Monte <i>et al., Alz.. Rep.,</i> 2:327-332 (1999); de la Monte SM and Wands JR, <i>Journal of Alzheimer's Disease,</i> 3:345-353 (2001)). The gene that encodes AD7c-NTP and predicted protein sequence for AD7c-NTP has been identified and described (de la Monte <i>et al., J. Clin. Invest.,</i> 100:3093-3104 (1997)). In addition to the ~41 kD species, other species of neural thread protein (~26 kD, ~21 kD, ~17 kD, and ~15 kD) have been identified and associated with neuroectodermal tumors, astrocytomas, and glioblastomas and with injury due to hypoxia, schema, or cerebral infarction (Xu <i>et al., Cancer Research,</i> 53:3823-3829 (1993); de la Monte <i>et al., J. Neuropathol. Exp. Neurol.,</i> 55(10):1038-50 (1996), de la Monte <i>et al., J. Neurol. Sci.,</i> 138(1-2):26-35 (1996); de la Monte <i>et al., J. Neurol. Sci., 135</i>(2):118-25 (1996); de la Monte<!-- EPO <DP n="9"> --> <i>et al., J. Clin. Invest.,</i> 100:3093-3104 (1997); and de la Monte <i>et al., Alz.. Rep.,</i> 2:327-332 (1999)).</p>
+<p id="p0027" num="0027">Species of neural thread protein have been described and claimed in U.S. Patent Nos. 5,948,634; 5,948,888; and 5,830,670, all for "Neural Thread Protein Gene Expression and Detection of Alzheimer's Disease" and in U.S. Patent No. 6,071,705 for "Method of Detecting Neurological Disease or Dysfunction." As described therein, NTP is upregulated and produced during cell death. Thus, dead and dying nerve cells are described as overproducing NTP, and accordingly, its presence indicates the death of nerve cells and the onset of Alzheimer's disease (AD).</p>
+<p id="p0028" num="0028">Other species of neural thread protein have been identified as other products of the AD7c-NTP gene (<i>e.g.</i> a 112 amino acid protein described in NCBI Entrez-Protein database Accession #XP_032307 PID g15928971) or as being similar to neural thread proteins (<i>e.g.</i> a 106 amino acid protein described in NCBI Entrez-Protein database Accession #AAH14951 PID g15928971, and a 61 amino acid protein described in NCBI Entrez-Protein database Accession #AAH02534 PID g12803421).</p>
+<p id="p0029" num="0029">Neural thread protein is associated with AD and NTP is upregulated in association with cell death in AD. AD7c-NTP mRNA is upregulated in AD brain compared to controls; AD7c-NTP protein levels in brain and in CSF are higher in AD than controls; and AD7c-NTP immunoreactivity is found in senile plaques, in neurofibrillary tangles (NFT), in degenerating neurons, neuropil threads, and dystrophic neurotic sprouts in AD and Down syndrome brains (Ozturk <i>et al., Proc. Natl. Acad. Sci. USA, 86</i>:419-423 (1989); de la Monte <i>et al., J. Clin. Invest.,</i> 86(3):1004-13 (1990); de la Monte <i>et al., J. Neurol. Sci., 113</i>(2):152-64 (1992); de la Monte <i>et al., Ann. Neurol.,</i> 32(6):733-42 (1992); de la Monte <i>et al., J. Neuropathol. Exp.<!-- EPO <DP n="10"> --> Neurol.,</i> 55(10):1038-50 (1996), de la Monte <i>et al., J. Neurol. Sci</i>., 138(1-2):26-35 (1996); de la Monte <i>et al., J. Neurol. Sci., 135</i>(2):118-25 (1996); de la Monte <i>et al., J. Clin. Invest., 100</i>:3093-3104 (1997); and de la Monte <i>et al., Alz.. Rep.,</i> 2:327-332 (1999)). NTP is localized within cells, within fine processes within the neuropil, or is extracellular in both AD and Down's Syndrome brains. de la Monte <i>et al., Ann. Neurol.,</i> 32(6):733-42 (1992).</p>
+<p id="p0030" num="0030">Elevated levels of AD7c-NTP protein have been found in both CSF and urine of AD patients (de la Monte and Wands, <i>Front Biosci</i> 7: 989-96 (2002); de la Monte and Wands, <i>Journal of Alzheimer's Disease</i> 3: 345-353 (2001); Munzar <i>et al, Alzheimer's Reports</i> 4: 61-65 (2001); Kahle <i>et al, Neurology</i> 54:1498-1504 (2000); Munzar <i>et</i> al, <i>Alzheimer Reports</i> 3:155-159 (2000); de la Monte <i>et al, Alzheimer's Reports</i> 2: 327-332 (1999); and de la Monte <i>et</i> al, <i>J Clin Invest</i> 100: 3093-3104 (1997).</p>
+<p id="p0031" num="0031">Over-expression of NTP also has been linked to the process of cell death in Alzheimer's disease (de la Monte and Wands, <i>J. Neuropathol. Exp. Neurol.,</i> 60:195-207 (2001); de la Monte and Wands, <i>Cell Mol Life</i> Sci 58: 844-49 (2001). AD7c-NTP has also been identified in Down's Syndrome brain tissue (Wands <i>et al.,</i> International Patent Publication No. WO 90/06993; de la Monte <i>et al, J Neurol Sci</i> 135:118-25 (1996); de la Monte <i>et al., Alz.. Rep.,</i> 2:327-332 (1999)). There is some evidence that over-expression of NTP also may be associated with normal tension glaucoma (Golubnitschaja-Labudova <i>et al, Curr Eye Res</i> 21: 867-76 (2000)).</p>
+<p id="p0032" num="0032">NTP has proven to be an effective agent for causing cell death both <i>in vitro</i> in glioma and neuroblastoma cell cultures and <i>in vivo</i> in normal rodent muscle tissue, subcutaneous connective tissue, and dermis, and in a variety of different human and non-human origin tumors, including mammary carcinoma, skin carcinoma and papilloma, colon carcinoma, glioma of brain, and others in rodent models. <i>See</i> US 2003/0054990<!-- EPO <DP n="11"> --> entittled <i>Methods of Treating Tumors and Related Conditions Using Neural Thread Proteins.</i></p>
+<p id="p0033" num="0033">Certain peptide sequences and fragments of AD7c-NTP and other species of NTP also have proven to be effective agents for causing cell death both <i>in vitro</i> in glioma and neuroblastoma cell cultures and/or <i>in vivo</i> in normal rodent muscle tissue, subcutaneous connective tissue, dermis and other tissue. <i>See</i> US 2003/0096350 entitled: <i>Peptides Effective In The Treatment Of Tumors And Other Conditions Requiring The Removal Or Destruction Of Cells;</i> US 2003/0096756 entitled: <i>Peptides Effective In The Treatment Of Tumors And Other Conditions Requiring The Removal Or Destruction Of Cells;</i> and US 2003/0109437 entitled: <i>Peptides Effective In The Treatment Of Tumors And Other Conditions Requiring The Removal Or Destruction Of Cells.</i><!-- EPO <DP n="12"> --></p>
+<p id="p0034" num="0034">US 5,948,634 discloses a 122-mer neural thread protein as well as NTP-derived molecules and fragments thereof for treatment of Alzheimer's type of neuronal degeneration.<!-- EPO <DP n="13"> --></p>
+<p id="p0035" num="0035">There remains a need in the art for new, less toxic treatments for treating unwanted cellular elements. The present invention satisfies these needs.</p>
+<heading id="h0004"><b><i>SUMMARY OF THE INVENTION</i></b></heading>
+<p id="p0036" num="0036">This invention is premised in part on the discovery that peptides containing amino acid sequences corresponding to part of the amino acid sequences of other species of neural thread proteins other than AD7c-NTP are capable of treating and/or killing unwanted cellular proliferations. These unwanted cellular proliferations include, <i>inter alia,</i> benign and malignant tumors, glandular (e.g. prostate) hyperplasia, unwanted facial hair, warts, and unwanted fatty tissue.</p>
+<p id="p0037" num="0037">The present invention is directed to NTP-peptides consisting of the amino acid sequences SEQ ID NOS 9-15 and the use of such peptides for treating unwanted cellular proliferations, (benign and malignant tumors, glandular (<i>e.g</i>. prostate) hyperplasia, unwanted facial hair, warts, and unwanted fatty tissue).</p>
+<p id="p0038" num="0038">Such a peptide ("NTP peptide") can be administered alone or conjugated to a carrier or an antibody. The NTP peptide can be administered intramuscularly, orally, intravenously, intraperitoneally, intracerebrally (intraparenchymally), intracerebroventricularly, intratumorally, intralesionally, intradermally, intrathecally, intranasally, intraocularly, intraarterially, topically, transdermally, via an aerosol, infusion, bolus injection, implantation device, sustained release system etc., either alone or conjugated to a carrier.<!-- EPO <DP n="14"> --></p>
+<p id="p0039" num="0039">In addition, the NTP peptide may be used in conjunction with other therapies for treating benign and malignant tumors and other unwanted or harmful cellular growths.</p>
+<heading id="h0005"><b><i>BRIEF DESCRIPTION OF THE FIGURES</i></b></heading>
+<p id="p0040" num="0040">
+<dl id="dl0001">
+<dt>Figure 1:</dt><dd>Shows the complete amino acid sequences of the 122 amino acid neural thread protein (Sequence 40 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888; NCBI Entrez-Protein Accession #AAE25447 PID g10048540) [SEQ ID NO.1].</dd>
+<dt>Figure 2:</dt><dd>Shows the complete amino acid sequences of the 112 amino acid neural thread protein (NCBI Entrez-Protein Accession #XP_032307 PID g15928971) [SEQ ID NO. 2].</dd>
+<dt>Figure 3:</dt><dd>Shows the complete amino acid sequences of a 106 amino acid neural thread protein-like protein (NCBI Entrez-Protein Accession #AAH14951 PID g15928971) [SEQ ID NO. 3].</dd>
+<dt>Figure 4:</dt><dd>Shows the complete amino acid sequences of the 98 amino acid neural thread protein (Sequence 30 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888; NCBI Entrez-Protein Accession # AAE25445, PID g10048538) [SEQ ID NO. 4].<!-- EPO <DP n="15"> --></dd>
+<dt>Figure 5:</dt><dd>Shows the complete amino acid sequences of the 75 amino acid neural thread protein (Sequence 48 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888; NCBI Entrez-Protein Accession #AAE25448, PID g10048541) [SEQ ID NO. 5].</dd>
+<dt>Figure 6:</dt><dd>Shows the complete amino acid sequences of the 68 amino acid neural thread protein (Sequence 36 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888; NCBI Entrez-Protein Accession #AAE25446, PID g10048539) [SEQ ID NO. 6].</dd>
+<dt>Figure 7:</dt><dd>Shows the complete amino acid sequences of the 61 amino acid neural thread protein-like protein (NCBI Entrez-Protein Accession #AAH02534, PID g12803421) [SEQ ID NO. 7].</dd>
+</dl></p>
+<heading id="h0006"><b><i>DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</i></b></heading>
+<p id="p0041" num="0041">Terms and phrases used herein are defined as set forth below unless otherwise specified.</p>
+<p id="p0042" num="0042">Throughout this description, the singular forms "a," "an," and "the" include plural reference unless the context clearly dictates otherwise. Thus, for example, a reference to "a host cell" includes a plurality of such host cells, and a reference to "an antibody" is a reference to one or more antibodies and equivalents thereof known to those skilled in the art, and so forth.<!-- EPO <DP n="16"> --></p>
+<p id="p0043" num="0043">The term "AD7c-NTP" refers to the ~41kD protein and the gene and the nucleic acid sequences coding for it described in de la Monte et al., <i>J. Clin. Invest.,</i> 100:3093-104 (1997), in Sequences 120 and 121 of U.S. Patent Nos. 5,948,634, 5,948,888, and 5,830,670.</p>
+<p id="p0044" num="0044">The term "NTP" refers to neural thread proteins and related molecules (including pancreatic thread protein) other than AD7c-NTP as described in U.S. Patent Nos. 5,948,634, 5,948,888, 5,830,670 and 6,071,705 and in de la Monte <i>et al., J. Neuropathol. Exp. Neural., 55</i>(10):1038-50 (1996), de la Monte <i>et al., J. Neural. Sci., 138</i>(1-2):26-35 (1996); de la Monte <i>et al., J. Neural. Sci., 135</i>(2):118-25 (1996), de la Monte <i>et al., J. Clin. Invest., 100</i>:3093-3104 (1997) and de la Monte <i>et al., Alz.. Rep.,</i> 2:327-332 (1999). The term "NTP" includes, but is not limited:
+<ul id="ul0001" list-style="none">
+<li>(a) the ~42, ~26, ~21, ~17, ~14, and ~8 kD species of neural thread protein as described in U.S. Patent Nos. 5,948,634, 5,948,888, 5,830,670, and 6,071,705 and in de la Monte <i>et al., J. Neuropathol. Exp. Neurol., 55</i>(10):1038-50 (1996), de la Monte <i>et al., J. Neurol. Sci., 138</i>(1-2):26-35 (1996); de la Monte <i>et al., J. Neurol. Sci., 135</i>(2):118-25 (1996), de la Monte <i>et al., J. Clin. Invest.,</i> 100:3093-3104 (1997) and de la Monte <i>et al., Alz.. Rep.,</i> 2:327-332 (1999);</li>
+<li>(b) proteins specifically recognized by monoclonal antibody #2 on deposit with the American Type Culture Collection, Manassas, Va., under accession number HB-12546 or monoclonal antibody #5 on deposit with the American Type Culture Collection, Manassas, Va., under accession number HB-12545;</li>
+<li>(c) proteins coded by the AD7c-NTP gene, including splice variants;<!-- EPO <DP n="17"> --></li>
+<li>(d) the 122 amino acid neural thread protein described in Sequence 40 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888 and listed in NCBI Entrez-Protein Accession #AAE25447, PID g10048540, the amino acid sequences for which is illustrated in Figure 1 ("NTP[122]");</li>
+<li>(e) the 112 amino acid neural thread protein listed in NCBI Entrez-Protein Accession #XP_032307, PID g14725132, the amino acid sequences for which is illustrated in Figure 2 ("NTP[112]");</li>
+<li>(f) a 106 amino acid neural thread protein-like protein listed in NCBI Entrez-Protein Accession #AAH14951 PID g15928971, the amino acid sequences for which is illustrated in Figure 3 ("NTP[106]");</li>
+<li>(g) the 98 amino acid neural thread protein described in Sequence 30 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888 and listed in NCBI Entrez-Protein Accession # AAE25445, PID g10048538, the amino acid sequences for which is illustrated in Figure 4 ("NTP[98]");</li>
+<li>(h) the 75 amino acid neural thread protein described in Sequence 48 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888 and listed in NCBI Entrez-Protein Accession #AAE25448, PID g10048541, the amino acid sequences for which is illustrated in Figure 5 ("NTP[75]");</li>
+<li>(i) the 68 amino acid neural thread protein described in Sequence 36 from U.S. Patent Nos. 5,830,670, 5,948,634, and 5,948,888 and listed in NCBI Entrez-Protein Accession #AAE25446, PID g10048539, the amino acid sequences for which is illustrated in Figure 6 ("NTP[68]");<!-- EPO <DP n="18"> --></li>
+<li>(j) the 61 amino acid neural thread protein-like protein listed in NCBI Entrez-Protein Accession #AAH02534, PID g12803421, the amino acid sequences for which is illustrated in Figure 7 ("NTP[61]");</li>
+<li>(k) pancreatic thread protein;</li>
+<li>(1) the neural pancreatic thread protein (nPTP) described in U.S. Patent No. 6,071,705; and</li>
+<li>(m) proteins specifically recognized by the antibodies produced by a hybridoma from the group consisting of HB 9934, HB 9935, and HB 9936 deposited at the American Type Culture Collection.</li>
+</ul><!-- EPO <DP n="19"> --></p>
+<p id="p0045" num="0045">A "composition" as used herein, refers broadly to any composition containing a recited peptide or amino acid sequence. The composition may comprise a dry formulation, an aqueous solution, or a sterile composition. Compositions comprising NTP peptides may be employed as hybridization probes. The probes may be stored in freeze-dried form and may be associated with a stabilizing agent such as a carbohydrate. In hybridizations, the probe may be deployed in an aqueous solution containing salts, <i>e.g.,</i> NaCl, detergents, <i>e.g.</i>, sodium dodecyl sulfate (SDS), and other components, <i>e.g.</i>, Denhardt's solution, dry milk, salmon sperm DNA, etc.</p>
+<p id="p0046" num="0046">Amino acids and amino acid residues described herein may be referred to according to the accepted one or three-letter code provided in the table below. Unless otherwise specified, these amino acids or residues are of the naturally occurring L stereoisomer form.<!-- EPO <DP n="20"> -->
+<tables id="tabl0001" num="0001">
+<table frame="bottom">
+<title>Table 1</title>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="25mm" colsep="0"/>
+<colspec colnum="2" colname="col2" colwidth="32mm" colsep="0"/>
+<colspec colnum="3" colname="col3" colwidth="34mm" colsep="0"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Amino Acid</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">One-Letter Symbol</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Three-Letter Symbol</entry></row></thead>
+<tbody>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Alanine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">A</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Ala</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Arginine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">R</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Arg</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Asparagine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">N</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Asn</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Aspartic acid</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">D</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Asp</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Cysteine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">C</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Cys</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Glutamine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">Q</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Gln</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Glutamic acid</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">E</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Glu</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Glycine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">G</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Gly</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Histidine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">H</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">His</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Isoleucine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">I</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Ile</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Leucine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">L</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Leu</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Lysine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">K</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Lys</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Methionine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">M</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Met</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Phenylalanine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">F</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Phe</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Proline</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">P</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Pro</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Serine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">S</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Ser</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Threonine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">T</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Thr</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Tryptophan</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">W</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Trp</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Tyrosine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">Y</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Tyr</entry></row>
+<row rowsep="1">
+<entry namest="col1" nameend="col1" align="left" valign="top">Valine</entry>
+<entry namest="col2" nameend="col2" align="center" valign="top">V</entry>
+<entry namest="col3" nameend="col3" align="center" valign="top">Val</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0047" num="0047">The present invention is directed to a composition comprising NTP peptides as defined above in this invention.<!-- EPO <DP n="21"> --></p>
+<p id="p0048" num="0048">NTP peptides of this invention containing amino acid sequences corresponding to part of the amino acid sequence for NTP[122] and include:
+<ul id="ul0002" list-style="none">
+<li><u style="single">NTP[122] peptide #2</u> [SEQ ID NO. 9], NTP[122] p1-15<br/>
+MMVCWNRFGKWVYFI<br/>
+Met-Met-Val-Cys-Trp-Asn-Arg-Phe-Gly-Lys-Trp-Val-Tyr-Phe-IIe</li>
+<li><u style="single">NTP[122] peptide #3</u> [SEQ ID NO. 10], NTP[122] p16-30<br/>
+SAIFNFGPRYLYHGV<br/>
+Ser-Ala-Ile-Phe-Asn-Phe-Gly-Pro-Arg-Tyr-Leu-Tyr-His-Gly-Val-</li>
+<li><u style="single">NTP[122] peptide #4</u> [SEQ ID NO.11], NTP[122] p31-45<br/>
+PFYFLILVRIISFLI<br/>
+Pro-Phe-Tyr-Phe-Leu-ne-Leu-Val-Arg-ne-Ile-Ser-Phe-Leu-ne<!-- EPO <DP n="22"> --></li>
+<li><u style="single">NTP[122] peptide #5</u> [SEQ ID NO. 12], NTP[122] p46-60<br/>
+GDMEDVLLNCTLLKR<br/>
+Gly-Asp-Met-Glu-Asp-Val-Leu-Leu-Asn-Cys-Thr-Leu-Leu-Lys-Arg</li>
+<li><u style="single">NTP[122] peptide #6</u> [SEQ ID NO. 13], NTP[122] p60-75<br/>
+SSRFRFWGALVCSMD<br/>
+Ser-Ser-Arg-Phe-Arg-Phe-Trp-Gly-Ala-Leu-Val-Cys-Ser-Met-Asp</li>
+<li><u style="single">NTP[122] peptide #7</u> [SEQ ID NO. 14], NTP[122] p76-90<br/>
+SCRFSRVAVTYRFIT<br/>
+Ser-Cys-Arg-Phe-Ser-Arg-Val-Ala-Val-Thr-Tyr-Arg-Phe-Ile-Thr</li>
+<li><u style="single">NTP[122] peptide #8</u> [SEQ ID NO. 15], NTP[122] p91-105<br/>
+LLNIPSPAVWMARNT<br/>
+Leu-Leu-Asn-Ile-Pro-Ser-Pro-Ala-Val-Trp-Met-Ala-Arg-Asn-Thr</li>
+</ul><!-- EPO <DP n="23"> --></p>
+<p id="p0049" num="0049">To the extent that an NTP peptide has the desired biological activity, it follows that two such NTP peptides would also possess the desired biological activity, even if these segments were not contiguous within the sequence of amino acids of the specie(s) of NTP from which the NTP peptides were derived.</p>
+<p id="p0050" num="0050">NTP peptides of this invention can be prepared using methods known to those of skill in the art, such as recombinant DNA technology, protein synthesis and isolation of naturally occurring NTP peptides, NTP proteins, AD7c-NTP protein and fragments, variants, derivatives and homologues thereof.</p>
+<p id="p0051" num="0051">NTP peptides can be prepared by the use of proteases to cleave the NTP peptide, NTP protein or AD7c-NTP protein into the desired NTP peptide.</p>
+<p id="p0052" num="0052">An NTP peptide can be prepared using well known recombinant DNA technology methods such as those set forth in Sambrook <i>et al. Molecular Cloning: A Laboratory Manual,</i> Cold Spring Harbor Laboratory Press, Cold Spring Harbor, N.Y. [1989] and/or Ausubel <i>et al.,</i> eds., <i>Current Protocols in Molecular Biology,</i> Green Publishers Inc. and Wiley and Sons, N.Y. [1994].</p>
+<p id="p0053" num="0053">A gene or cDNA encoding an NTP peptide may be obtained for example by screening a genomic or cDNA library, or by PCR amplification. Probes or primers useful for screening the library can<!-- EPO <DP n="24"> --> be generated based on sequence information for other known genes or gene fragments from the same or a related family of genes, such as, for example, conserved motifs found in other NTP peptides In addition, where a gene encoding an NTP peptide has been identified from one species, all or a portion of that gene may be used as a probe to identify homologous genes from other species. The probes or primers may be used to screen cDNA libraries from various tissue sources believed to express an NTP peptide gene. Typically, conditions of high stringency will be employed for screening to minimize the number of false positives obtained from the screen.</p>
+<p id="p0054" num="0054">Another means to prepare a gene encoding an NTP peptide is to employ chemical synthesis using methods well known to the skilled artisan, such as those described by Engels <i>et al,</i> .Angew. Chem. Intl. Ed., 28:716-734 [1989]. These methods include, <i>inter alia,</i> the phosphotriester, phosphoramidite, and H-phosphonate methods for nucleic acid synthesis. A preferred method for such chemical synthesis is polymer-supported synthesis using standard phosphoramidite chemistry. Typically, the DNA encoding an NTP peptide will be several hundred nucleotides in length. Nucleic acids larger than about 100 nucleotides can be synthesized as several fragments using these methods. The fragments then can be ligated together to form the full length NTP peptide. Usually, the DNA fragment encoding the amino terminus of the protein will have an ATG, which encodes a methionine residue. This methionine may or may not be present on the mature form of the NTP peptide, depending on whether the protein produced in the host cell is designed to be secreted from that cell.</p>
+<p id="p0055" num="0055">The gene, cDNA, or fragment thereof encoding the NTP peptide can be inserted into an appropriate expression or amplification vector using standard ligation techniques. The vector is<!-- EPO <DP n="25"> --> typically selected to be functional in the particular host cell employed (<i>i.e.</i>, the vector is compatible with the host cell machinery such that amplification of the gene and/or expression of the gene can occur). The gene, cDNA or fragment thereof encoding the NTP peptide may be amplified/expressed in prokaryotic, yeast, insect (baculovirus systems) and/or eukaryotic host cells. Selection of the host cell will depend in part on whether the NTP peptide is to be glycosylated and/or phosphorylated. If so, yeast, insect, or mammalian host cells are preferable.</p>
+<p id="p0056" num="0056">Typically, the vectors used in any of the host cells will contain at least a 5' flanking sequence (also referred to as a promoter) and other regulatory elements as well, such as an enhancer(s), an origin of replication element, a transcriptional termination element, a complete intron sequence containing a donor and acceptor splice site, a signal peptide sequence, a ribosome binding site element, a polyadenylation sequence, a polylinker region for inserting the nucleic acid encoding the polypeptide to be expressed, and a selectable marker element. Each of these elements is discussed below. Optionally, the vector may contain a tag sequence, <i>i.e.</i>, an oligonucleotide molecule located at the 5' or 3' end of the NTP peptide coding sequence; the oligonucleotide molecule encodes polyHis (such as hexaHis), or other tag such as FLAG, HA (hemaglutinin Influenza virus) or myc for which commercially available antibodies exist. This tag is typically fused to the polypeptide upon expression of the polypeptide, and can serve as means for affinity purification of the NTP peptide from the host cell. Affinity purification can be accomplished, for example, by column chromatography using antibodies against the tag as an affinity matrix. Optionally, the tag can subsequently be removed from the purified NTP<!-- EPO <DP n="26"> --> protein or NTP peptide by various means such as using certain peptidases.</p>
+<p id="p0057" num="0057">The human immunoglobulin hinge and Fc region could be fused at either the N-terminus or C-terminus of the NTP peptide by one skilled in the art. The subsequent Fc-fusion protein could be purified by use of a Protein A affinity column. Fc is known to exhibit a long pharmacokinetic half-life <i>in vivo</i> and proteins fused to Fc have been found to exhibit a substantially greater half-life <i>in vivo</i> than the unfused counterpart. Also, fusion to the Fc region allows for dimerization/multimerization of the molecule that may be useful for the bioactivity of some molecules.</p>
+<p id="p0058" num="0058">The 5' flanking sequence may be homologous (<i>i.e.,</i> from the same species and/or strain as the host cell), heterologous (<i>i.e.</i>, from a species other than the host cell species or strain), hybrid (<i>i.e.</i>, a combination of 5' flanking sequences from more than one source), synthetic, or it may be the native NTP peptide gene 5' flanking sequence. As such, the source of the 5' flanking sequence may be any unicellular prokaryotic or eukaryotic organism, any vertebrate or invertebrate organism, or any plant, provided that the 5' flanking sequence is functional in, and can be activated by, the host cell machinery.</p>
+<p id="p0059" num="0059">The 5' flanking sequences useful in the vectors may be obtained by any of several methods well known in the art. Typically, 5' flanking sequences useful herein other than the NTP peptide gene flanking sequence will have been previously identified by mapping and/or by restriction endonuclease digestion and can thus be isolated from the proper tissue source using the appropriate restriction endonucleases. In some cases, the full nucleotide sequence of the 5' flanking sequence may be known. Here, the 5' flanking sequence<!-- EPO <DP n="27"> --> may be synthesized using the methods described above for nucleic acid synthesis or cloning.</p>
+<p id="p0060" num="0060">Where all or only a portion of the 5' flanking sequence is known, it may be obtained using PCR and/ or by screening a genomic library with suitable oligonucleotide and/ or 5' flanking sequence fragments from the same or another species.</p>
+<p id="p0061" num="0061">Where the 5' flanking sequence is not known, a fragment of DNA containing a 5' flanking sequence may be isolated from a larger piece of DNA that may contain, for example, a coding sequence or even another gene or genes. Isolation may be accomplished by restriction endonuclease digestion using one or more carefully selected enzymes to isolate the proper DNA fragment. After digestion, the desired fragment may be isolated by agarose gel purification, Qiagen® column or other methods known to the skilled artisan. Selection of suitable enzymes to accomplish this purpose will be readily apparent to one of ordinary skill in the art.</p>
+<p id="p0062" num="0062">The origin of replication element is typically a part of prokaryotic expression vectors purchased commercially, and aids in the amplification of the vector in a host cell. Amplification of the vector to a certain copy number can, in some cases, be important for optimal expression of the NTP peptide. If the vector of choice does not contain an origin of replication site, one may be chemically synthesized based on a known sequence, and ligated into the vector. The transcription termination element is typically located 3' of the end of the NTP peptide coding sequence and serves to terminate transcription of the NTP peptide. Usually, the transcription termination element in prokaryotic cells is a G-C rich fragment followed by a poly T sequence. While the element may be cloned from a library or purchased commercially as part of a vector, it can also be readily synthesized using methods for nucleic acid synthesis such as those described above.<!-- EPO <DP n="28"> --></p>
+<p id="p0063" num="0063">A selectable marker gene element encodes a protein necessary for the survival and growth of a host cell grown in a selective culture medium. Typical selection marker genes encode proteins that (a) confer resistance to antibiotics or other toxins, e.g., ampicillin, tetracycline, or kanamycin for prokaryotic host cells, (b) complement auxotrophic deficiencies of the cell; or (c) supply critical nutrients not available from complex media. Preferred selectable markers are the kanamycin resistance gene, the ampicillin resistance gene, and the tetracycline resistance gene.</p>
+<p id="p0064" num="0064">The ribosome binding element, commonly called the Shine-Dalgarno sequence (prokaryotes) or the Kozak sequence (eukaryotes), is usually necessary for translation initiation of mRNA. The element is typically located 3' to the promoter and 5' to the coding sequence of the NTP peptide to be synthesized. The Shine-Dalgarno sequence is varied but is typically a polypurine (<i>i.e.</i>, having a high A-G content). Many Shine-Dalgarno sequences have been identified, each of which can be readily synthesized using methods set forth above and used in a prokaryotic vector.</p>
+<p id="p0065" num="0065">In those cases where it is desirable for NTP peptide to be secreted from the host cell, a signal sequence may be used to direct the NTP peptide out of the host cell where it is synthesized, and the carboxy-terminal part of the protein may be deleted in order to prevent membrane anchoring. Typically, the signal sequence is positioned in the coding region of the NTP peptide gene or cDNA, or directly at the 5' end of the NTP peptide gene coding region. Many signal sequences have been identified, and any of them that are functional in the selected host cell may be used in conjunction with the NTP peptide gene or cDNA. Therefore, the signal sequence may be homologous or heterologous to the NTP peptide gene or cDNA, and may be homologous or<!-- EPO <DP n="29"> --> heterologous to the NTP peptide gene or cDNA. Additionally, the signal sequence may be chemically synthesized using methods set forth above. In most cases, secretion of the polypeptide from the host cell via the presence of a signal peptide will result in the removal of the amino terminal methionine from the polypeptide.</p>
+<p id="p0066" num="0066">In many cases, transcription of the NTP peptide gene or cDNA is increased by the presence of one or more introns in the vector; this is particularly true where the NTP peptide is produced in eukaryotic host cells, especially mammalian host cells. The introns used may be naturally occurring within the NTP peptide gene, especially where the gene used is a full length genomic sequence or a fragment thereof. Where the intron is not naturally occurring within the gene (as for most cDNAs), the intron(s) may be obtained from another source. The position of the intron with respect to the flanking sequence and the NTP peptide gene generally is important, as the intron must be transcribed to be effective. As such, where the NTP peptide gene inserted into the expression vector is a cDNA molecule, the preferred position for the intron is 3' to the transcription start site, and 5' to the polyA transcription termination sequence. Preferably for NTP peptide cDNA, the intron or introns will be located on one side or the other (<i>i.e.</i>, 5' or 3') of the cDNA such that it does not interrupt this coding sequence. Any intron from any source, including any viral, prokaryotic and eukaryotic (plant or animal) organisms, may be used to practice this invention, provided that it is compatible with the host cell(s) into which it is inserted. Also included herein are synthetic introns. Optionally, more than one intron may be used in the vector.</p>
+<p id="p0067" num="0067">Where one or more of the elements set forth above are not already present in the vector to be used, they may be individually obtained and<!-- EPO <DP n="30"> --> ligated into the vector. Methods used for obtaining each of the elements are well known to the skilled artisan and are comparable to the methods set forth above (<i>i.e.</i>, synthesis of the DNA, library screening, and the like).</p>
+<p id="p0068" num="0068">The final vectors used to practice this invention may be constructed from starting vectors such as a commercially available vector. Such vectors may or may not contain some of the elements to be included in the completed vector. If none of the desired elements are present in the starting vector, each element may be individually ligated into the vector by cutting the vector with the appropriate restriction endonuclease(s) such that the ends of the element to be ligated in and the ends of the vector are compatible for ligation. In some cases, it may be necessary to blunt the ends to be ligated together in order to obtain a satisfactory ligation. Blunting is accomplished by first filling in "sticky ends" using Klenow DNA polymerase or T4 DNA polymerase in the presence of all four nucleotides. This procedure is well known in the art and is described for example in Sambrook <i>et al., supra.</i> Alternatively, two or more of the elements to be inserted into the vector may first be ligated together (if they are to be positioned adjacent to each other) and then ligated into the vector.</p>
+<p id="p0069" num="0069">An additional method for constructing the vector is to conduct all ligations of the various elements simultaneously in one reaction mixture. Here, many nonsense or nonfunctional vectors will be generated due to improper ligation or insertion of the elements, however the functional vector may be identified and selected by restriction endonuclease digestion.</p>
+<p id="p0070" num="0070">Preferred vectors for practicing this invention are those that are compatible with bacterial, insect, and mammalian host cells. Such vectors include, <i>inter alia,</i> pCRII, pCR3, and pcDNA3.1 (Invitrogen Company, San Diego, Calif.), pBSII (Stratagene Company, La Jolla, Calif.), pET15b<!-- EPO <DP n="31"> --> (Novagen, Madison, Wis.), PGEX (Pharmacia Biotech, Piscataway, N.J.), pEGFP-N2 (Clontech, Palo Alto, Calif.), pETL (BlueBacII; Invitrogen), and pFastBacDual (Gibco/BRL, Grand Island, N.Y.).</p>
+<p id="p0071" num="0071">After the vector has been constructed and a nucleic acid molecule encoding NTP peptide has been inserted into the proper site of the vector, the completed vector may be inserted into a suitable host cell for amplification and/or polypeptide expression. Host cells may be prokaryotic host cells (such as <i>E. coli</i>) or eukaryotic host cells (such as a yeast cell, an insect cell, or a vertebrate cell). The host cell, when cultured under appropriate conditions, can synthesize NTP peptide which can subsequently be collected from the culture medium (if the host cell secretes it into the medium) or directly from the host cell producing it (if it is not secreted).</p>
+<p id="p0072" num="0072">After collection, the NTP peptide can be purified using methods such as molecular sieve chromatography, affinity chromatography, and the like. Selection of the host cell for NTP peptide production will depend in part on whether the NTP peptide is to be glycosylated or phosphorylated (in which case eukaryotic host cells are preferred), and the manner in which the host cell is able to fold the protein into its native tertiary structure (<i>e.g.</i>, proper orientation of disulfide bridges, etc.) such that biologically active protein is prepared by the NTP peptide that has biological activity, the NTP peptide may be folded after synthesis using appropriate chemical conditions as discussed below. Suitable cells or cell lines may be mammalian cells, such as Chinese hamster ovary cells (CHO), human embryonic kidney (HEK) 293, 293T cells, or 3T3 cells. The selection of suitable mammalian host cells and methods for transformation, culture, amplification, screening and product production and purification are known in the art. Other suitable mammalian cell<!-- EPO <DP n="32"> --> lines, are the monkey COS-1 and COS-7 cell lines, and the CV-1 cell line. Further exemplary mammalian host cells include primate cell lines and rodent cell lines, including transformed cell lines. Normal diploid cells, cell strains derived from <i>in vitro</i> culture of primary tissue, as well as primary explants, are also suitable. Candidate cells may be genotypically deficient in the selection gene, or may contain a dominantly acting selection gene. Other suitable mammalian cell lines include but are not limited to, mouse neuroblastoma N2A cells, HeLa, mouse L-929 cells, 3T3 lines derived from Swiss, Balb-c or NIH mice, BHK or HaK hamster cell lines.</p>
+<p id="p0073" num="0073">Similarly useful as host cells suitable for the present invention are bacterial cells. For example, the various strains of <i>E. coli</i> (e.g., HB101, DH5.alpha., DH10, and MC1061) are well-known as host cells in the field of biotechnology. Various strains of <i>B. subtilis, Pseudomonas</i> spp., other <i>Bacillus</i> spp., <i>Streptomyces</i> spp., and the like may also be employed in this method. Many strains of yeast cells known to those skilled in the art also are available as host cells for expression of the polypeptides of the present invention.</p>
+<p id="p0074" num="0074">Additionally, where desired, insect cell systems may be utilized in the methods of the present invention. Such systems are described for example in Kitts <i>et al.</i> (<i>Biotechniques,</i> 14:810-817 [1993]), Lucklow (<i>Curr. Opin. Biotechnol.,</i> 4:564-572 [1993]) and Lucklow <i>et al.</i> (<i>J. Virol.,</i> 67:4566-4579 [1993]). Preferred insect cells are Sf-9 and Hi5 (Invitrogen, Carlsbad, Calif.).</p>
+<p id="p0075" num="0075">Insertion (also referred to as transformation or transfection) of the vector into the selected host cell may be accomplished using such methods as calcium chloride, electroporation, microinjection, lipofection, or the DEAE-dextran method. The method selected will in part be a function of the type of host cell to be used. These methods and other suitable<!-- EPO <DP n="33"> --> methods are well known to the skilled artisan, and are set forth, for example, in Sambrook <i>et al., supra.</i></p>
+<p id="p0076" num="0076">The host cells containing the vector (i.e., transformed or transfected) may be cultured using standard media well known to the skilled artisan. The media will usually contain all nutrients necessary for the growth and survival of the cells. Suitable media for culturing <i>E. coli</i> cells are for example, Luria Broth (LB) and/or Terrific Broth (TB). Suitable media for culturing eukaryotic cells are RPMI 1640, MEM, DMEM, all of which may be supplemented with serum and/or growth factors as required by the particular cell line being cultured. A suitable medium for insect cultures is Grace's medium supplemented with yeastolate, lactalbumin hydrolysate, and/or fetal calf serum as necessary. Typically, an antibiotic or other compound useful for selective growth of the transformed cells only is added as a supplement to the media. The compound to be used will be dictated by the selectable marker element present on the plasmid with which the host cell was transformed. For example, where the selectable marker element is kanamycin resistance, the compound added to the culture medium will be kanamycin.</p>
+<p id="p0077" num="0077">The amount of NTP peptide produced in the host cell can be evaluated using standard methods known in the art. Such methods include, without limitation, Western blot analysis, SDS-polyacrylamide gel electrophoresis, non-denaturing gel electrophoresis, HPLC separation, mass spectroscopy, immunoprecipitation, and/or activity assays such as DNA binding gel shift assays.</p>
+<p id="p0078" num="0078">If the NTP peptide has been designed to be secreted from the host cells, the majority of the NTP peptide may be found in the cell culture medium. Proteins prepared in this way will typically not possess an amino terminal methionine, as it is removed during secretion from the cell. If however, the NTP<!-- EPO <DP n="34"> --> peptide is not secreted from the host cells, it will be present in the cytoplasm and/or the nucleus (for eukaryotic host cells) or in the cytosol (for gram negative bacteria host cells) and may have an amino terminal methionine.</p>
+<p id="p0079" num="0079">For NTP peptide situated in the host cell cytoplasm and/ or nucleus, the host cells are typically first disrupted mechanically or with detergent to release the intra-cellular contents into a buffered solution. NTP peptide can then be isolated from this solution.</p>
+<p id="p0080" num="0080">Purification of NTP peptide from solution can be accomplished using a variety of techniques. If the protein has been synthesized such that it contains a tag such as hexaHistidine (<i>e.g.</i> NTP peptide/hexaHis) or other small peptide such as FLAG (Sigma-Aldritch, St. Louis, MI) or calmodulin-binding peptide (Stratagene, La Jolla, CA) at either its carboxyl or amino terminus, it may essentially be purified in a one-step process by passing the solution through an affinity column where the column matrix has a high affinity for the tag or for the protein directly (<i>i.e.</i>, a monoclonal antibody specifically recognizing the NTP peptide). For example, polyhistidine binds with great affinity and specificity to nickel, zinc and cobalt; thus immobilized metal ion affinity chromatography which employs a nickel-based affinity resin (as used in Qiagen's QIAexpress system or Invitrogen's Xpress System) or a cobalt-based affinity resin (as used in BD Biosciences-CLONTECH's Talon system) can be used for purification of NTP peptide/polyHis. (<i>See,</i> for example, Ausubel <i>et al.,</i> eds., <i>Current Protocols in Molecular Biology,</i> Section 10.11.8, John Wiley &amp; Sons, New York [1993]).</p>
+<p id="p0081" num="0081">Where the NTP peptide is prepared without a tag attached, and no antibodies are available, other well known procedures for purification can be used. Such procedures include, without limitation,<!-- EPO <DP n="35"> --> ion exchange chromatography, hydroxyapatite chromatography, hydrophobic interaction chromatography, molecular sieve chromatography, HPLC, native gel electrophoresis in combination with gel elution, and preparative isoelectric focusing (Isoprime machine/technique, Hoefer Scientific). In some cases, two or more of these techniques may be combined to achieve increased purity.</p>
+<p id="p0082" num="0082">If it is anticipated that the NTP peptide will be found primarily intracellularly, the intracellular material (including inclusion bodies for gram-negative bacteria) can be extracted from the host cell using any standard technique known to the skilled artisan. For example, the host cells can be lysed to release the contents of the periplasm/ cytoplasm by French press, homogenization, and/or sonication followed by centrifugation. If the NTP peptide has formed inclusion bodies in the cytosol, the inclusion bodies can often bind to the inner and/or outer cellular membranes and thus will be found primarily in the pellet material after centrifugation. The pellet material then can be treated at pH extremes or with chaotropic agent such as a detergent, guanidine, guanidine derivatives, urea, or urea derivatives in the presence of a reducing agent such as dithiothreitol at alkaline pH or tris carboxyethyl phosphine at acid pH to release, break apart, and solubilize the inclusion bodies. The NTP peptide in its now soluble form can then be analyzed using gel electrophoresis, immunoprecipitation or the like. If it is desired to isolate the NTP peptide, isolation may be accomplished using standard methods such as those set forth below and in Marston <i>et al. Meth. Enz.</i>, 182:264-275 [1990].</p>
+<p id="p0083" num="0083">In some cases, the NTP peptide may not be biologically active upon isolation. Various methods for refolding or converting the polypeptide to its tertiary structure and generating<!-- EPO <DP n="36"> --> disulfide linkages, can be used to restore biological activity. Such methods include exposing the solubilized polypeptide to a pH usually above 7 and in the presence of a particular concentration of a chaotrope. The selection of chaotrope is very similar to the choices used for inclusion body solubilization but usually at a lower concentration and is not necessarily the same chaotrope as used for the solubilization. In most cases the refolding/oxidation solution will also contain a reducing agent or the reducing agent plus its, oxidized form in a specific ratio to generate a particular redox potential allowing for disulfide shuffling to occur in the formation of the protein's cysteine bridge(s). Some of the commonly used redox couples include cysteine/cystamine, glutathione (GSH)/dithiobis GSH, cupric chloride, dithiothreitol(DTT)/dithiane DTT, 2-mercaptoethanol(bME)/dithio-b(ME). In many instances a cosolvent is necessary to increase the efficiency of the refolding and the more common reagents used for this purpose include glycerol, polyethylene glycol of various molecular weights, and arginine.</p>
+<p id="p0084" num="0084">If NTP peptide inclusion bodies are not formed to a significant degree in the host cell, the NTP peptide will be found primarily in the supernatant after centrifugation of the cell homogenate, and the NTP peptide can be isolated from the supernatant using methods such as those set forth below.</p>
+<p id="p0085" num="0085">In those situations where it is preferable to partially or completely isolate the NTP peptide, purification can be accomplished using standard methods well known to the skilled artisan. Such methods include, without limitation, separation by electrophoresis followed by electroelution, various types of chromatography (immunoaffinity, molecular sieve, and/or ion exchange), and/or high pressure liquid chromatography. In some cases, it may be preferable to use more than one of these methods for complete purification.<!-- EPO <DP n="37"> --></p>
+<p id="p0086" num="0086">In addition to preparing and purifying NTP peptides using recombinant DNA techniques, the NTP peptides may be prepared by chemical synthesis methods (such as solid phase peptide synthesis) using techniques known in the art such as those set forth by Merrifield <i>et al., J. Am. Chem. Soc.,</i> 85:2149 [1963], Houghten <i>et al. Proc Natl Acad. Sci. USA,</i> 82:5132 [1985], and Stewart and Young, <i>Solid Phase Peptide Synthesis,</i> Pierce Chemical Co., Rockford, III. [1984]. Such polypeptides may be synthesized with or without a methionine on the amino terminus. Chemically synthesized NTP proteins or NTP peptides may be oxidized using methods set forth in these references to form disulfide bridges. The NTP proteins or NTP. peptides are expected to have biological activity comparable to NTP proteins or NTP peptides produced recombinantly or purified from natural sources, and thus may be used interchangeably with recombinant or natural NTP protein or NTP peptide.<!-- EPO <DP n="38"> --></p>
+<p id="p0087" num="0087">NTP peptides, and salts thereof also can be made using conventional peptide synthesis techniques known to the skilled artisan. These techniques include chemical coupling methods (cf. Wunsch, E: "Methoden der organischen Chemie", Volume 15, Band 1+2,<!-- EPO <DP n="39"> --> <i>Synthese von Peptiden, Thieme Verlag, Stuttgart</i> (1974), and Barrany, G.; Marrifield, R. B.: "The Peptides," eds. E. Gross, J. Meienhofer, Volume 2, Chapter 1, pp. 1-284, Academic Press (1980)), enzymatic coupling methods (cf. Widmer, F. Johansen, J. T., <i>Carlsberg Res. Commun.,</i> Vol. 44, pp. 37-46 (1979); Kullmann, W.: "Enzymatic Peptide Synthesis", CRC Press Inc. Boca Raton, Fla. (1987); and Widmer, F., Johansen, J. T. in "Synthetic Peptides in Biology and Medicines," eds. Alitalo, K., Partanen, P., Vatieri, A., pp.79-86, Elsevier, Amsterdam (1985)), or a combination of chemical and enzymatic methods if this is advantageous for the process design and economy.<!-- EPO <DP n="40"> --></p>
+<p id="p0088" num="0088">A number of organizations exist today that are capable of synthesizing the NTP peptides described herein. For example, given the sequence of an NTP peptide, the organization can synthesize the peptide and forward the synthesized peptide with accompanying documentation and proof of the identity of the peptide.<!-- EPO <DP n="41"> --></p>
+<p id="p0089" num="0089">The NTP-peptides of the invention are useful for treating conditions requiring removal of cells, such as benign and malignant tumors, glandular (<i>e.g.</i> prostate) hyperplasia, unwanted facial hair, warts, and unwanted fatty tissue, or the inhibition or prevention of unwanted cellular proliferation, such as stenosis of a stent.</p>
+<p id="p0090" num="0090">The condition can be, for example, tumors of lung, breast, stomach, pancreas, prostate, bladder, bone, ovary, skin, kidney, sinus, colon, intestine, stomach, rectum, esophagus, blood, brain and its coverings, spinal cord and its coverings, muscle, connective tissue, adrenal, parathyroid, thyroid, uterus, testis, pituitary, reproductive organs, liver, gall bladder, eye, ear, nose, throat, tonsils, mouth, lymph nodes and lymphoid system, and other organs.</p>
+<p id="p0091" num="0091">As used herein, the term "malignant tumor" is intended to encompass all forms of human carcinomas, sarcomas and melanomas which occur in the poorly differentiated, moderately differentiated, and well-differentiated forms.</p>
+<p id="p0092" num="0092">This invention satisfies a need in the art for treatments that can remove benign tumors with less risk and fewer of the undesirable side effects of surgery. A method for removing benign tumors in surgically<!-- EPO <DP n="42"> --> hazardous areas such as in deep locations in the body (<i>e.g.</i>, brain, heart, lungs, and others) is particularly needed.</p>
+<p id="p0093" num="0093">Treatment of conditions where cells must be removed can be used in conjunction with conventional methods of treating such conditions, such as surgical excision, chemotherapy, and radiation. NTP peptides can be administered before, during, or after such conventional treatments.</p>
+<p id="p0094" num="0094">The condition to be treated can also be a hyperplasia, hypertrophy, or overgrowth of a tissue selected from the group consisting of lung, breast, stomach, pancreas, prostate, bladder, bone, ovary, skin, kidney, sinus, colon, intestine, stomach, rectum, esophagus, blood, brain and its coverings, spinal cord and its coverings, muscle, connective tissue, adrenal, parathyroid, thyroid, uterus, testis, pituitary, reproductive organs, liver, gall bladder, eye, ear, nose, throat, tonsils, mouth, and lymph nodes and lymphoid system.</p>
+<p id="p0095" num="0095">Other conditions that can be treated using the method of the invention are virally, bacterially, or parasitically altered tissue selected from the group consisting of lung, breast, stomach, pancreas, prostate, bladder, bone, ovary, skin, kidney, sinus, colon, intestine, stomach, rectum, esophagus, blood, brain and its coverings, spinal cord and its coverings, muscle, connective tissue, adrenal, parathyroid, thyroid, uterus, testis, pituitary, reproductive organs, liver, gall bladder, eye, ear, nose, throat, tonsils, mouth, and lymph nodes and lymphoid system.</p>
+<p id="p0096" num="0096">The condition to be treated can also be a malformation or disorder of a tissue selected from the group consisting of lung, breast, stomach, pancreas, prostate, bladder, bone, ovary, skin, kidney, sinus, colon, intestine, stomach, rectum, esophagus, blood, brain and its coverings, spinal cord and its coverings, muscle, connective tissue, adrenal,<!-- EPO <DP n="43"> --> parathyroid, thyroid, uterus, testis, pituitary, reproductive organs, liver, gall bladder, eye, ear, nose, throat, tonsils, mouth, and lymph nodes and lymphoid system.</p>
+<p id="p0097" num="0097">In particular, the condition to be treated can be tonsillar hypertrophy, prostatic hyperplasia, psoriasis, eczema, dermatoses or hemorrhoids. The condition to be treated can be a vascular disease, such as atherosclerosis or arteriosclerosis, or a vascular disorder, such as varicose veins, stenosis or restenosis of an artery or a stent. The condition to be treated can also be a cosmetic modification to a tissue, such as skin, eye, ear, nose, throat, mouth, muscle, connective tissue, hair, or breast tissue.</p>
+<p id="p0098" num="0098">Therapeutic compositions of NTP peptides also are contemplated in the present invention. Such compositions may comprise a therapeutically effective amount of an NTP peptide in admixture with a pharmaceutically acceptable carrier. The carrier material may be water for injection, preferably supplemented with other materials common in solutions for administration to mammals. Typically, an NTP peptide for therapeutic use will be administered in the form of a composition comprising purified NTP peptide in conjunction with one or more physiologically acceptable carriers, excipients, or diluents. Neutral buffered saline or saline mixed with serum albumin are exemplary appropriate carriers. Preferably, the product is formulated as a lyophilizate using appropriate excipients (e.g., sucrose). Other standard carriers, diluents, and excipients may be included as desired. Compositions of the invention also may comprise buffers known to those having ordinary skill in the art with an appropriate range of pH values, including Tris buffer of about pH 7.0-8.5, or acetate buffer of about pH 4.0-5.5, which may further include sorbitol or a suitable substitute therefor.<!-- EPO <DP n="44"> --></p>
+<p id="p0099" num="0099">The NTP peptides may be employed alone, together, or in combination with other pharmaceutical compositions, such as cytokines, growth factors, antibiotics, apoptotis-inducing agents, antiinflammatories, and/or chemotherapeutic agents as is appropriate for the indication being treated.</p>
+<p id="p0100" num="0100">This invention also encompasses therapeutic compositions of NTP peptides employing dendrimers, fullerenes, and other synthetic molecules, polymers and macromolecules where the NTP peptide enclosed in the molecule, polymer or macromolecule, either by itself or in conjunction with other species of molecule such as a tumor-specific marker. For example, U.S. Patent No. 5,714,166, <i>Bioactive and</i>/<i>or Targeted Dendinier Conjugates,</i> provides a method of preparing and using, <i>inter alia,</i> dendritic polymer conjugates composed of at least one dendrimer with a target director(s) and at least one bioactive agent conjugated to it. The disclosure of U.S. Patent No. 5,714,166 is incorporated by reference herein in its entirety.<!-- EPO <DP n="45"> --></p>
+<p id="p0101" num="0101">Solid dosage forms for oral administration include but are not limited to, capsules, tablets, pills, powders, and granules. In such solid dosage forms, the active compound is admixed with at least one of the following: (a) one or more inert excipients (or carrier), such as sodium citrate or dicalcium phosphate; (b) fillers or extenders, such as starches, lactose, sucrose, glucose, mannitol, and silicic acid; (c) binders, such as carboxymethylcellulose, alginates, gelatin, polyvinylpyrrolidone, sucrose and acacia; (d) humectants, such as glycerol; (e) disintegrating agents,<!-- EPO <DP n="46"> --> such as agar-agar, calcium carbonate, potato or tapioca starch, alginic acid, certain complex silicates, and sodium carbonate; (f) solution retarders, such as paraffin; (g) absorption accelerators, such as quaternary ammonium compounds; (h) wetting agents, such as acetyl alcohol and glycerol monostearate; (i) adsorbents, such as kaolin and bentonite; and (j) lubricants, such as talc, calcium stearate, magnesium stearate, solid polyethylene glycols, sodium lauryl sulfate, or mixtures thereof. For capsules, tablets, and pills, the dosage forms may also comprise buffering agents.</p>
+<p id="p0102" num="0102">Liquid dosage forms for oral administration include pharmaceutically acceptable emulsions, solutions, suspensions, syrups, and elixirs. In addition to the active compounds, the liquid dosage forms may comprise inert diluents commonly used in the art, such as water or other solvents, solubilizing agents, and emulsifiers. Exemplary emulsifiers are ethyl alcohol, isopropyl alcohol, ethyl carbonate, ethyl acetate, benzyl alcohol, benzyl benzoate, propyleneglycol, 1,3-butyleneglycol, dimethylformamide, oils, such as cottonseed oil, groundnut oil, corn germ oil, olive oil, castor oil, and sesame oil, glycerol, tetrahydrofurfuryl alcohol, polyethyleneglycols, fatty acid esters of sorbitan, or mixtures of these substances, and the like.</p>
+<p id="p0103" num="0103">Besides such inert diluents, the composition can also include adjuvants, such as wetting agents, emulsifying and suspending agents, sweetening, flavoring, and perfuming agents.</p>
+<p id="p0104" num="0104">Actual dosage levels of active ingredients in the compositions of the invention may be varied to obtain an amount of NTP peptide that is effective to obtain a desired therapeutic response for a particular composition and method of administration. The selected dosage level therefore depends upon the desired therapeutic effect, the route of administration, the desired duration of treatment, and other factors.<!-- EPO <DP n="47"> --></p>
+<p id="p0105" num="0105">With mammals, including humans, the effective amounts can be administered on the basis of body surface area. The interrelationship of dosages for animals of various sizes, species and humans (based on mg/M<sup>2</sup> of body surface) is described by E. J. Freireich <i>et al., Cancer Chemother. Rep.,</i> 50 (4):219 (1966). Body surface area may be approximately determined from the height and weight of an individual (<i>see e.g.,</i> Scientific Tables, Geigy Pharmaceuticals, Ardsley, N.Y. pp. 537-538 (1970)).</p>
+<p id="p0106" num="0106">The total daily dose of the NTP peptide administered to a host may be in single or divided doses. Dosage unit compositions may contain such amounts of such submultiples thereof as may be used to make up the daily dose. It will be understood, however, that the specific dose level for any particular patient will depend upon a variety of factors including the body weight, general health, sex, diet, time and route of administration, potency of the administered drug, rates of absorption and excretion, combination with other drugs and the severity of the particular disease being treated.</p>
+<p id="p0107" num="0107">The NTP peptide composition according to the invention may be administered intramuscularly, orally, intravenously, intraperitoneally, intracerebrally (intraparenchymally), intracerebroventricularly, intratumorally, intralesionally, intradermally, intrathecally, intranasally, intraocularly, intraarterially, topically, transdermally, via an aerosol, infusion, bolus injection, implantation device, sustained release system etc.</p>
+<p id="p0108" num="0108">The NTP peptide of the invention may also be administered by a transdermal or transcutaneous route. One example of such an embodiment is the use of a patch. In particular, a patch can be prepared with a fine suspension of NTP peptide in, for example, dimethylsulfoxide (DMSO), or a mixture of DMSO with cottonseed oil and brought into<!-- EPO <DP n="48"> --> contact with the skin of the tumor carrying mammals away from the tumor location site inside a skin pouch. Other mediums or mixtures thereof with other solvents and solid supports would work equally as well. The patch can contain the NTP peptide compound in the form of a solution or a suspension. The patch can then be applied to the skin of the patient, for example, by means of inserting it into a skin pouch of the patient formed by folding and holding the skin together by means of stitches, clips or other holding devices. This pouch should be employed in such a manner so that continuous contact with the skin is assured without the interference of the mammal. Besides using a skin pouch, any device can be used which ensures the firm placement of the patch in contact with the skin. For instance, an adhesive bandage could be used to hold the patch in place on the skin.</p>
+<p id="p0109" num="0109">NTP peptide may be administered in a sustained release formulation or preparation. Suitable examples of sustained-release preparations include semipermeable polymer matrices in the form of shaped articles, e.g. films, or microcapsules. Sustained release matrices include polyesters, hydrogels, polylactides (U.S. 3,773,919, EP 58,481), copolymers of L-glutamic acid and gamma ethyl-L-glutamate (Sidman <i>et al., Biopolymers,</i> 22: 547-556 [1983]), poly (2-hydroxyethyl-methacrylate) (Langer <i>et al., J. Biomed. Mater. Res.,</i> 15: 167-277 [1981] and Langer, <i>Chem. Tech.,</i> 12: 98-105 [1982]), ethylene vinyl acetate (Langer <i>et al., supra</i>) or poly-D(-)-3-hydroxybutyric acid (EP 133,988). Sustained-release compositions also may include liposomes, which can be prepared by any of several methods known in the art (e.g., Eppstein <i>et al., Proc. Natl. Acad. Sci. USA,</i> 82:3688-3692 [1985]; EP 36,676; EP 88,046; and EP 143,949).</p>
+<p id="p0110" num="0110">Another administration route for an NTP peptide of the invention is by direct or indirect infusion of NTP peptide into the tumor or other tissue to be treated. One example of such an embodiment is the direct<!-- EPO <DP n="49"> --> injection of NTP peptide into the tumor or other tissue to be treated. The treatment may consist of a single injection, multiple injections on one occasion or a series of injections over a period of hours, days or months with the regression or destruction of the tumor or other tissue to be treated being monitored by means of biopsy, imaging or other methods of monitoring tissue growth. The injection into the tumor or other tissue to be treated may be by a device inserted into an orifice such as the nose, mouth, ear, vagina, rectum or urethra or through an incision in order to reach the tumor or tissue <i>in vivo</i> and may performed in conjunction with an imaging or optical system such as ultrasound or fibre optic scope in order to identify the appropriate site for the injection(s). Another example of such an embodiment is the use of a device that can provide a constant infusion of NTP peptide to the tissue over time.</p>
+<p id="p0111" num="0111">Another administration route for an NTP peptide of the invention is in conjunction with a surgical or similar procedure employed to physically excise, ablate or otherwise kill or destroy tumor or other tissue or cellular elements required or desired to be removed or destroyed wherein an NTP peptide of the invention is administered to the immediate area(s) surrounding the area(s) where the tumor or other tissue was removed in order to destroy or impede the growth of any tumor cells or other cellular elements not removed or destroyed by the procedure</p>
+<p id="p0112" num="0112">Another administration route for an NTP peptide of the invention is by implantation of a device within the tumor or other tissue to be treated. One example of such an embodiment is the implantation of a wafer containing NTP peptide in the tumor or other tissue to be treated. The wafer releases a therapeutic dose of NTP peptide into the tissue over time. Alternatively or additionally, the composition may be administered locally via implantation into the affected area of a membrane, sponge, or other appropriate material on to which the NTP peptide has been<!-- EPO <DP n="50"> --> absorbed. Where an implantation device is used, the device may be implanted into any suitable tissue or organ, and delivery of the NTP peptide may be directly through the device via bolus, or via continuous administration, or via catheter using continuous infusion.<!-- EPO <DP n="51"> --></p>
+<heading id="h0007"><u style="single">Example 1</u> (for comparison only)</heading>
+<p id="p0113" num="0113">The purpose of this example was to determine the effect of NTP[122] peptide #1 on tissue at sites of injection.</p>
+<p id="p0114" num="0114">Male Sprague-Dawley rats (300 gram weight range) were anesthetized with ether and given NTP[122] peptide #1 by intraprostatic infusion after open surgical visualization of the prostate. The injections consisted of 300 µl of NTP[122] peptide #1,1 mg/mL in PBS pH 7.4. (1.0 mg/kg) (n = 8), control injections of PBS alone (n = 6), and controls with no injection (n = 2). Rats were painlessly sacrificed after 72 hours. Prostate glands were dissected, fixed in 10% buffered formalin for 24 hours, embedded in paraffin, sectioned, and stained with H &amp; E. For each animal the entire prostate gland was embedded and sectioned. All stained sections were examined histologically and measured. For each prostate at least 4 histological sections were examined, and for each histological section two cross-sectional diameters (D) at 90° from each other were measured (total of ≥ 8 measurements per prostate). The mean diameter from these measurements for each prostate was used to estimate volume according to <maths id="math0001" num=""><math display="inline"><mrow><mi mathvariant="normal">V</mi><mo>=</mo><mstyle scriptlevel="+1"><mfrac><mn>4</mn><mn>3</mn></mfrac></mstyle><msup><mrow><mrow><mo>(</mo><mrow><mstyle scriptlevel="+1"><mfrac><mi mathvariant="normal">D</mi><mn>2</mn></mfrac></mstyle></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup><mo>.</mo></mrow></math><img id="ib0001" file="imgb0001.tif" wi="21" he="9" img-content="math" img-format="tif" inline="yes"/></maths></p>
+<p id="p0115" num="0115">Results: The reduction in prostate volume in N1P[122] peptide #1 injected rats was estimated to be on average 45% compared to controls (there was no discernible difference between control PBS injections alone, and controls with no injections). Treated rat prostate showed extensive loss of glandular epithelium, flattening and atrophy. NTP[122] peptide #1<!-- EPO <DP n="52"> --> in PBS pH 7.4 open infusions of 1.0 mg/kg into rat prostate produced an estimated prostate volume reduction of &gt;40% compared to untreated or PBS treated controls, at 72 hours.</p>
+<heading id="h0008"><b><u style="single">Example 2</u></b> (for comparison only)</heading>
+<p id="p0116" num="0116">The purpose of this example was to determine the effect of NTP[112] peptide #1 on tissue at sites of injection.</p>
+<p id="p0117" num="0117">Male Sprague-Dawley rats (300 gram weight range) were anesthetized with ether and given NTP[112] peptide #1 by intraprostatic infusion after open surgical visualization of the prostate. The injections consisted of 300 µl of NTP[112] peptide #1,1 mg/mL in PBS pH 7.4. (1.0 mg/kg) (n = 4), control injections of PBS alone (n = 3), and controls with no injection (n =1). Rats were painlessly sacrificed after 72 hours. Prostate glands were dissected, fixed in 10% buffered formalin for 24 hours, embedded in paraffin, sectioned, and stained with H &amp; E. For each animal the entire prostate gland was embedded and sectioned. All stained sections were examined histologically and measured. For each prostate at least 4 histological sections were examined, and for each histological section two cross-sectional diameters (D) at 90° from each other were measured (total of ≥ 8 measurements per prostate). The mean diameter from these measurements for each prostate was used to estimate volume according to <maths id="math0002" num=""><math display="inline"><mrow><mi mathvariant="normal">V</mi><mo>=</mo><mstyle scriptlevel="+1"><mfrac><mn>4</mn><mn>3</mn></mfrac></mstyle><msup><mrow><mrow><mo>(</mo><mrow><mstyle scriptlevel="+1"><mfrac><mi mathvariant="normal">D</mi><mn>2</mn></mfrac></mstyle></mrow><mo>)</mo></mrow></mrow><mn>3</mn></msup><mo>.</mo></mrow></math><img id="ib0002" file="imgb0002.tif" wi="21" he="8" img-content="math" img-format="tif" inline="yes"/></maths></p>
+<p id="p0118" num="0118">The controls were the same as Example 1.</p>
+<p id="p0119" num="0119">Results: As in the above Example 1, injection of NTP[112] peptide #1 produced significant cell loss and atrophy in the prostate at 72 hours. Controls showed minimal or absent changes, consisting of mild focal inflammation from the needles:<!-- EPO <DP n="53"> --></p>
+<heading id="h0009"><b><u style="single">Example 3</u></b></heading>
+<p id="p0120" num="0120">The purpose of this example was to determine the effect of the above described NTP peptides on tissue at sites of injection.</p>
+<p id="p0121" num="0121">NTP[122] peptide 1 is cited for comparison only.</p>
+<p id="p0122" num="0122">Eight normal rats were injected in the skin and subcutaneously, each in four different foci, and in extremity skeletal muscle, each in two different foci, with the NTP[122] peptides 1-8, NTP[112] peptides 1-7, described above in saline in quantities of 100 to 400 mL at concentrations of 0.1-1 mg/mL delivered from plastic syringes through stainless steel 26 gauge needles.</p>
+<p id="p0123" num="0123">The animals were observed for 24 hours and painlessly sacrificed at 24 hours. The individual foci of infiltration were excised, fixed in 10% formalin, embedded in paraffin, and stained and examined by standard histopathological methods.</p>
+<p id="p0124" num="0124">Similar groups of control rats were injected with (1) bovine serum albumin 0.1% in saline, (2) normal human serum, (3) physiological saline, (4) noninfectious bacterial proteins, and (5) control peptides and purified and then examined and sacrificed as above, with the excised foci of injection treated as above.</p>
+<heading id="h0010">Results</heading>
+<p id="p0125" num="0125">Injection of the NTP[122] peptides 1-8, NTP[112] peptides 1-7, NTP[106] peptides 1-7, NTP[98] 1-6, NTP[75] peptides 1-5, NTP[68] peptides 1-4 and NTP[61] peptides 1-4 in all examples produced abundant acute necrosis of tissue at the injection sites. The necrosis is evident in muscle tissue, subcutaneous connective tissue, and dermis at the sites where the NTP peptide was injected. At 24 hours, cells appear pale, shrunken, and necrotic, and there is infiltration with inflammatory cells.<!-- EPO <DP n="54"> --> The necrosis correlates with the areas of injection and does not appear to spread far beyond the site of injection.</p>
+<p id="p0126" num="0126">Apart from the mild areas of inflammation, controls showed no evidence of necrosis or cell loss. In contrast to the NTP peptide injections where entire fields of muscle fiber layers were necrotic, the controls showed minimal or absent muscle changes. Control injections had mild to minimal acute inflammation at the injection sites and focal microhemorrhages from the needles.<!-- EPO <DP n="55"> --></p>
+<heading id="h0011">SEQUENCE LISTING</heading>
+<p id="p0127" num="0127">
+<ul id="ul0003" list-style="none" compact="compact">
+<li>&lt;110&gt; NYMOX CORPORATION<br/>
+AVERBACK, PAUL<br/>
+GEMMEL, JACK</li>
+<li>&lt;120&gt; PEPTIDES EFFECTIVE IN THE TREATMENT OF TUMORS AND OTHER CONDITIONS REQUIRING THE REMOVAL OR DESTRUCTION OF CELLS</li>
+<li>&lt;130&gt; 10107-52</li>
+<li>&lt;140&gt; PCT/CA02/01757<br/>
+&lt;141&gt; 2002-11-18</li>
+<li>&lt;150&gt; US 60/331,447<br/>
+&lt;151&gt; 2001-11-16</li>
+<li>&lt;160&gt; 49</li>
+<li>&lt;170&gt; PatentIn version 3.2</li>
+<li>&lt;210&gt; 1<br/>
+&lt;211&gt; 122<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 1
+<img id="ib0003" file="imgb0003.tif" wi="151" he="97" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 2<br/>
+&lt;211&gt; 112<br/>
+<!-- EPO <DP n="56"> -->&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 2
+<img id="ib0004" file="imgb0004.tif" wi="148" he="84" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 3<br/>
+&lt;211&gt; 106<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 3
+<img id="ib0005" file="imgb0005.tif" wi="151" he="87" img-content="dna" img-format="tif"/><!-- EPO <DP n="57"> --></li>
+<li>&lt;210&gt; 4<br/>
+&lt;211&gt; 98<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 4
+<img id="ib0006" file="imgb0006.tif" wi="150" he="81" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 5<br/>
+&lt;211&gt; 75<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 5
+<img id="ib0007" file="imgb0007.tif" wi="150" he="60" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 6<br/>
+&lt;211&gt; 68<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens<!-- EPO <DP n="58"> --></li>
+<li>&lt;400&gt; 6
+<img id="ib0008" file="imgb0008.tif" wi="147" he="60" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 7<br/>
+&lt;211&gt; 61<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 7
+<img id="ib0009" file="imgb0009.tif" wi="151" he="47" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 8<br/>
+&lt;211&gt; 17<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 8
+<img id="ib0010" file="imgb0010.tif" wi="149" he="20" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 9<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens<!-- EPO <DP n="59"> --></li>
+<li>&lt;400&gt; 9
+<img id="ib0011" file="imgb0011.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 10<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 10
+<img id="ib0012" file="imgb0012.tif" wi="140" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 11<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 11
+<img id="ib0013" file="imgb0013.tif" wi="139" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 12<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 12
+<img id="ib0014" file="imgb0014.tif" wi="139" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 13<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 13
+<img id="ib0015" file="imgb0015.tif" wi="141" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 14<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 14
+<img id="ib0016" file="imgb0016.tif" wi="141" he="13" img-content="dna" img-format="tif"/><!-- EPO <DP n="60"> --></li>
+<li>&lt;210&gt; 15<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 15
+<img id="ib0017" file="imgb0017.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 16<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 16
+<img id="ib0018" file="imgb0018.tif" wi="139" he="14" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 17<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 17
+<img id="ib0019" file="imgb0019.tif" wi="139" he="14" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 18<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 18
+<img id="ib0020" file="imgb0020.tif" wi="139" he="14" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 19<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 19
+<img id="ib0021" file="imgb0021.tif" wi="139" he="14" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 20<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+<!-- EPO <DP n="61"> -->&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 20
+<img id="ib0022" file="imgb0022.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 21<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 21
+<img id="ib0023" file="imgb0023.tif" wi="138" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 22<br/>
+&lt;211&gt; 22<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 22
+<img id="ib0024" file="imgb0024.tif" wi="148" he="24" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 23<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 23
+<img id="ib0025" file="imgb0025.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 24<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 24
+<img id="ib0026" file="imgb0026.tif" wi="138" he="11" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 25<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens<!-- EPO <DP n="62"> --></li>
+<li>&lt;400&gt; 25
+<img id="ib0027" file="imgb0027.tif" wi="137" he="10" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 26<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 26
+<img id="ib0028" file="imgb0028.tif" wi="139" he="14" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 27<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 27
+<img id="ib0029" file="imgb0029.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 28<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 28
+<img id="ib0030" file="imgb0030.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 29<br/>
+&lt;211&gt; 16<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 29
+<img id="ib0031" file="imgb0031.tif" wi="147" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 30<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 30
+<img id="ib0032" file="imgb0032.tif" wi="139" he="13" img-content="dna" img-format="tif"/><!-- EPO <DP n="63"> --></li>
+<li>&lt;210&gt; 31<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 31
+<img id="ib0033" file="imgb0033.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 32<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 32
+<img id="ib0034" file="imgb0034.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 33<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 33
+<img id="ib0035" file="imgb0035.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 34<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 34
+<img id="ib0036" file="imgb0036.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 35<br/>
+&lt;211&gt; 23<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 35
+<img id="ib0037" file="imgb0037.tif" wi="147" he="23" img-content="dna" img-format="tif"/><!-- EPO <DP n="64"> --></li>
+<li>&lt;210&gt; 36<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 36
+<img id="ib0038" file="imgb0038.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 37<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 37
+<img id="ib0039" file="imgb0039.tif" wi="137" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 38<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 38
+<img id="ib0040" file="imgb0040.tif" wi="138" he="10" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 39<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 39
+<img id="ib0041" file="imgb0041.tif" wi="138" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 40<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 40
+<img id="ib0042" file="imgb0042.tif" wi="136" he="11" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 41<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+<!-- EPO <DP n="65"> -->&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 41
+<img id="ib0043" file="imgb0043.tif" wi="137" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 42<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 42
+<img id="ib0044" file="imgb0044.tif" wi="139" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 43<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 43
+<img id="ib0045" file="imgb0045.tif" wi="138" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 44<br/>
+&lt;211&gt; 23<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 44
+<img id="ib0046" file="imgb0046.tif" wi="147" he="24" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 45<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 45
+<img id="ib0047" file="imgb0047.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 46<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens<!-- EPO <DP n="66"> --></li>
+<li>&lt;400&gt; 46
+<img id="ib0048" file="imgb0048.tif" wi="138" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 47<br/>
+&lt;211&gt; 15<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 47
+<img id="ib0049" file="imgb0049.tif" wi="138" he="13" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 48<br/>
+&lt;211&gt; 16<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 48
+<img id="ib0050" file="imgb0050.tif" wi="148" he="12" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt; 49<br/>
+&lt;211&gt; 5<br/>
+&lt;212&gt; PRT<br/>
+&lt;213&gt; Homo sapiens</li>
+<li>&lt;400&gt; 49
+<img id="ib0051" file="imgb0051.tif" wi="48" he="11" img-content="dna" img-format="tif"/></li>
+</ul></p>
+</description><!-- EPO <DP n="67"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>An NTP-peptide consisting of an amino acid sequence selected from group consisting of:
+<claim-text>SEQ ID NO. 9 (Met-Met-Val-Cys-Trp-Asn-Arg-Phe-Gly-Lys-Trp-Val-Tyr-Phe-Ile);</claim-text>
+<claim-text>SEQ ID NO. 10 (Ser-Ala-Ile-Phe-Asn-Phe-Gly-Pro-Arg-Tyr-Leu-Tyr-His-Gly-Val);</claim-text>
+<claim-text>SEQ ID NO. 11 (Pro-Phe-Tyr-Phe-Leu-Ile-Leu-Val-Arg-Ile-Ile-Ser-Phe-Leu-Ile);</claim-text>
+<claim-text>SEQ ID NO. 12 (Gly-Asp-Met-Glu-Asp-Val-Leu-Leu-Asn-Cys-Thr-Leu-Leu-Lys-Arg);</claim-text>
+<claim-text>SEQ ID NO. 13 (Ser-Ser-Arg-Phe-Arg-Phe-Trp-Gly-Ala-Leu-Val-Cys-Ser-Met-Asp);</claim-text>
+<claim-text>SEQ ID NO. 14 (Ser-Cys-Arg-Phe-Ser-Arg-Val-Ala-Val-Thr-Tyr-Arg-Phe-Ile-Thr) and</claim-text>
+<claim-text>SEQ ID NO. 15 (Leu-Leu-Asn-Ile-Pro-Ser-Pro-Ala-Val-Trp-Met-Ala-Arg-Asn-Thr).</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>An NTP-peptide according to claim 1 for use as a medicament.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A composition comprising an NTP-peptide according to claim 1 and a carrier therefor.</claim-text></claim>
+</claims><!-- EPO <DP n="68"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>NTP-Peptid bestehend aus einer Aminosäuresequenz, die ausgewählt ist aus der Gruppe bestehend aus:
+<claim-text>SEQ ID NR. 9 (Met-Met-Val-Cys-Trp-Asn-Arg-Phe-Gly-Lys-Trp-Val-Tyr-Phe-Ile);</claim-text>
+<claim-text>SEQ ID NR. 10 (Ser-Ala-Ile-Phe-Asn-Phe-Gly-Pro-Arg-Tyr-Leu-Tyr-His-Gly-Val);</claim-text>
+<claim-text>SEQ ID NR. 11 (Pro-Phe-Tyr-Phe-Leu-Ile-Leu-Val-Arg-Ile-Ile-Ser-Phe-Leu-Ile);</claim-text>
+<claim-text>SEQ ID NR. 12 (Gly-Asp-Met-Glu-Asp-Val-Leu-Leu-Asn-Cys-Thr-Leu-Leu-Lys-Arg);</claim-text>
+<claim-text>SEQ ID NR. 13 (Ser-Ser-Arg-Phe-Arg-Phe-Trp-Gly-Ala-Leu-Val-Cys-Ser-Met-Asp);</claim-text>
+<claim-text>SEQ ID NR. 14 (Ser-Cys-Arg-Phe-Ser-Arg-Val-Ala-Val-Thr-Tyr-Arg-Phe-Ile-Thr) und</claim-text>
+<claim-text>SEQ ID NR. 15 (Leu-Leu-Asn-Ile-Pro-Ser-Pro-Ala-Val-Trp-Met-Ala-Arg-Asn-Thr).</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>NTP-Peptid nach Anspruch 1 zur Anwendung als ein Arzneimittel.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Zusammensetzung, die ein NTP-Peptid nach Anspruch 1 und ein Träger dafür umfasst.</claim-text></claim>
+</claims><!-- EPO <DP n="69"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Un peptide NTP composé d'une sequence d'une acide amine choisie dans le groupe consistant de:
+<claim-text>SEQ ID NO. 9 (Met-Met-Val-Cys-Trp-Asn-Arg-Phe-Gly-Lys-Trp-Val-Tyr-Phe-Ile);</claim-text>
+<claim-text>SEQ ID NO. 10 (Ser-Ala-Ile-Phe-Asn-Phe-Gly-Pro-Arg-Tyr-Leu-Tyr-His-Gly-Val);</claim-text>
+<claim-text>SEQ ID NO. 11 (Pro-Phe-Tyr-Phe-Leu-Ile-Leu-Val-Arg-Ile-Ile-Ser-Phe-Leu-Ile);</claim-text>
+<claim-text>SEQ ID NO. 12 (Gly-Asp-Met-Glu-Asp-Val-Leu-Leu-Asn-Cys-Thr-Leu-Leu-Lys-Arg);</claim-text>
+<claim-text>SEQ ID NO. 13 (Ser-Ser-Arg-Phe-Arg-Phe-Trp-Gly-Ala-Leu-Val-Cys-Ser-Met-Asp);</claim-text>
+<claim-text>SEQ ID NO. 14 (Ser-Cys-Arg-Phe-Ser-Arg-Val-Ala-Val-Thr-Tyr-Arg-Phe-Ile-Thr) et</claim-text>
+<claim-text>SEQ ID NO. 15 (Leu-Leu-Asn-Ile-Pro-Ser-Pro-Ala-Val-Trp-Met-Ala-Arg-Asn-Thr).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Un peptide NTP selon la revendication 1 pour l'application comme un médicament.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Une composition contenant un peptide NTP selon la revendication et son vehicule.</claim-text></claim>
+</claims><!-- EPO <DP n="70"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="126" he="208" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="71"> -->
+<figure id="f0002" num=""><img id="if0002" file="imgf0002.tif" wi="129" he="195" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="72"> -->
+<figure id="f0003" num=""><img id="if0003" file="imgf0003.tif" wi="128" he="184" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="73"> -->
+<figure id="f0004" num=""><img id="if0004" file="imgf0004.tif" wi="124" he="170" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="74"> -->
+<figure id="f0005" num=""><img id="if0005" file="imgf0005.tif" wi="125" he="149" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="75"> -->
+<figure id="f0006" num=""><img id="if0006" file="imgf0006.tif" wi="126" he="128" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="76"> -->
+<figure id="f0007" num=""><img id="if0007" file="imgf0007.tif" wi="126" he="127" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+</ep-patent-document>

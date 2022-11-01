@@ -9,7 +9,8 @@ import (
 
 /*
 tests:  A1 A2 B1 B2
-v 1.0   O  O  X  X
+v 1.0   O  O  O  O
+v 1.01  O  O  X  X
 v 1.1   O  O  O  O
 v 1.2   O  O  O  O
 v 1.3	O  O  O  O
@@ -165,7 +166,423 @@ func TestProcessXMLSimple10A2(t *testing.T) {
 	ass.Empty(patDoc.Classifications)
 }
 
-// there are no B1 and B2 documents adhering to v1.0 dtd
+func TestProcessXMLSimple10B1(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/grant/v1-0-B1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP02779063B1", patDoc.ID)
+	ass.Equal("02779063.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1442058", patDoc.DocNumber)
+	ass.Equal("B1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20060719", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-0", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("PEPTIDE ZUM EINSATZ IN DER BEHANDLUNG VON TUMOREN UND ANDEREN ZUSTÄNDEN, DIE DAS ENTFERNEN ODER ZERSTÖREN VON ZELLEN ERFORDERN", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("PEPTIDES EFFECTIVE IN THE TREATMENT OF TUMORS AND OTHER CONDITIONS REQUIRING THE REMOVAL OR DESTRUCTION OF CELLS", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("PEPTIDES SERVANT A TRAITER DES TUMEURS OU D'AUTRES ETATS NECESSITANT LA SUPPRESSION OU LA DESTRUCTION DE CELLULES", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(3, len(patDoc.Claims))
+	ass.Equal(775, len(patDoc.Claims[0].Text))
+	ass.Equal("en", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+	ass.Equal(790, len(patDoc.Claims[1].Text))
+	ass.Equal("de", patDoc.Claims[1].Language)
+	ass.Equal("claims02", patDoc.Claims[1].Id)
+	ass.Equal(798, len(patDoc.Claims[2].Text))
+	ass.Equal("fr", patDoc.Claims[2].Language)
+	ass.Equal("claims03", patDoc.Claims[2].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(79384, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("CA"), patDoc.Inventors[0].Country)
+	ass.Equal("Beaconsfield, Québec H9W 4J1", patDoc.Inventors[0].City)
+	ass.Equal("383 Lakeshore Road", patDoc.Inventors[0].Street)
+	ass.Equal("AVERBACK, Paul", patDoc.Inventors[0].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(1, len(patDoc.Representatives))
+	ass.Equal(Country("DK"), patDoc.Representatives[0].Country)
+	ass.Equal("Plougmann & Vingtoft A/S", patDoc.Representatives[0].Name)
+	ass.Equal("00101177", patDoc.Representatives[0].IID)
+	ass.Equal("2100 Copenhagen", patDoc.Representatives[0].City)
+	ass.Equal("Sundkrogsgade 9, \nP.O. Box 831", patDoc.Representatives[0].Street)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(24, len(patDoc.ContractingStates))
+	for i := 0; i <= 23; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(2, len(patDoc.Classifications))
+
+	ass.Equal("C07K  14/47        20060101AFI20050713BHEP        ", patDoc.Classifications[0].Text)
+	ass.Equal(IPC, patDoc.Classifications[0].System)
+	ass.Equal(1, patDoc.Classifications[0].Sequence)
+	ass.Equal("C", patDoc.Classifications[0].Section)
+	ass.Equal("07", patDoc.Classifications[0].Class)
+	ass.Equal("K", patDoc.Classifications[0].SubClass)
+	ass.Equal("14", patDoc.Classifications[0].MainGroup)
+	ass.Equal("47", patDoc.Classifications[0].SubGroup)
+	ass.Equal("20060101", patDoc.Classifications[0].Version)
+	ass.Equal("A", patDoc.Classifications[0].ClassificationLevel)
+	ass.Equal("F", patDoc.Classifications[0].FirstLater)
+	ass.Equal("I", patDoc.Classifications[0].ClassificationValue)
+	ass.Equal("20050713", patDoc.Classifications[0].ActionDate)
+	ass.Equal("B", patDoc.Classifications[0].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[0].Source)
+	ass.Equal("EP", patDoc.Classifications[0].GeneratingOffice)
+
+	ass.Equal("A61K  38/17        20060101ALI20050713BHEP        ", patDoc.Classifications[1].Text)
+	ass.Equal(IPC, patDoc.Classifications[1].System)
+	ass.Equal(2, patDoc.Classifications[1].Sequence)
+	ass.Equal("A", patDoc.Classifications[1].Section)
+	ass.Equal("61", patDoc.Classifications[1].Class)
+	ass.Equal("K", patDoc.Classifications[1].SubClass)
+	ass.Equal("38", patDoc.Classifications[1].MainGroup)
+	ass.Equal("17", patDoc.Classifications[1].SubGroup)
+	ass.Equal("20060101", patDoc.Classifications[1].Version)
+	ass.Equal("A", patDoc.Classifications[1].ClassificationLevel)
+	ass.Equal("L", patDoc.Classifications[1].FirstLater)
+	ass.Equal("I", patDoc.Classifications[1].ClassificationValue)
+	ass.Equal("20050713", patDoc.Classifications[1].ActionDate)
+	ass.Equal("B", patDoc.Classifications[1].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[1].Source)
+	ass.Equal("EP", patDoc.Classifications[1].GeneratingOffice)
+}
+
+func TestProcessXMLSimple10B2(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/grant/v1-0-B2.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP96939832B2", patDoc.ID)
+	ass.Equal("96939832.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("0874807", patDoc.DocNumber)
+	ass.Equal("B2", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20060802", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-0", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("VERFAHREN ZUR HERSTELLUNG VON METHOXIMINOPHENYLGLYOXYLSÄURE-DERIVATEN", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("PROCESS FOR THE PREPARATION OF METHOXYMINOPHENYLGLYOXYLIC ACID DERIVATIVES", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("PROCEDE DE PREPARATION DE DERIVES DE L'ACIDE METHOXIMINOPHENYLGLYOXYLIQUE", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.NotEmpty(patDoc.Claims)
+	ass.Equal(3, len(patDoc.Claims))
+	ass.Equal(858, len(patDoc.Claims[0].Text))
+	ass.Equal("en", patDoc.Claims[0].Language)
+	ass.Equal("claims01", patDoc.Claims[0].Id)
+	ass.Equal(893, len(patDoc.Claims[1].Text))
+	ass.Equal("de", patDoc.Claims[1].Language)
+	ass.Equal("claims02", patDoc.Claims[1].Id)
+	ass.Equal(1008, len(patDoc.Claims[2].Text))
+	ass.Equal("fr", patDoc.Claims[2].Language)
+	ass.Equal("claims03", patDoc.Claims[2].Id)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(10357, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("CH"), patDoc.Inventors[0].Country)
+	ass.Equal("CH-1870 Monthey", patDoc.Inventors[0].City)
+	ass.Equal("Avenue de l'Europe 38A", patDoc.Inventors[0].Street)
+	ass.Equal("ASSERCQ, Jean-Marie", patDoc.Inventors[0].Name)
+
+	// representatives
+	ass.Empty(patDoc.Representatives)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(17, len(patDoc.ContractingStates))
+	for i := 0; i <= 16; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(5, len(patDoc.Classifications))
+
+	for i := 0; i <= 2; i++ {
+		ass.Equal(IPC, patDoc.Classifications[i].System)
+		ass.Equal(i+1, patDoc.Classifications[i].Sequence)
+		ass.Equal("C", patDoc.Classifications[i].Section)
+		ass.Equal("07", patDoc.Classifications[i].Class)
+		ass.Equal("C", patDoc.Classifications[i].SubClass)
+
+		ass.Equal("20060101", patDoc.Classifications[i].Version)
+		ass.Equal("A", patDoc.Classifications[i].ClassificationLevel)
+		ass.Equal("19970721", patDoc.Classifications[i].ActionDate)
+		ass.Equal("B", patDoc.Classifications[i].OriginalOrReclassified)
+		ass.Equal("H", patDoc.Classifications[i].Source)
+		ass.Equal("EP", patDoc.Classifications[i].GeneratingOffice)
+	}
+
+	ass.Equal("C07C 249/08        20060101AFI19970721BHEP        ", patDoc.Classifications[0].Text)
+	ass.Equal("249", patDoc.Classifications[0].MainGroup)
+	ass.Equal("08", patDoc.Classifications[0].SubGroup)
+	ass.Equal("F", patDoc.Classifications[0].FirstLater)
+	ass.Equal("I", patDoc.Classifications[0].ClassificationValue)
+
+	ass.Equal("C07C 231/06        20060101ALI19970721BHEP        ", patDoc.Classifications[1].Text)
+	ass.Equal("231", patDoc.Classifications[1].MainGroup)
+	ass.Equal("06", patDoc.Classifications[1].SubGroup)
+	ass.Equal("L", patDoc.Classifications[1].FirstLater)
+	ass.Equal("I", patDoc.Classifications[1].ClassificationValue)
+
+	ass.Equal("C07C 235/78        20060101ALI19970721BHEP        ", patDoc.Classifications[2].Text)
+	ass.Equal("235", patDoc.Classifications[2].MainGroup)
+	ass.Equal("78", patDoc.Classifications[2].SubGroup)
+	ass.Equal("I", patDoc.Classifications[2].ClassificationValue)
+	ass.Equal("L", patDoc.Classifications[2].FirstLater)
+
+	ass.Equal("C07C 251/48        20060101ALI19970721BHEP        ", patDoc.Classifications[3].Text)
+	ass.Equal("251", patDoc.Classifications[3].MainGroup)
+	ass.Equal("48", patDoc.Classifications[3].SubGroup)
+	ass.Equal("I", patDoc.Classifications[3].ClassificationValue)
+	ass.Equal("L", patDoc.Classifications[3].FirstLater)
+
+	ass.Equal("C07C 251/60        20060101ALI19970721BHEP        ", patDoc.Classifications[4].Text)
+	ass.Equal("251", patDoc.Classifications[4].MainGroup)
+	ass.Equal("60", patDoc.Classifications[4].SubGroup)
+	ass.Equal("I", patDoc.Classifications[4].ClassificationValue)
+	ass.Equal("L", patDoc.Classifications[4].FirstLater)
+
+}
+
+//v 1.01
+
+func TestProcessXMLSimple101A1(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-01-A1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP04768329A1", patDoc.ID)
+	ass.Equal("04768329.7", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1679948", patDoc.DocNumber)
+	ass.Equal("A1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20060719", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-01", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("BAHNABDECKUNGEN FÜR FÖRDERSIEBE", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("WEB COVERS FOR CONVEYOR SCREENS", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("GARNITURES POUR TAPIS TRANSPORTEURS", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.Empty(patDoc.Claims)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(0, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(Country("GB"), patDoc.Inventors[0].Country)
+	ass.Equal("Bangor BT19 7QT,\nCounty Down", patDoc.Inventors[0].City)
+	ass.Equal("Unit 35, \n2-4 Ballo Avenue", patDoc.Inventors[0].Street)
+	ass.Equal("Rankin, David", patDoc.Inventors[0].Name)
+
+	ass.Equal(Country("GB"), patDoc.Inventors[1].Country)
+	ass.Equal("Bangor BT19 7QT,\nCounty Down", patDoc.Inventors[1].City)
+	ass.Equal("Unit 35, \nUnit 2-4 Balloo Avenue", patDoc.Inventors[1].Street)
+	ass.Equal("Shanks, Anne", patDoc.Inventors[1].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(Country("IE"), patDoc.Representatives[0].Country)
+	ass.Equal("00143541", patDoc.Representatives[0].IID)
+	ass.Equal("Dublin 2", patDoc.Representatives[0].City)
+	ass.Equal("MacLachlan & Donaldson \n47 Merrion Square", patDoc.Representatives[0].Street)
+	ass.Equal("Hanna, John Philip", patDoc.Representatives[0].Name)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(28, len(patDoc.ContractingStates))
+	for i := 0; i <= 27; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(1, len(patDoc.Classifications))
+	ass.Equal("A01D  17/10        19680901AFI20050322BHEP        ", patDoc.Classifications[0].Text)
+	ass.Equal(IPC, patDoc.Classifications[0].System)
+	ass.Equal(1, patDoc.Classifications[0].Sequence)
+	ass.Equal("A", patDoc.Classifications[0].Section)
+	ass.Equal("01", patDoc.Classifications[0].Class)
+	ass.Equal("D", patDoc.Classifications[0].SubClass)
+	ass.Equal("17", patDoc.Classifications[0].MainGroup)
+	ass.Equal("10", patDoc.Classifications[0].SubGroup)
+	ass.Equal("19680901", patDoc.Classifications[0].Version)
+	ass.Equal("A", patDoc.Classifications[0].ClassificationLevel)
+	ass.Equal("F", patDoc.Classifications[0].FirstLater)
+	ass.Equal("I", patDoc.Classifications[0].ClassificationValue)
+	ass.Equal("20050322", patDoc.Classifications[0].ActionDate)
+	ass.Equal("B", patDoc.Classifications[0].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[0].Source)
+	ass.Equal("EP", patDoc.Classifications[0].GeneratingOffice)
+}
+
+func TestProcessXMLSimple101A2(t *testing.T) {
+	ass := assert.New(t)
+	data, err := ioutil.ReadFile("test-data/application/v1-01-A2.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP04794205A2", patDoc.ID)
+	ass.Equal("04794205.7", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("1680538", patDoc.DocNumber)
+	ass.Equal("A2", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20060719", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-01", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("VERBUNDGARN UND ERZEUGNISSE DARAUS", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("COMPOSITE YARN AND PRODUCTS MADE THEREFROM", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("FIL COMPOSITE ET PRODUITS FABRIQUES A PARTIR D'UN TEL FIL", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+
+	// abstract
+	ass.NotEmpty(patDoc.Abstract)
+	ass.Equal(0, len(patDoc.Abstract[0].Text))
+	ass.Equal("en", patDoc.Abstract[0].Language)
+
+	// claims
+	ass.Empty(patDoc.Claims)
+
+	// description
+	ass.NotEmpty(patDoc.Description)
+	ass.Equal(0, len(patDoc.Description[0].Text))
+	ass.Equal("en", patDoc.Description[0].Language)
+
+	// citations
+	ass.Empty(patDoc.Citations)
+
+	// Inventors
+	ass.NotEmpty(patDoc.Inventors)
+	ass.Equal(1, len(patDoc.Inventors))
+	ass.Equal(Country("US"), patDoc.Inventors[0].Country)
+	ass.Equal("Hickory, NC 28601", patDoc.Inventors[0].City)
+	ass.Equal("1740 5th Street Drive N.W.", patDoc.Inventors[0].Street)
+	ass.Equal("KOLMES, Nathaniel", patDoc.Inventors[0].Name)
+
+	// representatives
+	ass.NotEmpty(patDoc.Representatives)
+	ass.Equal(1, len(patDoc.Representatives))
+	ass.Equal(Country("FR"), patDoc.Representatives[0].Country)
+	ass.Equal("75008 Paris", patDoc.Representatives[0].City)
+	ass.Equal("Cabinet ORES, \n36, rue de Saint Pétersbourg", patDoc.Representatives[0].Street)
+	ass.Equal("Corizzi, Valérie", patDoc.Representatives[0].Name)
+	ass.Equal("00086752", patDoc.Representatives[0].IID)
+
+	// contracting states
+	ass.NotEmpty(patDoc.ContractingStates)
+	ass.Equal(28, len(patDoc.ContractingStates))
+	for i := 0; i <= 27; i++ {
+		ass.Equal(2, len(patDoc.ContractingStates[i]))
+	}
+
+	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(1, len(patDoc.Classifications))
+	ass.Equal("D02G   3/02        19680901AFI20051108BHEP        ", patDoc.Classifications[0].Text)
+	ass.Equal(IPC, patDoc.Classifications[0].System)
+	ass.Equal(1, patDoc.Classifications[0].Sequence)
+	ass.Equal("D", patDoc.Classifications[0].Section)
+	ass.Equal("02", patDoc.Classifications[0].Class)
+	ass.Equal("G", patDoc.Classifications[0].SubClass)
+	ass.Equal("3", patDoc.Classifications[0].MainGroup)
+	ass.Equal("02", patDoc.Classifications[0].SubGroup)
+	ass.Equal("19680901", patDoc.Classifications[0].Version)
+	ass.Equal("A", patDoc.Classifications[0].ClassificationLevel)
+	ass.Equal("F", patDoc.Classifications[0].FirstLater)
+	ass.Equal("I", patDoc.Classifications[0].ClassificationValue)
+	ass.Equal("20051108", patDoc.Classifications[0].ActionDate)
+	ass.Equal("B", patDoc.Classifications[0].OriginalOrReclassified)
+	ass.Equal("H", patDoc.Classifications[0].Source)
+	ass.Equal("EP", patDoc.Classifications[0].GeneratingOffice)
+
+}
 
 //v 1.1
 func TestProcessXMLSimple11A1(t *testing.T) {
