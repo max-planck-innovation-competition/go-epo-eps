@@ -219,5 +219,8 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 		patentDoc.Classifications = append(patentDoc.Classifications, item)
 	})
 	// todo: cpc and co
+
+	// generate aliases
+	patentDoc.GenerateAliases()
 	return
 }
