@@ -39,8 +39,8 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	} else {
 		patentDoc.DatePubl = parsedDate
 	}
-
-	patentDoc.Lang, _ = root.Attr("lang")
+	language, _ := root.Attr("lang")
+	patentDoc.Lang = strings.ToLower(strings.TrimSpace(language))
 	patentDoc.File, _ = root.Attr("file")
 	country, _ := root.Attr("country")
 	patentDoc.Country = Country(strings.ToUpper(strings.TrimSpace(country)))
