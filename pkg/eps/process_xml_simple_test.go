@@ -403,7 +403,6 @@ func TestProcessXMLSimple10B2(t *testing.T) {
 }
 
 //v 1.01
-
 func TestProcessXMLSimple101A1(t *testing.T) {
 	ass := assert.New(t)
 	data, err := ioutil.ReadFile("test-data/application/v1-01-A1.xml")
@@ -2390,6 +2389,9 @@ func TestProcessXMLSimple15A1(t *testing.T) {
 	}
 
 	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(2, len(patDoc.Classifications))
+
 	ass.Equal("B60R   7/06        20060101AFI20191025BHEP        ", patDoc.Classifications[0].Text)
 	ass.Equal(IPC, patDoc.Classifications[0].System)
 	ass.Equal(1, patDoc.Classifications[0].Sequence)
@@ -2428,6 +2430,7 @@ func TestProcessXMLSimple15A1(t *testing.T) {
 	fmt.Println(patDoc.Claims[0])
 	fmt.Println(patDoc.Description[0])
 	fmt.Println(patDoc.Citations[0])
+
 }
 
 func TestProcessXMLSimple15A2(t *testing.T) {
@@ -2501,7 +2504,8 @@ func TestProcessXMLSimple15A2(t *testing.T) {
 	}
 
 	// classifications
-
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(21, len(patDoc.Classifications))
 	for i := 0; i <= 20; i++ {
 		ass.Equal(IPC, patDoc.Classifications[i].System)
 		ass.Equal(i+1, patDoc.Classifications[i].Sequence)
@@ -2514,7 +2518,7 @@ func TestProcessXMLSimple15A2(t *testing.T) {
 		ass.Equal("EP", patDoc.Classifications[i].GeneratingOffice)
 
 	}
-	//1
+
 	ass.Equal("C08F   8/48        20060101AFI20210224BHEP        ", patDoc.Classifications[0].Text)
 	ass.Equal("C", patDoc.Classifications[0].Section)
 	ass.Equal("08", patDoc.Classifications[0].Class)
@@ -2522,7 +2526,7 @@ func TestProcessXMLSimple15A2(t *testing.T) {
 	ass.Equal("8", patDoc.Classifications[0].MainGroup)
 	ass.Equal("48", patDoc.Classifications[0].SubGroup)
 	ass.Equal("F", patDoc.Classifications[0].FirstLater)
-	//2
+
 	ass.Equal("C08F   8/28        20060101ALI20210224BHEP        ", patDoc.Classifications[1].Text)
 	ass.Equal("C", patDoc.Classifications[1].Section)
 	ass.Equal("08", patDoc.Classifications[1].Class)
@@ -2530,7 +2534,7 @@ func TestProcessXMLSimple15A2(t *testing.T) {
 	ass.Equal("8", patDoc.Classifications[1].MainGroup)
 	ass.Equal("28", patDoc.Classifications[1].SubGroup)
 	ass.Equal("L", patDoc.Classifications[1].FirstLater)
-	//3
+
 	ass.Equal("C08F   8/30        20060101ALI20210224BHEP        ", patDoc.Classifications[2].Text)
 	ass.Equal("C", patDoc.Classifications[2].Section)
 	ass.Equal("08", patDoc.Classifications[2].Class)
@@ -2775,6 +2779,9 @@ func TestProcessXMLSimple15B1(t *testing.T) {
 	}
 
 	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(2, len(patDoc.Classifications))
+
 	ass.Equal("H01F  27/14        20060101AFI20171122BHEP        ", patDoc.Classifications[0].Text)
 	ass.Equal(IPC, patDoc.Classifications[0].System)
 	ass.Equal(1, patDoc.Classifications[0].Sequence)
@@ -2895,6 +2902,9 @@ func TestProcessXMLSimple15B2(t *testing.T) {
 	}
 
 	// classifications
+
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(3, len(patDoc.Classifications))
 	for i := 0; i <= 2; i++ {
 		ass.Equal(IPC, patDoc.Classifications[i].System)
 		ass.Equal(i+1, patDoc.Classifications[i].Sequence)
@@ -3011,7 +3021,8 @@ func TestProcessXMLSimple151A1(t *testing.T) {
 	}
 
 	// classifications
-
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(14, len(patDoc.Classifications))
 	for i := 0; i <= 13; i++ {
 		ass.Equal(IPC, patDoc.Classifications[i].System)
 		ass.Equal(i+1, patDoc.Classifications[i].Sequence)
@@ -3217,6 +3228,9 @@ func TestProcessXMLSimple151A2(t *testing.T) {
 	}
 
 	// classifications
+
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(2, len(patDoc.Classifications))
 	for i := 0; i <= 1; i++ {
 		ass.Equal(IPC, patDoc.Classifications[i].System)
 		ass.Equal(i+1, patDoc.Classifications[i].Sequence)
@@ -3343,6 +3357,10 @@ func TestProcessXMLSimple151B1(t *testing.T) {
 	}
 
 	// classifications
+
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(5, len(patDoc.Classifications))
+
 	ass.Equal("B65D  51/18        20060101AFI20191003BHEP        ", patDoc.Classifications[0].Text)
 	ass.Equal(IPC, patDoc.Classifications[0].System)
 	ass.Equal(1, patDoc.Classifications[0].Sequence)
@@ -3428,10 +3446,11 @@ func TestProcessXMLSimple151B1(t *testing.T) {
 	ass.Equal("H", patDoc.Classifications[4].Source)
 	ass.Equal("EP", patDoc.Classifications[4].GeneratingOffice)
 
-	fmt.Println(patDoc.Title[0])
+	/*fmt.Println(patDoc.Title[0])
 	fmt.Println(patDoc.Claims[0])
 	fmt.Println(patDoc.Description[0])
 	fmt.Println(patDoc.Citations[0])
+	*/
 }
 
 func TestProcessXMLSimple151B2(t *testing.T) {
@@ -3518,6 +3537,9 @@ func TestProcessXMLSimple151B2(t *testing.T) {
 	}
 
 	// classifications
+	ass.NotEmpty(patDoc.Classifications)
+	ass.Equal(1, len(patDoc.Classifications))
+
 	ass.Equal("A24C   5/20        20060101AFI20150420BHEP        ", patDoc.Classifications[0].Text)
 	ass.Equal(IPC, patDoc.Classifications[0].System)
 	ass.Equal(1, patDoc.Classifications[0].Sequence)
@@ -3535,8 +3557,9 @@ func TestProcessXMLSimple151B2(t *testing.T) {
 	ass.Equal("H", patDoc.Classifications[0].Source)
 	ass.Equal("EP", patDoc.Classifications[0].GeneratingOffice)
 
-	fmt.Println(patDoc.Title[0])
+	/*fmt.Println(patDoc.Title[0])
 	fmt.Println(patDoc.Claims[0])
 	fmt.Println(patDoc.Description[0])
 	fmt.Println(patDoc.Citations[0])
+	*/
 }
