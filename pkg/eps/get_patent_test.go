@@ -5,7 +5,6 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 	"io"
-	"io/ioutil"
 	"net/http"
 	"strconv"
 	"testing"
@@ -101,7 +100,7 @@ func TestCheckIfBlackListed(t *testing.T) {
 
 func TestCheckIfBlackListedLocal(t *testing.T) {
 	ass := assert.New(t)
-	file, err := ioutil.ReadFile("./test-data/fail.xml")
+	file, err := os.ReadFile("./test-data/fail.xml")
 	ass.NoError(err)
 	err = CheckIfBlackListed(file)
 	ass.Error(err)
