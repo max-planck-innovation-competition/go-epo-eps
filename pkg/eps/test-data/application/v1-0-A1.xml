@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.0//EN" "ep-patent-document-v1-0.dtd">
+<ep-patent-document id="EP01963450A1" file="01963450.xml" lang="en" country="EP" doc-number="1325900" kind="A1" date-publ="20030709" status="n" dtd-version="ep-patent-document-v1-0">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTR............................</B001EP><B005EP>J</B005EP><B007EP>DIM360 (Ver 1.5  21 Nov 2005) -  1100000/0 1710000/0</B007EP></eptags></B000><B100><B110>1325900</B110><B120><B121>EUROPEAN PATENT APPLICATION</B121><B121EP>published in accordance with Art. 158(3) EPC</B121EP></B120><B130>A1</B130><B140><date>20030709</date></B140><B190>EP</B190></B100><B200><B210>01963450.0</B210><B220><date>20010905</date></B220><B240><B241><date>20030313</date></B241></B240><B250>ja</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2000273711</B310><B320><date>20000908</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20030709</date><bnum>200328</bnum></B405><B430><date>20030709</date><bnum>200328</bnum></B430></B400><B500><B510><B516>7</B516><B511> 7C 07C  29/44   A</B511><B512> 7C 07C  31/38   B</B512></B510><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG VON FLUORALKANOL</B542><B541>en</B541><B542>PROCESS FOR PRODUCING FLUOROALKANOL</B542><B541>fr</B541><B542>PROCEDE DE PRODUCTION DE FLUOROALCANOL</B542></B540><B590><B598>NONE</B598></B590></B500><B700><B710><B711><snm>ASAHI GLASS COMPANY LTD.</snm><iid>00242775</iid><irf>A 4245EU-er</irf><adr><str>12-1, Yurakucho 1-chome,
+Chiyoda-ku</str><city>Tokyo 100-8405</city><ctry>JP</ctry></adr></B711></B710><B720><B721><snm>TOHMA, Toshihiko</snm><adr><str>10, Goikaigan</str><city>Ichihara-shi,
+Chiba 290-8566</city><ctry>JP</ctry></adr></B721><B721><snm>WADA, Akihiro</snm><adr><str>10, Goikaigan</str><city>Ichihara-shi,
+Chiba 290-8566</city><ctry>JP</ctry></adr></B721></B720><B740><B741><snm>Müller-Boré &amp; Partner
+Patentanwälte</snm><iid>00100651</iid><adr><str>Grafinger Strasse 2</str><city>81671 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>MC</ctry><ctry>NL</ctry><ctry>PT</ctry><ctry>SE</ctry><ctry>TR</ctry></B840><B844EP><B845EP><ctry>AL</ctry></B845EP><B845EP><ctry>LT</ctry></B845EP><B845EP><ctry>LV</ctry></B845EP><B845EP><ctry>MK</ctry></B845EP><B845EP><ctry>RO</ctry></B845EP><B845EP><ctry>SI</ctry></B845EP></B844EP><B860><B861><dnum><anum>JP0107711</anum></dnum><date>20010905</date></B861><B862>ja</B862></B860><B870><B871><dnum><pnum>WO02020444</pnum></dnum><date>20020314</date><bnum>200211</bnum></B871></B870></B800></SDOBI><!-- EPO <DP n="8000"> -->
+<abstract id="abst" lang="en">
+<p id="pa01" num="0001">A process for producing a fluoroalkanol which can easily be industrially practiced with high selectivity, is provided.</p>
+<p id="pa02" num="0002">CHR<sup>1</sup>R<sup>2</sup>OH, a radical initiator and CF<sub>2</sub>=CFR<sup>f</sup> are continuously supplied and reacted at from 105 to 135°C, and H-(R<sup>f</sup>CFCF<sub>2</sub>)<sub>n</sub>-CR<sup>1</sup>R<sup>2</sup>-OH formed, is continuously discharged. Here, each of R<sup>1</sup> and R<sup>2</sup> is a hydrogen atom or a C<sub>1-3</sub> alkyl group, R<sup>f</sup> is a fluorine atom or a C<sub>1-4</sub> polyfluoroalkyl group, and n is an integer of from 1 to 4.</p>
+</abstract><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001"><u>TECHNICAL FIELD</u></heading>
+<p id="p0001" num="0001">The present invention relates to a process for producing a fluoroalkanol.</p>
+<heading id="h0002"><u>BACKGROUND ART</u></heading>
+<p id="p0002" num="0002">A fluoroalkanol is useful as an intermediate for e.g. a water and oil repellent, a surfactant or a photographic color-developing material (e.g. JP-A-54-154707). Further, such a compound presents no solubility to a plastic substrate of e.g. polycarbonate and thus is useful as a solvent for an optical recording material, a dye, etc. (JP-A-4-8585, JP-A-5-258346, etc.).</p>
+<p id="p0003" num="0003">Heretofore, a fluoroalkanol has been produced, for example, by a method of adding tetrafluoroethylene to methanol. As such a method, (1) a method wherein methanol, tetrafluoroethylene and a radical initiator are charged all at once and heated (U.S.P. 2,559,628), (2) a method wherein methanol, tetrafluoroethylene and a radical initiator are charged all at once and continuously reacted in a reaction column (U.S.P. 3,022,356), (3) a method wherein methanol and a radical initiator are charged all at once, and tetrafluoroethylene is continuously added and reacted (JP-A-54-154707), or (4) a method wherein tetrafluoropropanol and various telogens, are continuously reacted in the presence of a catalyst, at a<!-- EPO <DP n="2"> --> temperature of not higher than 100°C (JP-B-42-10782), has, for example, been known.</p>
+<p id="p0004" num="0004">However, the method (1) has a problem that it is difficult to control the number of addition of tetrafluoroethylene, and even if it is attempted to obtain only a highly useful desired product having a number of addition of from 1 to 4, the molecular weight distribution of the product tends to be broad, and the yield tends to be low.</p>
+<p id="p0005" num="0005">The method (2) has a problem that compounds having a number of addition of tetrafluoroethylene of 3 or more, are mainly formed, while a product having a number of addition of tetrafluoroethylene of 1 to 2 is small. The method (3) has a problem that it is necessary to add a solid acid scavenger, or it takes a long time for the reaction. Further, the method (4) has a problem that the concentration of the obtained telomer is as low as about 10%, and the average degree of polymerization tends to be extremely high at a level of 32, while the amount of products having a number of addition of from 1 to 4 tends to be extremely low.</p>
+<heading id="h0003"><u>DISCLOSURE OF THE INVENTION</u></heading>
+<p id="p0006" num="0006">It is an object of the present invention to solve the above problems and to provide a process for producing a fluoroalkanol, whereby mass production is possible with high yield and which is advantageous for industrial operation.<!-- EPO <DP n="3"> --></p>
+<p id="p0007" num="0007">Namely, the present invention provides a process for producing a fluoroalkanol (formula 1), which comprises reacting a polyfluoroolefin (formula 2) and an alkanol (formula 3) in the presence of a radical initiator, wherein the polyfluoroolefin (formula 2), the alkanol (formula 3) and the radical initiator are continuously supplied into a reactor and reacted at from 105 to 135°C, and the fluoroalkanol (formula 1) formed, is continuously discharged: <br/>
+<br/>
+        H-(R<sup>f</sup>CFCF<sub>2</sub>)<sub>n</sub>-CR<sup>1</sup>R<sup>2</sup>-OH     Formula 1<br/>
+<br/>
+<br/>
+<br/>
+        R<sup>f</sup>CF=CF<sub>2</sub>     Formula 2<br/>
+<br/>
+<br/>
+<br/>
+        CHR<sup>1</sup>R<sup>2</sup>-OH     Formula 3<br/>
+<br/>
+provided that the symbols in the formulae have the following meanings:
+<ul id="ul0001" list-style="none" compact="compact">
+<li>R<sup>f</sup>: a fluorine atom or a C<sub>1-4</sub> polyfluoroalkyl group;</li>
+<li>R<sup>1</sup>, R<sup>2</sup>: each independently, a hydrogen atom or a C<sub>1-3</sub> alkyl group; and</li>
+<li>n: an integer of from 1 to 4.</li>
+</ul></p>
+<heading id="h0004"><u>BRIEF DESCRIPTION OF THE DRAWINGS</u></heading>
+<p id="p0008" num="0008">
+<ul id="ul0002" list-style="none" compact="compact">
+<li>Fig. 1 is a flow chart showing one embodiment of the present invention.</li>
+</ul></p>
+<heading id="h0005"><u>BEST MODE FOR CARRYING OUT THE INVENTION</u></heading>
+<p id="p0009" num="0009">In the formula (1), R<sup>f</sup> is a fluorine atom or a C<sub>1-4</sub> polyfluoroalkyl group. The polyfluoroalkyl group is a group having at least two hydrogen atoms in an alkyl group substituted by fluorine atoms. The polyfluoroalkyl group may be of a linear structure or a branched<!-- EPO <DP n="4"> --> structure. R<sup>f</sup> is preferably a fluorine atom or a C<sub>1-2</sub> polyfluoroalkyl group, particularly preferably a fluorine atom or a trifluoromethyl group.</p>
+<p id="p0010" num="0010">In the formula (1), each of R<sup>1</sup> and R<sup>2</sup> which are independent of each other, is a hydrogen atom or a C<sub>1-3</sub> alkyl group. The C<sub>1-3</sub> alkyl group may be a methyl group, an ethyl group, a n-propyl group or an isopropyl group.</p>
+<p id="p0011" num="0011">In the formula (1), n is an integer of from 1 to 4, preferably 1 or 2.</p>
+<p id="p0012" num="0012">The following compounds may be mentioned as specific examples of the fluoroalkanol (formula 1). <br/>
+<br/>
+        H(CF<sub>2</sub>)<sub>2</sub>CH<sub>2</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        H(CF<sub>2</sub>)<sub>3</sub>CH<sub>2</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        H(CF<sub>2</sub>)<sub>4</sub>CH<sub>2</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        CHF<sub>2</sub>CF<sub>2</sub>CH(CH<sub>3</sub>)OH,<br/>
+<br/>
+<br/>
+<br/>
+        CHF<sub>2</sub>CF<sub>2</sub>C(CH<sub>3</sub>)<sub>2</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        CF<sub>3</sub>CHFCF<sub>2</sub>CH<sub>2</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        CF<sub>3</sub>CHFCF<sub>2</sub>CH(CH<sub>3</sub>)OH,<br/>
+<br/>
+<br/>
+<br/>
+        CF<sub>3</sub>CHFCF<sub>2</sub>C(CH<sub>3</sub>)<sub>2</sub>OH.<br/>
+<br/>
+</p>
+<p id="p0013" num="0013">R<sup>f</sup> in the polyfluoroolefin (formula 2) has the same meaning as R<sup>f</sup> in the formula 1. The polyfluoroolefin (formula 2) is preferably a perfluoroolefin, and specifically, the following compounds may, for example, be mentioned: <br/>
+<br/>
+        CF<sub>2</sub>=CF<sub>2</sub>,<br/>
+<br/>
+<br/>
+<br/>
+        CF<sub>3</sub>CF=CF<sub>2</sub>.<br/>
+<br/>
+</p>
+<p id="p0014" num="0014">R<sup>1</sup> and R<sup>2</sup> in the alkanol (formula 3) have the same<!-- EPO <DP n="5"> --> meanings as R<sup>1</sup> and R<sup>2</sup> in the formula 1. The following compounds may be mentioned as specific examples of the alkanol (formula 3): <br/>
+<br/>
+        CH<sub>3</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        CH<sub>3</sub>CH<sub>2</sub>OH,<br/>
+<br/>
+<br/>
+<br/>
+        (CH<sub>3</sub>)<sub>2</sub>CHOH.<br/>
+<br/>
+</p>
+<p id="p0015" num="0015">As the radical initiator to be used in the present invention, an organic free radical initiator may be mentioned. As such an organic free radical initiator, an organic peroxide or an azo compound is preferred, and particularly preferred is an organic peroxide such as an alkyl hydroperoxide, a dialkyl peroxide, a peroxyketal, a diacyl peroxide, a peroxycarboxylate, a peroxycarboxylic acid or a peroxycarbonate.</p>
+<p id="p0016" num="0016">The following compounds may be mentioned as specific examples of the radical initiator.</p>
+<p id="p0017" num="0017">1,1-bis(tert-butylperoxy)-3,3,5-trimethylcyclohexane, 1,1-bis(tert-butylperoxy)cyclohexane, tert-butylperoxyisopropyl carbonate, tert-butylperoxy isobutyrate, tert-butylperoxy pivalate, di-tert-butyl peroxide, and tert-butyl hydroperoxide.</p>
+<p id="p0018" num="0018">Among radical initiators, a dialkyl peroxide which has a particularly high ability for forming radicals from the alkanol (formula 3), is preferred, and particularly preferred is di-tert-butyl peroxide.</p>
+<p id="p0019" num="0019">The amount of the radical initiator to be supplied,<!-- EPO <DP n="6"> --> is preferably from 0.0001 to 0.1 times by mol, particularly preferably from 0.001 to 0.05 times by mol, to the alkanol (formula 3). The amount of the polyfluoroolefin (formula 2) to be supplied, is preferably from 0.01 to 1.2 times by mol, particularly preferably from 0.05 to 0.5 times by mol, to the alkanol (formula 3).</p>
+<p id="p0020" num="0020">The present invention provides a process for producing a fluoroalkanol (formula 1), wherein the polyfluoroolefin (formula 2), the alkanol (formula 3) and the radical initiator, are continuously supplied into a reactor and reacted at from 105 to 135°C, and the fluoroalkanol (formula 1) is continuously discharged. It is preferably carried out in the following manner.</p>
+<p id="p0021" num="0021">Namely, the polyfluoroolefin (formula 2) is preferably supplied into a reactor having the alkanol (formula 3) charged, so that the pressure in the reactor would be preferably from 0.2 to 1.5 MPa (gauge pressure, the same applies hereinafter), particularly preferably, from 0.5 to 1.0 MPa.</p>
+<p id="p0022" num="0022">On the other hand, the alkanol (formula 3) and the radical initiator are preferably continuously supplied into the reactor in the form of their mixed solution. And, during the reaction, the formed fluoroalkanol (formula 1) is preferably discharged from the reactor, so that the liquid level in the reactor would be constant.</p>
+<p id="p0023" num="0023">Now, the process for producing a fluoroalkanol of<!-- EPO <DP n="7"> --> the present invention will be described in further detail with reference to the drawing.</p>
+<p id="p0024" num="0024">Fig. 1 is a flow chart showing one embodiment of the present invention.</p>
+<p id="p0025" num="0025">A reaction tank is used as a reactor, and the reaction tank is provided with a line to supply a mixed solution of the alkanol (formula 3) and the radical initiator continuously by a pump from a blending tank to the reaction tank, and a line to supply the polyfluoroolefin (formula 2). Further, the reaction tank is connected to a reaction liquid storage tank to withdraw a liquid (hereinafter referred to as a reaction liquid) containing the fluoroalkanol (formula 1) formed by the reaction in the reaction tank and to store the reaction liquid.</p>
+<p id="p0026" num="0026">Firstly, the alkanol (formula 3) and the radical initiator are mixed in the blending tank equipped with a stirring device to prepare their mixed solution. On the other hand, the alkanol (formula 3) is charged to the reaction tank equipped with a stirring device, and the reactor is heated to from 105 to 135°C. Then, while continuously supplying the polyfluoroolefin (formula 2) to the reaction tank, the previously prepared mixed solution of the alkanol (formula 3) and the radical initiator, is continuously supplied by a pump to the reaction tank. At the same time, the reaction liquid is withdrawn to the reaction liquid storage tank, so that<!-- EPO <DP n="8"> --> the liquid level in the reaction tank would be constant. On the other hand, the polyfluoroolefin (formula 2) is also continuously supplied. From the reaction liquid stored in the reaction liquid storage tank, the fluoroalkanol (formula 1) can be obtained via a purification method such as cooling or distillation.</p>
+<p id="p0027" num="0027">The reaction of the alkanol (formula 3) and the polyfluoroolefin (formula 2) is so-called a telomerization reaction. The telomerization reaction is a chain reaction wherein the radical initiator is decomposed to form a radical, and the radical will withdraw a hydrogen atom on the carbon on which the hydroxyl group of the alkanol (formula 3) is bonded, to form an alkanol radical, and the polyfluoroolefin (formula 2) is added thereto. And, the reaction in the present invention is a reaction whereby the number of addition of the polyfluoroolefin (formula 2) can be controlled in such a telomerization reaction as a chain reaction, whereby the desired fluoroalkanol (formula 1) wherein n is from 1 to 4, can be obtained in high yield.</p>
+<p id="p0028" num="0028">Among the reaction conditions, firstly, the reaction temperature is required to be from 105 to 135°C. For example, in a case where it is desired to obtain an object wherein n is 1 or 2, or in a case where di-tert-butyl peroxide (the temperature at which half life is 10 hours: 125°C) is used as a radical initiator, the temperature is preferably within a range of from 120 to<!-- EPO <DP n="9"> --> 130°C as an industrially advantageous condition. The reaction time is preferably at least 3 hours, particularly preferably at least 5 hours. Further, the upper limit of the reaction time is not particularly limited. The average retention time calculated by dividing the amount of the reaction liquid in the reactor by the supply rate of the starting material, is preferably from 2 to 100 hours from the viewpoint of the conversion, and it is particularly preferably from 5 to 20 hours, as an industrially advantageous condition. The reaction pressure is preferably from 0.2 to 1.5 MPa, particularly preferably from 0.5 to 1.0 MPa from the viewpoint of the conversion.</p>
+<p id="p0029" num="0029">Further, with respect to the supply of the radical initiator and the alkanol (formula 3), an irregular supply method may be adopted at the initial stage of the reaction in order to initiate the reaction under a stabilized condition, but after the reaction is stabilized, it is preferred to supply them at a constant rate during the reaction time. Further, also with respect to the polyfluoroolefin (formula 2), it is preferred to supply the necessary total amount at a constant rate during the reaction time.</p>
+<p id="p0030" num="0030">Furthermore, according to the process of the present invention, the amount of addition can easily be controlled by adjusting the amount of the polyfluoroolefin (formula 2) to be supplied, whereby it<!-- EPO <DP n="10"> --> is possible to obtain the fluoroalkanol (formula 1) with high selectivity and high productivity. The obtained fluoroalkanol (formula 1) is subjected to usual separation purification to obtain one having a high purity. Further, in the method of the present invention, the product, etc. will be continuously discharged, whereby accumulation of an acid content will be suppressed, and it is advantageous that the reaction can be carried out in the absence of an acid scavenger (i.e. without an acid scavenger).</p>
+<p id="p0031" num="0031">The fluoroalkanol (formula 1) produced by the process of the present invention, is useful as a starting material or a solvent for a water and oil repellent, a surfactant, a photographic color-developing material, etc.</p>
+<heading id="h0006"><u>EXAMPLES</u></heading>
+<p id="p0032" num="0032">Now, the present invention will be described in detail with reference to Examples, but the present invention is by no means thereby restricted. In the following, liter will be represented by "ℓ". Further, % determined by gas chromatography is based on mass.</p>
+<heading id="h0007">EXAMPLE 1: Production of 2,2,3,3-tetrafluoro-1-propanol</heading>
+<p id="p0033" num="0033">The reaction was carried out in accordance with the flow chart as shown in Fig. 1. Namely, a 1 m<sup>3</sup> hastelloy C reaction tank equipped with a stirring device, was used as the reactor, and 341 kg (432 ℓ) of methanol was charged thereto. Then, the internal temperature was<!-- EPO <DP n="11"> --> raised to 125°C. While maintaining this temperature and supplying tetrafluoroethylene to the reaction tank so that the pressure would be 0.9 MPa, at the initial stage of the reaction, a solution having 5.5 kg of di-tert-butyl peroxide and 44 kg of methanol mixed in the blending tank, was continuously supplied to the reaction tank by means of a metering pump at a rate of 25 ℓ/hr for 0.5 hour, and thereafter, continuously supplied at a rate of 4.2 ℓ/hr for few hours, to carry out the reaction.</p>
+<p id="p0034" num="0034">Then, while continuously supplying tetrafluoroethylene so that the pressure in the reaction tank would be 0.9 MPa, a solution having 12 kg of di-tert-butyl peroxide and 1,315 kg of methanol mixed in the blending tank, was continuously supplied to the reaction tank by means of a metering pump at a rate of 56 ℓ/hr, and from the bottom of the reaction tank, the reaction liquid was continuously discharged to the reaction storage tank, so that the liquid level would be constant. Such continuous supply and continuous discharge of the reaction liquid, were carried out for 110 hours. After the 110 hours, supply of a methanol solution of di-tert-butyl peroxide, was terminated, and then tetrafluoroethylene was supplied to the reaction tank so that the pressure would be 0.9 MPa. After maintaining the temperature at 125°C for 3 hours, it was cooled to 40°C. As a result, using a total of 4.9 t of methanol and a total of 1.9 t of tetrafluoroethylene, as a<!-- EPO <DP n="12"> --> reaction liquid, 6.7 t of a mixed liquid comprising 2,2,3,3-tetrafluoro-1-propanol and methanol, was obtained.</p>
+<p id="p0035" num="0035">The mixed liquid was analyzed by gas chromatography, whereby it contained 66% of methanol, 28% of 2,2,3,3-tetrafluoro-1-propanol, and 4% of 2,2,3,3,4,4,5,5-octafluoro-1-pentanol. Further, the conversion of methanol was 15%, and selectivity for 2,2,3,3-tetrafluoro-1-propanol was 93%, and the selectivity for 2,2,3,3,4,4,5,5-octafluoro-1-pentanol was 7%. This mixture was purified by distillation to obtain 2,2,3,3-tetrafluoro-1-propanol having a purity of at least 99%.</p>
+<heading id="h0008">EXAMPLE 2: Production of 2,2,3,4,4,4-hexafluoro-1-butanol</heading>
+<p id="p0036" num="0036">A reaction was carried out in accordance with the flow chart as shown in Fig. 1. Namely, a 0.5 m<sup>3</sup> hastelloy C reaction tank equipped with a stirring device, was used as the reactor, and 170 kg (212 ℓ) of methanol was charged thereto. Then, the internal temperature was raised to 130°C. A solution having 2.8 kg of di-tert-butyl peroxide and 22 kg of methanol mixed in the blending tank, was continuously supplied to the reaction tank by means of a metering pump at an initial stage of the reaction at a rate of 25 ℓ/hr for 0.25 hour, and thereafter, continuously supplied at a rate of 4.2 ℓ/hr for 4 hours, to carry out the reaction. At the same time, 20 kg of hexafluoropropene was continuously supplied to the reaction tank by means of a metering pump<!-- EPO <DP n="13"> --> at a rate of 3 ℓ/hr. Then, a solution having 12 kg of di-tert-butyl peroxide and 1,315 kg of methanol mixed in the blending tank, was continuously supplied to the reaction tank by means of a metering pump at a rate of 28 ℓ/hr, and at the same time, hexafluoropropene was continuously supplied to the reaction tank by means of a metering pump at a rate of 3 ℓ/hr. During this period, from the bottom of the reaction tank, the reaction liquid was continuously discharged to the reaction storage tank, so that the liquid level would be constant. Such continuous supply of the starting materials and the continuous discharging of the content liquid, were carried out for 40 hours. Upon expiration of 40 hours, supply of the methanol solution of di-tert-butyl peroxide, was terminated, and then the temperature was maintained at 125°C for one hour and then cooled to 40°C. As a result, as a reaction liquid, 1.2 t of a mixed liquid comprising of 2,2,3,4,4,4-hexafluoro-1-butanol and methanol, was obtained.</p>
+<p id="p0037" num="0037">This mixed liquid was analyzed by gas chromatography, whereby it contained 73% of methanol and 19% of 2,2,3,4,4,4-hexafluoro-1-butanol. Further, the conversion of methanol was 8%, and selectivity for 2,2,3,4,4,4-hexafluoro-1-butanol was 88%. This mixture was purified by distillation to obtain 2,2,3,4,4,4-hexafluoro-1-butanol having a purity of at least 99%.<!-- EPO <DP n="14"> --></p>
+<heading id="h0009"><u>INDUSTRIAL APPLICABILITY</u></heading>
+<p id="p0038" num="0038">According to the present invention, a fluoroalkanol (formula 1) can be produced with high selectivity. Further, the process of the present invention is a continuous process wherein the starting materials are continuously supplied, and the product is continuously discharged, and it is a process which is extremely advantageous for industrial operation, since in that process, it is unnecessary to employ any special reaction conditions or reaction operation.</p>
+</description><!-- EPO <DP n="15"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-0001" num="0001">
+<claim-text>A process for producing a fluoroalkanol of the following formula 1, which comprises reacting a polyfluoroolefin of the following formula 2 and an alkanol of the following formula 3 in the presence of a radical initiator, wherein the polyfluoroolefin of the following formula 2, the alkanol of the following formula 3 and the radical initiator are continuously supplied into a reactor and reacted at from 105 to 135°C, and the fluoroalkanol of the following formula 1 formed, is continuously discharged: <br/>
+<br/>
+        H-(R<sup>f</sup>CFCF<sub>2</sub>)<sub>n</sub>-CR<sup>1</sup>R<sup>2</sup>-OH     Formula 1<br/>
+<br/>
+<br/>
+<br/>
+        R<sup>f</sup>CF=CF<sub>2</sub>     Formula 2<br/>
+<br/>
+<br/>
+<br/>
+        CHR<sup>1</sup>R<sup>2</sup>-OH     Formula 3<br/>
+<br/>
+provided that the symbols in the formulae have the following meanings:
+<claim-text>R<sup>f</sup>: a fluorine atom or a C<sub>1-4</sub> polyfluoroalkyl group;</claim-text>
+<claim-text>R<sup>1</sup>, R<sup>2</sup>: each independently, a hydrogen atom or a C<sub>1-3</sub> alkyl group; and</claim-text>
+<claim-text>n: an integer of from 1 to 4.</claim-text></claim-text></claim>
+<claim id="c-en-0002" num="0002">
+<claim-text>The process for producing a fluoroalkanol according to Claim 1, wherein n is 1 or 2.</claim-text></claim>
+<claim id="c-en-0003" num="0003">
+<claim-text>The process for producing a fluoroalkanol according to Claim 1 or 2, wherein the radical initiator is an organic peroxide.</claim-text></claim>
+<claim id="c-en-0004" num="0004">
+<claim-text>The process for producing a fluoroalkanol according to any one of Claims 1 to 3, wherein the radical<!-- EPO <DP n="16"> --> initiator is a dialkyl peroxide.</claim-text></claim>
+<claim id="c-en-0005" num="0005">
+<claim-text>The process for producing a fluoroalkanol according to any one of Claims 1 to 4, wherein the fluoroalkanol of the formula 1 is 2,2,3,3-tetrafluoro-1-propanol, 2,2,3,3,4,4,5,5-octafluoro-1-pentanol or 2,2,3,4,4,4-hexafluoro-1-butanol.</claim-text></claim>
+<claim id="c-en-0006" num="0006">
+<claim-text>The process for producing a fluoroalkanol according to any one of Claims 1 to 5, wherein the polyfluoroolefin of the formula 2 is a perfluoroolefin.</claim-text></claim>
+<claim id="c-en-0007" num="0007">
+<claim-text>The process for producing a fluoroalkanol according to any one of Claims 1 to 6, wherein the reaction is carried out in the absence of an acid scavenger.</claim-text></claim>
+</claims><!-- EPO <DP n="17"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="120" he="230" img-content="drawing" img-format="tif"/></figure>
+</drawings><!-- EPO <DP n="9000"> -->
+<search-report-data id="srep" lang="en" srep-office="EP" date-produced=""><doc-page id="srep0001" file="srep0001.tif" wi="158" he="229" type="tif"/></search-report-data>
+</ep-patent-document>

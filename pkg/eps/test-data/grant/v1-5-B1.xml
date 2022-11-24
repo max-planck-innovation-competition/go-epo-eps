@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5//EN" "ep-patent-document-v1-5.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP17171508B1" file="EP17171508NWB1.xml" lang="en" country="EP" doc-number="3404678" kind="B1" date-publ="20210630" status="n" dtd-version="ep-patent-document-v1-5">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSK..HRIS..MTNORS..SM..................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 1.7.2 (20 November 2019) -  2100000/0</B007EP></eptags></B000><B100><B110>3404678</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20210630</date></B140><B190>EP</B190></B100><B200><B210>17171508.9</B210><B220><date>20170517</date></B220><B240><B241><date>20190521</date></B241></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B400><B405><date>20210630</date><bnum>202126</bnum></B405><B430><date>20181121</date><bnum>201847</bnum></B430><B450><date>20210630</date><bnum>202126</bnum></B450><B452EP><date>20210113</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>H01F  27/14        20060101AFI20171122BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>H01F  27/40        20060101ALI20171122BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>HOCHSPANNUNGSANORDNUNG UND VERFAHREN ZUM BETREIBEN DER HOCHSPANNUNGSANORDNUNG</B542><B541>en</B541><B542>HIGH VOLTAGE ASSEMBLY AND METHOD TO OPERATE THE HIGH VOLTAGE ASSEMBLY</B542><B541>fr</B541><B542>ENSEMBLE À HAUTE TENSION ET PROCÉDÉ DE FONCTIONNEMENT DE L'ENSEMBLE À HAUTE TENSION</B542></B540><B560><B561><text>EP-A1- 3 109 871</text></B561><B561><text>FR-E- 84 247</text></B561><B561><text>GB-A- 693 448</text></B561><B561><text>US-A1- 2008 197 955</text></B561></B560></B500><B700><B720><B721><snm>HARTHUM, Jörg</snm><adr><str>Elly-Heuss-Knapp-Weg 20</str><city>50374 Erftstadt</city><ctry>DE</ctry></adr></B721><B721><snm>STIRL, Tobias</snm><adr><str>Pappelallee 52</str><city>47918 Tönisvorst</city><ctry>DE</ctry></adr></B721></B720><B730><B731><snm>General Electric Technology GmbH</snm><iid>101560150</iid><irf>318401-1</irf><adr><str>Brown Boveri Strasse 7</str><city>5400 Baden</city><ctry>CH</ctry></adr></B731></B730><B740><B741><snm>Freigutpartners IP Law Firm</snm><iid>101820002</iid><adr><str>Hahnrainweg 4</str><city>5400 Baden</city><ctry>CH</ctry></adr></B741></B740></B700><B800><B840><ctry>AL</ctry><ctry>AT</ctry><ctry>BE</ctry><ctry>BG</ctry><ctry>CH</ctry><ctry>CY</ctry><ctry>CZ</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>EE</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>HR</ctry><ctry>HU</ctry><ctry>IE</ctry><ctry>IS</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LT</ctry><ctry>LU</ctry><ctry>LV</ctry><ctry>MC</ctry><ctry>MK</ctry><ctry>MT</ctry><ctry>NL</ctry><ctry>NO</ctry><ctry>PL</ctry><ctry>PT</ctry><ctry>RO</ctry><ctry>RS</ctry><ctry>SE</ctry><ctry>SI</ctry><ctry>SK</ctry><ctry>SM</ctry><ctry>TR</ctry></B840></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<heading id="h0001">FIELD OF THE INVENTION</heading>
+<p id="p0001" num="0001">The present invention relates to a high voltage assembly and method of operating the high voltage assembly.</p>
+<heading id="h0002">BACKGROUND OF THE INVENTION</heading>
+<p id="p0002" num="0002">Known high voltage assemblies like oil immersed transformers or oil immersed reactors comprise a conservator which is arranged above a cover of the compartment comprising an active component.</p>
+<p id="p0003" num="0003">However, the area above the cover is very limited and has drawbacks with regard to safety and electrical clearance issues. High costs and an increase in dimension are the consequences.</p>
+<p id="p0004" num="0004">From <patcit id="pcit0001" dnum="EP3109871A1"><text>EP 3 109 871 A1</text></patcit> it is known a transformer arrangement comprising a transformer tank for a liquid-filled electrical transformer, an expansion tank, and piping connecting the transformer tank with the expansion tank for enabling liquid of the liquid-filled transformer to flow between the transformer tank and the expansion tank via the piping. The piping comprises a valve. The valve is configured for allowing the liquid to flow from the transformer tank to the expansion tank when the pressure of the liquid in the transformer tank is above a predefined first threshold and for preventing the liquid to flow from the transformer tank to the expansion tank when the pressure of the liquid in the transformer tank is below the predefined first threshold. The valve is also configured for allowing the liquid to flow from the expansion tank to the transformer tank when the pressure of the liquid in the transformer tank is below a predefined second threshold and for preventing the liquid to flow from the expansion tank to the transformer tank when the pressure of the liquid in the transformer tank is above the predefined second threshold.</p>
+<p id="p0005" num="0005"><patcit id="pcit0002" dnum="US2008197955A1"><text>US 2008/197955 A1</text></patcit> describes an electric apparatus, preferably a transformer, that is hermetically sealed and filled with a dielectric liquid. Devices for recording heat-related<!-- EPO <DP n="2"> --> volume variations of the dielectric liquid are contained in the apparatus. Volume variations are compensated with the aid of a gas cushion, which is thermally uncoupled from the dielectric liquid. The largest part of the gas cushion is arranged in a container separated from the dielectric liquid expansion tank. All the components of volume compensating devices are constructed in such a way that the operation of used monitoring devices, in particular, also the protection against Buchholz relais waves is maintained. The invention makes it possible to hermetically seal the transformer, thereby substantially reducing the aging of the dielectric liquid and the cellulose-based insulating material of the apparatus. Furthermore, the described device makes it possible to avoid the use of air-dehumidifiers and respective conduits.</p>
+<p id="p0006" num="0006">Another type of electric power transformer of the oil insulated type is disclosed in <patcit id="pcit0003" dnum="GB693448A"><text>GB 693,448 A</text></patcit>.</p>
+<heading id="h0003">SUMMARY OF THE INVENTION</heading>
+<p id="p0007" num="0007">In view of the prior art, it is an object of the present disclosure to improve a high voltage assembly of the above type.</p>
+<p id="p0008" num="0008">According to a first aspect of this disclosure it is proposed a high voltage assembly comprising: a sealed compartment containing an active component at least partly surrounded by an insulation liquid; a free breathing conservator that breathes air from ambient air; a Buchholz relay arranged above a level of a cover of the sealed compartment; and a pipe arrangement comprising: a first pipe section connecting an inside of the sealed compartment at the cover of the sealed compartment to the Buchholz relay; and a second pipe section connecting the Buchholz relay with an inside of the free breathing conservator at a lower portion of the free breathing conservator, wherein in a normal operating state of the high voltage assembly a hydraulic diameter of the pipe arrangement is maintained constant. Moreover, in the normal operating state of the high voltage assembly the level of insulation liquid in the conservator is maintained below the level of the cover of the sealed compartment. Further, the pipe arrangement comprises a third pipe section connecting the interior of the sealed compartment and the lower portion of the free breathing conservator.<!-- EPO <DP n="3"> --></p>
+<p id="p0009" num="0009">The proposed high voltage assembly allows a reduction in size due to a level of insulation liquid in the conservator below the cover of the sealed compartment. Specifically it is easier to maintain the necessary electrical clearances due to free space above the cover. Moreover the overall size can be reduced. The Buchholz relay provides sufficient protection capabilities for the high voltage assembly. During transport the conservator can remain at its position and it is not necessary to remove it. Due to the constant hydraulic diameter of the pipe arrangement no further valve elements are necessary which are operated in the normal operating state. Therefore, costs with regard to maintenance and production are reduced.</p>
+<p id="p0010" num="0010">An advantageous embodiment is characterized in that the second pipe section comprises a lower valve and an upper valve. Closing the second pipe section is therefore available for retaining insulation liquid in the second pipe section.</p>
+<p id="p0011" num="0011">An advantageous embodiment is characterized in that the cover of the sealed compartment comprises a valve. This option allows for a well-defined draining of insulation liquid to the conservator.</p>
+<p id="p0012" num="0012">An advantageous embodiment is characterized in that the sealed compartment and the free breathing conservator share a wall. A reduction in size and cost is achieved.</p>
+<p id="p0013" num="0013">As stated above, the pipe arrangement comprises: a third pipe section connecting an inside of the sealed compartment and the lower portion of the free breathing conservator. By this further liquid connection it is possible to exchange liquid in maintenance operation.</p>
+<p id="p0014" num="0014">An advantageous embodiment is characterized in that the third pipe section comprises a pump for pumping insulation liquid from the free breathing conservator to the sealed compartment. Accordingly the high voltage assembly can be brought to a normal operating state with the sealed compartment filled with insulation liquid.</p>
+<p id="p0015" num="0015">According to a further aspect of this disclosure it is proposed a method to operate a high voltage assembly. The high voltage assembly comprises: a sealed compartment containing an active component at least partly surrounded by an insulation liquid; a free<!-- EPO <DP n="4"> --> breathing conservator that breathes air from ambient air; a Buchholz relay arranged above a level of a cover of the sealed compartment; and a pipe arrangement comprising: a first pipe section connecting an inside of the sealed compartment at the cover of the sealed compartment to the Buchholz relay; and a second pipe section connecting the Buchholz relay with an inside of the free breathing conservator at a lower portion of the free breathing conservator. The method comprises: maintaining a hydraulic diameter of the pipe arrangement constant when operating the high voltage assembly in a normal operating state; and maintaining in the normal operating state of the high voltage assembly the level of insulation liquid in the conservator below the level of the cover of the sealed compartment. The transferring further comprises: opening a third pipe section connecting the sealed compartment and the lower portion of the free breathing conservator.</p>
+<p id="p0016" num="0016">An advantageous embodiment is characterized in that the method further comprises: shutdown the high voltage assembly to transfer the high voltage assembly to a maintenance state; transferring at least part of the insulation liquid from the sealed compartment to the conservator; conducting maintenance work; returning the at least part of the insulation liquid from the conservator to the sealed compartment; switching on the high voltage assembly to return to normal operating state. No extra-volume for receiving insulation liquid during maintenance operation is necessary and consequently reduces maintenance costs.</p>
+<p id="p0017" num="0017">An advantageous embodiment is characterized in that the transferring further comprises: opening at least partly the cover of the sealed compartment. This allows that at least part of the insulation liquid flows into the volume of the conservator.</p>
+<p id="p0018" num="0018">As stated above, the transferring further comprises: opening a third pipe section connecting an inside of the sealed compartment and the lower portion of the free breathing conservator. Even then the first or second pipe sections are closed or without liquid, a liquid exchange may be accomplished by the third pipe section.<!-- EPO <DP n="5"> --></p>
+<p id="p0019" num="0019">An advantageous embodiment is characterized in that the transferring further comprises: closing the second pipe section. Insulation liquid can be therefore retained in the second pipe section which prevents air bubbles in the second pipe section due to the operation during maintenance.</p>
+<p id="p0020" num="0020">An advantageous embodiment is characterized in that the returning further comprises: closing the cover of the sealed compartment. This seals the compartment for returning to the normal operating state.</p>
+<p id="p0021" num="0021">An advantageous embodiment is characterized in that the returning further comprises: opening a venting valve of the Buchholz relay; pumping insulation liquid from the free breathing conservator to the sealed compartment until insulation liquid leaves the open venting valve; and closing the venting valve. By conducting these steps it is assured that insulation liquid is present up to the Buchholz relay.</p>
+<heading id="h0004">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p0022" num="0022">
+<ul id="ul0001" list-style="none">
+<li><figref idref="f0001">Figures 1</figref> and <figref idref="f0002">2</figref> show a schematic high voltage assembly, respectively; and</li>
+<li><figref idref="f0003">Figure 3</figref> shows a schematic flow diagram.</li>
+</ul><!-- EPO <DP n="6"> --></p>
+<p id="p0023" num="0023"><figref idref="f0001">Figure 1</figref> shows a schematic high voltage assembly 2. A sealed compartment 4 contains an active component 6 which is at least partly surrounded by insulation liquid 8. The active component 6 comprises windings and a core. A free breathing conservator 10 is arranged besides the sealed compartment 4. According to an embodiment the sealed compartment 4 and the free breathing conservator 10 share a wall, which is indicated by the arrows 15. The cover 14 of the sealed compartment 4 comprises a valve 28.</p>
+<p id="p0024" num="0024">The conservator 10 comprises a filter 11 for breathing dry air from the ambient air. Furthermore, the conservator 10 comprises a level indicator 13. A Buchholz relay 12 is arranged above a level L14 of a cover 14 of the sealed compartment 4. Especially, the Buchholz relay 12 is arranged at a vertical uppermost portion of a pipe arrangement 16.</p>
+<p id="p0025" num="0025">According to an embodiment a cover of the conservator 10 is arranged above the level L14 of the cover 14 of the sealed compartment 4. This guarantees a safety volume for receiving the insulation liquid when the high voltage assembly is under maintenance.</p>
+<p id="p0026" num="0026">The pipe arrangement 16 connects the sealed compartment 4 and the conservator 10. The pipe arrangement 16 comprises a first pipe section 18 connecting an inside of the sealed compartment 4 at the cover 14 of the sealed compartment 4 to the Buchholz relay 12.</p>
+<p id="p0027" num="0027">A second pipe section 20 connects the Buchholz relay 12 with an inside of the free breathing conservator 10 at a lower portion 22 of the free breathing conservator 10. The second pipe section 20 comprises a lower valve 24 and an upper valve 26. The lower portion 22 comprises at least one third of the whole volume of the conservator 10. In a normal operating state N of the high voltage assembly 2 a hydraulic diameter of the pipe arrangement 16 remains constant.</p>
+<p id="p0028" num="0028">The pipe arrangement 16 comprises a third pipe section 30 connecting an inside of the sealed compartment 4 and the lower portion 22 of the free breathing conservator 10. Dashed line 40 and valves 42 and 44 indicate that the third pipe section 30 is not necessary to operate in the normal operating state N. The valves 42, 44 are arranged to<!-- EPO <DP n="7"> --> temporarily add an oil pump. In an embodiment the oil pump is arranged permanently in the third pipe section 30.</p>
+<p id="p0029" num="0029"><figref idref="f0002">Figure 2</figref> shows the high voltage assembly 2 in a maintenance state M. In the maintenance state M the third pipe section 30 comprises the pump 32 for pumping insulation liquid from the free breathing conservator 10 to the sealed compartment 4. In an embodiment the pump 32 allows a flow of insulation liquid to the conservator 10 when not operating.</p>
+<p id="p0030" num="0030"><figref idref="f0003">Figure 3</figref> shows a schematic flow diagram to exemplify a method 300 to operate the high voltage assembly 2. According to the normal operating state N a hydraulic diameter of the pipe arrangement 16 is maintained 310 constant.</p>
+<p id="p0031" num="0031">The high voltage assembly 2 is shutdown 320 in order to transfer the high voltage assembly 2 to a maintenance state M. At least part of the insulation liquid from the sealed compartment 4 is transferred to the conservator 10 in a step 330. The step 330 further comprises opening at least partly the cover 14 of the sealed compartment 4. The step 330 further comprises opening the third pipe section 30 connecting an inside of the sealed compartment 4 and the lower portion 22 of the free breathing conservator 10. The step 330 also comprises closing the second pipe section 20.</p>
+<p id="p0032" num="0032">In a step 340 the maintenance work is conducted. This may comprise, for example, changing or repairing one of the bushings 3A, 3B, and 3C.</p>
+<p id="p0033" num="0033">In a step 350 the at least part of the insulation liquid is returned from the conservator 10 to the sealed compartment 4. The step 350 comprises closing the cover 14 of the sealed compartment 4. Also, the venting valve 34 of the Buchholz relay 12 is used: a) the venting valve 34 of the Buchholz relay is opened, b) insulation liquid is pumped by means of the pump 32 from the free breathing conservator 10 to the sealed compartment 4 until insulation liquid leaves the open venting valve 34; and c) closing the venting valve 34. Afterwards the high voltage assembly 2 is switched on 360 to return to normal operating state N.</p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="8"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A high voltage assembly (2) comprising:
+<claim-text>- a sealed compartment (4) containing an active component (6) at least partly surrounded by an insulation liquid (8);</claim-text>
+<claim-text>- a free breathing conservator (10) that breathes air from ambient air;</claim-text>
+<claim-text>- a Buchholz relay (12) arranged above a level (L14) of a cover (14) of the sealed compartment (4); and</claim-text>
+a pipe arrangement (16) comprising:
+<claim-text>- a first pipe section (18) connecting the interior of the sealed compartment (4) at the cover (14) of the sealed compartment (4) to the Buchholz relay (12); and</claim-text>
+<claim-text>- a second pipe section (20) connecting the Buchholz relay (12) with the interior of the free breathing conservator (10) at a lower portion (22) of the free breathing conservator (10), wherein in a normal operating state (N) of the high voltage assembly (2), the pipe arrangement (16) is configured such that a hydraulic diameter of the pipe arrangement (16) is maintained (310) constant and the level of insulation liquid in the conservator (10) is maintained (312) below the level (L14) of the cover (14) of the sealed compartment (4),</claim-text>
+<b>characterized in that</b> the pipe arrangement (16) further comprises:
+<claim-text>- a third pipe section (30) connecting the interior of the sealed compartment (4) and the lower portion (22) of the free breathing conservator (10).</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The high voltage assembly (2) according to claim 1, wherein the second pipe section (20) comprises a lower valve (24) and an upper valve (26).</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The high voltage assembly (2) according to claim 1 or 2, wherein the cover (14) of the sealed compartment (4) comprises a valve (28).<!-- EPO <DP n="9"> --></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The high voltage assembly (2) according to any one of the preceding claims, wherein the sealed compartment (4) and the free breathing conservator (10) share a wall.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The high voltage assembly (2) according to any preceding claim, wherein the third pipe section (30) comprises a pump (32) for pumping insulation liquid from the free breathing conservator (10) to the sealed compartment (4).</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The high voltage assembly (2) according to claim 5, wherein the third pipe section (30) comprises the pump (32) for pumping insulation liquid from sealed compartment (4) to the free breathing conservator (10).</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A method (300) for operating a high voltage assembly (2), wherein the high voltage assembly (2) comprises:
+<claim-text>- a sealed compartment (4) containing an active component (6) at least partly surrounded by an insulation liquid (8);</claim-text>
+<claim-text>- a free breathing conservator (10) that breathes air from ambient air;</claim-text>
+<claim-text>- a Buchholz relay (12) arranged above a level (L14) of a cover (14) of the sealed compartment (4); and</claim-text>
+a pipe arrangement (16) comprising:
+<claim-text>- a first pipe section (18) connecting an inside of the sealed compartment (4) at the cover (14) of the sealed compartment (4) to the Buchholz relay (12); and</claim-text>
+<claim-text>- a second pipe section (20) connecting the Buchholz relay (12) with an inside of the free breathing conservator (10) at a lower portion (22) of the free breathing conservator (10); wherein the method comprises:
+<claim-text>- maintaining (310) a hydraulic diameter of the pipe arrangement (16) constant when operating the high voltage assembly (2) in a normal operating state (N); and<!-- EPO <DP n="10"> --></claim-text>
+<claim-text>- maintaining (312) the level of insulation liquid in the conservator (10) below the level (L14) of the cover (14) of the sealed compartment (4) in the normal operating state (N) of the high voltage assembly (2)</claim-text></claim-text>
+<b>characterized in that</b> for a transfer of the high voltage assembly from said normal operating state (N) to a maintenance state (M), the method further comprises transferring (330) at least part of the insulation liquid from the sealed compartment (4) to the conservator (10) by opening a third pipe section (30) connecting the sealed compartment (4) and the lower portion (22) of the free breathing conservator (10).</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The method (300) according to claim 7, the method further comprising:
+<claim-text>- shutting down (320) the high voltage assembly (2) to transfer the high voltage assembly (2) to said maintenance state (M);</claim-text>
+<claim-text>- conducting (340) maintenance work on the high voltage assembly (2);</claim-text>
+<claim-text>- returning (350) the transferred at least part of the insulation liquid from the conservator (10) to the sealed compartment (4); and</claim-text>
+<claim-text>- switching on (360) the high voltage assembly (2) to return to normal operating state (N).</claim-text></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The method (300) according to claim 8, wherein the transferring (330) further comprises:
+<claim-text>- opening at least partly the cover (14) of the sealed compartment (4).</claim-text></claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The method (300) of claim 7, 8 or 9, the transferring (330) further comprising:
+<claim-text>- closing the second pipe section (20).</claim-text></claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The method (300) according to any one of claims 7 to 10, wherein the returning (350) further comprises:
+<claim-text>- closing the cover (14) of the sealed compartment.</claim-text><!-- EPO <DP n="11"> --></claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The method (300) according to any one of the claims 8 to 11, wherein the returning (350) further comprises:
+<claim-text>- opening a venting valve (34) of the Buchholz relay (12);</claim-text>
+<claim-text>- pumping insulation liquid from the free breathing conservator (10) to the sealed compartment (4) until insulation liquid leaves the open venting valve (34); and</claim-text>
+<claim-text>- closing the venting valve (34).</claim-text></claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="12"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Hochspannungsanordnung (2), umfassend:
+<claim-text>- ein abgedichtetes Fach (4), das eine aktive Komponente (6) enthält, die mindestens teilweise durch die Isolierflüssigkeit (8) umgeben ist;</claim-text>
+<claim-text>- einen freien Atmungskonservator (10), der Luft aus Umgebungsluft atmet;</claim-text>
+<claim-text>- ein Buchholz-Relais (12), das oberhalb einer Stufe (L14) einer Abdeckung (14) des abgedichteten Faches (4) angeordnet ist; und</claim-text>
+eine Rohranordnung (16), umfassend:
+<claim-text>- eine erste Rohrsektion (18), die das Innere des abgedichteten Faches (4) an der Abdeckung (14) des abgedichteten Faches (4) mit dem Buchholz-Relais (12) verbindet; und</claim-text>
+<claim-text>- eine zweite Rohrsektion (20), die das Buchholz-Relais (12) mit dem Inneren des freien Atmungskonservators (10) in einem unteren Abschnitt (22) des freien Atmungskonservators (10) verbindet, wobei die Rohranordnung (16) in einem normalen Betriebszustand (N) der Hochspannungsanordnung (2) konfiguriert ist, sodass ein Hydraulikdurchmesser der Rohranordnung (16) konstant gehalten (310) wird, und die Flüssigkeitsisolierstufe in dem Konservator (10) unter der Stufe (L14) der Abdeckung (14) des abgedichteten Faches (4) gehalten (312) wird,</claim-text>
+<b>dadurch gekennzeichnet, dass</b> die Rohranordnung (16) weiter umfasst:
+<claim-text>- eine dritte Rohrsektion (30), die das Innere des abgedichteten Faches (4) und den unteren Abschnitt (22) des freien Atmungskonservators (10) verbindet.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Hochspannungsanordnung (2) nach Anspruch 1, wobei die zweite Rohrsektion (20) ein unteres Ventil (24) und ein oberes Ventil (26) umfasst.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Hochspannungsanordnung (2) nach Anspruch 1 oder 2, wobei die Abdeckung (14) des abgedichteten Faches (4) ein Ventil (28) umfasst.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Hochspannungsanordnung (2) nach einem der vorstehenden Ansprüche, wobei das abgedichtete Fach (4) und der freie Atmungskonservator (10) eine Wand gemeinsam nutzen.<!-- EPO <DP n="13"> --></claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Hochspannungsanordnung (2) nach einem vorstehenden Anspruch, wobei die dritte Rohrsektion (30) eine Pumpe (32) zum Pumpen von Isolierflüssigkeit aus dem freien Atmungskonservator (10) in das abgedichtete Fach (4) umfasst.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Hochspannungsanordnung (2) nach Anspruch 5, wobei die dritte Rohrsektion (30) die Pumpe (32) zum Pumpen von Isolierflüssigkeit aus dem abgedichteten Fach (4) in den freien Atmungskonservator (10) umfasst.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren (300) zum Betreiben einer Hochspannungsanordnung (2), wobei die Hochspannungsanordnung (2) umfasst:
+<claim-text>- ein abgedichtetes Fach (4), das eine aktive Komponente (6) enthält, die mindestens teilweise durch eine Isolierflüssigkeit (8) umgeben ist;</claim-text>
+<claim-text>- einen freien Atmungskonservator (10), der Luft aus Umgebungsluft atmet;</claim-text>
+<claim-text>- ein Buchholz-Relais (12), das oberhalb einer Stufe (L14) einer Abdeckung (14) des abgedichteten Faches (4) angeordnet ist; und</claim-text>
+<claim-text>- eine Rohranordnung (16), umfassend:</claim-text>
+<claim-text>- eine erste Rohrsektion (18), die das Innere des abgedichteten Faches (4) an der Abdeckung (14) des abgedichteten Faches (4) mit dem Buchholz-Relais (12) verbindet; und</claim-text>
+<claim-text>- eine zweite Rohrsektion (20), die das Buchholz-Relais (12) mit dem Inneren des freien Atmungskonservators (10) in einem unteren Abschnitt (22) des freien Atmungskonservators (10) verbindet, wobei das Verfahren umfasst:</claim-text>
+<claim-text>- Konstanthalten (310) eines Hydraulikdurchmessers der Rohranordnung (16), wenn der Betrieb der Hochspannungsanordnung (2) in einem normalen Betriebszustand (N) ist; und</claim-text>
+<claim-text>- Halten (312) der Stufe der Isolierflüssigkeit in dem Konservator (10) unter der Stufe (L14) der Abdeckung (14) des abgedichteten Faches (4) in dem normalen Betriebszustand (N) der Hochspannungsanordnung (2)</claim-text>
+<b>dadurch gekennzeichnet, dass</b> das Verfahren für einen Transfer der Hochspannungsanordnung von dem normalen Betriebszustand (N) in einen Wartungszustand (M) weiter umfasst<br/>
+Transferieren (330) mindestens eines Teils der Isolierflüssigkeit aus dem abgedichteten Fach (4) in den Konservator (10) durch Öffnen einer dritten<!-- EPO <DP n="14"> --> Rohrsektion (30), die das abgedichtete Fach (4) und den unteren Abschnitt (22) des freien Atmungskonservators (10) verbindet.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren (300) nach Anspruch 7, wobei das Verfahren weiter umfasst:
+<claim-text>- Herunterfahren (320) der Hochspannungsanordnung (2) zum Transferieren der Hochspannungsanordnung (2) in den Wartungszustand (M);</claim-text>
+<claim-text>- Durchführen (340) von Wartungsarbeiten an der Hochspannungsanordnung (2);</claim-text>
+<claim-text>- Rückführen (350) des transferierten mindestens einen Teils der Isolierflüssigkeit von dem Konservator (10) in das abgedichtete Fach (4); und</claim-text>
+<claim-text>- Einschalten (360) der Hochspannungsanordnung (2) zur Rückkehr in den normalen Betriebsstatus (N).</claim-text></claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren (300) nach Anspruch 8, wobei das Transferieren (330) weiter umfasst:
+<claim-text>- Öffnen mindestens teilweise der Abdeckung (14) des abgedichteten Faches (4).</claim-text></claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren (300) nach Anspruch 7, 8 oder 9, wobei das Transferieren (330) weiter umfasst:
+<claim-text>- Schließen der zweiten Rohrsektion (20).</claim-text></claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren (300) nach einem der Ansprüche 7 bis 10, wobei das Rückführen (350) weiter umfasst:
+<claim-text>- Schließen der Abdeckung (14) des abgedichteten Faches.</claim-text></claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren (300) nach einem der Ansprüche 8 bis 11, wobei das Rückführen (350) weiter umfasst:
+<claim-text>- Öffnen eines Entlüftungsventils (34) des Buchholz-Relais (12);</claim-text>
+<claim-text>- Pumpen von Isolierflüssigkeit aus dem freien Atmungskonservator (10) in das abgedichtete Fach (4), bis die Isolierflüssigkeit aus dem offenen Entlüftungsventil (34) austritt; und</claim-text>
+<claim-text>- Schließen des Entlüftungsventils (34).</claim-text></claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="15"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Ensemble haute tension (2) comprenant :
+<claim-text>- un compartiment étanche (4) contenant un composant actif (6) au moins partiellement entouré d'un liquide d'isolation (8) ;</claim-text>
+<claim-text>- un conservateur à respiration libre (10) qui respire de l'air à partir de l'air ambiant ;</claim-text>
+<claim-text>- un relais Buchholz (12) disposé au-dessus d'un niveau (L14) d'un couvercle (14) du compartiment étanche (4) ; et</claim-text>
+un agencement de tuyau (16) comprenant :
+<claim-text>- une première section de tuyau (18) reliant l'intérieur du compartiment étanche (4) au niveau du couvercle (14) du compartiment étanche (4) au relais Buchholz (12) ; et</claim-text>
+<claim-text>- une deuxième section de tuyau (20) reliant le relais Buchholz (12) avec l'intérieur du conservateur à respiration libre (10) au niveau d'une partie inférieure (22) du conservateur à respiration libre (10), dans lequel dans un état de fonctionnement normal (N) de l'ensemble haute tension (2), l'agencement de tuyau (16) est configuré de telle façon qu'un diamètre hydraulique de l'agencement de tuyau (16) est maintenu (310) constant et le niveau de liquide d'isolation dans le conservateur (10) est maintenu (312) au-dessous du niveau (L14) du couvercle (14) du compartiment étanche (4),</claim-text>
+<b>caractérisé en ce que</b> l'agencement de tuyau (16) comprend en outre :
+<claim-text>- une troisième section de tuyau (30) reliant l'intérieur du compartiment étanche (4) et la partie inférieure (22) du conservateur à respiration libre (10).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Ensemble haute tension (2) selon la revendication 1, dans lequel la deuxième section de tuyau (20) comprend une vanne inférieure (24) et une vanne supérieure (26).</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Ensemble haute tension (2) selon la revendication 1 ou 2, dans lequel le couvercle (14) du compartiment étanche (4) comprend une vanne (28).</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Ensemble haute tension (2) selon l'une quelconque des revendications précédentes, dans lequel le compartiment étanche (4) et le conservateur à respiration libre (10) partagent une paroi.<!-- EPO <DP n="16"> --></claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Ensemble haute tension (2) selon une quelconque revendication précédente, dans lequel la troisième section de tuyau (30) comprend une pompe (32) pour pomper du liquide d'isolation depuis le conservateur à respiration libre (10) vers le compartiment étanche (4).</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Ensemble haute tension (2) selon la revendication 5, dans lequel la troisième section de tuyau (30) comprend la pompe (32) pour pomper du liquide d'isolation depuis le compartiment étanche (4) vers le conservateur à respiration libre (10).</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé (300) de fonctionnement d'un ensemble haute tension (2), dans lequel l'ensemble haute tension (2) comprend :
+<claim-text>- un compartiment étanche (4) contenant un composant actif (6) au moins partiellement entouré d'un liquide d'isolation (8) ;</claim-text>
+<claim-text>- un conservateur à respiration libre (10) qui respire de l'air à partir de l'air ambiant ;</claim-text>
+<claim-text>- un relais Buchholz (12) disposé au-dessus d'un niveau (L14) d'un couvercle (14) du compartiment étanche (4) ; et</claim-text>
+un agencement de tuyau (16) comprenant :
+<claim-text>- une première section de tuyau (18) reliant un intérieur du compartiment étanche (4) au niveau du couvercle (14) du compartiment étanche (4) au relais Buchholz (12) ; et</claim-text>
+<claim-text>- une deuxième section de tuyau (20) reliant le relais Buchholz (12) avec un intérieur du conservateur à respiration libre (10) au niveau d'une partie inférieure (22) du conservateur à respiration libre (10) ; dans lequel le procédé comprend :</claim-text>
+<claim-text>- le maintien (310) constant d'un diamètre hydraulique de l'agencement de tuyau (16) pendant l'exploitation de l'ensemble haute tension (2) dans un état de fonctionnement normal (N) ; et</claim-text>
+<claim-text>- le maintien (312) du niveau de liquide d'isolation dans le conservateur (10) au-dessous du niveau (L14) du couvercle (14) du compartiment étanche (4) dans l'état de fonctionnement normal (N) de l'ensemble haute tension (2)</claim-text>
+<b>caractérisé en ce que</b> pour un passage de l'ensemble haute tension dudit état de fonctionnement normal (N) à un état de maintenance (M), le procédé comprend en outre<br/>
+<!-- EPO <DP n="17"> -->le transfert (330) d'au moins une partie du liquide d'isolation depuis le compartiment étanche (4) vers le conservateur (10) en ouvrant une troisième section de tuyau (30) reliant le compartiment étanche (4) et la partie inférieure (22) du conservateur à respiration libre (10).</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé (300) selon la revendication 7, le procédé comprenant en outre :
+<claim-text>- la mise hors service (320) de l'ensemble haute tension (2) pour faire passer l'ensemble haute tension (2) audit état de maintenance (M) ;</claim-text>
+<claim-text>- la réalisation (340) de travaux de maintenance sur l'ensemble haute tension (2) ;</claim-text>
+<claim-text>- le renvoi (350) de l'au moins une partie transférée du liquide d'isolation depuis le conservateur (10) vers le compartiment étanche (4) ; et</claim-text>
+<claim-text>- la remise en service (360) de l'ensemble haute tension (2) pour le ramener dans l'état de fonctionnement normal (N).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé (300) selon la revendication 8, dans lequel le transfert (330) comprend en outre :
+<claim-text>- l'ouverture au moins partiellement du couvercle (14) du compartiment étanche (4).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé (300) selon la revendication 7, 8 ou 9, le transfert (330) comprenant en outre :
+<claim-text>- la fermeture de la deuxième section de tuyau (20).</claim-text></claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé (300) selon l'une quelconque des revendications 7 à 10, dans lequel le renvoi (350) comprend en outre :
+<claim-text>- la fermeture du couvercle (14) du compartiment étanche.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé (300) selon l'une quelconque des revendications 8 à 11, dans lequel le renvoi (350) comprend en outre :
+<claim-text>- l'ouverture d'une vanne de purge (34) du relais Buchholz (12) ;</claim-text>
+<claim-text>- le pompage de liquide d'isolation depuis le conservateur à respiration libre (10) vers le compartiment étanche (4) jusqu'à ce que du liquide d'isolation sorte par la vanne de purge ouverte (34) ; et<!-- EPO <DP n="18"> --></claim-text>
+<claim-text>- la fermeture de la vanne de purge (34).</claim-text></claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="19"> -->
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="161" he="223" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="20"> -->
+<figure id="f0002" num="2"><img id="if0002" file="imgf0002.tif" wi="161" he="224" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="21"> -->
+<figure id="f0003" num="3"><img id="if0003" file="imgf0003.tif" wi="159" he="190" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="EP3109871A1"><document-id><country>EP</country><doc-number>3109871</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0001">[0004]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US2008197955A1"><document-id><country>US</country><doc-number>2008197955</doc-number><kind>A1</kind></document-id></patcit><crossref idref="pcit0002">[0005]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="GB693448A"><document-id><country>GB</country><doc-number>693448</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0006]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

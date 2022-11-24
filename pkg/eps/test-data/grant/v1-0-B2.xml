@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.0//EN" "ep-patent-document-v1-0.dtd">
+<ep-patent-document id="EP96939832B2" file="96939832.xml" lang="en" country="EP" doc-number="0874807" kind="B2" date-publ="20060802" status="n" dtd-version="ep-patent-document-v1-0">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSE..PTIE......FI......................................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>DIM360 (Ver 1.5  21 Nov 2005) -  2720000/0</B007EP></eptags></B000><B100><B110>0874807</B110><B120><B121>NEW EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B2</B130><B140><date>20060802</date></B140><B190>EP</B190></B100><B200><B210>96939832.0</B210><B220><date>19961118</date></B220><B240><B241><date>19980406</date></B241><B242><date>19991216</date></B242><B243><date>20060802</date></B243></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>338895</B310><B320><date>19951129</date></B320><B330><ctry>CH</ctry></B330><B310>45196</B310><B320><date>19960221</date></B320><B330><ctry>CH</ctry></B330></B300><B400><B405><date>20060802</date><bnum>200631</bnum></B405><B430><date>19981104</date><bnum>199845</bnum></B430><B450><date>20020220</date><bnum>200208</bnum></B450><B451EP><date>20010508</date></B451EP><B452EP><date>20010726</date></B452EP><B472><B475><date>20020220</date><ctry>FI</ctry><date>20020220</date><ctry>GR</ctry><date>20021118</date><ctry>IE</ctry><date>20021118</date><ctry>LU</ctry><date>20020520</date><ctry>PT</ctry><date>20020520</date><ctry>SE</ctry></B475></B472><B477><date>20060802</date><bnum>200631</bnum></B477></B400><B500><B510EP><classification-ipcr sequence="1"><text>C07C 249/08        20060101AFI19970721BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07C 231/06        20060101ALI19970721BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C07C 235/78        20060101ALI19970721BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C07C 251/48        20060101ALI19970721BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C07C 251/60        20060101ALI19970721BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>VERFAHREN ZUR HERSTELLUNG VON METHOXIMINOPHENYLGLYOXYLSÄURE-DERIVATEN</B542><B541>en</B541><B542>PROCESS FOR THE PREPARATION OF METHOXYMINOPHENYLGLYOXYLIC ACID DERIVATIVES</B542><B541>fr</B541><B542>PROCEDE DE PREPARATION DE DERIVES DE L'ACIDE METHOXIMINOPHENYLGLYOXYLIQUE</B542></B540><B560><B561><text>EP-A- 0 460 575</text></B561><B561><text>EP-A- 0 463 488</text></B561><B561><text>EP-A- 0 472 300</text></B561><B561><text>EP-A- 0 535 928</text></B561><B561><text>WO-A-95/34526</text></B561></B560></B500><B700><B720><B721><snm>ASSERCQ, Jean-Marie</snm><adr><str>Avenue de l'Europe 38A</str><city>CH-1870 Monthey</city><ctry>CH</ctry></adr></B721><B721><snm>BREITSCHUH, Richard</snm><adr><str>Kaiserstrasse 7</str><city>14109 Berlin</city><ctry>DE</ctry></adr></B721><B721><snm>PFAFF, Werner</snm><adr><str>Bodenackerstrasse 222 C</str><city>CH-4334 Sisseln</city><ctry>CH</ctry></adr></B721></B720><B730><B731><snm>Bayer CropScience AG</snm><iid>04225370</iid><irf>Le A 35121-EP</irf><adr><str>Alfred-Nobel-Strasse 50</str><city>40789 Monheim</city><ctry>DE</ctry></adr></B731></B730><B780><B781><dnum><text>01</text></dnum><date>20021118</date><kind>1</kind><snm>BASF Aktiengesellschaft 
+Patente, Marken und Lizenzen</snm><iid>00062280</iid><adr><city>67056 Ludwigshafen</city><ctry>DE</ctry></adr></B781></B780></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>ES</ctry><ctry>FI</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>NL</ctry><ctry>PT</ctry><ctry>SE</ctry></B840><B860><B861><dnum><anum>EP1996005057</anum></dnum><date>19961118</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO1997019912</pnum></dnum><date>19970605</date><bnum>199724</bnum></B871></B870></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<p id="p0001" num="0001">The present invention relates to a process for the preparation of o-chloromethylphenylmethoximinoglyoxylic acid esters of formula I
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="59" he="27" img-content="chem" img-format="tif"/></chemistry>
+wherein R is C<sub>3</sub>-C<sub>8</sub>alkyl, in which process o-chloromethylphenylglyoxylic acid amide of formula III
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="45" he="26" img-content="chem" img-format="tif"/></chemistry>
+is, concurrently,
+<ul id="ul0001" list-style="none" compact="compact">
+<li>a) oximated with O-methylhydroxylamine and</li>
+<li>b) esterified under acid conditions with a C<sub>3</sub>-C<sub>8</sub>alkanol by adding sulphoric acid or by introducing HCL gas into the reaction medium.</li>
+</ul></p>
+<p id="p0002" num="0002">Both reaction steps are conveniently carried out in the temperature range from 20° to 70°C, preferably from 40° to 70°C. The O-methylhydroxylamine is used as such, but preferably as saft. Preferred salts are suitably those with mineral acids, such as hydrohalic acid, sulfuric acid, phosphoric acid, nitric acid and the like, but also with organic acids, such as sulfonic acids (methanesulfonic acid, ethanesulfonic acid, benzenesulfonic acid, toluenesulfonic acid, nitrobenzenesulfonic acid and the like), acetic acid, trichloroacetic acid, lactic acid, maleic acid, oxalic acid, and others.</p>
+<p id="p0003" num="0003">Meanwhile a preparation method has been published (WO 95/34526) wherein a phenylacylcyanide react with an alcohol (Pinner-reaction) to the ester, which in turn can be converted with hydroxylamine and methylation or with 0-methylhydroxylamine to the oximether of formula I herein.</p>
+<p id="p0004" num="0004">The compounds of formula I are valuable intermediates for obtaining E-configurated fungicides of the methoximinophenylglyoxylic acid ester series of formula IV, of which the methyl esters, in particular, are of high economic importance (EP-254426, EP-460575, EP-463488, EP-472300, EP-299694, EP-253213, WO-95/18789, WO-95/21153, and others).</p>
+<p id="p0005" num="0005">The methoximinophenylglyoxylic acid ester correspond to the general formula IV
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="75" he="27" img-content="chem" img-format="tif"/></chemistry>
+wherein
+<ul id="ul0002" list-style="none" compact="compact">
+<li>R is C<sub>5</sub>-C<sub>8</sub>alkyl, and</li>
+<li>A is -N=CR<sub>2</sub>R<sub>3</sub>, and</li>
+<li>R<sub>2</sub> = hydrogen, C<sub>1</sub>-C<sub>4</sub>alkyl, C<sub>1</sub>-C<sub>4</sub>haloalkyl, C<sub>3</sub>-C<sub>6</sub>cycloalkyl;</li>
+<li>R<sub>3</sub>=C<sub>1</sub>-C<sub>6</sub>alkyl, aryl-C<sub>1</sub>-C<sub>4</sub>alkyl, heteroaryl-C<sub>1</sub>-C<sub>4</sub>alkyl, C<sub>2</sub>-C<sub>6</sub>alkenyl, aryl-C<sub>2</sub>-C<sub>6</sub>alkenyl, heteroaryl-C<sub>2</sub>-C<sub>6</sub>alkenyl,<!-- EPO <DP n="2"> --></li>
+<li>C<sub>3</sub>-C<sub>6</sub>cycloalkyl, heteroaryl, aryl, or aryl which is substituted by one to three halogen, C<sub>1</sub>-C<sub>4</sub>alkyl, C<sub>1</sub>-C<sub>4</sub>haloalkyl.</li>
+</ul>
+Particularly preferred compounds of formula IV are those, wherein
+<ul id="ul0003" list-style="none" compact="compact">
+<li>R<sub>2</sub> = hydrogen or C<sub>1</sub>-C<sub>4</sub>alkyl, and</li>
+<li>R<sub>3</sub> = aryl, or aryl which is substituted by C<sub>1</sub>-C<sub>4</sub>haloalkyl.</li>
+<li>A particularly preferred compound of formula IV is that wherein</li>
+<li>R<sub>2</sub> = methyl and R<sub>3</sub> = 3-trifluoromethylphenyl.</li>
+</ul>
+A particularly preferred compound of formula IV is that, wherein R = pentyl and A= -N=C(CH<sub>3</sub>)(3-trifiuoromethylphenyl).</p>
+<p id="p0006" num="0006">Aryl is phenyl or naphthyl, preferably phenyl.</p>
+<p id="p0007" num="0007">Entirely surprisingly, it has now been found that the synthesis of the methoximinoglyoxylic acid ester part of formula I and each further reaction In the chloromethyl side chain of this intermediate to a fungicide derived therefrom proceeds in particularly high purity and high yields if the methyl ester is not obtained direct from the o-chloromethylphenylglyoxylic acid amide III by methanolysis but if a long-chain ester Is prepared first and the transesterification to the methyl ester is carried out at a later stage of the process.</p>
+<p id="p0008" num="0008">The o-chloromethylphenylmethoximinoglyoxylic acid esters of formula I can have the E-configuration, or a Z-configuration, at the imino double bond desirable for the biological activity.<br/>
+A very special advantage of the present synthesis of compounds of formula I is that by this process, which proceeds via a long-chain ester, the E-configuration is formed almost exclusively (E/Z ratio higher than 90 : 10).</p>
+<p id="p0009" num="0009">Accordingly, suitable alkanols for obtaining intermediates of formula I according to this invention are n-propanol, isopropanol, n-butanol, sec-butanol, isobutanol as well as n-pentanol, n-hexanol, n-heptanol, n-octanol and the corresponding isomers thereof. The C<sub>5</sub>-C<sub>6</sub>alkanols in all isomeric forms are preferred, in particular n-pentanol.</p>
+<p id="p0010" num="0010">The esterification of compound III or of the corresponding oxime can be carried out in conventional manner under acid reaction conditions, e.g. by adding sulfuric acid or by introducing HCl gas into the reaction medium. The C<sub>3</sub>-C<sub>8</sub>alkanol serving the esterification can be used in excess and can also serve as only solvent or diluent. It can also be reacted in admixture with one or more than one inert diluent.</p>
+<p id="p0011" num="0011">Suitable diluents are, for example, hydrocarbons or halogenated hydrocarbons, typically hexane, heptane, octane, chloroform, dichloroethane; aromatic hydrocarbons or aromatic halogenated hydrocarbons, typically toluene, xylene, chlorobenzene, dichlorobenzene; or ethers such as dioxane, tetrahydrofuran, diisopropyl ether; ketones such as acetone, methyl isobutyl ketone, cyclopentanone; or mixtures thereof.</p>
+<p id="p0012" num="0012">The esterification can be carried out either direct with exclusion of water or under aqueous conditions via prior hydrolysis.</p>
+<p id="p0013" num="0013">The hydrolysis of the amide II is preferaby carried out in the presence of stoichiometric amounts of water in the form of the corresponding aqueous concentrated hydrohalic acid, preferably In hydrochloric acid, at a concentration of 25% or more.</p>
+<p id="p0014" num="0014">The alkanolysis can be catalysed by small amounts of sulfuric acid or phosphoric acid. Said alkanolysis is carried out in the temperature range from -10° to +120°C, preferably from 0° to 50°C and, particularly preferably, from 20° to 50°C in the presence of the C<sub>3</sub>-C<sub>8</sub>alkanol.</p>
+<p id="p0015" num="0015">Accordingly, hydrolysis and esterification proceed in one single reaction step of the alkanolysis.</p>
+<p id="p0016" num="0016">The reaction of the keto group in the compound of formula III with O-methylhydroxylamine or its salt can be carried out before or after this alkanolysis step of compound III, but is preferably carried out concurrently. It is an essential feature of this invention that the conversion of III to I can be carried out in one single process step.<!-- EPO <DP n="3"> --></p>
+<p id="p0017" num="0017">The compounds of formula I are useful as intermediates containing a reactive o-chloromethyl group for preparing pesticides. Such pesticides can be fungicides, insecticides, acaricides, nematicides or herbicides such as are disclosed in EP-A-254426, EP-A-460575, EP-A-463488, EP-A-472300, EP-A-299694, EP-A-253213, WO-95/18799, WO-95/21153 as well as in other publications.</p>
+<heading id="h0001"><u style="single">Working Examples</u></heading>
+<heading id="h0002">W-1 : Preparation of o-chloromethylpheny glyoxylic acid amide</heading>
+<p id="p0018" num="0018">
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="41" he="26" img-content="chem" img-format="tif"/></chemistry>
+<ul id="ul0004" list-style="none">
+<li>A) 20 g of hydrochloric gas (0.55 mol) are Introduced to a suspension of 179.6 g of o-chloromethylbenzoyl cyanide (1 mol) in 400 g of acetic acid over 1 hour. To this mixture are then added 31.8 g of 32% aqueous hydrochloric acid (1.2 mol of water). The suspension is stirred for a further 28 hours at room temperature. The product, which is partly crystallised, is isolated by filtration, washed with 2x50 mi of n-pentanol and 2x50 ml of hexane and then dried. Yeld: 89.2 g (45.1 %). The mother liquor is recycled in the next batch as diluent.</li>
+<li>B) 33.1 g of acetic acid are added to a suspension of 179.6 g of o-chloromethylbenzoyl cyanide (1 mol) in 482.9 g of mother liquor of the preceeding batch and then 5 g of hydrochloric gas (0.14 mol) are introduced. 24.3 g of aqueous 32% hydrochloric acid (0.92 mol of water) are added to the reaction mixture at room temperature. The reaction mixture is stirred for 21 hours at room temperature and then filtered. The crystals are washed with pentanol and hexane and then dried. Yield: 172.8 g (87.4%). The mother liquor (486.1 g) is used as diluent in the next batch.</li>
+</ul><!-- EPO <DP n="4"> --></p>
+<heading id="h0003">W-2 : Preparation of o-chloromethylphenyl-O-methoximinoglyoxylic acid pentyl ester</heading>
+<p id="p0019" num="0019">
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="56" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0020" num="0020">Over one hour, 50 g (1.37 mol) of hydrochloric acid gas are introduced to a cooled suspension (0° to -10°C) of 41.8 g of O-methylhydroxylamine hydrochloride (0.5 mol) in 250 g of n-pentanol. The mixture is then heated to about 50°-55°C and a first portion of o-chloromethylphenylglyoxylic acid amide (49.4 g; 0.25 mol) is added. The mixture is stirred for 2 hours at 50°-55°C and then a second portion of o-chloromethylphenylglyoxylic acid amide (49.4 g; 0.25 mol) is added. The mixture is stirred for 24 hours at 50-60°C and then cooled to 20°C amd diluted with 175 ml of water. 159.7 g of a 30% aqueous sodium hydroxide solution are added such that the temperature is kept at 20°-30°C. The organic phase is isolated, dried and concentrated. Yield: 133.1 g (79%).<br/>
+The E/Z isomer ratio based on the O-methyloxime side chain is 92.6: 7.4.<br/>
+Replacing n-pentanol in the above process with methanol would result in a very unfavourable E/Z isomer ratio of 83 :17,</p>
+<heading id="h0004">W-3 : Preparation of 2-[α-{[(α-methyl-3-trilluoromethylbenzyl)imino]oxy}-o-tolyl]glyoxylic acid pentyl ester-O-methyloxime</heading>
+<p id="p0021" num="0021">
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="74" he="26" img-content="chem" img-format="tif"/></chemistry></p>
+<p id="p0022" num="0022">87 g of a 30% sodium methylate solution in methanol are added dropwise to a solution of 98.2 g of 3-trifluoromethylacetophenonoxime (0.48 mol) in 200 ml of dimethyl acetamide over 20 minutes. 196 ml of solvent are then distilled off under a slight vacuum at 55°-70°C. After the addition of 1 g of potassium iodide, 150 g of o-chloromethylphenyl-O-methoximinoglyoxylic acid pentyl ester having a purity of 95.9% (0.48 mol) are added over 1 hour at 55°-65°C. After2 hours, the reaction mixture is added over 30 minutes to a mixture of 400 ml of water and 250 ml of toluene at room temperature, the pH being adjusted to 5 with concentrated hydrochloric acid. The aqueous phase is extracted twice with 150 ml of toluene. The combined organic phases are washed with 150 mi of water. The solvent is distilled off under vacuum at 60°C. 227 g of crude oil are obtained having a 83% content.</p>
+<heading id="h0005">W-3 : Preparation of 2-[α-{[(α-methyl-3-trifluoromethylbenzyl)imino]oxy}-o-tolyl]glyoxylic acid pentyl ester-0-methyloxime</heading>
+<p id="p0023" num="0023">
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="81" he="28" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="5"> --></p>
+<p id="p0024" num="0024">87 g of a 30% sodium methylate solution in methanol are added dropwise to a solution of 98.2 g of 3-trifluoromethylacetophenonoxime (0.48 mol) in 200 ml of dimethyl acetamide over 20 minutes. 196 ml of solvent are then distilled off under a slight vacuum at 55°-70°C. After the addition of 1 g of potassium iodide, 150 g of o-chloromethylphenyl-O-methoximinoglyoxylic acid pentyl ester having a purity of 95,9% (0.48 mol) are added over 1 hour at 55°-65°C. After 2 hours, the reaction mixture is added over 30 minutes to a mixture of 400 ml of water and 250 ml of toluene at room temperature, the pH being adjusted to 5 with concentrated hydrochloric acid. The aqueous phase is extracted twice with 150 ml of toluene. The combined organic phases are washed with 150 ml of water. The solvent is distilled off under vacuum at 60°C. 227 g of crude oil are obtained having a 83% content.</p>
+</description><!-- EPO <DP n="6"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A process for the preparation of an o-chloroinethylphenylinethoximinoglyoxylic acid ester of formula (I),
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="69" he="35" img-content="chem" img-format="tif"/></chemistry>
+wherein R is C<sub>3</sub>-C<sub>8</sub>-akyl, in which process o-chloromethylphenylglyoxylic acid amide of formula III
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="63" he="32" img-content="chem" img-format="tif"/></chemistry>
+is concurrently
+<claim-text>a) oximated with O-methylhydroxylamine and</claim-text>
+<claim-text>b) esterified under acid conditions with a C<sub>3</sub>-C<sub>8</sub>-alkanol by adding sulphuric acid or by introducing HCl gas into the reaction medium</claim-text>
+in the presence or absence of a diluent.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A process according claim 1, which comprises carrying out the reaction in the temperature range from 20°C to 70°C.<!-- EPO <DP n="7"> --></claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A process according to claim 2, which comprises carrying out the reaction in the temperature range from 40°C to 70°C.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A process according to one or more of claims 1 to 3 which comprises using the C<sub>3</sub>-C<sub>8</sub>-alkanol reactant as diluent.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A process according to claim 4, which comprises using n-pentanol.</claim-text></claim>
+</claims><!-- EPO <DP n="8"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zur Herstellung eines o-Chlormethylphenylmethoximinoglyoxylsäureesters der Formel (I):
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="76" he="34" img-content="chem" img-format="tif"/></chemistry>
+worin R ein C<sub>3-8</sub>-Alkylrest ist, in welchem Verfahren o-Chlormethylphenylglyoxylsäureamid der Formel (III):
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="64" he="31" img-content="chem" img-format="tif"/></chemistry>
+gleichzeitig
+<claim-text>a) mit O-Methylhydroxylamin in das Oxim überführt und</claim-text>
+<claim-text>b) unter sauren Bedingungen mit einem C<sub>3-8</sub>-Alkanol, in der Gegenwart oder Abwesenheit eines Verdünnungsmittels verestert wird, wobei Schwefelsäure oder Chlorwasserstoffgas als Säure verwendet werden.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren gemäß Anspruch 1, wobei man die Reaktion im Temperaturbereich von 20 bis 70°C durchführt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren gemäß Anspruch 2, wobei man die Reaktion im Temperaturbereich von 40 bis 70°C durchführt.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren gemäß einem oder mehreren der Ansprüche 1 - 3, wobei man den C<sub>3-8</sub>-Alkanolreaktionsteilnehmer als Verdünnungsmittel verwendet.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren gemäß Anspruch 4, wobei man n-Pentanol verwendet.</claim-text></claim>
+</claims><!-- EPO <DP n="9"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé pour la préparation d'un ester d'acide o-chlorométhylphénylméthoximinoglyoxylique de formule I:
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="76" he="33" img-content="chem" img-format="tif"/></chemistry>
+dans laquelle R représente un groupe alkyle en C<sub>3</sub> à C<sub>8</sub>, procédé dans lequel de l'amide d'acide o-chlorométhylphénylglyoxylique de formule III:
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="65" he="32" img-content="chem" img-format="tif"/></chemistry>
+est conjointement
+<claim-text>a) oximé avec de la O-méthylhydroxylamine et</claim-text>
+<claim-text>b) esterifie dans les conditions acides en introduissant l'acide sulfurique ou gaz de chlorure d'hydrogène avec un alcanol en C<sub>3</sub> à C<sub>8</sub>, en la présence ou en l'absence d'un diluant.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé suivant la revendication 1, qui comprend la conduite de la réaction dans la plage de températures de 20°C à 70°C.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé suivant la revendication 2, qui comprend la conduite de la réaction dans la plage de températures de 40°C à 70°C.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé suivant un ou plusieurs revendications 1 à 3, qui comprend l'utilisation du corps réactionnel consistant en un alcanol en C<sub>3</sub> à C<sub>8</sub> comme diluant.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé suivant la revendication 4, qui comprend l'utilisation de n-pentanol.</claim-text></claim>
+</claims>
+</ep-patent-document>
