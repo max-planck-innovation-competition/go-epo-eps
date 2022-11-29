@@ -3150,6 +3150,37 @@ func TestProcessXMLSimple151A1(t *testing.T) {
 
 }
 
+func TestProcessXMLSimple151A11(t *testing.T) {
+	// 2022-11-29: Seb:
+	// Downloaded via the EPO EPS API
+	// No Abstract
+	ass := assert.New(t)
+	data, err := os.ReadFile("test-data/application/v1-5-1-A1-1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP21741385A1", patDoc.ID)
+	ass.Equal("21741385.5", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("4090146", patDoc.DocNumber)
+	ass.Equal("A1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20221123", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-5-1", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("ABTRIEBREGELUNG", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("POWER TAKEOFF CONTROL", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("COMMANDE DE PRISE DE FORCE", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+}
+
 func TestProcessXMLSimple151A2(t *testing.T) {
 	ass := assert.New(t)
 	data, err := os.ReadFile("test-data/application/v1-5-1-A2.xml")
