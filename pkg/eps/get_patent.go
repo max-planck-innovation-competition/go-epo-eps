@@ -194,10 +194,14 @@ func GetPatentPDF(patentID string) (res []byte, err error) {
 	return
 }
 
+// ErrClientBanned is returned if the EPO has blocked the client / ip address
+var ErrClientBanned = errors.New("client and IP blacklisted")
+
+// CheckIfBlackListed checks if the client is blacklisted
 func CheckIfBlackListed(res []byte) (err error) {
 	bodyString := string(res)
 	if strings.Contains(bodyString, "The European publication server has detected a very high level of data flow to your IP address. Such traffic could potentially disturb the access to the service for other users.") {
-		err = errors.New("client and IP blacklisted")
+		err = ErrClientBanned
 	}
 	return
 }
