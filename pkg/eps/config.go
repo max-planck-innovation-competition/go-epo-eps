@@ -1,10 +1,10 @@
 package eps
 
 const (
-	// ENDPOINT_HOST is the host of https endpoint of the epo
-	ENDPOINT_HOST = "https://data.epo.org"
-	// ENDPOINT_ROOT is the root path to the REST API
-	ENDPOINT_ROOT = "/publication-server/rest"
-	// VERSION is the HTTP REST Interface version of the webservice
-	VERSION = "v1.2"
+	// EpoEndpointHost is the host of https endpoint of the epo
+	EpoEndpointHost = "https://data.epo.org"
+	// EndpointRoot is the root path to the REST API
+	EndpointRoot = "/publication-server/rest"
+	// ApiVersion is the HTTP REST Interface version of the webservice
+	ApiVersion = "v1.2"
 )

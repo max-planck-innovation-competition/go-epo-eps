@@ -12,7 +12,7 @@ func GetVersions() (res []string, err error) {
 	// init http client
 	client := NewHttpClient()
 	// make request
-	reqUrl := ENDPOINT_HOST + ENDPOINT_ROOT
+	reqUrl := EpoEndpointHost + EndpointRoot
 	log.Debug("GET: ", reqUrl)
 	resp, err := client.Get(reqUrl)
 	if err != nil {

@@ -23,7 +23,7 @@ func GetPublicationDates() (res []PublicationDate, err error) {
 	// init http client
 	client := NewHttpClient()
 	// make request
-	reqUrl := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/publication-dates"
+	reqUrl := EpoEndpointHost + EndpointRoot + "/" + ApiVersion + "/publication-dates"
 	log.Debug("GET: ", reqUrl)
 	resp, err := client.Get(reqUrl)
 	if err != nil {

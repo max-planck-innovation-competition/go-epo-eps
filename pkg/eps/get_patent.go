@@ -27,7 +27,7 @@ func getPatent(patentID string, format PatentExportFormat) (res []byte, err erro
 	// init http client
 	client := NewHttpClient()
 	// build req
-	reqUrl := ENDPOINT_HOST + ENDPOINT_ROOT + "/" + VERSION + "/patents/" + patentID + "/document." + strings.ToLower(string(format))
+	reqUrl := EpoEndpointHost + EndpointRoot + "/" + ApiVersion + "/patents/" + patentID + "/document." + strings.ToLower(string(format))
 	log.Debug("GET: ", reqUrl)
 	req, err := http.NewRequest("GET", reqUrl, nil)
 	if err != nil {
