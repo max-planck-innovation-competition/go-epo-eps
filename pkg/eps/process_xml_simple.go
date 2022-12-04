@@ -2,6 +2,7 @@ package eps
 
 import (
 	"bytes"
+	"errors"
 	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
 	"strconv"
@@ -12,6 +13,8 @@ import (
 const (
 	layoutDatePubl = "20060102"
 )
+
+var ErrEmptyID = errors.New("empty id")
 
 // ProcessXMLSimple transforms the raw response of the xml data into a simple patent
 func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) {
@@ -222,5 +225,12 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 
 	// generate aliases
 	patentDoc.GenerateAliases()
+
+	// check if id is empty
+	if patentDoc.ID == "" {
+		err = ErrEmptyID
+		log.WithError(err).Error("empty id")
+	}
+
 	return
 }
