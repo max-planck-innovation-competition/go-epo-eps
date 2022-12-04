@@ -1942,6 +1942,20 @@ func TestProcessXMLSimple14A1(t *testing.T) {
 
 }
 
+// v 1.4 This was in our db without id
+func TestProcessXMLSimple14A11(t *testing.T) {
+	ass := assert.New(t)
+	data, err := os.ReadFile("test-data/application/v1-4-A1-1.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP0560858A1", patDoc.ID)
+	ass.Equal("EP92900624NWA1.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+}
+
 func TestProcessXMLSimple14A2(t *testing.T) {
 	ass := assert.New(t)
 	data, err := os.ReadFile("test-data/application/v1-4-A2.xml")
