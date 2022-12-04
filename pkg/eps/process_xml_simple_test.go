@@ -3195,6 +3195,37 @@ func TestProcessXMLSimple151A11(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 }
 
+func TestProcessXMLSimple151A12(t *testing.T) {
+	// 2022-12-04: Seb:
+	// Downloaded via the EPO EPS API
+	// No Abstract
+	ass := assert.New(t)
+	data, err := os.ReadFile("test-data/application/v1-5-1-A1-2.xml")
+	ass.NoError(err)
+	patDoc, err := ProcessXMLSimple(data)
+	ass.NoError(err)
+
+	ass.Equal("EP18867314A1", patDoc.ID)
+	ass.Equal("EP18867314NWA1.xml", patDoc.File)
+	ass.Equal("en", patDoc.Lang)
+	ass.Equal(Country("EP"), patDoc.Country)
+	ass.Equal("3889521", patDoc.DocNumber)
+	ass.Equal("A1", patDoc.Kind)
+	ass.False(patDoc.DatePubl.IsZero())
+	ass.Equal("20211006", patDoc.DatePubl.Format(layoutDatePubl))
+	ass.Equal("n", patDoc.Status)
+	ass.Equal("ep-patent-document-v1-5-1", patDoc.DtdVersion)
+
+	// title
+	ass.NotEmpty(patDoc.Title)
+	ass.Equal("STEUERUNGSVORRICHTUNG UND KLIMATISIERUNGSVORRICHTUNG", patDoc.Title[0].Text)
+	ass.Equal("de", patDoc.Title[0].Language)
+	ass.Equal("CONTROL DEVICE AND AIR CONDITIONING DEVICE", patDoc.Title[1].Text)
+	ass.Equal("en", patDoc.Title[1].Language)
+	ass.Equal("DISPOSITIF DE RÉGULATION ET DISPOSITIF DE CLIMATISATION", patDoc.Title[2].Text)
+	ass.Equal("fr", patDoc.Title[2].Language)
+}
+
 func TestProcessXMLSimple151A2(t *testing.T) {
 	ass := assert.New(t)
 	data, err := os.ReadFile("test-data/application/v1-5-1-A2.xml")

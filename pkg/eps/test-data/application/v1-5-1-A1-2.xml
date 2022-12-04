@@ -1,0 +1,684 @@
+<!--  This XML data has been generated under the supervision of the European Patent Office  -->
+<ep-patent-document id="EP18867314A1" file="EP18867314NWA1.xml" lang="en" country="EP" doc-number="3889521" kind="A1" date-publ="20211006" status="n" dtd-version="ep-patent-document-v1-5-1">
+    <SDOBI lang="en">
+        <B000>
+            <eptags>
+                <B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIESILTLVFIROMKCYALTRBGCZEEHUPLSKBAHRIS..MTNORSMESMMAKHTNMD..........</B001EP>
+                <B005EP>J</B005EP>
+                <B007EP>BDM Ver 2.0.12 (4th of August) - 1100000/0</B007EP>
+            </eptags>
+        </B000>
+        <B100>
+            <B110>3889521</B110>
+            <B120>
+                <B121>EUROPEAN PATENT APPLICATION</B121>
+                <B121EP>published in accordance with Art. 153(4) EPC</B121EP>
+            </B120>
+            <B130>A1</B130>
+            <B140>
+                <date>20211006</date>
+            </B140>
+            <B190>EP</B190>
+        </B100>
+        <B200>
+            <B210>18867314.9</B210>
+            <B220>
+                <date>20181130</date>
+            </B220>
+            <B240>
+                <B241>
+                    <date>20200630</date>
+                </B241>
+            </B240>
+            <B250>ja</B250>
+            <B251EP>en</B251EP>
+            <B260>en</B260>
+        </B200>
+        <B400>
+            <B405>
+                <date>20211006</date>
+                <bnum>202140</bnum>
+            </B405>
+            <B430>
+                <date>20211006</date>
+                <bnum>202140</bnum>
+            </B430>
+        </B400>
+        <B500>
+            <B510EP>
+                <classification-ipcr sequence="1">
+                    <text>F25B 45/00 20060101AFI20200605BHEP </text>
+                </classification-ipcr>
+            </B510EP>
+            <B520EP>
+                <classifications-cpc>
+                    <classification-cpc sequence="1">
+                        <text>F25B 13/00 20130101 LI20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="2">
+                        <text>F25B 49/02 20130101 LI20200717BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="3">
+                        <text>F25B2313/0233 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="4">
+                        <text>F25B2313/0253 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="5">
+                        <text>F25B2313/0315 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="6">
+                        <text>F25B2345/001 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="7">
+                        <text>F25B2400/075 20130101 LA20200717BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="8">
+                        <text>F25B2500/24 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="9">
+                        <text>F25B2600/0253 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="10">
+                        <text>F25B2600/11 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="11">
+                        <text>F25B2600/2509 20130101 LA20200717BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="12">
+                        <text>F25B2600/2513 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="13">
+                        <text>F25B2700/1931 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="14">
+                        <text>F25B2700/21163 20130101 LA20200715BHEP </text>
+                    </classification-cpc>
+                    <classification-cpc sequence="15">
+                        <text>Y02B 30/70 20130101 LA20210226BGEP </text>
+                    </classification-cpc>
+                </classifications-cpc>
+            </B520EP>
+            <B540>
+                <B541>de</B541>
+                <B542>STEUERUNGSVORRICHTUNG UND KLIMATISIERUNGSVORRICHTUNG</B542>
+                <B541>en</B541>
+                <B542>CONTROL DEVICE AND AIR CONDITIONING DEVICE</B542>
+                <B541>fr</B541>
+                <B542>DISPOSITIF DE RÉGULATION ET DISPOSITIF DE CLIMATISATION</B542>
+            </B540>
+            <B590>
+                <B598>1</B598>
+            </B590>
+        </B500>
+        <B700>
+            <B710>
+                <B711>
+                    <snm>Hitachi-Johnson Controls Air Conditioning, Inc.</snm>
+                    <iid>101660126</iid>
+                    <adr>
+                        <str>16-1, Kaigan 1-chome Minato-ku</str>
+                        <city>Tokyo 105-0022</city>
+                        <ctry>JP</ctry>
+                    </adr>
+                </B711>
+            </B710>
+            <B720>
+                <B721>
+                    <snm>KANEKO, Hiroaki</snm>
+                    <adr>
+                        <str>c/o Hitachi-Johnson Controls Air Conditioning, Inc. 16-1, Kaigan 1-chome Minato-ku</str>
+                        <city>Tokyo 105-0022</city>
+                        <ctry>JP</ctry>
+                    </adr>
+                </B721>
+                <B721>
+                    <snm>YAMAMOTO, Shoutaro</snm>
+                    <adr>
+                        <str>c/o Hitachi-Johnson Controls Air Conditioning, Inc. 16-1, Kaigan 1-chome Minato-ku</str>
+                        <city>Tokyo 105-002</city>
+                        <ctry>JP</ctry>
+                    </adr>
+                </B721>
+            </B720>
+            <B740>
+                <B741>
+                    <snm>MERH-IP Matias Erny Reichl Hoffmann Patentanwälte PartG mbB</snm>
+                    <iid>101060911</iid>
+                    <adr>
+                        <str>Paul-Heyse-Strasse 29</str>
+                        <city>80336 München</city>
+                        <ctry>DE</ctry>
+                    </adr>
+                </B741>
+            </B740>
+        </B700>
+        <B800>
+            <B840>
+                <ctry>AL</ctry>
+                <ctry>AT</ctry>
+                <ctry>BE</ctry>
+                <ctry>BG</ctry>
+                <ctry>CH</ctry>
+                <ctry>CY</ctry>
+                <ctry>CZ</ctry>
+                <ctry>DE</ctry>
+                <ctry>DK</ctry>
+                <ctry>EE</ctry>
+                <ctry>ES</ctry>
+                <ctry>FI</ctry>
+                <ctry>FR</ctry>
+                <ctry>GB</ctry>
+                <ctry>GR</ctry>
+                <ctry>HR</ctry>
+                <ctry>HU</ctry>
+                <ctry>IE</ctry>
+                <ctry>IS</ctry>
+                <ctry>IT</ctry>
+                <ctry>LI</ctry>
+                <ctry>LT</ctry>
+                <ctry>LU</ctry>
+                <ctry>LV</ctry>
+                <ctry>MC</ctry>
+                <ctry>MK</ctry>
+                <ctry>MT</ctry>
+                <ctry>NL</ctry>
+                <ctry>NO</ctry>
+                <ctry>PL</ctry>
+                <ctry>PT</ctry>
+                <ctry>RO</ctry>
+                <ctry>RS</ctry>
+                <ctry>SE</ctry>
+                <ctry>SI</ctry>
+                <ctry>SK</ctry>
+                <ctry>SM</ctry>
+                <ctry>TR</ctry>
+            </B840>
+            <B844EP>
+                <B845EP>
+                    <ctry>BA</ctry>
+                </B845EP>
+                <B845EP>
+                    <ctry>ME</ctry>
+                </B845EP>
+            </B844EP>
+            <B848EP>
+                <B849EP>
+                    <ctry>KH</ctry>
+                </B849EP>
+                <B849EP>
+                    <ctry>MA</ctry>
+                </B849EP>
+                <B849EP>
+                    <ctry>MD</ctry>
+                </B849EP>
+                <B849EP>
+                    <ctry>TN</ctry>
+                </B849EP>
+            </B848EP>
+            <B860>
+                <B861>
+                    <dnum>
+                        <anum>JP2018044169</anum>
+                    </dnum>
+                    <date>20181130</date>
+                </B861>
+                <B862>ja</B862>
+            </B860>
+            <B870>
+                <B871>
+                    <dnum>
+                        <pnum>WO2020110289</pnum>
+                    </dnum>
+                    <date>20200604</date>
+                    <bnum>202023</bnum>
+                </B871>
+            </B870>
+        </B800>
+    </SDOBI>
+    <abstract id="abst" lang="en">
+        <p id="pa01" num="0001">
+            A control device of an air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe includes a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, the degree of supercooling at an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a temperature sensor configured to detect the temperature of refrigerant having passed through the supercooling circuit of each outdoor unit, obtain a target value of the degree of supercooling based on the obtained multiple degrees of supercooling, and perform the control of increasing the rotation speed of a compressor of an outdoor unit having a higher degree of supercooling than the target value and decreasing the rotation speed of a compressor of an outdoor unit having a lower degree of supercooling than the target value such that a difference in the degree of supercooling at the outlet of the supercooling circuit of each outdoor unit is decreased.
+            <img id="iaf01" file="imgaf001.tif" wi="96" he="75" img-content="drawing" img-format="tif"/>
+        </p>
+    </abstract>
+    <description id="desc" lang="en">
+        <!--  EPO <DP n="1">  -->
+        <heading id="h0001">TECHNICAL FIELD</heading>
+        <p id="p0001" num="0001">The present invention relates to a control device and an air-conditioning device.</p>
+        <heading id="h0002">BACKGROUND ART</heading>
+        <p id="p0002" num="0002">In the case of an air-conditioning device including multiple outdoor units, imbalance in a refrigerant amount in condensers of the outdoor units is caused upon determination on the refrigerant amount in refrigerant charging operation, and in some cases, a proper refrigerant amount for a refrigeration cycle cannot be determined.</p>
+        <p id="p0003" num="0003">Patent Document 1 describes, as refrigerant amount balance control among the outdoor units, an example where the degree of supercooling at a condenser outlet of an outdoor unit is determined and a compressor rotation speed on a lower supercooling degree side is decreased as compared to a compressor rotation speed on a higher supercooling degree side and an example where a fan rotation speed on the lower supercooling degree side is increased as compared to a fan rotation speed on the higher supercooling degree side.</p>
+        <heading id="h0003">CITATION LIST</heading>
+        <heading id="h0004">PATENT DOCUMENT</heading>
+        <!--  EPO <DP n="2">  -->
+        <heading id="h0005">SUMMARY OF THE INVENTION</heading>
+        <heading id="h0006">PROBLEMS TO BE SOLVED BY THE INVENTION</heading>
+        <p id="p0004" num="0004">In Patent Document 1, a refrigerant amount in refrigerant charging operation is determined using the degree of supercooling at the condenser outlet of the outdoor unit, assuming that the degree of supercooling can be properly obtained at the condenser outlet of each outdoor unit. However, when refrigerant at the condenser outlet of the outdoor unit is in a two-phase state, no temperature change is shown. Thus, even with a refrigerant specific enthalpy change, such a refrigerant specific enthalpy change cannot be determined, and the degree of supercooling at the condenser outlet of the outdoor unit cannot be properly obtained. As a result, there is a problem that the refrigerant amount in the refrigerant charging operation cannot be properly determined.</p>
+        <p id="p0005" num="0005">For this reason, the present invention is intended to properly determine the amount of refrigerant charged to a refrigerant circuit.</p>
+        <heading id="h0007">SOLUTIONS TO THE PROBLEMS</heading>
+        <p id="p0006" num="0006">
+            The present invention relates to a control device of an air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe. The control device includes a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, the degree of supercooling at an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a
+            <!--  EPO <DP n="3">  -->
+            temperature sensor configured to detect the temperature of refrigerant having passed through the supercooling circuit of each outdoor unit, obtain a target value of the degree of supercooling based on the obtained multiple degrees of supercooling, and perform the control of increasing the rotation speed of a compressor of an outdoor unit having a higher degree of supercooling than the target value and decreasing the rotation speed of a compressor of an outdoor unit having a lower degree of supercooling than the target value such that a difference in the degree of supercooling at the outlet of the supercooling circuit of each outdoor unit is decreased.
+        </p>
+        <heading id="h0008">EFFECTS OF THE INVENTION</heading>
+        <p id="p0007" num="0007">According to the present invention, the amount of refrigerant charged to the refrigerant circuit can be properly determined.</p>
+        <heading id="h0009">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+        <p id="p0008" num="0008">
+            <ul id="ul0001" list-style="none" compact="compact">
+                <li>
+                    <figref idref="f0001">Fig. 1</figref>
+                    is a diagram of one example of an outline configuration of an air-conditioning device of a first embodiment.
+                </li>
+                <li>
+                    <figref idref="f0001">Fig. 2</figref>
+                    is a diagram of one example of a hardware configuration of a control section.
+                </li>
+                <li>
+                    <figref idref="f0002">Fig. 3</figref>
+                    is a flowchart of one example of information processing.
+                </li>
+                <li>
+                    <figref idref="f0002">Fig. 4</figref>
+                    is a flowchart of one example of refrigerant amount balance control processing of the first embodiment.
+                </li>
+                <li>
+                    <figref idref="f0003">Fig. 5</figref>
+                    is a flowchart of one example of refrigerant amount balance control processing of a second embodiment.
+                </li>
+                <li>
+                    <figref idref="f0003">Fig. 6</figref>
+                    is a diagram of one example of an outline configuration of an air-conditioning
+                    <!--  EPO <DP n="4">  -->
+                    device of a third embodiment.
+                </li>
+                <li>
+                    <figref idref="f0004">Fig. 7</figref>
+                    is a flowchart of one example of refrigerant amount balance control processing of the third embodiment.
+                </li>
+                <li>
+                    <figref idref="f0004">Fig. 8</figref>
+                    is a flowchart of one example of refrigerant amount balance control processing of a fourth embodiment.
+                </li>
+            </ul>
+        </p>
+        <heading id="h0010">DESCRIPTION OF THE EMBODIMENTS</heading>
+        <p id="p0009" num="0009">Hereinafter, embodiments of the present invention will be described with reference to the drawings.</p>
+        <heading id="h0011"><First Embodiment</heading>
+        <p id="p0010" num="0010">
+            A first embodiment will be described.
+            <figref idref="f0001">Fig. 1</figref>
+            is a diagram of one example of an outline configuration of an air-conditioning device of the first embodiment. The air-conditioning device is configured such that outdoor units 10a, 10b and indoor units 40a, 40b, 40c, 40d are connected to each other through a liquid pipe 31 and a gas pipe 30 to form a closed circuit. The closed circuit is sealed with refrigerant, and the refrigerant circulates to implement a refrigeration cycle. The number of connected outdoor units 10 described herein may be two or more as long as multiple units are provided. The number of connected indoor units 40 may be one. The outdoor unit 10a is one example of a control device of the air-conditioning device.
+        </p>
+        <p id="p0011" num="0011">
+            First, a configuration of the outdoor unit 10a will be described. The outdoor unit 10a is configured such that a compressor 11a whose rotation frequency is variable by an inverter, a four-way valve (a reversible valve) 12a, an outdoor heat exchanger 13a configured to exchange heat with outdoor air, an outdoor expansion valve 14a including
+            <!--  EPO <DP n="5">  -->
+            an electronic expansion valve etc. for adjusting the flow rate of refrigerant in the outdoor heat exchanger 13a, a supercooling circuit 20a, a gas blocking valve 16a, a liquid blocking valve 17a, etc. are connected to each other through a pipe. Moreover, a supercooling bypass pipe 22a as a cooling source of the supercooling circuit 20a is provided at the outdoor unit 10a. The supercooling bypass pipe 22a is provided such that part of refrigerant sent from the outdoor expansion valve 14a to the liquid pipe 31 returns to the compressor 11a. More specifically, the supercooling bypass pipe 22a extends from between the outdoor expansion valve 14a and the supercooling circuit 20a, and is connected to a suction port side of the compressor 11a through the supercooling circuit 20a. Further, a supercooling expansion valve 23a configured to adjust the flow rate of refrigerant flowing in the supercooling bypass pipe 22a is provided at the supercooling bypass pipe 22a.
+        </p>
+        <p id="p0012" num="0012">A supercooling circuit outlet temperature sensor 60a is provided at the pipe in the vicinity of an outlet of the supercooling circuit 20a. The supercooling circuit outlet temperature sensor 60a detects the temperature of refrigerant at the pipe in the vicinity of the outlet of the supercooling circuit 20a. Moreover, a refrigerant charging port 81a as a refrigerant charging opening is provided at the supercooling bypass pipe 22a, and a refrigerant charging electromagnetic valve 80a for refrigerant charging is provided downstream of the refrigerant charging port 81a. Upon charging, a refrigerant tank sealed with refrigerant is connected to the refrigerant charging port 81a through a charging hose. Moreover, a high-pressure sensor 62a configured to detect the pressure of gas refrigerant discharged from the compressor 11a is provided at the discharge-side pipe of the compressor 11a.</p>
+        <p id="p0013" num="0013">
+            <!--  EPO <DP n="6">  -->
+            Moreover, a control section 70a configured to control operation of the outdoor unit 10a is provided at the outdoor unit 10a. The control section 70a is connected to an outdoor fan 15a, the high-pressure sensor 62a, the outdoor expansion valve 14a, the supercooling expansion valve 23a, the supercooling circuit outlet temperature sensor 60a, the compressor 11a, the refrigerant charging electromagnetic valve 80a, and a control section 70b of the outdoor unit 10b so that a signal can be transmitted or received through a signal line. A configuration of the outdoor unit 10b is also similar to the configuration of the outdoor unit 10a. Hereinafter, description will be made assuming that the control section 70a also transmits a signal to the control section 70b and also control the outdoor unit 10b via the control section 70b.
+        </p>
+        <p id="p0014" num="0014">Next, a configuration of the indoor unit 40a will be described. The indoor unit 40a is configured such that an indoor heat exchanger 41a configured to exchange heat with indoor air and an indoor expansion valve 42a including an electronic expansion valve etc. for adjusting the flow rate of refrigerant in the indoor heat exchanger 41a are connected to each other through a pipe. Configurations of the indoor unit 40b, the indoor unit 40c, and the indoor unit 40d are similar to the configuration of the indoor unit 40a.</p>
+        <p id="p0015" num="0015">
+            <figref idref="f0001">Fig. 2</figref>
+            is a diagram of one example of a hardware configuration of the control section 70a. The control section 70a includes a CPU 201, a storage section 202, an input section 203, a display section 204, and a communication section 205. The CPU 201 reads a program stored in the storage section 202 to execute processing. The storage section 202 is used as a primary storage area, such as a main memory or a working area, upon execution of the processing by the CPU 201, and stores data (e.g.,
+            <!--  EPO <DP n="7">  -->
+            each threshold described later), programs, etc. used upon execution of the processing by the CPU 201. The storage section 202 is one example of a storage medium. The input section 203 is, for example, a button, and receives operation by a user to input such operation to the CPU 201. The display section 204 is, for example, a display, and displays a result of the processing by the CPU 201. The communication section 205 communicates with the outdoor unit 10b etc. via the signal line. The functions and processing of the control section 70a are implemented in such a manner that the CPU 201 executes the processing based on the programs stored in the storage section 202. Part of the functions and processing of the control section 70a may be, as another example, implemented using a hardware circuit. A hardware configuration of the control section 70b is also similar to the hardware configuration of the control section 70a.
+        </p>
+        <p id="p0016" num="0016">
+            The control section 70a according to the first embodiment performs the processing of balancing a refrigerant amount between the outdoor units 10a, 10b upon refrigerant charging for the air-conditioning device. Upon refrigerant charging, it is necessary to determine whether or not the amount of refrigerant charged to the air-conditioning device is proper. Upon determination on the refrigerant amount, the refrigerant amount needs to be balanced between the outdoor units 10a, 10b. However, in some cases, the balance in the refrigerant amount between the outdoor units is not achieved due to an external factor etc. On the other hand, the air-conditioning device of the present embodiment adjusts the balance in the refrigerant amount by the control of the control section 70a, and in a state in which a proper balance in the refrigerant amount is achieved, determines whether or not the refrigerant amount is proper.
+            <!--  EPO <DP n="8">  -->
+        </p>
+        <p id="p0017" num="0017">Refrigerant charging will be described in advance of the processing of the control section 70a. First, the outdoor units 10a, 10b and the indoor units 40a to 40d are placed, and are connected to each other through the gas pipe 30 and the liquid pipe 31. Note that the outdoor units 10a, 10b are sealed with a predetermined amount of refrigerant. After vacuuming has been performed for the inside of the refrigerant pipe on a side close to the indoor units 40a to 40d, the gas blocking valves 16a, 16b and the liquid blocking valves 17a, 17b of the outdoor units 10a, 10b are opened, and a refrigerant circuit is filled with the refrigerant sealed in the outdoor units 10a, 10b.</p>
+        <p id="p0018" num="0018">Next, for charging refrigerant, a worker connects the refrigerant charging port 81a of the outdoor unit 10a and the refrigerant tank sealed with refrigerant to each other through the charging hose. After completion of connection, the worker performs the operation of starting refrigerant charging operation for the input section 203 with a valve of the refrigerant tank being opened. When the operation of starting the refrigerant charging operation for the input section 203 is performed, the outdoor units 10a, 10b start the refrigerant charging operation by a signal of the CPU 201. When it is, during the refrigerant charging operation, determined that refrigerant charging is necessary, the CPU 201 transmits a predetermined signal to the refrigerant charging electromagnetic valve 80a. When receiving the predetermined signal, the refrigerant charging electromagnetic valve 80a opens. When the refrigerant charging electromagnetic valve 80a is opened with the valve of the refrigerant tank being opened, the refrigerant circuit is filled with the refrigerant of the refrigerant tank.</p>
+        <p id="p0019" num="0019">
+            In the air-conditioning device of the first embodiment, refrigerant is charged
+            <!--  EPO <DP n="9">  -->
+            when cooling operation is performed for the outdoor units 10a, 10b and the indoor units 40a, 40b, 40c, 40d. In the cooling operation, the outdoor units 10a, 10b and the compressors 11a, 11b are operated, and the four-way valves 12a, 12b are brought to such a direction that the gas pipe 30 and a compressor suction pipe are connected to each other and the outdoor heat exchangers 13a, 13b and a compressor discharge pipe are connected to each other. The flow of refrigerant is in the same direction between the outdoor units 10a, 10b, and therefore, the outdoor unit 10a will be described as a representative. High-pressure gas refrigerant compressed in the compressor 11a is sent to the four-way valve 12a and the outdoor heat exchanger 13a, and then, by heat exchange with outdoor suction air, is condensed into high-pressure liquid refrigerant. Then, such refrigerant passes through the outdoor expansion valve 14a. At this point, liquid pressure is slightly decreased due to resistance of the expansion valve. Then, the refrigerant is branched into the supercooling bypass pipe 22a and the supercooling circuit 20a. The bypassed liquid refrigerant is depressurized in the supercooling expansion valve 23a, and by heat exchange with the remaining unbypassed liquid refrigerant, is gasified and sent to a compressor suction side. Meanwhile, the unbypassed liquid refrigerant is cooled in the supercooling circuit 20a, and is sent to a supercooling circuit outlet pipe 21a and the liquid pipe 31. Similarly, high-pressure liquid refrigerant is also sent from the outdoor unit 10b to the liquid pipe 31, and joins the unbypassed liquid refrigerant. The refrigerant is used for the cooling operation in each of the indoor units 40a, 40b, 40c, 40d, and turns into low-pressure gas refrigerant. The low-pressure gas refrigerant flowing out of each indoor unit is branched into the compressor suction sides of the outdoor units 10a, 10b through the gas pipe 30, and is compressed and circulates again.
+        </p>
+        <p id="p0020" num="0020">
+            <!--  EPO <DP n="10">  -->
+            <figref idref="f0002">Fig. 3</figref>
+            is a flowchart of refrigerant charging control processing performed by the control section 70a. The refrigerant charging control processing is processing executed during the refrigerant charging operation by the cooling operation as described above.
+        </p>
+        <p id="p0021" num="0021">
+            At S301, the CPU 201 performs the control of balancing the refrigerant amount between the outdoor unit 10a and the outdoor unit 10b. Details of the processing of S301 will be described with reference to
+            <figref idref="f0002">Figs. 4</figref>
+            and
+            <figref idref="f0003">5</figref>
+            etc. described later.
+        </p>
+        <p id="p0022" num="0022">
+            At S302, the CPU 201 determines, after execution of later-described standby processing, whether or not the refrigerant amount (a charging amount) of the air-conditioning device is proper. The CPU 201 performs, as the standby processing, such control that the outdoor expansion valves 14a, 14b of the outdoor units 10a, 10b are substantially fixedly stabilized at a fixed opening degree (may be the maximum opening degree) and the rotation speeds (the air volumes) of the outdoor fans 15a, 15b are substantially fixedly stabilized at a value corresponding to a cycle state. More specifically, the CPU 201 stands by for a certain period of time. Then, in a stable state, the CPU 201 makes determination on the refrigerant amount of the air-conditioning device. The CPU 201 obtains an average temperature based on the temperature detected by the supercooling circuit outlet temperature sensor 60a of the outdoor unit 10a and a temperature detected by a supercooling circuit outlet temperature sensor 60b of the outdoor unit 10b, and based on whether or not the average temperature is equal to or lower than a preset threshold, determines whether or not the refrigerant amount of the air-conditioning device is proper. In a case where the average temperature is equal to or lower than the threshold, the CPU 201 determines that the refrigerant amount of the air-conditioning device is proper. On the other hand, in a case where the average
+            <!--  EPO <DP n="11">  -->
+            temperature exceeds the threshold, the CPU 201 determines that the refrigerant amount of the air-conditioning device is not proper. When the CPU 201 determines that the refrigerant amount of the air-conditioning device is not proper (insufficient), the processing proceeds to S303. When the CPU 201 determines that the refrigerant amount of the air-conditioning device is proper, the processing proceeds to S304.
+        </p>
+        <p id="p0023" num="0023">At S303, the CPU 201 charges refrigerant to the refrigerant circuit. The CPU 201 sends the predetermined signal to the refrigerant charging electromagnetic valve 80a to open the refrigerant charging electromagnetic valve 80a for a predetermined period of time, thereby charging a predetermined amount of refrigerant to the refrigerant circuit. The predetermined period of time as described herein may be, for example, determined by the CPU 201 etc. according to an external air temperature. Moreover, the predetermined amount is not limited to a fixed amount, and for example, may vary according to one or both of a refrigerant state in the cycle and a tank remaining amount. Then, the CPU 201 returns to the processing of S301, and after the control of balancing the refrigerant amount has been performed, executes S302 to make determination on the refrigerant amount again.</p>
+        <p id="p0024" num="0024">
+            At S304, the CPU 201 displays, on the display section 204, that the amount of charged refrigerant is proper. When the CPU 201 displays, on the display section 204, that the amount of charged refrigerant is proper, the refrigerant charging control processing ends. When the refrigerant charging control processing ends, refrigerant charging is completed. In a case where the display section 204 displays that the amount of charged refrigerant is proper, the worker detaches, for example, the charging hose from the refrigerant charging port 81a to terminate a refrigerant charging process.
+            <!--  EPO <DP n="12">  -->
+        </p>
+        <p id="p0025" num="0025">Next, the principle of balancing the refrigerant amount between the outdoor units will be described. First, the amount of refrigerant in the outdoor heat exchanger is generally greater as a heat exchanger outlet specific enthalpy decreases, and is greater as the degree of supercooling increases. For this reason, operation is made such that the heat exchanger outlet specific enthalpy or the degree of supercooling is substantially equal among the multiple outdoor units, and therefore, the balance in the refrigerant amount among the multiple outdoor units can be maintained. A factor influencing the refrigerant state at an outlet of the outdoor heat exchanger is the rotation speed of the compressor. The degree of opening of the outdoor expansion valve also influences the refrigerant state at the outlet of the heat exchanger. However, the control section 70a of the first embodiment controls the rotation speed of the compressor providing greater influence to balance the refrigerant amount.</p>
+        <p id="p0026" num="0026">
+            <figref idref="f0002">Fig. 4</figref>
+            is a flowchart of one example of refrigerant amount balance control processing of the first embodiment. At S401, the CPU 201 obtains the degree of supercooling at the outlet of the supercooling circuit 20a of the outdoor unit 10a based on a difference between the temperature detected by the supercooling circuit outlet temperature sensor 60a of the outdoor unit 10a and a saturated temperature for the pressure detected by the high-pressure sensor 62a. Moreover, the CPU 201 receives, via the control section 70b, the temperature detected by the supercooling circuit outlet temperature sensor 60b of the outdoor unit 10b and a saturated temperature for a pressure detected by a high-pressure sensor 62b. Then, the CPU 201 obtains the degree of supercooling at an outlet of a supercooling circuit 20b of the outdoor unit 10b based on a difference between the temperature detected by the supercooling circuit
+            <!--  EPO <DP n="13">  -->
+            outlet temperature sensor 60b and the saturated temperature for the pressure detected by the high-pressure sensor 62b. Note that the CPU 201 of the control section 70b may obtain the degree of supercooling at the outlet of the supercooling circuit 20b in the outdoor unit 10b. Then, the CPU 201 of the control section 70a may receive, from the control section 70b, the degree of supercooling at the outlet of the supercooling circuit 20b, the degree of supercooling being obtained by the control section 70b.
+        </p>
+        <p id="p0027" num="0027">At S402, the CPU 201 determines whether or not a difference between the degree of supercooling at the outlet of the supercooling circuit 20a of the outdoor unit 10a and the degree of supercooling at the outlet of the supercooling circuit 20b of the outdoor unit 10b is equal to or greater than a threshold. In a case where the CPU 201 determines that the difference is equal to or greater than the threshold, the processing proceeds to S403. In a case where the CPU 201 determines that the difference is less than the threshold, the refrigerant amount balance control processing ends.</p>
+        <p id="p0028" num="0028">At S403, the CPU 201 obtains an average value of the degree of supercooling based on the degree of supercooling at the outlet of the supercooling circuit 20a of the outdoor unit 10a and the degree of supercooling at the outlet of the supercooling circuit 20b of the outdoor unit 10b. The average value is one example of a target value.</p>
+        <p id="p0029" num="0029">
+            At S404, the CPU 201 performs the control of decreasing the rotation speed of the compressor 11 of the outdoor unit 10 having a lower degree of supercooling than the average value and increasing the rotation speed of the compressor 11 of the outdoor unit 10 having a higher degree of supercooling than the average value. Although the principle thereof will be described later, the degree of supercooling of the outdoor unit
+            <!--  EPO <DP n="14">  -->
+            increases as the rotation speed of the compressor decreases, and decreases as the rotation speed of the compressor increases. Thus, by the present processing, a difference in the degree of supercooling among the multiple outdoor units can be decreased.
+        </p>
+        <p id="p0030" num="0030">The processing of S404 will be described in more details. The CPU 201 determines the rotation speed of each compressor 11 such that the increment of the rotation speed of the compressor 11 of the outdoor unit 10 having a higher degree of supercooling than the average value and the increment of the rotation speed of the compressor 11 of the outdoor unit 10 having a lower degree of supercooling than the average value are equal to each other. Examples of the increment and the increment are two hertzes (Hz). That is, the CPU 201 increases, by two hertzes, the rotation speed of the compressor 11 of the outdoor unit 10 having a higher degree of supercooling than the average value, and decreases, by two hertzes, the rotation speed of the compressor 11 of the outdoor unit 10 having a lower degree of supercooling than the average value. The amount of change in a frequency by the CPU 201 does not depend on the average value and the supercooling degree difference, and is fixed. After the processing of S404, the CPU 201 proceeds to S401.</p>
+        <p id="p0031" num="0031">
+            A relationship between the degree of supercooling and the rotation speed of the compressor will be described herein. As the rotation speed of the compressor decreases, only a refrigerant circulation amount Gr decreases with almost no change in a heat exchange amount Qc = KA (Tc - Ta) obtained from an air side, and therefore, Hi - Ho increases. An outdoor heat exchanger inlet refrigerant specific enthalpy Hi shows little change, and therefore, an outdoor heat exchanger outlet refrigerant specific
+            <!--  EPO <DP n="15">  -->
+            enthalpy Ho decreases (see Expression 1). That is, a supercooling circuit inlet refrigerant specific enthalpy decreases (Hsi = Ho), and therefore, in the case of a fixed supercooling circuit capacity Qsc, a supercooling circuit outlet refrigerant specific enthalpy Hso also decreases (see Expression 2). That is, the degree of supercooling increases. Conversely, as the rotation speed of the compressor increases, the degree of supercooling decreases.
+            <maths id="math0001" num="(Expression 1)">
+                <math display="block">
+                    <mi>Qc</mi>
+                    <mo>=</mo>
+                    <mi>KA</mi>
+                    <mfenced separators="">
+                        <mi>Tc</mi>
+                        <mo>−</mo>
+                        <mi>Ta</mi>
+                    </mfenced>
+                    <mo>=</mo>
+                    <mi>Gr</mi>
+                    <mfenced separators="">
+                        <mi>Hi</mi>
+                        <mo>−</mo>
+                        <mi>Ho</mi>
+                    </mfenced>
+                </math>
+                <img id="ib0001" file="imgb0001.tif" wi="87" he="5" img-content="math" img-format="tif"/>
+            </maths>
+            where Qc: condensation capacity;
+            <ul id="ul0002" list-style="none" compact="compact">
+                <li>K: heat transfer coefficient ... changeable according to outdoor fan air volume and to outdoor heat exchanger specifications;</li>
+                <li>A: outdoor heat exchanger heat transfer area;</li>
+                <li>Tc: condensation temperature ... substantially equal to saturated temperature for discharge pressure;</li>
+                <li>Ta: external air temperature;</li>
+                <li>Gr: refrigerant circulation amount... changeable according to compressor rotation speed and sucked refrigerant state;</li>
+                <li>Hi: outdoor heat exchanger inlet refrigerant specific enthalpy; and</li>
+                <li>Ho: outdoor heat exchanger outlet refrigerant specific enthalpy.</li>
+            </ul>
+            <maths id="math0002" num="(Expression 2)">
+                <math display="block">
+                    <mi>Qsc</mi>
+                    <mo>=</mo>
+                    <mi>Gr</mi>
+                    <mfenced separators="">
+                        <mi>Hsi</mi>
+                        <mo>−</mo>
+                        <mi>Hso</mi>
+                    </mfenced>
+                </math>
+                <img id="ib0002" file="imgb0002.tif" wi="65" he="5" img-content="math" img-format="tif"/>
+            </maths>
+            where Qsc: supercooling capacity;
+            <ul id="ul0003" list-style="none" compact="compact">
+                <li>Hsi: supercooling circuit inlet refrigerant specific enthalpy; and</li>
+                <li>Hso: supercooling circuit outlet refrigerant specific enthalpy.</li>
+            </ul>
+        </p>
+        <p id="p0032" num="0032">
+            According to the air-conditioning device of the first embodiment, the degree of supercooling at the outlet of the supercooling circuit 20 is obtained based on the
+            <!--  EPO <DP n="16">  -->
+            temperature at the outlet of the supercooling circuit 20, and therefore, the degree of supercooling can be properly obtained. Moreover, according to the air-conditioning device of the first embodiment, the average value of the degree of supercooling is obtained, and the control of increasing the rotation speed of the compressor 11 of the outdoor unit 10 having a higher degree of supercooling than the average value and decreasing the rotation speed of the compressor 11 of the outdoor unit 10 having a lower degree of supercooling than the average value is performed. With this configuration, the refrigerant amount can be balanced among the outdoor units 10. Thus, according to the air-conditioning device of the first embodiment, the amount of refrigerant charged to the refrigerant circuit can be properly determined.
+        </p>
+        <heading id="h0012"><Second Embodiment</heading>
+        <p id="p0033" num="0033">A second embodiment will be described. Differences from the first embodiment will be mainly described herein. A factor influencing a refrigerant state at an outlet of an outdoor heat exchanger is an outdoor fan rotation speed in addition to a compressor rotation speed. A control section 70a of the second embodiment controls the outdoor fan rotation speed to balance a refrigerant amount.</p>
+        <p id="p0034" num="0034">
+            <figref idref="f0003">Fig. 5</figref>
+            is a flowchart of one example of refrigerant amount balance control processing of the second embodiment. Processing from S501 to S503 is similar to the processing from S401 to S403 in
+            <figref idref="f0002">Fig. 4</figref>
+            , and therefore, description thereof will be omitted. At S504, a CPU 201 performs the control of increasing the fan rotation speed of an outdoor unit 10 having a lower degree of supercooling than an average value and decreasing the fan rotation speed of an outdoor unit 10 having a higher degree of supercooling than the average value. Although the principle thereof will be described
+            <!--  EPO <DP n="17">  -->
+            later, the degree of supercooling of the outdoor unit increases as the fan rotation speed increases, and decreases as the fan rotation speed decreases. Thus, according to the present processing, the degree of supercooling among multiple outdoor units can be decreased.
+        </p>
+        <p id="p0035" num="0035">The processing of S504 will be more specifically described. The CPU 201 determines the rotation speed of each outdoor fan 15 such that the increment of the fan rotation speed of the outdoor fan 15 of the outdoor unit 10 having a lower degree of supercooling than the average value and the decrement of the fan rotation speed of the outdoor fan 15 of the outdoor unit 10 having a higher degree of supercooling than the average value are equal to each other.</p>
+        <p id="p0036" num="0036">A relationship between the degree of supercooling and the rotation speed of the outdoor fan will be described herein. As the rotation speed of the outdoor fan increases, a heat transfer coefficient K increases, and therefore, a condensation capacity Qc increases. A refrigerant circulation amount Gr and a condenser inlet refrigerant specific enthalpy Hi show little change, and therefore, a condenser outlet refrigerant specific enthalpy Ho decreases (see Expression 1). That is, a supercooling circuit inlet refrigerant specific enthalpy decreases (Hsi = Ho), and therefore, in the case of a fixed supercooling circuit capacity Qsc, a supercooling circuit outlet refrigerant specific enthalpy Hso also decreases (see Expression 2). That is, the degree of supercooling increases. Conversely, as the rotation speed of the outdoor fan decreases, the degree of supercooling decreases.</p>
+        <p id="p0037" num="0037">
+            According to an air-conditioning device of the second embodiment, the rotation
+            <!--  EPO <DP n="18">  -->
+            speed of the fan is controlled instead of the rotation speed of the compressor so that the refrigerant amount can be balanced among the outdoor units 10. Thus, according to the air-conditioning device of the second embodiment, the amount of refrigerant charged to a refrigerant circuit can be properly determined.
+        </p>
+        <heading id="h0013"><Third Embodiment</heading>
+        <p id="p0038" num="0038">
+            A third embodiment will be described. Differences from the above-described embodiments will be mainly described herein.
+            <figref idref="f0003">Fig. 6</figref>
+            is a diagram of one example of an outline configuration of an air-conditioning device of the third embodiment. A configuration of an outdoor unit 100a will be described. The air-conditioning device of the third embodiment is different from the air-conditioning device of the first embodiment in that a supercooling circuit inlet temperature sensor 61a is provided at a pipe in the vicinity of an inlet of a supercooling circuit 20a in the outdoor unit 100a. A control section 70a of the third embodiment is connected to an outdoor fan 15a, a high-pressure sensor 62a, an outdoor expansion valve 14a, a supercooling expansion valve 23a, a supercooling circuit outlet temperature sensor 60a, a supercooling circuit inlet temperature sensor 61a, a compressor 11a, a refrigerant charging electromagnetic valve 80a, and a control section 70b of an outdoor unit 100b so that a signal can be transmitted or received through a signal line. The supercooling circuit inlet temperature sensor 61a detects the temperature of refrigerant at the pipe in the vicinity of the inlet of the supercooling circuit 20a. A configuration of the outdoor unit 100b is also similar to the configuration of the outdoor unit 100a.
+        </p>
+        <p id="p0039" num="0039">
+            <figref idref="f0004">Fig. 7</figref>
+            is a flowchart of one example of refrigerant amount balance control of the third embodiment. At S701, a CPU 201 obtains a temperature difference between
+            <!--  EPO <DP n="19">  -->
+            the inlet and an outlet of the supercooling circuit 20a based on the temperature detected by the supercooling circuit inlet temperature sensor 61a of the outdoor unit 100a and a temperature detected by the supercooling circuit outlet temperature sensor 60a of the outdoor unit 100a. Moreover, the CPU 201 receives, via the control section 70b, a temperature detected by a supercooling circuit inlet temperature sensor 61b of the outdoor unit 100b and a temperature detected by a supercooling circuit outlet temperature sensor 60b of the outdoor unit 100b. Then, the CPU 201 obtains a temperature difference between an inlet and an outlet of a supercooling circuit 20b based on the temperature detected by the supercooling circuit inlet temperature sensor 61b of the outdoor unit 100b and the temperature detected by the supercooling circuit outlet temperature sensor 60b of the outdoor unit 100b. Note that a CPU 201 of the control section 70b may obtain the temperature difference between the inlet and the outlet of the supercooling circuit 20b based on the temperature detected by the supercooling circuit inlet temperature sensor 61b of the outdoor unit 100b and the temperature detected by the supercooling circuit outlet temperature sensor 60b of the outdoor unit 100b. Then, the CPU 201 of the supercooling circuit 20a may receive, via the control section 70b, the temperature difference between the inlet and the outlet of the supercooling circuit 20b, the temperature difference being obtained by the control section 70b. Instead of the degree of supercooling at the outlet of the supercooling circuit 20 as described in the first embodiment, the temperature difference between the inlet and the outlet of the supercooling circuit 20 is used in the third embodiment.
+        </p>
+        <p id="p0040" num="0040">
+            At S702, the CPU 201 determines whether or not a difference between the temperature difference between the inlet and the outlet of the supercooling circuit 20a of the outdoor unit 100a and the temperature difference between the inlet and the outlet of
+            <!--  EPO <DP n="20">  -->
+            the supercooling circuit 20b of the outdoor unit 100b is equal to or greater than a threshold. In a case where the CPU 201 determines that the difference is equal to or greater than the threshold, the processing proceeds to S703. In a case where the CPU 201 determines that the difference is less than the threshold, the refrigerant amount balance control processing illustrated in
+            <figref idref="f0004">Fig. 7</figref>
+            ends.
+        </p>
+        <p id="p0041" num="0041">At S703, the CPU 201 obtains an average value of the temperature difference based on the temperature difference between the inlet and the outlet of the supercooling circuit 20a of the outdoor unit 100a and the temperature difference between the inlet and the outlet of the supercooling circuit 20b of the outdoor unit 100b. The average value is one example of a target value.</p>
+        <p id="p0042" num="0042">At S704, the CPU 201 performs the control of decreasing the rotation speed of the compressor 11 of the outdoor unit 100 having a smaller temperature difference than the average value and increasing the rotation speed of the compressor 11 of the outdoor unit 100 having a greater temperature difference than the average value. The CPU 201 determines the rotation speed of each compressor 11 such that the total amount of the decrements of the rotation speeds of the compressors 11 of the outdoor units 100 having a smaller temperature difference than the average value and the total amount of the increments of the rotation speeds of the compressors 11 of the outdoor units 100 having a greater temperature difference than the average value are equal to each other. After the processing of S704, the CPU 201 proceeds to S701. The total amount is a preset value, and is two hertzes, for example.</p>
+        <p id="p0043" num="0043">
+            According to the air-conditioning device of the third embodiment, the
+            <!--  EPO <DP n="21">  -->
+            temperature difference between the inlet and the outlet of the supercooling circuit 20 of the outdoor unit 100 can be utilized instead of the degree of supercooling. That is, according to the air-conditioning device of the third embodiment, the advantageous effects of the first embodiment can be also provided, and an error upon conversion into a saturated temperature can be reduced without the necessity of measuring a pressure by the high-pressure sensor 62 for further obtaining the degree of supercooling.
+        </p>
+        <heading id="h0014"><Fourth Embodiment</heading>
+        <p id="p0044" num="0044">
+            A fourth embodiment will be described. Differences from the third embodiment will be mainly described herein. A control section 70a of the fourth embodiment controls an outdoor fan rotation speed to balance a refrigerant amount.
+            <figref idref="f0004">Fig. 8</figref>
+            is a flowchart of one example of refrigerant amount balance control processing of the fourth embodiment. Processing from S801 to S803 is similar to the processing from S701 to S703 in
+            <figref idref="f0004">Fig. 7</figref>
+            , and description thereof will be omitted. At S804, a CPU 201 performs the control of increasing the fan rotation speed of an outdoor unit 100 having a smaller temperature difference than an average value and decreasing the fan rotation speed of an outdoor unit 100 having a greater temperature difference than the average value.
+        </p>
+        <p id="p0045" num="0045">More specifically, the CPU 201 determines the rotation speed of each outdoor fan 15 such that the increment of the fan rotation speed of the outdoor fan 15 of the outdoor unit 100 having a smaller temperature difference than the average value and the decrement of the fan rotation speed of the outdoor fan 15 of the outdoor unit 100 having a greater temperature difference than the average value are equal to each other.</p>
+        <p id="p0046" num="0046">
+            <!--  EPO <DP n="22">  -->
+            According to the air-conditioning device of the fourth embodiment, the temperature difference between an inlet and an outlet of the supercooling circuit 20 of the outdoor unit 100 can be utilized instead of the degree of supercooling. That is, according to the air-conditioning device of the fourth embodiment, the advantageous effects of the second embodiment can be also provided, and an error upon conversion into a saturated temperature can be reduced without the necessity of measuring a pressure by a high-pressure sensor 62 for further obtaining the degree of supercooling.
+        </p>
+        <heading id="h0015">(First Variation)</heading>
+        <p id="p0047" num="0047">
+            The case of three or more units will be described. At S402, the CPU 201 determines, for the degrees of supercooling of all outdoor units 10, whether or not a difference between the maximum value and the minimum value is equal to or greater than a threshold. In a case where the CPU 201 determines, for the degrees of supercooling of all outdoor units 10, that the difference between the maximum value and the minimum value is equal to or greater than the threshold, the processing proceeds to S403. In a case where the CPU 201 determines, for the degrees of supercooling of all outdoor units 10, that the difference between the maximum value and the minimum value is less than the threshold, the refrigerant amount balance control processing illustrated in
+            <figref idref="f0002">Fig. 4</figref>
+            ends.
+        </p>
+        <p id="p0048" num="0048">
+            At S404, the CPU 201 divides the preset increment (two hertzes) by the number of outdoor units 10 having a higher degree of supercooling than the average value, thereby determining the increment of each outdoor unit 10 having a higher degree. Similarly, the CPU 201 divides the preset decrement (two hertzes) by the number of outdoor units 10 having a lower degree of supercooling than the average
+            <!--  EPO <DP n="23">  -->
+            value, thereby determining the decrement of each outdoor unit 10 having a lower degree.
+        </p>
+        <p id="p0049" num="0049">For example, in a case where the number of outdoor units 10 having a higher degree is two and the number of outdoor units 10 having a lower degree is one, the increment of each outdoor unit 10 is one hertz. With this configuration, the total value of the increments and the total value of the decrements can be constantly held at two hertzes.</p>
+        <heading id="h0016">(Second Variation)</heading>
+        <p id="p0050" num="0050">
+            A second variation will be described. The CPU 201 may further control the rotation speed of each compressor 11 based on the stroke volume of each compressor 11. The control section 70a may store the stroke volume of each compressor 11 in the storage section 202 in advance, or may make an inquiry to the control section 70 of each compressor 11 regarding the stroke volume of each compressor 11 to store, in the storage section 202, the stroke volume of each compressor 11 acquired as an inquiry result. In the case of increasing the compressor rotation speed by the same change amount, the CPU 201 performs such control that the rotation speed of the compressor having a smaller stroke volume is slightly increased as compared to the rotation speed of the compressor having a greater stroke volume based on a reference stroke volume ratio and the rotation speed of the compressor having a greater stroke volume is slightly decreased as compared to the rotation speed of the compressor having a smaller stroke volume based on the reference stroke volume ratio. For example, even in a case where the rotation speeds of two compressors are both to be increased by one hertz, the CPU 201 performs such control that the rotation speed of the compressor having a smaller stroke volume is slightly increased with respect to one hertz and the rotation speed of
+            <!--  EPO <DP n="24">  -->
+            the compressor having a greater stroke volume is slightly decreased with respect to one hertz. In this case, the CPU 201 also adjusts each of the total amount of the increments and the total amount of the decrements to two hertzes in reference stroke volume equivalent.
+        </p>
+        <p id="p0051" num="0051">According to the air-conditioning device of the second variation, the refrigerant amount balance control among the outdoor units can be performed considering the stroke volume of the compressor. In the second variation, the first embodiment has been described by way of example, but the same applies to other embodiments.</p>
+        <heading id="h0017">(Third Variation)</heading>
+        <p id="p0052" num="0052">A third variation will be described. In the above-described embodiments, description has been made using the average value of the supercooling degree or the temperature difference (hereinafter referred to as an "index value") as the example of the target value. As long as the target value may be a value obtained based on multiple index values obtained for each of the multiple outdoor units, the target value is not limited to those of the embodiments. More preferably, the target value may be one of multiple index values between the maximum value and the minimum value. For example, the target value may be a medium value of the multiple index values. With this configuration, the refrigerant amount can be efficiently balanced.</p>
+        <heading id="h0018">(Fourth Variation)</heading>
+        <p id="p0053" num="0053">
+            A fourth variation will be described. In each of the above-described embodiments, the outdoor unit 10a, the control section 70a of the outdoor unit 10a, etc. have been described as examples of the control device configured to perform the
+            <!--  EPO <DP n="25">  -->
+            refrigerant charging control processing to control the air-conditioning device. Note that in a case where the air-conditioning device further has a management device configured to manage the indoor unit and the outdoor unit, the management device may perform the refrigerant charging control processing. As described above, the control device is not limited to the outdoor unit 10a. Other examples include an example where in a case where the air-conditioning device is communicably connected to an external device with or without wire, the external device may perform the refrigerant charging control processing.
+        </p>
+        <heading id="h0019">(Fifth Variation)</heading>
+        <p id="p0054" num="0054">A fifth variation will be described. In each of the above-described embodiments, the supercooling bypass pipe 22a etc. have been described as examples of the cooling source of the supercooling circuit 20a. Note that an external heat source as the cooling source of the supercooling circuit 20a may be utilized.</p>
+        <p id="p0055" num="0055">As described above, according to each of the above-described embodiments, the amount of refrigerant charged to the refrigerant circuit can be properly determined.</p>
+        <p id="p0056" num="0056">As described above, the example embodiments of the present invention have been described in detail, but the present invention is not limited to these specific embodiments.</p>
+    </description>
+    <claims id="claims01" lang="en">
+        <!--  EPO <DP n="26">  -->
+        <claim id="c-en-0001" num="0001">
+            <claim-text>
+                A control device of an air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a degree of supercooling at an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit, obtain a target value of the degree of supercooling based on the obtained multiple degrees of supercooling, and perform a control of increasing a rotation speed of a compressor of an outdoor unit having a higher degree of supercooling than the target value and decreasing a rotation speed of a compressor of an outdoor unit having a lower degree of supercooling than the target value such that a difference in the degree of supercooling at the outlet of the supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0002" num="0002">
+            <claim-text>
+                A control device of an air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a degree of supercooling at an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit, obtain a target value of the degree of supercooling based on the obtained multiple degrees of supercooling, and perform a control of decreasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a higher degree of supercooling than the target
+                <!--  EPO <DP n="27">  -->
+                value and increasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a lower degree of supercooling than the target value such that a difference in the degree of supercooling at the outlet of the supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0003" num="0003">
+            <claim-text>
+                A control device of an air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a refrigerant temperature difference between an inlet and an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a first temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit and a temperature detected by a second temperature sensor configured to detect a temperature of refrigerant before the refrigerant passes through the supercooling circuit of each outdoor unit, obtain a target value of the temperature difference based on the obtained multiple refrigerant temperature differences, and perform a control of increasing a rotation speed of a compressor of an outdoor unit having a greater temperature difference than the target value and decreasing a rotation speed of a compressor of an outdoor unit having a smaller temperature difference than the target value such that a difference in the refrigerant temperature difference between the inlet and the outlet of the supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0004" num="0004">
+            <claim-text>
+                A control device of an air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                <!--  EPO <DP n="28">  -->
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a refrigerant temperature difference between an inlet and an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a first temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit and a temperature detected by a second temperature sensor configured to detect a temperature of refrigerant before the refrigerant passes through the supercooling circuit of each outdoor unit, obtain a target value of the temperature difference based on the obtained multiple refrigerant temperature differences, and perform a control of decreasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a greater temperature difference than the target value and increasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a smaller temperature difference than the target value such that a difference in the refrigerant temperature difference between the inlet and the outlet of the supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0005" num="0005">
+            <claim-text>
+                The control device according to any one of claims 1 to 4, wherein
+                <br/>
+                the control section determines, after the control, whether or not an amount of refrigerant charged to the refrigerant circuit is proper.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0006" num="0006">
+            <claim-text>
+                The control device according to claim 1 or 3, wherein
+                <br/>
+                the control section determines the rotation speed of each compressor such that a total amount of increments of rotation speeds of compressors of outdoor units having a higher degree of supercooling than the target value and a total amount of decrements of rotation speeds of compressors of outdoor units having a lower degree of
+                <!--  EPO <DP n="29">  -->
+                supercooling than the target value are equal to each other.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0007" num="0007">
+            <claim-text>
+                The control device according to claim 6, wherein
+                <br/>
+                the total amount is a preset value.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0008" num="0008">
+            <claim-text>
+                The control device according to claim 6 or 7, wherein
+                <br/>
+                the control section determines the rotation speed of each compressor based on the number of compressors.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0009" num="0009">
+            <claim-text>
+                The control device according to any one of claims 6 to 8, wherein
+                <br/>
+                the control section determines the rotation speed of each compressor based on a stroke volume of each compressor.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0010" num="0010">
+            <claim-text>
+                The control device according to claim 1 or 2, wherein
+                <br/>
+                the control section obtains, as the target value, an average value of the degrees of supercooling based on the obtained multiple degrees of supercooling.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0011" num="0011">
+            <claim-text>
+                The control device according to claim 3 or 4, wherein
+                <br/>
+                the control section obtains, as the target value, an average value of the temperature differences based on the obtained multiple temperature differences.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0012" num="0012">
+            <claim-text>
+                The control device according to claim 1 or 2, wherein
+                <claim-text>the control section determines, for the obtained multiple degrees of supercooling, whether or not the difference is equal to or greater than a threshold, and</claim-text>
+                <claim-text>
+                    in a case where it is, for the obtained multiple degrees of supercooling,
+                    <!--  EPO <DP n="30">  -->
+                    determined that the difference is equal to or greater than the threshold, the target value of the degree of supercooling is obtained based on the obtained multiple degrees of supercooling.
+                </claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-0013" num="0013">
+            <claim-text>
+                The control device according to claim 3 or 4, wherein
+                <claim-text>the control section determines, for the obtained multiple temperature differences, whether or not the difference is equal to or greater than a threshold, and</claim-text>
+                <claim-text>in a case where it is, for the obtained multiple temperature differences, determined that the difference is equal to or greater than the threshold, the target value of the temperature difference is obtained based on the obtained multiple temperature differences.</claim-text>
+            </claim-text>
+        </claim>
+        <claim id="c-en-0014" num="0014">
+            <claim-text>
+                An air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a degree of supercooling at an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit, obtain a target value of the degree of supercooling based on the obtained multiple degrees of supercooling, and perform a control of increasing a rotation speed of a compressor of an outdoor unit having a higher degree of supercooling than the target value and decreasing a rotation speed of a compressor of an outdoor unit having a lower degree of supercooling than the target value such that a difference in the degree of supercooling at the outlet of the supercooling circuit of each outdoor unit is decreased.
+                <!--  EPO <DP n="31">  -->
+            </claim-text>
+        </claim>
+        <claim id="c-en-0015" num="0015">
+            <claim-text>
+                An air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a degree of supercooling at an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit, obtain a target value of the degree of supercooling based on the obtained multiple degrees of supercooling, and perform a control of decreasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a higher degree of supercooling than the target value and increasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a lower degree of supercooling than the target value such that a difference in the degree of supercooling at the outlet of the supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0016" num="0016">
+            <claim-text>
+                An air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a refrigerant temperature difference between an inlet and an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a first temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit and a temperature detected by a second temperature sensor configured to detect a temperature of refrigerant before the
+                <!--  EPO <DP n="32">  -->
+                refrigerant passes through the supercooling circuit of each outdoor unit, obtain a target value of the temperature difference based on the obtained multiple refrigerant temperature differences, and perform a control of increasing a rotation speed of a compressor of an outdoor unit having a greater temperature difference than the target value and decreasing a rotation speed of a compressor of an outdoor unit having a smaller temperature difference than the target value such that a difference in the refrigerant temperature difference between the inlet and the outlet of the supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+        <claim id="c-en-0017" num="0017">
+            <claim-text>
+                An air-conditioning device including multiple outdoor units and an indoor unit connected to the multiple outdoor units through a pipe, comprising:
+                <br/>
+                a control section configured to obtain, before refrigerant charging to a refrigerant circuit including the multiple outdoor units and the indoor unit is completed, a refrigerant temperature difference between an inlet and an outlet of a supercooling circuit of each outdoor unit based on a temperature detected by a first temperature sensor configured to detect a temperature of refrigerant having passed through the supercooling circuit of each outdoor unit and a temperature detected by a second temperature sensor configured to detect a temperature of refrigerant before the refrigerant passes through the supercooling circuit of each outdoor unit, obtain a target value of the temperature difference based on the obtained multiple refrigerant temperature differences, and perform a control of decreasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a greater temperature difference than the target value and increasing a rotation speed of a fan of a heat exchanger of an outdoor unit having a smaller temperature difference than the target value such that a difference in the refrigerant temperature difference between the inlet and the outlet of the
+                <!--  EPO <DP n="33">  -->
+                supercooling circuit of each outdoor unit is decreased.
+            </claim-text>
+        </claim>
+    </claims>
+    <drawings id="draw" lang="en">
+        <!--  EPO <DP n="34">  -->
+        <figure id="f0001" num="1,2">
+            <img id="if0001" file="imgf0001.tif" wi="164" he="232" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="35">  -->
+        <figure id="f0002" num="3,4">
+            <img id="if0002" file="imgf0002.tif" wi="151" he="233" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="36">  -->
+        <figure id="f0003" num="5,6">
+            <img id="if0003" file="imgf0003.tif" wi="153" he="233" img-content="drawing" img-format="tif"/>
+        </figure>
+        <!--  EPO <DP n="37">  -->
+        <figure id="f0004" num="7,8">
+            <img id="if0004" file="imgf0004.tif" wi="149" he="233" img-content="drawing" img-format="tif"/>
+        </figure>
+    </drawings>
+    <search-report-data id="srep" lang="en" srep-office="EP" date-produced="">
+        <doc-page id="srep0001" file="srep0001.tif" wi="165" he="233" type="tif"/>
+        <doc-page id="srep0002" file="srep0002.tif" wi="165" he="233" type="tif"/>
+    </search-report-data>
+    <style id="autoconsent-prehide"/>
+</ep-patent-document>
