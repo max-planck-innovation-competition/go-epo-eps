@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.1//EN" "ep-patent-document-v1-1.dtd">
+<ep-patent-document id="EP84305989B1" file="EP84305989NWB1.xml" lang="en" country="EP" doc-number="0138357" kind="B1" date-publ="19941221" status="n" dtd-version="ep-patent-document-v1-1">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDE....FRGB..ITLILUNLSE......................</B001EP><B005EP>R</B005EP><B007EP>DIM360   - Ver 2.5 (21 Aug 1997)
+ 2100000/1 2100000/2</B007EP></eptags></B000><B100><B110>0138357</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>19941221</date></B140><B190>EP</B190></B100><B200><B210>84305989.0</B210><B220><date>19840831</date></B220><B240><B241><date>19860714</date></B241><B242><date>19870904</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>529044</B310><B320><date>19830902</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>19941221</date><bnum>199451</bnum></B405><B430><date>19850424</date><bnum>198517</bnum></B430><B450><date>19941221</date><bnum>199451</bnum></B450><B451EP><date>19940126</date></B451EP><B472/></B400><B500><B510><B516>5</B516><B511> 5C 07H  21/00   A</B511><B512> 5C 12Q   1/68   B</B512></B510><B540><B541>de</B541><B542>Markiertes DNA</B542><B541>en</B541><B542>Labeled DNA</B542><B541>fr</B541><B542>DNA marqué</B542></B540><B560><B561><text>WO-A-83/02277</text></B561><B562><text>Anal.Biochem.Vol 108(2), pp.394-401 (1980).</text></B562></B560></B500><B700><B720><B721><snm>Landes, Greg M.</snm><adr><str>45 Village Brook Lane No 7</str><city>Natick
+Massachusetts</city><ctry>US</ctry></adr></B721></B720><B730><B731><snm>GENZYME CORPORATION</snm><iid>00697103</iid><adr><str>One Kendall Square</str><city>Cambridge,
+Massachusetts 02139-1562</city><ctry>US</ctry></adr></B731></B730><B740><B741><snm>Deans, Michael John Percy</snm><sfx>et al</sfx><iid>00030021</iid><adr><str>Lloyd Wise, Tregear &amp; Co.,
+Commonwealth House,
+1-19 New Oxford Street</str><city>London WC1A 1LW</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>NL</ctry><ctry>SE</ctry></B840><B880><date>19860507</date><bnum>198619</bnum></B880></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<p id="p0001" num="0001">This invention relates to nucleic acid hybridization assays and to labelled DNA.</p>
+<p id="p0002" num="0002">Nucleic acid hybridization assays are well known, and are becoming increasingly important in the diagnosis of a wide variety of medical disorders. Typically, a labeled, single-stranded DNA probe which is at least partly homologous with the DNA or RNA of interest is reacted with the denatured nucleic acid of a sample suspected of containing the DNA or RNA of interest. Labeled hybrid complexes indicate the presence of such DNA or RNA.</p>
+<p id="p0003" num="0003">Probes can be labeled in any of a variety of ways. Some labeling methods are direct, i.e., the label, which is bonded to the probe, is itself detectable; examples are radioactive isotopes. Other labels are indirect, i.e., the label is not itself detectable until it undergoes one or more reactions following hybridization; an example, is a compound such as biotin, a label which is not itself detectable, but becomes detectable after it reacts with avidin bound to a detectable chemical entity such as a fluorophore.</p>
+<p id="p0004" num="0004">For convenience, the term "label", as used herein, refers to directly detectable entities such as radioactive isotopes, as well as to indirectly detectable entities such as biotin. The entity, e.g., avidin, to which an indirectly detectable entity bonds to become detectable, is referred to herein as an "indicator".<!-- EPO <DP n="2"> --></p>
+<p id="p0005" num="0005">In a paper entitled "Reagents Suitable for the Cross-linking of Nucleic Acids to Proteins" by Fink et al (Analytical Biochemistry <u style="single">108</u>, 394-401 (1980), the authors suggest the cross-linking of tRNA and polylysine by means of 3-(4-bromo-3-oxobutanesulphonyl) propionic acid p-nitrophenyl ester (hereafter "BSPNP") or by the corresponding N-hydroxysuccinimide ester (hereafter "BSPSE").</p>
+<p id="p0006" num="0006">The present invention seeks to provide a means by which a DNA molecule can be labelled with any of a wide range of detectable entities, whereby such molecule is useful in DNA hybridization assays. Fink et al neither perceive this problem nor provide any solution therefor.</p>
+<p id="p0007" num="0007">In accordance with a first aspect of the present invention, there is provided<br/>
+   a polymeric DNA molecule wherein at least some of the adenine and cytosine bases of said DNA molecule are derivatized to their respective etheno analogs, said analogs having the formula
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="84" he="47" img-content="chem" img-format="tif"/></chemistry><br/>
+ wherein n is between 0 and 10, inclusive; each p is between 1 and 10, inclusive; n<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; B is the remainder of the adenine or cytosine base; W is SO₂-(CH₂)<sub><i>q</i></sub>, q being between 1 and 10, inclusive; and<!-- EPO <DP n="3"> --> G is X, X being NH-(CH₂)<sub>r</sub>-Z wherein 1≦r≦10, Z being a detectable entity or<br/>
+X being
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="82" he="22" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="4"> --><br/>
+    In a second and alternative aspect of the present invention, we provide<br/>
+   a polymeric DNA molecule wherein at least some of the adenine and cytosine basis of said DNA molecule are derivatized to their respective etheno analogs having the formula:
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="121" he="46" img-content="chem" img-format="tif"/></chemistry><br/>
+ wherein N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; and B is the remainder of said adenine or cytosine base.</p>
+<p id="p0008" num="0008">In a third alternative aspect of the present invention, there is provided<br/>
+   a method of making a probe for use in a nucleic acid hybridization assay for a specific nucleic acid sequence, said method comprising<br/>
+   providing a single-stranded polymeric DNA molecule capable of specifically hybridizing with said nucleic acid sequence,<br/>
+   reacting said DNA molecule with a compound of the formula
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="115" he="44" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="5"> --><br/>
+ wherein V is a halogen; n is between 0 and 10, inclusive; and each p and q, independently, is between 1 and 10, inclusive, whereby at least some of the adenine and cytosine bases of said DNA molecule are derivatized to their respective etheno analogs, said analogs having the formula
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="110" he="46" img-content="chem" img-format="tif"/></chemistry><br/>
+ wherein n is between 0 and 10, inclusive; each p and q, independently, is between 1 and 10, inclusive; N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; and B is the remainder of the adenine or cytosine base,<br/>
+   performing one or more steps to substitute, for
+<chemistry id="chem0006" num="0006"><img id="ib0006" file="imgb0006.tif" wi="36" he="44" img-content="chem" img-format="tif"/></chemistry><br/>
+ on said analogs, a substituent G, where G is X, X being NH (CH₂)<sub>r</sub>-Z wherein 1≦r≦10 and Z comprising a label which either is capable of selectively bonding to an indicator to form a detectable complex, or<br/>
+X is
+<chemistry id="chem0007" num="0007"><img id="ib0007" file="imgb0007.tif" wi="91" he="23" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="6"> --><br/>
+ In a fourth alternative aspect of the present invention, there is provided<br/>
+   a polymeric, single-stranded DNA molecule adapted for use as a probe in a nucleic acid hybridization assay for a specific nucleic acid sequence, said molecule comprising<br/>
+   a first portion capable of specifically hybridizing with said specific nucleic acid sequence, and<br/>
+   a second tail portion not capable of so hybridizing,<br/>
+   said tail portion being labeled with a plurality of labels and said first portion being substantially unlabeled wherein said tail contains adenine or cytosine bases, and is substantially free of guanine and thymine bases, and<br/>
+   wherein at least some of said adenine or cytosine bases have bonded to them a substituent of the formula
+<chemistry id="chem0008" num="0008"><img id="ib0008" file="imgb0008.tif" wi="86" he="39" img-content="chem" img-format="tif"/></chemistry><br/>
+ wherein n is between 0 and 10, inclusive; each p and q, independently, is between 1 and 10, inclusive; N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; B is the remainder of the adenine or cytosine base; and X is NH-(CH₂)<sub>r</sub>-Z, wherein<br/>
+1≦r≦10, and Z is a detectable chemical entity, or X is
+<chemistry id="chem0009" num="0009"><img id="ib0009" file="imgb0009.tif" wi="93" he="21" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="7"> --></p>
+<p id="p0009" num="0009">The invention provides in a fifth alternative aspect thereof,<br/>
+   a method of making a probe for use in a nucleic acid hybridization assay for a specific nucleic acid sequence, said method comprising<br/>
+   providing a single-stranded polymeric DNA molecule capable of specifically hybridizing with said nucleic acid sequence,<br/>
+   reacting said DNA molecule with a compound of the formula
+<chemistry id="chem0010" num="0010"><img id="ib0010" file="imgb0010.tif" wi="116" he="41" img-content="chem" img-format="tif"/></chemistry><br/>
+ wherein V is a halogen; n is between 0 and 10, inclusive; and each p and q, independently, is between 1 and 10, inclusive, whereby at least some of the adenine and cytosine bases of said DNA molecule are derivatized to etheno analogs,<br/>
+   performing one or more steps to substitute, for
+<chemistry id="chem0011" num="0011"><img id="ib0011" file="imgb0011.tif" wi="34" he="42" img-content="chem" img-format="tif"/></chemistry><br/>
+ on said analogs, a substituent G, where G is X, X being NH (CH₂)<sub>r</sub> - Z wherein 1≦r≦10 and<br/>
+Z comprising a label which either is capable of being detected or is capable of selectively bonding to an indicatior to form a detectable complex, or<br/>
+X is
+<chemistry id="chem0012" num="0012"><img id="ib0012" file="imgb0012.tif" wi="88" he="21" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="8"> --><br/>
+    The detectable entity Z can be, for example, an enzyme; catalyst; hapten; one of a specific binding pair, e.g. an immunological, pair (e.g., antigen/antibody or biotin/avidin); or a spectro photometrically, radioactively, or fluorescently detectable molecule or atom. In the case of specific binding pairs such as biotin/avidin, the second member of the pair, e.g. avidin, is bonded to a detectable chemical entity such as a fluorophore, or an enzyme such as horseradish peroxidase (HRP). In the case of HRP, detection is accomplished via a substrate for HRP; a preferred such substrate is the chromogen diaminobenzidine. Z can be any detectable entity, the chemical composition of Z not being critical.</p>
+<p id="p0010" num="0010">The DNA molecule can, as described above, comprise a fragment in which bases which form part of the hybridizing fragment itself are labeled as aforesaid.</p>
+<p id="p0011" num="0011">Alternatively, the DNA molecule can comprise two portions, a first portion which is substantially unlabeled and which is capable of specifically binding to the specific nucleic acid sequence of interest, and in homo- or heteropolymeric tail portion which is labeled as described above.</p>
+<p id="p0012" num="0012">Our DNA molecules offer a number of advantages. Easy to handle non-isotopic labels such as catalytic labels are readily attached to the molecules and, furthermore, can be attached in numbers approaching half of the total number of bases (since half the bases are adenine and cytosine) or, if a homopolymeric tail is used, close to all of the bases in the tail, providing amplification and concommitant sensitivity. In the tail embodiment, only the tail is labeled, so that label will not interfere with the hybridization process.<!-- EPO <DP n="9"> --></p>
+<p id="p0013" num="0013">Other features and advantages will be apparent from the following description of the preferred embodiments.</p>
+<p id="p0014" num="0014">We first briefly describe the drawings, and then describe the general chemistry involved in preparing a non-isotopic DNA probe. We then present specific examples, and finally describe the use of such probes in hybridization assays, and the respective methods of detecting the resulting hybrids.</p>
+<p id="p0015" num="0015">In the accompanying drawings:
+<ul id="ul0001" list-style="none">
+<li>Figures 1-4 are diagrammatic representations of the operation of preferred embodiments of DNA in accordance with the invention.</li>
+</ul></p>
+<p id="p0016" num="0016">Generally the starting DNA molecule is single-stranded DNA probe and capable of specifically hybridizing to a specific nucleotide (RNA or DNA) sequence; such probes are obtained or made using conventional, well-known techniques. One example of a useful group of probes are the Salmonella-specific DNA probes described in Taber et al. U.S. Pat. Appln. entitled "Test for Salmonella in Food", filed on the same day as this application, assigned to the same assignee as this application, hereby incorporated by reference.</p>
+<p id="p0017" num="0017">The derivatization of at least some of the adenines and cytosines of the single-stranded DNA probe (either the hybridizing portion of the probe or the homopolymeric synthetic tail) is carried out, using the heterofunctional cross-linker<!-- EPO <DP n="10"> -->
+<chemistry id="chem0013" num="0013"><img id="ib0013" file="imgb0013.tif" wi="140" he="34" img-content="chem" img-format="tif"/></chemistry><br/>
+ wherein n, p and q are as defined above, V is a halogen and R is<br/>
+   one of: 1) an alkyl group, preferably having five or fewer carbon atoms, most preferably three or fewer carbon atoms (e.g. ethyl); 2) a heteroalkyl group, preferably having five or fewer carbon atoms and containing only the elements oxygen, nitrogen, and carbon (e.g., N-hydroxysuccinimidyl); 3) an aryl group, preferably having twelve or fewer carbon atoms (e.g., phenyl); 4) an aralkyl group, preferably having fifteen or fewer carbon atoms (e.g., ethylphenyl); 5) a heteroaryl group, preferably having fifteen or fewer carbon atoms and containing only the elements oxygen, nitrogen, hydrogen, and carbon (e.g., p-nitrophenol); or 6) a hydrogen atom. The cross linker of formula (1) is made by the procedure of Fink et al. (1980) Anal. Biochem. <u style="single">108</u>, 394-401.</p>
+<p id="p0018" num="0018">Generally, the reaction between the cross-linker and the DNA is carried out for about 1 hour at about 37°C, and excess cross-linker is removed, e.g. by organic extraction.</p>
+<p id="p0019" num="0019">Adenine and cytosine react with the cross-linker to form, after dehydration, a stable<!-- EPO <DP n="11"> --> derivative. The alkylation reaction is illustrated below, in which adenine is shown reacting with the linker 3-(4-bromo 3-oxobutane 1-sulfonyl)-propionate N-hydroxy succinimide ("BSPSE"); i.e., in formula (5), n is 0, p is 2, q is 2, V is bromide, and OR is N-hydroxysuccinimidyl:
+<chemistry id="chem0014" num="0014"><img id="ib0014" file="imgb0014.tif" wi="151" he="175" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="12"> --><br/>
+ The resulting derivatized DNA molecule, containing a highly reactive ester group, is the precursor to a wide variety of labelled DNA molecules. Primary amines present on each of antigens, enzymes, haptens or substituted aliphatics, can react with the acyl carbon atom of the ester group to form an amide bond. Alternatively, additional linking functionalities can be bonded to the first linking group; e.g. diaminoalkanes, amino acids, or aminoalylthiols can react with the ester group to generate an amide bearing, respectively, an amine, carboxylic acid, or thiol available for derivatization with a label. In either such case, the result is the attachment of a group NH-(CH₂)<sub>r</sub>-Z to the acyl carbon atom.</p>
+<p id="p0020" num="0020">Frequently the attachment of an additional linking functionality is carried out at pH 7 to 8 in buffer, e.g. NaHCO₃. The reactants are incubated together for an amount of time sufficient to allow the reaction to proceed to completion, e.g., 4-20 hours, at a suitable temperature, e.g., room temperature. The final product is purified, e.g. by gel filtration.</p>
+<p id="p0021" num="0021">Detailed descriptions of the formation of non-isotopically labeled hybridization probes are given below.</p>
+<heading id="h0001"><u style="single">Example 1</u>: <u style="single">Horseradish Peroxidase-Labeled DNA Probes</u></heading>
+<p id="p0022" num="0022">The enzymatic label horseradish peroxidase (HRP) is attached to a DNA probe via the linking groups BSPSE and 1,6-hexane diamine (HDA), as follows.</p>
+<p id="p0023" num="0023">Eight parts of the desired single-stranded DNA at a concentration of 1.25 mg/ml in distilled water are mixed with one part 1 M NaOAc, pH 6. The solution of DNA and NaOAc are pre-warmed to 37°C and then one part<!-- EPO <DP n="13"> --> of 100 mM BSPSE in DMSO is added to the mixture. The final concentration of reagents is 1 mg/ml single-stranded DNA, 100 mM NaOAc, pH 6, 10 mM BSPSE and 10% (v/v) DMSO. The solution is incubated for 1 hour at 37°C and then extracted 3 times with chloroform to remove unreacted BSPSE.</p>
+<p id="p0024" num="0024">The resulting BSPSE-modified DNA next is incubated with hexane diamine-treated HRP. Treatment of HRP with 1,6-hexane diamine (HDA) allows efficient coupling of HRP to BSPSE-modified DNA. HDA treatment involves mixing together the following components:<br/>
+   4 parts of 4 mg/ml HRP (Sigma Chemical Company, St. Louis, MO., Type VI) in distilled water;<br/>
+   1 part 100 mM NaIO₄ (same supplier as for HRP)<br/>
+   The mixture is incubated at room temperature for 20 minutes. The oxidation reaction is then quenched by adding either glucose or ethylene glycol to 100 mM of the mixture. The low molecular weight redox products are then eliminated by dialysis against 1 mM NaOAc, pH 4, or by G-25 Sephadex column chromatography in 1 mM NaOAc, pH 4.</p>
+<p id="p0025" num="0025">8 parts of the resulting periodate-oxidized HRP are mixed with 1 part fresh 1 M NaHCO₃, and 1 part of 10% (v/v) HDA, pH 9.5 with HCl. The mixture is incubated at room temperature for more than 4 hours. Unreacted HDA is removed by dialysis against 0.1 M NaHCO₃ at 4° degrees C. HDA-modified HRP is stored at 4 degrees C until use.</p>
+<p id="p0026" num="0026">The derivatized DNA is then labeled with HRP by mixing the following:<br/>
+<!-- EPO <DP n="14"> -->   2 parts BSPSE-modified DNA (200 ug),<br/>
+   4 parts distilled water,<br/>
+   1 part fresh 1 M NaHCO₃,<br/>
+   3 parts HDA-treated periodate-oxidized HRP (about 600-900 ug HRP)<br/>
+   The mixture is incubated overnight at room temperature.</p>
+<p id="p0027" num="0027">Free and bound HDA-treated HRP are separated by Bio-Gel A0.5M or A5M column chromatography in 50 mM Na₂B₄O₇, pH 8, 100 mM NaCl. The excluded fractions are recovered and pooled. The absorbance of the pooled material is measured at both 403 and 260 nm. The extent of modification is determined based on a molar extinction coefficient of HRP of 10,200 at 403 nm and of dNMP of 6,500 at 260 nm.</p>
+<p id="p0028" num="0028">The above steps are illustrated by the following reaction diagram:<!-- EPO <DP n="15"> -->
+<chemistry id="chem0015" num="0015"><img id="ib0015" file="imgb0015.tif" wi="150" he="208" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="16"> -->
+<chemistry id="chem0016" num="0016"><img id="ib0016" file="imgb0016.tif" wi="149" he="186" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="17"> --></p>
+<heading id="h0002"><u style="single">Example 2:</u> <u style="single">Dinitrophenyl-Labeled DNA Probes</u></heading>
+<p id="p0029" num="0029">The haptenic label dinitrophenyl (DNP) is attached to a DNA probe via the linking group BSPSE as follows.</p>
+<p id="p0030" num="0030">First, BSPSE-derivatized DNA is prepared, as described above. To 5 parts of BSPSE-derivatized DNA are added 1 part fresh 1 M NaHCO₃ and 12 parts 11.3 mM N-ε-Dinitrophenyl-L-lysine-HCl in 200 mM NaHCO₃. The mixture is incubated overnight and then dialysed against 0.1 M NaHCO₃. The absorbance of the product is measured at both 360 nm and at 260 nm. The extent of derivatization is determined based on a molar extinction coefficient of DNP of 16,000 at 360 nm and of dNMP of 6500 at 260 nm.</p>
+<p id="p0031" num="0031">The above steps are illustrated by the following reaction diagram:<!-- EPO <DP n="18"> -->
+<chemistry id="chem0017" num="0017"><img id="ib0017" file="imgb0017.tif" wi="148" he="139" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0003"><u style="single">Example 3</u>: <u style="single">Microperoxidase-Labeled DNA Probes</u></heading>
+<p id="p0032" num="0032">The enzymatic label microperoxidase is attached to a DNA probe via the linking groups BSPSE and HDA, as follows:</p>
+<p id="p0033" num="0033">First, BSPSE-derivatized DNA is prepared, as described above. Three parts of the BSPSE-DNA are mixed with one part 1 M NaHCO₃ and 5 parts of 20 mg/ml microperoxidase (Sigma Chemical Company at Louis, MO). The mixture is incubated overnight and then purified by<!-- EPO <DP n="19"> --> column chromatography on Bio-Gel A0.5M. The excluded column fractions are pooled and the absorbance is measured at both 260 and 403 nm. The extent of modification is measured using the same extinction coefficients as used for HRP-DNA.</p>
+<p id="p0034" num="0034">The above steps are illustrated by the following reaction diagram:
+<chemistry id="chem0018" num="0018"><img id="ib0018" file="imgb0018.tif" wi="142" he="169" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="20"> --></p>
+<heading id="h0004"><u style="single">Example 4</u>: <u style="single">Biotinylated DNA Probes</u></heading>
+<p id="p0035" num="0035">The indirect label biotin is attached to a DNA probe via the linking groups BSPSE and HDA, as follows:</p>
+<p id="p0036" num="0036">First, BSPSE-derivatized DNA is prepared, as described above. Eight parts of BSPSE-derivatized DNA are mixed with 1 part 10% (v/v) HDA, pH 7.8 and 1 part 1 M NaHCO₃. The mixture is incubated for at least 4 hours at room temperature and then unreacted HDA is removed by dialysis against 0.1 M NaHCO₃.</p>
+<p id="p0037" num="0037">The resulting product is linked to biotin by mixing 8 parts of HDA-treated BSPSE-DNA with 1 part 40 mM N-Hydroxysuccinimidobiotin (in dimethylformamide) and 1 part 1 M NaHCO₃. After incubating for more than 4 hours, unreacted biotin is eliminated by dialysis against 0.1 M NaHCO₃.</p>
+<p id="p0038" num="0038">The above steps are illustated by the following reaction diagram:
+<chemistry id="chem0019" num="0019"><img id="ib0019" file="imgb0019.tif" wi="133" he="145" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="21"> -->
+<chemistry id="chem0020" num="0020"><img id="ib0020" file="imgb0020.tif" wi="153" he="132" img-content="chem" img-format="tif"/></chemistry><br/>
+    If a homopolymeric tailed probe is used, the polyadenine or polycytosine tail can be first labeled, as above, and then attached to the hybridizing portion of the DNA probe, so that only the tail is labeled. Alternatively, the tail can first be enzymatically attached to double stranded DNA, using conventional techniques, and then, because the double stranded DNA is non-reactive, the tailed double stranded DNA can be alkylated and labeled, as above, resulting in labeling only of the reactive tail.<!-- EPO <DP n="22"> --></p>
+<p id="p0039" num="0039">DNA probes constructed in accordance with the invention can be used in any test or assay in which the nucleic acid sequence to which they specifically hybridize is to be detected or quantified. Any conventional hybridization techniques can be used, e.g., those described in Grunstein et al. (1975) PNAS USA <u style="single">72</u>, 3961 and Falkow et al. U.S. Pat. No. 4,358,535, the disclosure of both of which are to be regarded as hereby incorporated by reference. A specific example of a non-isotopic hybridization assay employing any of the DNA probes described above is as follows.</p>
+<p id="p0040" num="0040">The double-stranded DNA or bacterial cell culture to be assayed is applied and fixed to a solid support (e.g., nitrocellulose, mixed cellulose esters, or nylon) by spotting 1-5 µl of a sample onto the filter, allowing the filter to air dry, and then placing the filter on a square of Whatman 3MM paper saturated with 0.5 N NaOH, 1.5 M NaCl. After 5-15 minutes, the membrane filter is transferred to a square of Whatman 3MM saturated with 3 M NaCl, 1.5 M Tris, pH 7.5. After neutralization, the membrane containing the sample is immersed in absolute ethanol and then allowed to dry, to permanently fix the DNA to the solid support.</p>
+<p id="p0041" num="0041">The membrane is pre-hybridized at 37°C in pre-hybridization buffer which consists of the following components: 45% formamide, 25 mM NaPO₄, pH 6.8, 5X Denhardt's Solution (1X is 0.02% (w/v) of each of bovine serum albumin, polyvinylpyrrolidone, and Ficoll 500), 250 µg/ml sonicated, denatured salmon sperm or calf thymus DNA. After 30 minutes the pre-hybridization solution is replaced with hybridization buffer containing 0.1-10 µg/ml of non-isotopic hybridization probe. The hybridization cocktail is chemically equivalent to the pre-hybridization cocktail except that it also contains<!-- EPO <DP n="23"> --> 10% (w/v) dextran sulfate and the non-isotopic hybridization probe. The hybridization reaction is allowed to proceed for 2 hours at 37°C.</p>
+<p id="p0042" num="0042">Non-hybridized probe is removed by repetitive washes of the solid support with an established wash regimen, e.g., 3 washes of 10 minutes each with 10 mM NaCl at 37°C.</p>
+<p id="p0043" num="0043">Generally, after hybridization is carried out and hybrid complexes are formed, the label is detected or measured, using a technique appropriate for the particular label employed. If the label is detectable without being complexed to an indicator, hybrid complexes are simply detected using an appropriate means, e.g. by detecting fluorescence, light emission, radioactivity, or electron density. If the label must be complexed with an additional chemical entity, i.e. an indicator, before detection is possible, then the step of contacting hybrid complexes with the indicator is carried out and the resultant label/indicator complexes detected or measured. For example, if the label is one of a specific binding pair, e.g. the antigen of an immunological pair, the hybrid complex is contacted with the antibody of the pair, and immune complexes are then detected. To facilitate detection, the second of the specific binding pair (i.e. the indicator) can have attached to it a detectable entity, e.g. an enzyme, fluorescent compound, etc.</p>
+<p id="p0044" num="0044">Specific examples of the methods employed for the detection of the labeled probes described above are as follows.</p>
+<heading id="h0005"><u style="single">Example 5</u>: <u style="single">Detection of HRP-Labeled DNA Probes</u></heading>
+<p id="p0045" num="0045">Referring to Fig. 1, to detect hybrid complexes labeled with HRP, the solid support is overlayed with<!-- EPO <DP n="24"> --> any one of many chromogenic HRP substrates, e.g., 2,2' azino-di-(3-ethyl-benzthiazoline sulfonate) (ABTS), 3,3'-diaminobenzidine (DAB), or 3,3',5,5'-tetramethylbenzidine. In the case of the substrate ABTS, the substrate solution, consisting of 2 mM ABTS. 2.5 mM H20₂ in 100 mM NaOAc, 50 mM NPO₄, pH 4.2, is added to the support and the reaction is allowed to proceed for approximately 10-30 minutes, after which time green colored dots will have formed for samples containing sequences complementary to the HRP-labeled DNA probe. The extent of hybridization can be quantitiated by measuring the absorbance of the recovered substrate solution. As is illustrated in Fig. 1, only the cytosine and adenine bases of the DNA probe are labeled with HRP.</p>
+<p id="p0046" num="0046">Since oxidized ABTS is soluble, a more permanent record of the hybridization reaction can be obtained if a peroxidase substrate is used which generates an insoluble product upon oxidation. The benzidine substrates listed above satisfy this requirement. For example, 0.05% DAB, 0.02% H₂O₂, 0.02% CoCl₂ in 10 mM Tris, pH 7.5 yields a convenient substrate solution which produces a purplish precipitate at the site of hybridization.</p>
+<heading id="h0006"><u style="single">Example 6</u>: <u style="single">Detection of DNP-labled DNA Probes</u></heading>
+<p id="p0047" num="0047">Referring to Fig. 2, to detect hybrid complexes labeled with DNP, which is not itself detectable, the DNP is reacted with a detectable indicator to which it selectively (i.e., preferentially) binds. In the example illustrated in Fig. 2, the indicator consists of the following: goat anti-DNP antibody, which selectively binds to the DNP-labeled hybrid complexes; biotinylated anti-goat antibody; biotin; avidin; HRP;<!-- EPO <DP n="25"> --> and a substrate for HRP. In the illustrated example, the reactions involving the antibodies and biotin are followed by the <u style="single">ABC</u> HRP detection method of Hsu et al. (1981) J. Histochem. and Cytochem. <u style="single">29</u>, 577-580.</p>
+<p id="p0048" num="0048">Alternatively, an HRP-labeled anti-DNP antibody could be used to detect DNP-labeled complexes. Another alternative would be to use a double antibody system employing an enzyme rather than biotin.</p>
+<heading id="h0007"><u style="single">Example 7</u>: <u style="single">Detection of Microperoxidase-Labeled DNA Probes</u></heading>
+<p id="p0049" num="0049">Referring to Fig. 3, to detect hybrid complexes labeled with microperoxidase, a chemiluminescent substrate, luminol, for microperoxidase is used. The solid support bearing the labeled hybrid complexes is placed in a borosilicate test tube to which is added luminol, NaOH, and hydrogen peroxide. The contents are mixed and then placed in a fluorometer with the incident light source off and the photomultiplier on. The amplitude of the signal is compared to that of known quantities of microperoxidase-labeled probe.</p>
+<p id="p0050" num="0050">Alternatively, the hybridized material can first be removed from the solid support using NaOH and then the other reagents added to the reaction, and the chemiluminescent activity measured as described above.</p>
+<heading id="h0008"><u style="single">Example 8: Detection of Biotin-Labeled DNA Probes</u></heading>
+<p id="p0051" num="0051">Referring to Fig. 4, to detect biotin-labeled hybrid complexes, avidin, HRP, and a substrate for HRP are used. The method is essentially that described in Hsu et al., <u style="single">id</u>.</p>
+<p id="p0052" num="0052">Other embodiments are feasible.</p>
+<p id="p0053" num="0053">For example, as has been mentioned, a wide variety of labeling systems can be used.<!-- EPO <DP n="26"> --> The enzyme alkaline phosphatase, for example, can be used in place of HRP, and detected by the color change produced when contacted with the substrate 6mM p-nitrophenylphosphate in 1mM 2n Cl₂, 1mM MgCl₂, 100mM glycine (pH 10.4).</p>
+<p id="p0054" num="0054">In the above examples, the DNA is derivatized with BSPSE prior to attachment of label. Alternatively, the BPSE can be reacted with the label prior to the derivatization of the DNA.</p>
+</description><!-- EPO <DP n="27"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A polymeric DNA molecule wherein at least some of the adenine and cytosine bases of said DNA molecule are derivatized to their respective etheno analogs, said analogs having the formula
+<chemistry id="chem0021" num="0021"><img id="ib0021" file="imgb0021.tif" wi="84" he="49" img-content="chem" img-format="tif"/></chemistry> wherein n is between 0 and 10, inclusive; each p is between 1 and 10, inclusive; n<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; B is the remainder of the adenine or cytosine base; W is SO₂-(CH₂)<sub><i>q</i></sub>, q being between 1 and 10, inclusive; and G is X, X being NH-(CH₂)<sub>r</sub>- Z wherein 1≦r≦10 Z being a detectable chemical entity.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The DNA molecule of claim <b>1</b> wherein n is 0, p is 2, and W is SO₂-(CH₂)<sub><i>q</i></sub>, wherein q is 2.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The DNA molecule of claim <b>1</b> wherein at least half of the adenine bases and at least half of the cytosine bases of said DNA molecule are derivatized.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The DNA molecule of claim <b>1</b> wherein G is X, X comprising one of a specific binding pair.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The DNA molecule of claim <b>1</b> wherein G is X, X comprising a detectable enzyme.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>The DNA molecule of claim <b>1</b> wherein G is X, X comprising a detectable hapten.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The DNA molecule of claim <b>1</b> wherein G is X, X comprising a radioactively detectable atom.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The DNA molecule of claim <b>1</b> wherein G is X, X comprising a spectro photometrically detectable molecule.<!-- EPO <DP n="28"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>The DNA molecule of claim <b>1</b> wherein G is X, X comprising a fluorescent molecule.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>The DNA molecule of claim <b>1</b> wherein Z is biotin or an avidin-specific binding derivative thereof.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The DNA molecule of claim <b>10</b> wherein said specific binding derivative of biotin is
+<chemistry id="chem0022" num="0022"><img id="ib0022" file="imgb0022.tif" wi="68" he="44" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The DNA molecule of claim <b>4</b> wherein said one of a specific binding pair is one of a specific binding immunological pair.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>The DNA molecule of claim <b>12</b> wherein said one of a specific binding immunological pair is one of an antibody/antigen pair.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>The DNA molecule of claim <b>1</b> wherein Z is a fluorescent molecule.</claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>The DNA molecule of claim <b>1</b> wherein Z is a spectro photometrically detectable molecule.</claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>The DNA molecule of claim <b>1</b> wherein Z is a radioactively detectable atom.</claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>The DNA molecule of claim <b>1</b> wherein said etheno analogs of said DNA molecule have the formula:
+<chemistry id="chem0023" num="0023"><img id="ib0023" file="imgb0023.tif" wi="135" he="68" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="29"> --></claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>The DNA molecule of claim <b>1</b> wherein said etheno analogs of said DNA molecule have the formula:
+<chemistry id="chem0024" num="0024"><img id="ib0024" file="imgb0024.tif" wi="100" he="47" img-content="chem" img-format="tif"/></chemistry>    and SH is the detectable entity.</claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>The DNA molecule of claim <b>1</b> wherein said etheno analogs of said DNA molecule have the formula:
+<chemistry id="chem0025" num="0025"><img id="ib0025" file="imgb0025.tif" wi="102" he="46" img-content="chem" img-format="tif"/></chemistry>    and NH₂ is the detectable entity.</claim-text></claim>
+<claim id="c-en-01-0020" num="0020">
+<claim-text>The DNA molecule of claim <b>1</b> wherein said etheno analogs of said DNA molecule have the formula:
+<chemistry id="chem0026" num="0026"><img id="ib0026" file="imgb0026.tif" wi="108" he="50" img-content="chem" img-format="tif"/></chemistry>    and COOH is the detectable entity.</claim-text></claim>
+<claim id="c-en-01-0021" num="0021">
+<claim-text>A polymeric DNA molecule wherein at least some of the adenine and cytosine basis of said DNA molecule are derivatized to their respective etheno analogs having the formula:<!-- EPO <DP n="30"> -->
+<chemistry id="chem0027" num="0027"><img id="ib0027" file="imgb0027.tif" wi="119" he="47" img-content="chem" img-format="tif"/></chemistry> wherein N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; and B is the remainder of said adenine or cytosine base.</claim-text></claim>
+<claim id="c-en-01-0022" num="0022">
+<claim-text>A method of making a probe for use in a nucleic acid hybridization assay for a specific nucleic acid sequence, said method comprising<br/>
+   providing a single-stranded polymeric DNA molecule capable of specifically hybridizing with said nucleic acid sequence,<br/>
+   reacting said DNA molecule with a compound of the formula
+<chemistry id="chem0028" num="0028"><img id="ib0028" file="imgb0028.tif" wi="116" he="47" img-content="chem" img-format="tif"/></chemistry> wherein V is a halogen; n is between 0 and 10, inclusive; and each p and q, independently, is between 1 and 10, inclusive, whereby at least some of the adenine and cytosine bases of said DNA molecule are derivatized to their respective etheno analogs, said analogs having the formula
+<chemistry id="chem0029" num="0029"><img id="ib0029" file="imgb0029.tif" wi="110" he="44" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="31"> --> wherein n is between 0 and 10, inclusive; each p and q, independently, is between 1 and 10, inclusive; N<sub><i>a</i></sub> is N-1 of adenine or N-3 of Cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of Cytosine; and B is the remainder of the adenine or cytosine base,<br/>
+   performing one or more steps to substitute, for
+<chemistry id="chem0030" num="0030"><img id="ib0030" file="imgb0030.tif" wi="35" he="45" img-content="chem" img-format="tif"/></chemistry> on said analogs, a substituent G, where G is X, X being NH (CH₂)<sub>r</sub>-Z wherein 1≦r≦10,<br/>
+   Z comprising a label which either is capable of being detected or is capable of selectively bonding to an indicator to form a detectable complex.</claim-text></claim>
+<claim id="c-en-01-0023" num="0023">
+<claim-text>A polymeric, single-stranded DNA molecule adapted for use as a probe in a nucleic acid hybridization assay for a specific nucleic acid sequence, said molecule comprising<br/>
+   a first portion capable of specifically hybridizing with said specific nucleic acid sequence, and<br/>
+   a second tail portion not capable of so hybridizing,<br/>
+   said tail portion being labeled with a plurality of labels and said first portion being substantially unlabeled wherein said tail contains adenine or cytosine bases, and is substantially free of guanine and thymine bases, and<br/>
+   wherein at least some of said adenine or cytosine bases have bonded to them a substituent of the formula
+<chemistry id="chem0031" num="0031"><img id="ib0031" file="imgb0031.tif" wi="85" he="41" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="32"> --> wherein n is between 0 and 10, inclusive; each p and q, independently, is between 1 and 10, inclusive; N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of Cytosine; B is the remainder of the adenine or cytosine base; and X is NH-(CH₂)<sub>r</sub>-Z,<br/>
+   wherein 1≦r≦10 and Z is a detectable chemical entity.</claim-text></claim>
+<claim id="c-en-01-0024" num="0024">
+<claim-text>A method of making a probe for use in a nucleic acid hybridization assay for a specific nucleic acid sequence, said method comprising<br/>
+   providing a single-stranded polymeric DNA molecule capable of specifically hybridizing with said nucleic acid sequence,<br/>
+   reacting said DNA molecule with a compound of the formula
+<chemistry id="chem0032" num="0032"><img id="ib0032" file="imgb0032.tif" wi="114" he="44" img-content="chem" img-format="tif"/></chemistry> wherein V is a halogen; n is between 0 and 10, inclusive; and each p and q, independently, is between 1 and 10, inclusive, whereby at least some of the adenine and cytosine bases of said DNA molecule are derivatized to etheno analogs,<br/>
+   performing one or more steps to substitute, for
+<chemistry id="chem0033" num="0033"><img id="ib0033" file="imgb0033.tif" wi="35" he="44" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="33"> --> on said analogs, a substituent comprising G where G is X, X being NH-(CH₂)<sub>r</sub>- Z, wherein<br/>
+1≦r≦10, Z comprising a label which either is capable of being detected or is capable of selectively bonding to an indicator to form a detectable complex.</claim-text></claim>
+<claim id="c-en-01-0025" num="0025">
+<claim-text>A polymeric DNA molecule wherein at least some of the adenine and cytosine bases of said DNA molecule are derivatized to their respective etheno analogs, said analogs having the formula
+<chemistry id="chem0034" num="0034"><img id="ib0034" file="imgb0034.tif" wi="82" he="47" img-content="chem" img-format="tif"/></chemistry> wherein n is between 0 and 10, inclusive; each p is between 1 and 10, inclusive; n<sub>a</sub> is N-1 of adenine or N-3 of cytosine; N<sub>b</sub> is N-6 of adenine or N-4 of cytosine; B is the remainder of the adenine or cytosine base; W is SO₂-(CH₂)<sub>q</sub>, q being between 1 and 10, inclusive;<br/>
+G is X, X being
+<chemistry id="chem0035" num="0035"><img id="ib0035" file="imgb0035.tif" wi="88" he="24" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="34"> --></claim-text></claim>
+<claim id="c-en-01-0026" num="0026">
+<claim-text>A method of making a probe for use in a nucleic acid hybridization assay for a specific nucleic acid sequence, said method comprising<br/>
+   providing a single-stranded polymeric DNA molecule capable of specifically hybridizing with said nucleic acid sequence,<br/>
+   reacting said DNA molecule with a compound of the formula
+<chemistry id="chem0036" num="0036"><img id="ib0036" file="imgb0036.tif" wi="114" he="42" img-content="chem" img-format="tif"/></chemistry> wherein V is a halogen; n is between 0 and 10, inclusive; and each p and q, independently, is between 1 and 10, inclusive, whereby at least some of the adenine and cytosine bases of said DNA molecule are derivatized to their respective etheno analogs, said analogs having the formula
+<chemistry id="chem0037" num="0037"><img id="ib0037" file="imgb0037.tif" wi="106" he="44" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="35"> --> wherein n is between 0 and 10, inclusive; each p and q, independently, is between 1 and 10, inclusive; N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of cytosine; and B is the remainder of the adenine or cytosine base,<br/>
+   performing one or more steps to substitute, for
+<chemistry id="chem0038" num="0038"><img id="ib0038" file="imgb0038.tif" wi="32" he="43" img-content="chem" img-format="tif"/></chemistry> on said analogs, a substituent G, where G is X, X being
+<chemistry id="chem0039" num="0039"><img id="ib0039" file="imgb0039.tif" wi="97" he="24" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-01-0027" num="0027">
+<claim-text>A polymeric, single-stranded DNA molecule adapted for use as a probe in a nucleic acid hybridization assay for a specific nucleic acid sequence, said molecule comprising<br/>
+   a first portion capable of specifically hybridizing with said specific nucleic acid sequence, and<br/>
+   a second tail portion not capable of so hybridizing,<br/>
+   said tail portion being labeled with a plurality of labels and said first portion being substantially unlabeled wherein said tail contains adenine or cytosine bases, and is substantially free of guanine and thymine bases, and<br/>
+   wherein at least some of said adenine or cytosine bases have bonded to them a substituent of the formula
+<chemistry id="chem0040" num="0040"><img id="ib0040" file="imgb0040.tif" wi="85" he="38" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="36"> --> wherein n is between 0 and 10, inclusive; each p and q, independently, is between 1 and 10, inclusive; N<sub><i>a</i></sub> is N-1 of adenine or N-3 of cytosine; N<sub><i>b</i></sub> is N-6 of adenine or N-4 of Cytosine; B is the remainder of the adenine or cytosine base, and X is
+<chemistry id="chem0041" num="0041"><img id="ib0041" file="imgb0041.tif" wi="100" he="25" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-en-01-0028" num="0028">
+<claim-text>A method of making a probe for use in a nucleic acid hybridization assay for a specific nucleic acid sequence, said method comprising<br/>
+   providing a single-stranded polymeric DNA molecule capable of specifically hybridizing with said nucleic acid sequence,<br/>
+   reacting said DNA molecule with a compound of the formula
+<chemistry id="chem0042" num="0042"><img id="ib0042" file="imgb0042.tif" wi="114" he="45" img-content="chem" img-format="tif"/></chemistry> wherein V is a halogen; n is between 0 and 10, inclusive; and each p and q, independently, is between 1 and 10, inclusive, whereby at least some of the adenine and cytosine bases of said DNA molecule are derivatized to etheno analogs,<br/>
+   performing one or more steps to substitute, for
+<chemistry id="chem0043" num="0043"><img id="ib0043" file="imgb0043.tif" wi="33" he="43" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="37"> --> on said analogs, a substituent comprising G where G is X,<br/>
+X being
+<chemistry id="chem0044" num="0044"><img id="ib0044" file="imgb0044.tif" wi="82" he="20" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+</claims><!-- EPO <DP n="38"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Polymeres DNA-Molekül, worin mindestens einige der Adenin- und Cytosinbasen des DNA-Moleküls zu ihren jeweiligen Ethenoanaloga derivatisiert sind, wobei die Analoga die Formel
+<chemistry id="chem0045" num="0045"><img id="ib0045" file="imgb0045.tif" wi="81" he="51" img-content="chem" img-format="tif"/></chemistry> besitzen, worin n einen Wert zwischen 0 und 10 einschließlich besitzt, jedes p einen Wert zwischen 1 und 10 einschließlich besitzt, N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist, B der Rest der Adenin- oder Cytosinbase ist, W für SO₂-(CH₂)q steht, wobei q einen Wert zwischen 1 und 10 einschließlich besitzt, und G für X steht, wobei X NH-(CH₂)<sub>r</sub>-Z ist, worin 1≦r≦10 gilt, wobei Z eine nachweisbare chemische Einheit ist.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>DNA-Molekül nach Anspruch 1, worin n den Wert 0 hat, p den Wert 2 hat und W SO₂-(CH₂)<sub>q</sub> bedeutet, worin q den Wert 2 hat.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>DNA-Molekül nach Anspruch 1, worin mindestens die Hälfte der Adeninbasen und mindestens die Hälfte der Cytosinbasen des DNA-Moleküls derivatisiert sind.<!-- EPO <DP n="39"> --></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>DNA-Molekül nach Anspruch 1, worin G für X steht, wobei X einen Teil eines spezifischen Bindungspaares umfaßt.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>DNA-Molekül nach Anspruch 1, worin G für X steht, wobei X ein nachweisbares Enzym ist.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>DNA-Molekül nach Anspruch 1, worin G für X steht, wobei X ein nachweisbares Hapten umfaßt.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>DNA-Molekül nach Anspruch 1, worin G für X steht, wobei X ein radioaktiv nachweisbares Atom umfaßt.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>DNA-Molekül nach Anspruch 1, worin G für X steht, wobei X ein spektrophotometrisch nachweisbares Molekül umfaßt.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>DNA-Molekül nach Anspruch 1, worin G für X steht, wobei X ein fluoreszierendes Molekül umfaßt.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>DNA-Molekül nach Anspruch 1, worin Z Biotin oder ein Avidin-spezifisches Bindungsderivat davon bedeutet.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>DNA-Molekül nach Anspruch 10, worin das spezifische Bindungsderivat von Biotin
+<chemistry id="chem0046" num="0046"><img id="ib0046" file="imgb0046.tif" wi="70" he="48" img-content="chem" img-format="tif"/></chemistry> ist.<!-- EPO <DP n="40"> --></claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>DNA-Molekül nach Anspruch 4, worin ein Teil eines spezifischen Bindungspaares ein Teil eines spezifischen immunologischen Bindungspaares ist.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>DNA-Molekül nach Anspruch 12, worin ein Teil eines spezifischen immunologischen Bindungspaares ein Teil eines Antikörper-/Antigenpaares ist.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>DNA-Molekül nach Anspruch 1, worin Z ein fluoreszierendes Molekül ist.</claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>DNA-Molekül nach Anspruch 1, worin Z ein spektrophotometrisch nachweisbares Molekül ist.</claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>DNA-Molekül nach Anspruch 1, worin Z ein radioaktiv nachweisbares Atom ist.</claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>DNA-Molekül nach Anspruch 1, worin die Ethenoanaloga des DNA-Moleküls die Formel
+<chemistry id="chem0047" num="0047"><img id="ib0047" file="imgb0047.tif" wi="136" he="67" img-content="chem" img-format="tif"/></chemistry> besitzen.</claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>DNA-Molekül nach Anspruch 1, worin die Ethenoanaloga des DNA-Moleküls die Formel<!-- EPO <DP n="41"> -->
+<chemistry id="chem0048" num="0048"><img id="ib0048" file="imgb0048.tif" wi="102" he="46" img-content="chem" img-format="tif"/></chemistry> besitzen und SH die nachweisbare Einheit ist.</claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>DNA-Molekül nach Anspruch 1, worin die Ethenoanaloga des DNA-Moleküls die Formel
+<chemistry id="chem0049" num="0049"><img id="ib0049" file="imgb0049.tif" wi="107" he="48" img-content="chem" img-format="tif"/></chemistry> besitzen und NH₂ die nachweisbare Einheit ist.</claim-text></claim>
+<claim id="c-de-01-0020" num="0020">
+<claim-text>DNA-Molekül nach Anspruch 1, worin die Ethenoanaloga des DNA-Moleküls die Formel
+<chemistry id="chem0050" num="0050"><img id="ib0050" file="imgb0050.tif" wi="112" he="47" img-content="chem" img-format="tif"/></chemistry> besitzen und COOH die nachweisbare Einheit ist.<!-- EPO <DP n="42"> --></claim-text></claim>
+<claim id="c-de-01-0021" num="0021">
+<claim-text>Polymeres DNA-Molekül, worin mindestens einige der Adenin- und Cytosinbasen des DNA-Moleküls zu ihren jeweiligen Ethenoanaloga der Formel
+<chemistry id="chem0051" num="0051"><img id="ib0051" file="imgb0051.tif" wi="121" he="47" img-content="chem" img-format="tif"/></chemistry> derivatisiert sind, worin N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist und B der Rest der Adenin- oder Cytosinbase ist.</claim-text></claim>
+<claim id="c-de-01-0022" num="0022">
+<claim-text>Verfahren zur Herstellung einer Sonde zur Verwendung in einem Nucleinsäurehybridisierungsassay auf eine spezifische Nucleinsäuresequenz, dadurch <b>gekennzeichnet</b>, daß man ein einzelsträngiges polymeres DNA-Molekül mit der Fähigkeit, spezifisch mit der Nucleinsäuresequenz zu hybridisieren, bereitstellt, das DNA-Molekül mit einer Verbindung der Formel
+<chemistry id="chem0052" num="0052"><img id="ib0052" file="imgb0052.tif" wi="117" he="45" img-content="chem" img-format="tif"/></chemistry> umsetzt, worin V ein Halogenatom ist, n einen Wert zwischen 0 und 10 einschließlich besitzt und jeweils p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzen, wobei mindestens einige der Adenin- und Cytosinbasen<!-- EPO <DP n="43"> --> des DNA-Moleküls zu ihren jeweiligen Ethenoanaloga derivatisiert sind, wobei die Analoga die Formel
+<chemistry id="chem0053" num="0053"><img id="ib0053" file="imgb0053.tif" wi="107" he="45" img-content="chem" img-format="tif"/></chemistry> besitzen, worin n einen Wert zwischen 0 und 10 einschließlich besitzt, jeweils p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzen, N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist und B der Rest der Adenin- oder Cytosinbase ist, eine oder mehrere Stufen zur Substitution eines Substituenten G gegen
+<chemistry id="chem0054" num="0054"><img id="ib0054" file="imgb0054.tif" wi="34" he="45" img-content="chem" img-format="tif"/></chemistry> an den Analoga durchführt, wobei G für X steht, wobei X NH(CH₂)<sub>r</sub>-Z ist, worin 1≦r≦10 gilt, wobei Z einen Marker umfaßt, der entweder nachgewiesen werden kann oder selektiv unter Bildung eines nachweisbaren Komplexes an einen Indikator binden kann.</claim-text></claim>
+<claim id="c-de-01-0023" num="0023">
+<claim-text>Polymeres einzelsträngiges DNA-Molekül mit der Eignung zur Verwendung als Sonde in einem Nucleinsäurehybridisierungsassay auf eine spezifische Nucleinsäuresequenz, umfassend einen ersten Teil mit der Fähigkeit spezifisch mit der spezifischen Nucleinsäuresequenz zu hybridisieren und<!-- EPO <DP n="44"> --> einen zweiten Schwanzteil ohne die Fähigkeit zu einer derartigen Hybridisierung, wobei der Schwanzteil mit einer Vielzahl von Markern markiert ist und der erste Teil im wesentlichen nicht markiert ist, wobei der Schwanz Adenin- oder Cytosinbasen enthält und im wesentlichen frei von Guanin- und Thyminbasen ist, und worin an mindestens einige der Adenin- oder Cytosinbasen ein Substituent der Formel
+<chemistry id="chem0055" num="0055"><img id="ib0055" file="imgb0055.tif" wi="85" he="41" img-content="chem" img-format="tif"/></chemistry> gebunden ist, worin n einen Wert zwischen 0 und 10 einschließlich besitzt, jeweils p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzen, N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist, B der Rest der Adenin- oder Cytosinbase ist und X für NH-(CH₂)<sub>r</sub>-Z steht, worin 1≦r≦10 gilt und Z eine nachweisbare chemische Einheit ist.</claim-text></claim>
+<claim id="c-de-01-0024" num="0024">
+<claim-text>Verfahren zur Herstellung einer Sonde zur Verwendung in einem Nucleinsäurehybridisierungsassay auf eine spezifischen Nucleinsäuresequenz, dadurch <b>gekennzeichnet</b>, daß man ein einzelsträngiges polymeres DNA-Molekül mit der Fähigkeit, zur spezifischen Hybridisierung mit der Nucleinsäuresequenz, bereitstellt, das DNA-Molekül mit einer Verbindung der Formel
+<chemistry id="chem0056" num="0056"><img id="ib0056" file="imgb0056.tif" wi="113" he="44" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="45"> --> umsetzt, worin V ein Halogen ist, n einen Wert zwischen 0 und 10 einschließlich besitzt und jeweils p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzen, wobei mindestens einige der Adenin- und Cytosinbasen des DNA-Moleküls zu ihren Ethenoanaloga derivatisiert sind, man eine oder mehrere Stufen durchführt, um einen Substituenten, umfassend G gegen
+<chemistry id="chem0057" num="0057"><img id="ib0057" file="imgb0057.tif" wi="35" he="43" img-content="chem" img-format="tif"/></chemistry> an den Analoga substituiert, worin G für X steht, wobei X NH-(CH₂)<sub>r</sub>-Z bedeutet, worin 1≦r≦10 gilt, wobei Z einen Marker umfaßt, der entweder nachgewiesen werden kann oder selektiv an einen Indikator unter Bildung eines nachweisbaren Komplexes binden kann.</claim-text></claim>
+<claim id="c-de-01-0025" num="0025">
+<claim-text>Polymeres DNA-Molekül, worin mindestens einige der Adenin- und Cytosinbasen des DNA-Moleküls zu ihren jeweiligen Ethenoanaloga derivatisiert sind, wobei die Analoga die Formel
+<chemistry id="chem0058" num="0058"><img id="ib0058" file="imgb0058.tif" wi="83" he="49" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="46"> --> besitzen, worin n einen Wert zwischen 0 und 10 einschließlich besitzt und jedes p einen Wert zwischen 1 und 10 einschließlich besitzt, N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist, B der Rest der Adenin- oder Cytosinbase ist, W SO₂-(CH₂)<sub>q</sub> bedeutet, wobei q einen Wert zwischen 1 und 10 einschließlich besitzt, G für X steht, wobei X
+<chemistry id="chem0059" num="0059"><img id="ib0059" file="imgb0059.tif" wi="88" he="23" img-content="chem" img-format="tif"/></chemistry> bedeutet.</claim-text></claim>
+<claim id="c-de-01-0026" num="0026">
+<claim-text>Verfahren zur Herstellung einer Sonde zur Verwendung in einem Nucleinsäurehybridisierungsassay auf eine spezifische Nucleinsäuresequenz, dadurch <b>gekennzeichnet</b>, daß man ein einzelsträngiges polymeres DNA-Molekül mit der Fähigkeit, spezifisch mit der Nucleinsäuresequenz zu hybridisieren, bereitstellt, das DNA-Molekül mit einer Verbindung der Formel
+<chemistry id="chem0060" num="0060"><img id="ib0060" file="imgb0060.tif" wi="113" he="43" img-content="chem" img-format="tif"/></chemistry> umsetzt, worin V ein Halogenatom ist, n einen Wert zwischen 0 und 10 einschließlich besitzt und jedes p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzt, worin mindestens einige der Adenin- und Cytosinbasen des DNA-Moleküls zu ihren jeweiligen Ethenoanaloga derivatisiert sind, wobei die Analoga die Formel<!-- EPO <DP n="47"> -->
+<chemistry id="chem0061" num="0061"><img id="ib0061" file="imgb0061.tif" wi="108" he="44" img-content="chem" img-format="tif"/></chemistry> besitzen, worin n einen Wert zwischen 0 und 10 einschließlich besitzt und jedes p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzt, N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist und B der Rest der Adenin- oder Cytosinbase ist, man eine oder mehrere Stufen durchführt, um einen Substituenten G gegen
+<chemistry id="chem0062" num="0062"><img id="ib0062" file="imgb0062.tif" wi="33" he="47" img-content="chem" img-format="tif"/></chemistry> an den Analoga zu substituieren, worin G X bedeutet, wobei X für
+<chemistry id="chem0063" num="0063"><img id="ib0063" file="imgb0063.tif" wi="102" he="26" img-content="chem" img-format="tif"/></chemistry> steht.</claim-text></claim>
+<claim id="c-de-01-0027" num="0027">
+<claim-text>Polymeres einzelsträngiges DNA-Molekül mit der Eignung zur Verwendung als Sonde in einem Nucleinsäurehybridisierungsassay auf eine spezifische Nucleinsäuresequenz, umfassend<!-- EPO <DP n="48"> --> einen ersten Teil mit der Fähigkeit, spezifisch mit der spezifischen Nucleinsäuresequenz zu hybridisieren und einen zweiten Schwanzteil ohne die Fähigkeit zu einer derartigen Hybridisierung, wobei der Schwanzteil mit einer Vielzahl von Markern markiert ist und der erste Teil im wesentlichen nicht markiert ist, worin der Schwanz Adenin- oder Cytosinbasen enthält und im wesentlichen von Guanin- und Thyminbasen frei ist und worin an mindestens einige der Adenin- oder Cytosinbasen ein Substituent der Formel
+<chemistry id="chem0064" num="0064"><img id="ib0064" file="imgb0064.tif" wi="87" he="37" img-content="chem" img-format="tif"/></chemistry> gebunden ist, worin n einen Wert zwischen 0 und 10 einschließlich besitzt und jedes p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzt, N<sub>a</sub> N-1 von Adenin oder N-3 von Cytosin ist, N<sub>b</sub> N-6 von Adenin oder N-4 von Cytosin ist, B der Rest der Adenin- oder Cytosinbase ist und X für
+<chemistry id="chem0065" num="0065"><img id="ib0065" file="imgb0065.tif" wi="100" he="24" img-content="chem" img-format="tif"/></chemistry> steht.</claim-text></claim>
+<claim id="c-de-01-0028" num="0028">
+<claim-text>Verfahren zur Herstellung einer Sonde zur Verwendung in einem Nucleinsäurehybridisierungsassay auf eine spezifische Nucleinsäuresequenz, dadurch <b>gekennzeichnet</b>, daß man ein einzelsträngiges polymeres DNA-Molekül mit der Fähigkeit, spezifisch mit der Nucleinsäuresequenz zu hybridisieren, bereitstellt, das DNA-Molekül mit einer Verbindung der Formel<!-- EPO <DP n="49"> -->
+<chemistry id="chem0066" num="0066"><img id="ib0066" file="imgb0066.tif" wi="115" he="41" img-content="chem" img-format="tif"/></chemistry> umsetzt, worin V ein Halogenatom ist, n einen Wert zwischen 0 und 10 einschließlich besitzt und jedes p und q unabhängig voneinander einen Wert zwischen 1 und 10 einschließlich besitzt, wobei mindestens einige der Adenin- und Cytosinbasen des DNA-Moleküls zu ihren Ethenoanaloga derivatisiert sind, man ein oder mehrere Stufen durchführt, um einen Substituenten umfassend G gegen
+<chemistry id="chem0067" num="0067"><img id="ib0067" file="imgb0067.tif" wi="36" he="44" img-content="chem" img-format="tif"/></chemistry> an den Analoga zu substituieren, worin G für X steht, wobei X
+<chemistry id="chem0068" num="0068"><img id="ib0068" file="imgb0068.tif" wi="84" he="21" img-content="chem" img-format="tif"/></chemistry> bedeutet.</claim-text></claim>
+</claims><!-- EPO <DP n="50"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Molécule d'ADN polymère dans laquelle au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en leurs analogues éthéno respectifs, lesdits analogues ayant la formule
+<chemistry id="chem0069" num="0069"><img id="ib0069" file="imgb0069.tif" wi="82" he="46" img-content="chem" img-format="tif"/></chemistry> dans laquelle n est compris entre 0 et 10 inclus; chacun des p est compris entre 1 et 10 inclus; N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; B est le reste de la base adénine ou cytosine; W est SO₂-(CH₂)<sub><i>q</i></sub>, q étant compris entre 1 et 10 inclus; et G est X, X étant NH-(CH₂)<sub><i>r</i></sub>-Z où 1≦r≦10, Z étant une entité chimique décelable.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle n est 0, p est 2, et W est SO₂-(CH₂)<sub><i>q</i></sub>, où q est 2.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle au moins la moitié des bases adénine et au moins la moitié des bases cytosine de ladite molécule d'ADN sont transformées.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle G est X, X comprenant un membre d'un couple de liaison spécifique.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle G est X, X comprenant une enzyme décelable.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle G est X, X comprenant un haptène décelable.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle G est X, X comprenant un atome décelable par radioactivité.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle G est X, X comprenant une molécule décelable par spectrophotométrie.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle G est X, X comprenant une molécule fluorescente.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle Z est la<!-- EPO <DP n="51"> --> biotine ou un de ses dérivés à liaison spécifique à l'avidine.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Molécule d'ADN selon la revendication 10, dans laquelle ledit dérivé de la biotine à liaison spécifique est
+<chemistry id="chem0070" num="0070"><img id="ib0070" file="imgb0070.tif" wi="70" he="44" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Molécule d'ADN selon la revendication 4, dans laquelle ledit membre d'un couple de liaison spécifique est un membre d'un couple immunologique de liaison spécifique.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Molécule d'ADN selon la revendication 12, dans laquelle ledit membre d'un couple immunologique de liaison spécifique est un membre d'un couple antigène/anticorps.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle Z est une molécule fluorescente.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle Z est une molécule décelable par spectrophotométrie.</claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle Z est est un atome décelable par radioactivité.</claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle lesdits analogues éthéno de ladite molécule d'ADN ont la formule
+<chemistry id="chem0071" num="0071"><img id="ib0071" file="imgb0071.tif" wi="137" he="61" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="52"> --></claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle lesdits analogues éthéno de ladite molécule d'ADN ont la formule
+<chemistry id="chem0072" num="0072"><img id="ib0072" file="imgb0072.tif" wi="100" he="48" img-content="chem" img-format="tif"/></chemistry> et SH est l'entité décelable.</claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle lesdits analogues éthéno de ladite molécule d'ADN ont la formule
+<chemistry id="chem0073" num="0073"><img id="ib0073" file="imgb0073.tif" wi="107" he="48" img-content="chem" img-format="tif"/></chemistry> et NH₂ est l'entité décelable.</claim-text></claim>
+<claim id="c-fr-01-0020" num="0020">
+<claim-text>Molécule d'ADN selon la revendication 1, dans laquelle lesdits analogues éthéno de ladite molécule d'ADN ont la formule
+<chemistry id="chem0074" num="0074"><img id="ib0074" file="imgb0074.tif" wi="108" he="49" img-content="chem" img-format="tif"/></chemistry> et COOH est l'entité décelable.</claim-text></claim>
+<claim id="c-fr-01-0021" num="0021">
+<claim-text>Molécule d'ADN polymère dans laquelle au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en leurs analogues éthéno respectifs ayant la formule:<!-- EPO <DP n="53"> -->
+<chemistry id="chem0075" num="0075"><img id="ib0075" file="imgb0075.tif" wi="119" he="44" img-content="chem" img-format="tif"/></chemistry> dans laquelle N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; et B est le reste de ladite base adénine ou cytosine.</claim-text></claim>
+<claim id="c-fr-01-0022" num="0022">
+<claim-text>Méthode de préparation d'une sonde à utiliser dans l'analyse d'une séquence spécifique d'acides nucléiques par hybridation d'acides nucléiques, ladite méthode comprenant:<br/>
+   la fourniture d'une molécule d'ADN polymère simple brin capable de s'hybrider de façon spécifique avec ladite séquence d'acides nucléiques,<br/>
+   la réaction de ladite molécule d'ADN avec un composé de formule
+<chemistry id="chem0076" num="0076"><img id="ib0076" file="imgb0076.tif" wi="116" he="45" img-content="chem" img-format="tif"/></chemistry> dans laquelle V est un halogène; n est compris entre 0 et 10 inclus; et chacun des p et q est indépendamment compris entre 1 et 10 inclus, grâce à quoi au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en leurs analogues éthéno respectifs, lesdits analogues ayant la formule
+<chemistry id="chem0077" num="0077"><img id="ib0077" file="imgb0077.tif" wi="106" he="43" img-content="chem" img-format="tif"/></chemistry> dans laquelle n est compris entre 0 et 10 inclus; chacun des p et q est indépendamment compris entre 1 et 10 inclus; N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; et B est le reste de<!-- EPO <DP n="54"> --> la base adénine ou cytosine,<br/>
+   la réalisation d'une ou plusieurs étapes pour remplacer, dans lesdits analogues, le groupe
+<chemistry id="chem0078" num="0078"><img id="ib0078" file="imgb0078.tif" wi="32" he="44" img-content="chem" img-format="tif"/></chemistry> par un substituant G, où G est X, X étant NH(CH₂)<sub><i>r</i></sub>-Z, où 1≦r≦10, Z comprenant un marqueur qui peut être décelé ou qui peut se lier de façon sélective à un indicateur pour former un complexe décelable.</claim-text></claim>
+<claim id="c-fr-01-0023" num="0023">
+<claim-text>Molécule d'ADN simple brin polymère adaptée à l'utilisation comme sonde dans l'analyse d'une séquence spécifique d'acides nucléiques par hybridation d'acides nucléiques, ladite molécule comprenant<br/>
+   une première portion capable de s'hybrider de façon spécifique avec ladite séquence spécifique d'acides nucléiques, et<br/>
+   une seconde portion de queue incapable d'une telle hybridation,<br/>
+   ladite portion de queue étant marquée avec une pluralité de marqueurs et ladite première portion étant essentiellement non marquée, et où ladite queue contient des bases adénine et cytosine et est essentiellement dépourvue de bases guanine et thymine, et<br/>
+   où au moins une partie desdites bases adénine ou cytosine ont une liaison à un substituant de formule
+<chemistry id="chem0079" num="0079"><img id="ib0079" file="imgb0079.tif" wi="86" he="38" img-content="chem" img-format="tif"/></chemistry> dans laquelle n est compris entre 0 et 10 inclus; chacun des p et q est indépendamment compris entre 1 et 10 inclus; N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; B est le reste de la base adénine ou cytosine; et X est NH-(CH₂)<sub><i>r</i></sub>-Z, où 1≦r≦10 et Z est une entité chimique décelable.<!-- EPO <DP n="55"> --></claim-text></claim>
+<claim id="c-fr-01-0024" num="0024">
+<claim-text>Méthode de préparation d'une sonde à utiliser dans l'analyse d'une séquence spécifique d'acides nucléiques par hybridation d'acides nucléiques, ladite méthode comprenant:<br/>
+   la fourniture d'une molécule d'ADN polymère simple brin capable de s'hybrider de façon spécifique avec ladite séquence d'acides nucléiques,<br/>
+   la réaction de ladite molécule d'ADN avec un composé de formule
+<chemistry id="chem0080" num="0080"><img id="ib0080" file="imgb0080.tif" wi="114" he="44" img-content="chem" img-format="tif"/></chemistry> dans laquelle V est un halogène; n est compris entre 0 et 10 inclus; et chacun des p et q est indépendamment compris entre 1 et 10 inclus, grâce à quoi au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en analogues éthéno,<br/>
+   la réalisation d'une ou plusieurs étapes pour remplacer, dans lesdits analogues, le groupe
+<chemistry id="chem0081" num="0081"><img id="ib0081" file="imgb0081.tif" wi="35" he="44" img-content="chem" img-format="tif"/></chemistry> par un substituant comprenant G, où G est X, X étant NH(CH₂)<sub><i>r</i></sub>-Z, où 1≦r≦10, Z comprenant un marqueur qui peut être décelé ou qui peut se lier de façon sélective à un indicateur pour former un complexe décelable.</claim-text></claim>
+<claim id="c-fr-01-0025" num="0025">
+<claim-text>Molécule d'ADN polymère dans laquelle au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en leurs analogues éthéno respectifs, lesdits analogues ayant la formule<!-- EPO <DP n="56"> -->
+<chemistry id="chem0082" num="0082"><img id="ib0082" file="imgb0082.tif" wi="81" he="50" img-content="chem" img-format="tif"/></chemistry> dans laquelle n est compris entre 0 et 10 inclus; chacun des p est compris entre 1 et 10 inclus; N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; B est le reste de la base adénine ou cytosine; W est SO₂-(CH₂)<sub><i>q</i></sub>, q étant compris entre 1 et 10 inclus; G est X, X étant
+<chemistry id="chem0083" num="0083"><img id="ib0083" file="imgb0083.tif" wi="80" he="24" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-fr-01-0026" num="0026">
+<claim-text>Méthode de préparation d'une sonde à utiliser dans l'analyse d'une séquence spécifique d'acides nucléiques par hybridation d'acides nucléiques, ladite méthode comprenant:<br/>
+   la fourniture d'une molécule d'ADN polymère simple brin capable de s'hybrider de façon spécifique avec ladite séquence d'acides nucléiques,<br/>
+   la réaction de ladite molécule d'ADN avec un composé de formule
+<chemistry id="chem0084" num="0084"><img id="ib0084" file="imgb0084.tif" wi="117" he="44" img-content="chem" img-format="tif"/></chemistry> dans laquelle V est un halogène; n est compris entre 0 et 10 inclus; et chacun des p et q est indépendamment compris entre 1 et 10 inclus, grâce à quoi au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en leurs analogues éthéno respectifs, lesdits analogues ayant la formule<!-- EPO <DP n="57"> -->
+<chemistry id="chem0085" num="0085"><img id="ib0085" file="imgb0085.tif" wi="105" he="46" img-content="chem" img-format="tif"/></chemistry> dans laquelle n est compris entre 0 et 10 inclus; chacun des p et q est indépendamment compris entre 1 et 10 inclus; N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; et B est le reste de ladite base adénine ou cytosine,<br/>
+   la réalisation d'une ou plusieurs étapes pour remplacer, dans lesdits analogues, le groupe
+<chemistry id="chem0086" num="0086"><img id="ib0086" file="imgb0086.tif" wi="32" he="44" img-content="chem" img-format="tif"/></chemistry> par un substituant G, où G est X, X étant
+<chemistry id="chem0087" num="0087"><img id="ib0087" file="imgb0087.tif" wi="81" he="21" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-fr-01-0027" num="0027">
+<claim-text>Molécule d'ADN simple brin polymère adaptée à l'utilisation comme sonde dans l'analyse d'une séquence spécifique d'acides nucléiques par hybridation d'acides nucléiques, ladite molécule comprenant<br/>
+   une première portion capable de s'hybrider de façon spécifique avec ladite séquence spécifique d'acides nucléiques, et<br/>
+   une seconde portion de queue incapable d'une telle hybridation,<br/>
+   ladite portion de queue étant marquée avec une pluralité de marqueurs et ladite première portion étant essentiellement non marquée, et où ladite queue contient des bases adénine et cytosine et est essentiellement dépourvue de bases guanine et thymine, et<br/>
+   où au moins une partie desdites bases adénine ou cytosine ont une liaison<!-- EPO <DP n="58"> --> à un substituant de formule
+<chemistry id="chem0088" num="0088"><img id="ib0088" file="imgb0088.tif" wi="87" he="41" img-content="chem" img-format="tif"/></chemistry> dans laquelle n est compris entre 0 et 10 inclus; chacun des p et q est indépendamment compris entre 1 et 10 inclus; N<sub><i>a</i></sub> est le N-1 de l'adénine ou le N-3 de la cytosine; N<sub><i>b</i></sub> est le N-6 de l'adénine ou le N-4 de la cytosine; B est le reste de la base adénine ou cytosine; et X est
+<chemistry id="chem0089" num="0089"><img id="ib0089" file="imgb0089.tif" wi="83" he="21" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+<claim id="c-fr-01-0028" num="0028">
+<claim-text>Méthode de préparation d'une sonde à utiliser dans l'analyse d'une séquence spécifique d'acides nucléiques par hybridation d'acides nucléiques, ladite méthode comprenant:<br/>
+   la fourniture d'une molécule d'ADN polymère simple brin capable de s'hybrider de façon spécifique avec ladite séquence d'acides nucléiques,<br/>
+   la réaction de ladite molécule d'ADN avec un composé de formule
+<chemistry id="chem0090" num="0090"><img id="ib0090" file="imgb0090.tif" wi="116" he="41" img-content="chem" img-format="tif"/></chemistry> dans laquelle V est un halogène; n est compris entre 0 et 10 inclus; et chacun des p et q est indépendamment compris entre 1 et 10 inclus, grâce à quoi au moins une partie des bases adénine et cytosine de ladite molécule d'ADN sont transformées en analogues éthéno,<br/>
+   la réalisation d'une ou plusieurs étapes pour remplacer, dans lesdits analogues, le groupe<!-- EPO <DP n="59"> -->
+<chemistry id="chem0091" num="0091"><img id="ib0091" file="imgb0091.tif" wi="36" he="44" img-content="chem" img-format="tif"/></chemistry> par un substituant comprenant G, où G est X, X étant 
+<chemistry id="chem0092" num="0092"><img id="ib0092" file="imgb0092.tif" wi="83" he="24" img-content="chem" img-format="tif"/></chemistry></claim-text></claim>
+</claims><!-- EPO <DP n="60"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="165" he="143" img-content="drawing" img-format="tif"/></figure>
+<figure id="f0002" num=""><img id="if0002" file="imgf0002.tif" wi="165" he="219" img-content="drawing" img-format="tif"/></figure>
+<figure id="f0003" num=""><img id="if0003" file="imgf0003.tif" wi="160" he="122" img-content="drawing" img-format="tif"/></figure>
+<figure id="f0004" num=""><img id="if0004" file="imgf0004.tif" wi="162" he="195" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+</ep-patent-document>

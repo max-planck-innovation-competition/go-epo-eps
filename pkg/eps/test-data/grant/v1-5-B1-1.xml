@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5//EN" "ep-patent-document-v1-5.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP02256108B1" file="EP02256108NWB1.xml" lang="en" country="EP" doc-number="1291416" kind="B1" date-publ="20201223" status="n" dtd-version="ep-patent-document-v1-5">
+<SDOBI lang="en"><B000><eptags><B001EP>......DE....FRGB....................................................................................</B001EP><B005EP>J</B005EP><B007EP>BDM Ver 1.7.2 (20 November 2019) -  2100000/0</B007EP><B070EP>The file contains technical information submitted after the application was filed and not included in this specification</B070EP></eptags></B000><B100><B110>1291416</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20201223</date></B140><B190>EP</B190></B100><B200><B210>02256108.8</B210><B220><date>20020903</date></B220><B240><B241><date>20030625</date></B241><B242><date>20161026</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>2001266665</B310><B320><date>20010904</date></B320><B330><ctry>JP</ctry></B330><B310>2001378151</B310><B320><date>20011212</date></B320><B330><ctry>JP</ctry></B330><B310>2002228727</B310><B320><date>20020806</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20201223</date><bnum>202052</bnum></B405><B430><date>20030312</date><bnum>200311</bnum></B430><B450><date>20201223</date><bnum>202052</bnum></B450><B452EP><date>20200707</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N   9/06        20060101AFI20030117BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C12N  15/53        20060101ALI20030117BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C12N  15/63        20060101ALI20030117BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C12N   1/15        20060101ALI20030117BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C12P  21/02        20060101ALI20030117BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>Fructosyl-Peptidoxidase</B542><B541>en</B541><B542>Fructosyl peptide oxidase</B542><B541>fr</B541><B542>Fructosyle peptide oxidase</B542></B540><B560><B561><text>EP-A- 0 709 457</text></B561><B561><text>WO-A-01/25475</text></B561><B561><text>WO-A-97/21818</text></B561><B562><text>YOSHIDA N ET AL: "Primary structures of fungal fructosyl amino acid oxidases and their application to the measurement of glycated proteins" EUROPEAN JOURNAL OF BIOCHEMISTRY, BERLIN, DE, vol. 242, no. 3, 15 December 1996 (1996-12-15), pages 499-505, XP002089646 ISSN: 0014-2956</text></B562><B562><text>NOBUYUKI YOSHIDA ET AL: "DISTRIBUTION AND PROPERTIES OF FRUCTOSYL AMINO ACID OXIDASE IN FUNGI" APPLIED AND ENVIRONMENTAL MICROBIOLOGY, WASHINGTON,DC, US, vol. 61, no. 12, 1 December 1995 (1995-12-01), pages 4487-4489, XP000561863 ISSN: 0099-2240</text></B562></B560></B500><B700><B720><B721><snm>Kurosawa, Keiko,
+c/o Kikkoman Corporation</snm><adr><str>250, Noda</str><city>Noda-shi,
+Chiba 278-8601</city><ctry>JP</ctry></adr></B721><B721><snm>Hirokawa, Kozo,
+c/o Kikkoman Corporation</snm><adr><str>250, Noda</str><city>Noda-shi,
+Chiba 278-8601</city><ctry>JP</ctry></adr></B721><B721><snm>Kajiyama, Naoki,
+c/o Kikkoman Corporation</snm><adr><str>250, Noda</str><city>Noda-shi,
+Chiba 278-8601</city><ctry>JP</ctry></adr></B721></B720><B730><B731><snm>KIKKOMAN CORPORATION</snm><iid>100157194</iid><irf>CMD/FP6090641</irf><adr><str>250 Noda</str><city>Noda-shi,
+Chiba 278-8601</city><ctry>JP</ctry></adr></B731></B730><B740><B741><snm>Mewburn Ellis LLP</snm><iid>101783151</iid><adr><str>Aurora Building 
+Counterslip</str><city>Bristol BS1 6BX</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>DE</ctry><ctry>FR</ctry><ctry>GB</ctry></B840></B800></SDOBI>
+<description id="desc" lang="en"><!-- EPO <DP n="1"> -->
+<p id="p0001" num="0001">The present invention relates to a novel fructosyl peptide oxidase, to a fructosyl peptide oxidase gene encoding the same, and to a method for producing the novel fructosyl peptide oxidase.</p>
+<p id="p0002" num="0002">Glycated protein is a non-enzymatically-glycated protein, which is produced as a result of covalent bonding between an aldehyde group of sugar, namely, aldose (i.e., a monosaccharide potentially associated with an aldehyde group, and derivatives thereof), and an amino group of a protein. Examples of the amino group of the protein include an N-terminal α-amino group and an internal lysine residue side chain ε-amino group. These glycated proteins are also referred to as Amadori compounds for being formed upon Amadori rearrangement of a Schiff base, a reaction intermediate product.</p>
+<p id="p0003" num="0003">The glycated proteins are contained in body fluid such as blood in body or in a biological sample such as hair. The concentration of the glycated protein in blood strongly depends on the concentration of saccharide such as glucose dissolved in serum. In diabetic conditions, production of the glycated protein is accelerated. A concentration of glycated hemoglobin in erythrocytes and a concentration of glycated albumin in serum indicate an average blood sugar level for the past predetermined period. Therefore, quantification of the glycated proteins is important for diagnosis and control of the disease process of diabetes.</p>
+<p id="p0004" num="0004">Examples of known conventional methods for quantifying a glycated protein include, for example, a method employing high-performance liquid chromatography (<nplcit id="ncit0001" npl-type="s"><text>Chromatogr. Sci., 10, 659 (1979</text></nplcit>)), a method using a column loaded with a solid material bound with boric acid (<nplcit id="ncit0002" npl-type="s"><text>Clin. Chem., 28, 2088-2094 (1982</text></nplcit>)), a method employing electrophoresis (<nplcit id="ncit0003" npl-type="s"><text>Clin. Chem., 26, 1598-1602 (1980</text></nplcit>)), a method using antigen-antibody reaction (<nplcit id="ncit0004" npl-type="s"><text>JJCLA, 18, 620 (1993</text></nplcit>)), a colorimetric method for<!-- EPO <DP n="2"> --> determining reducibility using tetrazolium salt (<nplcit id="ncit0005" npl-type="s"><text>Clin. Chim. Acta, 127, 87-95 (1982</text></nplcit>)), a colorimetric method using thiobarbituric acid following oxidation (<nplcit id="ncit0006" npl-type="s"><text>Clin. Chim. Acta, 112, 197-204 (1981</text></nplcit>)), a method using an enzyme such as glycated amino acid oxidase (Japanese Patent Examined Publication (kokoku) No. <patcit id="pcit0001" dnum="JP5033997A"><text>05-33997</text></patcit>, Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0002" dnum="JP11127895A"><text>11-127895</text></patcit>, <patcit id="pcit0003" dnum="WO9713872A"><text>WO97-13872</text></patcit>, Japanese Patent Examined Publication (kokoku) No.<patcit id="pcit0004" dnum="JP6065300A"><text> 6-65300</text></patcit>, and Japanese Patent Applications Laid-Open (kohyo) Nos. <patcit id="pcit0005" dnum="JP2195900A"><text>2-195900</text></patcit>, <patcit id="pcit0006" dnum="JP3155780A"><text>3-155780</text></patcit>, <patcit id="pcit0007" dnum="JP4004874A"><text>4-4874</text></patcit>, <patcit id="pcit0008" dnum="JP5192193A"><text>5-192193</text></patcit>, <patcit id="pcit0009" dnum="JP6046846A"><text>6-46846</text></patcit>, <patcit id="pcit0010" dnum="JP11155596A"><text>11-155596</text></patcit>, <patcit id="pcit0011" dnum="JP10313893A"><text>10-313893</text></patcit>, <patcit id="pcit0012" dnum="JP11504808A"><text>11-504808</text></patcit>, <patcit id="pcit0013" dnum="JP2000333696A"><text>2000-333696</text></patcit>, <patcit id="pcit0014" dnum="JP2001054398A"><text>2001-54398</text></patcit>, <patcit id="pcit0015" dnum="JP2001204495A"><text>2001-204495</text></patcit> and <patcit id="pcit0016" dnum="JP2001204494A"><text>2001-204494</text></patcit>). Furthermore, a new method for quantifying a glycated protein was disclosed recently which is more accurate than any of the above-mentioned methods (Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0017" dnum="JP2001095598A"><text>2001-95598</text></patcit>). According to this quantification method, a sample containing a glycated protein is treated with protease to release a fructosyl peptide from the glycated protein, which is then exposed to oxidase. The resulting product is quantified for quantification of the glycated protein. This method has been recognized as an accurate quantification method that requires short time and simple manipulation.</p>
+<p id="p0005" num="0005">According to the conventional method using glycated amino acid oxidase, a glycated protein is treated with protease and then the produced glycated amino acid is quantified enzymatically. Specifically, according to this method, a glycated protein is treated with protease or the like to give fructosyl amino acid, which is then exposed to fructosyl amino acid oxidase to quantify the produced hydrogen peroxide. Examples of known fructosyl amino acid oxidases that can be used in such quantification method include oxidase produced by <i>Corynebacterium</i> (Japanese Patent Examined Publications (kokoku) Nos. <patcit id="pcit0018" dnum="JP5033997A"><text>5-33997</text></patcit> and <patcit id="pcit0019" dnum="JP6065300A"><text>6-65300</text></patcit>), oxidase produced by <i>Aspergillus</i> (Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0020" dnum="JP3155780A"><text>3-155780</text></patcit>), oxidase produced by <i>Gibberella</i> (Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0021" dnum="JP7289253A"><text>7-289253</text></patcit>), oxidase produced by <i>Fusarium</i> (Japanese Patent Applications Laid-Open (kohyo) Nos. <patcit id="pcit0022" dnum="JP7289253A"><text>7-289253</text></patcit> and <patcit id="pcit0023" dnum="JP8154672A"><text>8-154672</text></patcit>), oxidase produced by <i>Penicillium</i> (Japanese Patent Application Laid-Open (kohyo) No.<patcit id="pcit0024" dnum="JP8336386A"><text> 8-336386</text></patcit>), oxidase produced by <i>Tricosporon</i> (Japanese Patent Application<!-- EPO <DP n="3"> --> Laid-Open (kohyo) No. <patcit id="pcit0025" dnum="JP2000245454A"><text>2000-245454</text></patcit>), and ketoamine oxidase (Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0026" dnum="JP5192193A"><text>5-192193</text></patcit>). However, while these enzymes act well on fructosyl amino acids, they do not act on fructosyl peptides. Oxidase produced by E. <i>coli</i> DH5α (pFP1) (FERM BP-7297) described in Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0027" dnum="JP2001095598A"><text>2001-95598</text></patcit> is known as an enzyme that acts on fructosyl peptide. However, preparing a quantification kit with this enzyme is difficult since its basic physicochemical properties arc unknown and it has poor stability.</p>
+<p id="p0006" num="0006"><patcit id="pcit0028" dnum="EP0709457A"><text>EP 0709457</text></patcit> describes a fructosyl amino oxidase derived from genus Fusarium, which is active on both fructosyl lysine and fructosyl valine and can give an accurate assay of glycated proteins.</p>
+<p id="p0007" num="0007">The objective of the present invention is to address the above-identified problems and, preferably, to provide a novel and stable fructosyl peptide oxidase, a fructosyl peptide oxidase gene encoding the same, and a method for producing the novel fructosyl peptide oxidase.</p>
+<p id="p0008" num="0008">The present inventors have devoted themselves to solving the above-described problems and found that various microorganisms obtained by searching widely in nature produce novel fructosyl peptide oxidases which have superior stability. The present inventors have succeeded in acquiring these enzymes, found that these fructosyl peptide oxidases have various novel physicochemical properties that are advantageous for quantifying glycated proteins, and succeeded in isolating fructosyl peptide oxidase genes, thereby achieving the present invention. The invention is defined in the appended claims.</p>
+<p id="p0009" num="0009">The disclosure relates to a fructosyl peptide oxidase which acts on fructosyl valyl histidine in the presence of oxygen and catalyzes a reaction that produces α-ketoaldehyde, valyl histidine and hydrogen peroxide. The disclosure also relates to a fructosyl peptide oxidase which catalyzes the above-mentioned reaction and whose remaining activity following a heat treatment at 45°C for 10 minutes is 80% or higher, and to a fructosyl peptide oxidase which catalyzes the above-mentioned reaction and whose molecular weight is about 52,000 (SDS-PAGE). Moreover, the disclosure relates to a fructosyl peptide oxidase which catalyzes the above-mentioned reaction, whose remaining activity following a heat treatment at 45°C for 10 minutes is 80% or higher, and whose molecular weight is about 52,000 (SDS-PAGE).<!-- EPO <DP n="4"> --></p>
+<p id="p0010" num="0010">Furthermore, the disclosure relates to a fructosyl peptide oxidase having the following physicochemical properties.
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(a) Action and substrate specificity: Acts on fructosyl valyl histidine in the presence of oxygen and catalyzes a reaction that produces α-ketoaldehyde, valyl histidine and hydrogen peroxide.</li>
+<li>(b) Optimal pH: pH 6.0-8.0.</li>
+<li>(c) Temperature range suitable for action: 20-45°C.</li>
+<li>(d) Thermostability: a remaining activity of 80% or higher following a heat treatment at 45°C for 10 minutes.</li>
+<li>(e) Stable pH range: pH 6.0-9,0.</li>
+<li>(f) Molecular weight: about 52,000 (SDS-PAGE).</li>
+</ol></p>
+<p id="p0011" num="0011">The disclosure also relates to a method for the fructosyl peptide oxidase, the method comprising: culturing, in a medium, a filamentous fungus capable of producing the above-mentioned fructosyl peptide oxidase or a filamentous fungus selected from the group consisting of <i>Achaelomiella, Achaetomium, Thielavia, Chaetomium, Gelasinospora, Microascus, Coniochaeta</i> and <i>Eupenicillium</i> which are capable of producing the above-mentioned fructosyl peptide oxidases; and collecting the fructosyl peptide oxidase from the culture.</p>
+<p id="p0012" num="0012">The disclosure further relates to a fructosyl peptide oxidase which catalyzes the above-mentioned reaction and which acts on fructosyl valyl histidine but has less action on ε-fructosyl lysine, to the same fructosyl peptide oxidase whose remaining activity following a heat treatment at 45°C for 10 minutes is 80% or higher, and to the same fructosyl peptide oxidase having the following physicochemical properties:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(a) optimal pH: pH 6.0-8.0;</li>
+<li>(b) temperature range suitable for action: 20-40°C;</li>
+<li>(c) thermostability: a remaining activity of 80% or higher following a heat treatment at 45°C for 10 minutes; and</li>
+<li>(d) stable pH range: pH 6.0-9.0.</li>
+</ol><!-- EPO <DP n="5"> --></p>
+<p id="p0013" num="0013">The disclosure also relates to a method for producing the fructosyl peptide oxidase, the method comprising: culturing, in a medium, a filamentous fungus capable of producing the above-mentioned fructosyl peptide oxidase or a filamentous fungus that belongs to <i>Eupenicillium</i> or <i>Coniochaeta</i> which is capable of producing the above-mentioned fructosyl peptide oxidase; and collecting the fructosyl peptide oxidase from the culture.</p>
+<p id="p0014" num="0014">The present invention relates to any of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity on fructosyl valyl histidine:
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 1;</li>
+<li>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</li>
+<li>(c) a protein comprising an amino acid sequence having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</li>
+</ol></p>
+<p id="p0015" num="0015">The present invention further relates to a gene coding for any of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity on fructosyl valyl histidine:
+<ol id="ol0004" compact="compact" ol-style="">
+<li>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 1;</li>
+<li>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</li>
+<li>(c) a protein comprising an amino acid sequence having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</li>
+</ol></p>
+<p id="p0016" num="0016">The present invention also relates to a gene comprising any of the following DNAs (a), (b) and (c):
+<ol id="ol0005" compact="compact" ol-style="">
+<li>(a) DNA comprising a nucleotide sequence represented by SEQ ID NO: 2;</li>
+<li>(b) DNA which hybridizes under stringent conditions with DNA comprising a nucleotide sequence complementary to<!-- EPO <DP n="6"> --> the nucleotide sequence represented by SEQ ID NO: 2, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</li>
+<li>(c) DNA which has 80% or higher sequence identity with the nucleotide sequence represented by SEQ on fructosyl valyl histidine ID NO: 2, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</li>
+</ol></p>
+<p id="p0017" num="0017">The present invention further relates to recombinant DNA obtained by inserting the above-mentioned gene into vector DNA.</p>
+<p id="p0018" num="0018">The present invention further relates to a host transformed or transduced by the above-mentioned recombinant DNA.</p>
+<p id="p0019" num="0019">The present invention also relates to a method for producing a fructosyl peptide oxidase, comprising: culturing the above-mentioned host in a medium; and collecting the fructosyl peptide oxidase from the culture.</p>
+<p id="p0020" num="0020">The present invention further relates to any of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity:
+<ol id="ol0006" compact="compact" ol-style="">
+<li>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 3;</li>
+<li>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</li>
+<li>(c) a protein comprising an amino acid sequence having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</li>
+</ol></p>
+<p id="p0021" num="0021">The present invention further relates to a gene coding for any of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity:
+<ol id="ol0007" compact="compact" ol-style="">
+<li>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 3;</li>
+<li>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</li>
+<li>(c) a protein having 80% or higher seqeunce identity with the amino acid sequence<!-- EPO <DP n="7"> --> represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</li>
+</ol></p>
+<p id="p0022" num="0022">The present invention also relates to a gene comprising any of the following DNAs (a), (b) and (c):
+<ol id="ol0008" compact="compact" ol-style="">
+<li>(a) DNA comprising a nucleotide sequence represented by SEQ ID NO: 4;</li>
+<li>(b) DNA which hybridizes under stringent conditions with DNA comprising a nucleotide sequence complementary to the nucleotide sequence represented by SEQ ID NO: 4, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</li>
+<li>(c) DNA which has 80% or higher sequence identity with the nucleotide sequence represented by SEQ ID NO: 4, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</li>
+</ol></p>
+<p id="p0023" num="0023">The present invention further relates to recombinant DNA obtained by inserting the above-mentioned gene into vector DNA.</p>
+<p id="p0024" num="0024">The present invention further relates to a host transformed or transduced by the above-mentioned recombinant DNA.</p>
+<p id="p0025" num="0025">The present invention also relates to a method for producing a fructosyl peptide oxidase, comprising: culturing the above-mentioned host in a medium; and collecting the fructosyl peptide oxidase from the culture.</p>
+<heading id="h0001">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p0026" num="0026">
+<ul id="ul0001" list-style="none" compact="compact">
+<li><figref idref="f0001">Figure 1</figref> shows the optimum pH for the inventive oxidase produced by a filamentous fungus belonging to <i>Achaetomiella.</i></li>
+<li><figref idref="f0001">Figure 2</figref> shows the stable pH range for the inventive oxidase produced by a filamentous fungus belonging to <i>Achaetomiella,</i></li>
+<li><figref idref="f0002">Figure 3</figref> shows the optimum temperature range for the inventive oxidase produced by a filamentous fungus belonging to <i>Achaetomiella.</i></li>
+<li><figref idref="f0003">Figure 4</figref> shows the thermostability of the inventive oxidase produced by a filamentous fungus belonging to <i>Achaetomiella.</i></li>
+<li><figref idref="f0004">Figure 5</figref> shows the optimum pH for the inventive oxidase produced by a filamentous fungus belonging to <i>Chaetomium.</i><!-- EPO <DP n="8"> --></li>
+<li><figref idref="f0004">Figure 6</figref> shows the stable pH range for the inventive oxidase produced by a filamentous fungus belonging to <i>Chaetomium.</i></li>
+<li><figref idref="f0005">Figure 7</figref> shows the optimum temperature range for the inventive oxidase produced by a filamentous fungus belonging to <i>Chaetomium.</i></li>
+<li><figref idref="f0006">Figure 8</figref> shows the thermostability of the inventive oxidase produced by a filamentous fungus belonging to <i>Chaetomium.</i></li>
+<li><figref idref="f0007">Figure 9</figref> shows the optimum pH for the inventive oxidase produced by a filamentous fungus belonging to <i>Coniochaeta</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0007">Figure 10</figref> shows the stable pH range for the inventive oxidase produced by a filamentous fungus belonging to <i>Coniochaeta</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0008">Figure 11</figref> shows the optimum temperature range for the inventive oxidase produced by a filamentous fungus belonging to <i>Coniochaeta</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0009">Figure 12</figref> shows the thermostability of the inventive oxidase produced by a filamentous fungus belonging to <i>Coniochaeta</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0010">Figure 13</figref> shows the optimum pH for the inventive oxidase produced by a filamentous fungus belonging to <i>Eupenicillium</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0010">Figure 14</figref> shows the stable pH range for the inventive oxidase produced by a filamentous fungus belonging to <i>Eupenicillium</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0011">Figure 15</figref> shows the optimum temperature range for the inventive oxidase produced by a filamentous fungus belonging to <i>Eupenicillium</i> which has less action on ε-fructosyl lysine.</li>
+<li><figref idref="f0012">Figure 16</figref> shows the thermostability of the inventive oxidase produced by a filamentous fungus belonging to <i>Eupenicillium</i> which has less action on ε-fructosyl lysine.</li>
+</ul><!-- EPO <DP n="9"> --></p>
+<p id="p0027" num="0027">Hereinafter, the present invention will be described in more detail. The fructosyl peptide oxidases herein (hereinafter, referred to as "the oxidases") are oxidases which act on fructosyl valyl histidine in the presence of oxygen and catalyze the following reaction formula that results in α-ketoaldehyde, valyl histidine and hydrogen peroxide.<br/>
+<br/>
+        Fructosyl valyl histidine + H<sub>2</sub>O +O<sub>2</sub> → α-ketoaldehyde + valyl histidine + H<sub>2</sub>O<sub>2</sub><br/>
+<br/>
+</p>
+<p id="p0028" num="0028">Any oxidase that catalyzes the above-mentioned reaction is contemplated herein (and referred to as "the oxidase"), including, for example, oxidases that act on other fructosyl amino acids such as <i>N<sup>ε</sup></i>-fructosyl lysine (ε-fructosyl lysine) and <i>N</i>-fructosyl glycine (fructosyl glycine), and oxidases that act on various fructosyl peptides. On the other hand, fructosyl peptide oxidases that act on fructosyl valyl histidine but have less action on ε-fructosyl lysine (referred to as "the oxidases that have less action on ε-fructosyl lysine") refer to the oxidases which catalyze the above-mentioned reaction formula and which have a lower activity upon use of ε-fructosyl lysine substrate as compared to the activity upon use of fructosyl valyl histidine substrate, and may be any oxidase which can accurately quantify fructosyl valyl histidine in a sample containing ε-fructosyl lysine. The oxidases herein which do not act on ε-fructosyl lysine are also contemplated. The oxidases that have less action on ε-fructosyl lysine are particularly preferable for quantifying fructosyl valyl histidine in a biological sample containing ε-fructosyl lysine.</p>
+<p id="p0029" num="0029">In addition, some embodiments of the oxidases may comprise: a fructosyl peptide oxidase with a molecular weight of about 52,000 (SDS-PAGE)<!-- EPO <DP n="10"> --> which catalyzes the above-mentioned reaction; a fructosyl peptide oxidase which catalyzes the above-mentioned reaction and whose remaining activity following a heat treatment at 45°C for 10 minutes is 80% or higher; and a fructosyl peptide oxidase with a molecular weight of about 52,000 (SDS-PAGE) which catalyzes the above-mentioned reaction and whose remaining activity following a heat treatment at 45°C for 10 minutes is 80% or higher. Furthermore, the oxidase may also comprise a fructosyl peptide oxidase which catalyzes the above-mentioned reaction and at the same time has any or a combination of the following physicochemical properties (a) to (e).</p>
+<heading id="h0002">(a) Optimal pH: pH 6.0-8.0</heading>
+<p id="p0030" num="0030">For example, 200 mM acetic acid buffer (pH 3.0-6.0), 200 mM MES-NaOH (pH 6.0-7.0), 200 mM Tris buffer (pH 6.8-9.0), 200 mM potassium phosphate buffer (pH 6.5-8.0) and 200 mM glycine buffer (pH 8.0-12.0) are used as buffers to perform enzyme reactions at the indicated pH at 30°C, thereby determining optimal pH. For example, the oxidases may have an optimal pH at 5.0-9.0, preferably pH 6.0-8.0.</p>
+<heading id="h0003">(b) Temperature range suitable for action: 20-45°C</heading>
+<p id="p0031" num="0031">For example, a reaction solution having the same composition as that of a reaction solution used for the activity assay described later is used to determine activities of the enzyme at various temperatures, thereby determining a suitable temperature range for action. The oxidases may, for example, have a suitable temperature range of 20-50°C, preferably 25-45°C.</p>
+<p id="p0032" num="0032">(c) Thermostability: a remaining activity of 80% or higher following a heat treatment at 45°C for 10 minutes.</p>
+<p id="p0033" num="0033">For example, 200 mM potassium phosphate buffer (pH 8.0) is used for a treatment at 45°C for 10 minutes to determine the remaining activities of the oxidases. The oxidases having high stability at a high temperature range are particularly preferable for industrial use. The oxidases may, for example, have a remaining activity of 50% or higher, preferably<!-- EPO <DP n="11"> --> 70% or higher, and more preferably 80% or higher under the above-described conditions.</p>
+<heading id="h0004">(d) Stable pH range: pH 6.0-9.0</heading>
+<p id="p0034" num="0034">For example, 200 mM acetic acid buffer (pH 3.0-6.0), 200 mM MES-NaOH (pH 6.0-7.0), 200 mM Tris buffer (pH 6.8-9.0), 200 mM potassium phosphate buffer (pH 6.5-8.0) and 200 mM glycine buffer (pH 8.0-12.0) are used as buffers to perform enzyme reactions at the indicated pH at 30°C for 10 minutes, thereby determining the remaining activities of the oxidases of the invention. For example, the oxidases may have a stable pH at 5.0-10.0, preferably at 6.0-9.0.</p>
+<heading id="h0005">(e) Molecular weight: about 52,000 (SDS-PAGE)</heading>
+<p id="p0035" num="0035">For example, the molecular weight is determined by SDS-PAGE technique using Multigel 10/20 (Daiichi Pure Chemicals Co., Ltd.). The oxidases may have a molecular weight of 45,000-60,000, preferably 47,000-57,000 (SDS-PAGE). Presently, SDS-PAGE technique is a general technique frequently used for determining the molecular weight of a protein. Considering the possible error of the molecular weight determined by this determination method, the molecular weight of about 52,000 (SDS-PAGE) is considered to cover molecular weights within a range of 47,000 to 57,000.</p>
+<p id="p0036" num="0036">On the other hand, the oxidases that have less action on ε-fructosyl lysine refer to the oxidases which have a lower activity upon use of ε-fructosyl lysine substrate as compared to the activity upon use of fructosyl valyl histidine substrate, and may be any oxidase which can accurately quantify fructosyl valyl histidine in a sample containing ε-fructosyl lysine. Specifically, if an activity of the oxidases that have less action on ε-fructosyl lysine is defined as 100 upon use of fructosyl valyl histidine substrate, an activity upon use of ε-fructosyl lysine substrate is 70 or less, preferably 50 or less, more preferably 20 or less.<!-- EPO <DP n="12"> --></p>
+<p id="p0037" num="0037">Embodiments of the oxidases that have less action on ε-fructosyl lysine may comprise: a fructosyl peptide oxidase which catalyzes the above-mentioned reaction and which acts on fructosyl valyl histidine but acts less on ε-fructosyl lysine, and whose remaining activity following a heat treatment at 45°C for 10 minutes is 80% or higher; and a fructosyl peptide oxidase which has the above action and properties as well as any or a combination of the following physicochemical properties (a) to (d).</p>
+<heading id="h0006">(a) Optimal pH: pH 6.0-8.0</heading>
+<p id="p0038" num="0038">For example, 200 mM acetic acid buffer (pH 3.0-6.0), 200 mM MES-NaOH (pH 6.0-7.0), 200 mM Tris buffer (pH 6.8-9.0), 200 mM potassium phosphate buffer (pH 6.5-8.0) and 200 mM glycine buffer (pH 8.0-12.0) are used as buffers to perform enzyme reactions at the indicated pH at 30°C, thereby determining optimal pH. For example, the oxidases that have less action on ε-fructosyl lysine may have an optical pH at 5.0-9.0, preferably at 6.0-8.0.</p>
+<heading id="h0007">(b) Temperature range suitable for action: 20-40°C</heading>
+<p id="p0039" num="0039">For example, a reaction solution having the same composition as that of a reaction solution for the activity assay described later is used to determine activities of the enzyme at various temperatures, thereby determining a suitable temperature range. The oxidases that have less action on ε-fructosyl lysine may, for example, have a suitable temperature range of 20-50°C, preferably 25-40°C.</p>
+<p id="p0040" num="0040">(c) Thermostability: a remaining activity of 80% or higher following a heat treatment at 45°C for 10 minutes</p>
+<p id="p0041" num="0041">For example, 200 mM potassium phosphate buffer (pH 8.0) is used for a treatment at 45°C for 10 minutes. Then, the remaining activities of the enzymes of the invention are determined. The oxidases having high stability at a high temperature range are particularly preferable for industrial use. The oxidases that have less action on ε-fructosyl lysine may, for example, have a remaining activity of 50% or higher, preferably 70% or higher, more preferably 80% or higher<!-- EPO <DP n="13"> --> under the above-described conditions.</p>
+<heading id="h0008">(d) Stable pH range: pH 6.0-9.0</heading>
+<p id="p0042" num="0042">For example, 200 mM acetic acid buffer (pH 3.0-6.0), 200 mM MES-NaOH (pH 6.0-7.0), 200 mM Tris buffer (pH 6.8-9.0), 200 mM potassium phosphate buffer (pH 6.5-8.0) and 200 mM glycine buffer (pH 8.0-12.0) are used as buffers to perform enzyme reactions at the indicated pH at 30°C for 10 minutes, thereby determining the remaining activities of the oxidases. For example, the oxidases that have less action on ε-fructosyl lysine may have a stable pH range at 5.0-10.0, preferably at 6.0-9.0.</p>
+<p id="p0043" num="0043">Enzyme activities of the oxidase that have less action on ε-fructosyl lysine (hereinafter, the term "the oxidases " may comprise both the oxidase herein and the oxidase that have less action on ε-fructosyl lysine) may principally be determined by determining the amount of α-ketoaldehyde, peptide, hydrogen peroxide or the like which are produced through enzyme reaction or by determining the amount of oxygen consumed by the enzyme reaction. Hereinafter, a method for determining the amount of hydrogen peroxide will be described as one example. Unless otherwise noted, fructosyl valyl histidine is used as a substrate for determining the activities of the oxidases herein. Titer of the enzyme is defined such that an amount of enzyme for producing 1 µmol hydrogen peroxide per minute is 1U as determined using a fructosyl valyl histidine substrate.</p>
+<heading id="h0009">A. Preparation of reagents</heading>
+<heading id="h0010">(1) Reagent 1: POD-4-AA solution</heading>
+<p id="p0044" num="0044">1.0 kU of peroxidase (Toyobo Co., Ltd, TYPE III) and 100 mg of 4-aminoantipyrine (Tokyo Kasei Kogyo Co., Ltd.) are dissolved in 0.1 M potassium phosphate buffer (pH 8.0) to a constant volume of 1L.</p>
+<heading id="h0011">(2) Reagent 2: 2,4-dichlorophenol sulfate solution</heading><!-- EPO <DP n="14"> -->
+<p id="p0045" num="0045">25 ml of a commercially available 2% solution (available from Nacalai Tesque, Inc.) is dissolved in ion exchange water to a constant volume of 100 ml.</p>
+<heading id="h0012">(3) Reagent 3: substrate solution (150 mM; final concentration 5 mM)</heading>
+<p id="p0046" num="0046">624 mg of fructosyl valyl histidine is dissolved in ion exchange water to a constant volume of 10 ml. Alternatively, fructosyl glycine or ε-fructosyl lysine of 357 mg or 462 mg, respectively, may be dissolved in ion exchange water to a constant volume of 10 ml to be used as a substrate. Fructosyl valine histidine was prepared as described in Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0029" dnum="JP2001095598A"><text>2001-95598</text></patcit>. Fructosyl glycine and ε-fructosyl lysine were prepared according to a method of <nplcit id="ncit0007" npl-type="s"><text>Horiuchi et al. (Agric. Biol. Chem., 53, 103-110, 1989</text></nplcit>; <nplcit id="ncit0008" npl-type="s"><text>Agric. Biol. Chem., 55, 333-338, 1991</text></nplcit>).</p>
+<heading id="h0013">B. Determination assay</heading>
+<p id="p0047" num="0047">2.7 ml of Reagent 1, 100 µl of Reagent 2 and 100 µl of enzyme solution are mixed and pre-heated at 30°C for 5 minutes. Then, 100 µl of Reagent 3 is added and thoroughly mixed to determine absorbance at 510 nm using a spectrophotometer (U-2000A, Hitachi, Ltd.). Measurement values indicate changes in the absorbance per minute at 510 nm after 1 to 3 minutes. A control solution was prepared in the same manner as described above except 100 µl ion exchange water was added instead of 100 µl Reagent 3. A standard solution of hydrogen peroxide and ion exchange water were used instead of Reagent 3 and the enzyme solution, respectively, to prepare a graph showing relationship with respect to the level of color. Referring to this graph, micromole of hydrogen peroxide produced per minute at 30°C is calculated and used as the unit for expressing the activity of the enzyme solution. The presence of action on ε-fructosyl lysine can be determined in the same manner by using Reagent 3 (substrate solution) containing ε-fructosyl lysine substrate instead of fructosyl valyl histidine substrate.<!-- EPO <DP n="15"> --></p>
+<p id="p0048" num="0048">Thus, the oxidases act on fructosyl valyl histidine in the presence of oxygen and catalyze reaction represented by the above-described formula which results in α-ketoaldehyde, valyl histidine and hydrogen peroxide. Such oxidases may, for example, have the above-described behavior and any or a combination of the above-described physicochemical properties. Such oxidases act efficiently upon free fructosyl valyl histidine resulting from protease treatment of a sample containing a glycated protein such as glycated hemoglobin, and thus can be used as an effective enzyme for quantifying the glycated protein. The oxidases having high thermostability are particularly preferable for use as a clinical diagnostic enzyme.</p>
+<p id="p0049" num="0049">When a sample containing a glycated protein is treated with protease, ε-fructosyl lysine may also be released together with fructosyl valyl histidine depending on the sample used. In this case, when the amount of fructosyl valyl histidine is determined with the oxidase which acts well on ε-fructosyl lysine, accurate determination may be difficult. In such case, the oxidase that has less action on ε-fructosyl lysine is more preferable.</p>
+<p id="p0050" num="0050">The oxidases herein can be acquired from nature by conducting searches of enzymes derived from microorganisms, animals and plants. For example, in order to search for microorganisms capable of producing the oxidases, microorganisms are cultured in media supplied with an enzyme-producing inducer such as fructosyl valyl histidine. The obtained microorganism cells are disrupted to test for fructosyl peptide oxidase activities using fructosyl valyl histidine as a substrate. Thus, microorganisms capable of producing the oxidases can be obtained. The microorganisms used here may be newly isolated from soil, or obtained from a microorganism collection organization or the like. Furthermore, in order to obtain the oxidases with superior storage stability, solutions containing the disrupted microorganism cells obtained as described above may be subjected to a heat<!-- EPO <DP n="16"> --> treatment, for example, at 45°C for 10 minutes, after which activities are determined and those with higher remaining activities are selected. As organisms capable of producing the oxidases of the invention, in terms of easy handling, productivity and the like, for example, microorganisms are preferable, particularly filamentous fungi that belong to genus such as <i>Achaetomiella, Achaetomium, Thielavia, Chaetomium, Gelasinospora, Microascus, Coniochaeta</i> and <i>Eupenicillium.</i> Preferable microorganisms may be filamentous fungi belonging to <i>Achaetomiella, Chaetomium, Coniochaeta</i> and <i>Eupenicillium,</i> particularly microorganisms such as <i>Achaetomiella virescens</i> ATCC 32393, <i>Chaetomium</i> sp. NISL 9335 (FERM BP-7799), <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798) and <i>Eupenicillium terrenum</i> ATCC 18547.</p>
+<p id="p0051" num="0051">In order to search for microorganisms capable of producing the oxidases that act on fructosyl valyl histidine but have less action on ε-fructosyl lysine, microorganisms capable of producing the oxidases which have lower activity upon use of ε-fructosyl lysine substrate as compared to the activity upon use of fructosyl valyl histidine substrate are selected from the microorganisms capable of producing the oxidases obtained by the above-described search. As microorganisms capable of producing the oxidases that have less action on ε-fructosyl lysine, filamentous fungi are preferable, such as those that belong to <i>Eupenicillium</i> and <i>Coniochaeta.</i> Preferable filamentous fungi are, for example, <i>Eupenicillium terrenum</i> ATCC 18547, <i>Eupenicillium senticosum</i> IFO 9158, <i>Eupenicillium idahoense</i> IFO 9510, <i>Eupenicillium euglaucum</i> IFO 31729 and <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798).</p>
+<p id="p0052" num="0052">The oxidases herein are obtained not only by modifying native oxidases by techniques such as gene engineering or mutation process but also by modifying conventionally known enzyme genes such as fructosyl amino acid oxidase genes.<!-- EPO <DP n="17"> --></p>
+<p id="p0053" num="0053">Examples of such modification techniques include, for example, irradiating organisms capable of producing the above-described oxidases with UV ray, X-ray, radiation or the like, or bringing organisms capable of producing the above-described oxidases into contact with a mutagen such as ethylmethanesulfonate, N-methyl-N'-nitro-N-nitrosoguanidine or nitrous acid, thereby obtaining a microorganism that produces modified oxidase herein. Then, from the obtained microorganism, the oxidase herein can be obtained. In general, gene engineering can be employed to modify genes encoding oxidases with different properties so as to obtain the oxidases herein.</p>
+<p id="p0054" num="0054">Hereinafter, a method for producing the oxidases will be described. According to the present disclosure, the oxidases are collected and produced from organisms having activities of the oxidases, according to a variety of generally employed methods for isolating proteins. For example, a preferable method for producing the present oxidase comprises culturing a microorganism capable of producing the above-described oxidase in a medium, and collecting from the culture a protein having a fructosyl peptide oxidase activity or a protein having a fructosyl peptide oxidase activity but having less action on ε-fructosyl lysine. Specifically, as an example, the following method may be employed which uses a microorganism capable of producing the oxidase.</p>
+<p id="p0055" num="0055">First, searched microorganisms that are found to produce the oxidases (collectively referred to as "the microorganisms") are cultured. The microorganisms may be cultured by a solid culture method but more preferably by a liquid culture method. As the media for culturing the above-mentioned microorganisms, one or more types of inorganic salts such as potassium dihydrogenphosphate, dipotassium hydrogenphosphate, magnesium sulfate, ferric chloride, ferric sulfate and manganese sulfate, and, if necessary, sugars, vitamins or the like, are added to one or<!-- EPO <DP n="18"> --> more types of nitrogen sources such as infusions of yeast extract, peptone, meat extract, corn steep liquor, soybean or wheat malt. As an enzyme inducible substrate, an enzyme substrate such as fructosyl glycine, fructosyl valyl histidine, ε-fructosyl lysine or the like may appropriately be added to increase the yield.</p>
+<p id="p0056" num="0056">Initial pH of the medium may suitably be adjusted to 7 to 9. Preferably, culture is performed at 25-42°C, preferably at about 30°C, for 1 to 5 days by submerged aeration culture, shake culture, standing culture or the like. Following culture, the oxidases of the invention may be collected from the cultures with generally employed enzyme collecting means.</p>
+<p id="p0057" num="0057">Specifically, cells are separated from the culture solutions, for example, by filtration, centrifugation or the like and then washed. The oxidases are preferably collected from these cells. These cells can be used directly. However, it is more preferable to disrupt the cells with disrupting means such as an ultrasonic homogenizer, a French Press, a Dynomill and the like, disrupt the cells by lysing cell walls of the cells with a cell wall lytic enzyme such as lysozyme, or extract the enzymes from the cells by using a surfactant such as Triton X-100 so as to collect the oxidases from these cells.</p>
+<p id="p0058" num="0058">A general enzyme purification method may be employed to purify and isolate the oxidases from the obtained crude enzyme solutions. Preferably, a combination of, for example, ammonium sulfate salting out method, organic solvent precipitation, ion exchange chromatography, gel filtration chromatography, hydrophobic chromatography, absorption chromatography, electrophoresis and the like may be performed. Thus, the oxidases may be isolated until a generally single band appears on SDS-PAGE. The above-mentioned purification methods can suitably be combined to prepare enzyme preparations with different degrees of purification according to use. The oxidases that have less<!-- EPO <DP n="19"> --> action on ε-fructosyl lysine may also be produced according to a method similar to the above-described method for producing the oxidases herein.</p>
+<p id="p0059" num="0059">The produced oxidases may effectively be used for quantifying a glycated protein as described below. First, a glycated protein such as HbA<sub>1c</sub> is digested by protease such as Molsin, AO-protease, peptidase (available from Kikkoman Corp.), carboxypeptidase Y or Protin P (available from Daiwa Fine Chemicals Co., Ltd.) to release fructosyl peptide. Then, the released fructosyl valyl histidine is quantified with the oxidase. When ε-fructosyl lysine which is also released at the same time causes a problem, an enzyme that acts on ε-fructosyl lysine, for example, fructosyl amino acid oxidase derived from fungus (Japanese Patent Applications Laid-Open (kohyo) Nos. <patcit id="pcit0030" dnum="JP7289253A"><text>7-289253</text></patcit>, <patcit id="pcit0031" dnum="JP8154672A"><text>8-154672</text></patcit>, <patcit id="pcit0032" dnum="JP8336386A"><text>8-336386</text></patcit>, etc.) or fructosyl amine oxidase (Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0033" dnum="JP3155780A"><text>03-155780</text></patcit>) may be used to digest the ε-fructosyl lysine. Subsequently, fructosyl valyl histidine can be quantified with the oxidase of the invention. Alternatively, an oxidase that has less action on ε-fructosyl lysine may be used so that fructosyl valyl histidine can accurately be quantified without digesting the released ε-fructosyl lysine.</p>
+<p id="p0060" num="0060">The oxidases may comprise the following oxidase (a), (b), (c), (d), (e) or (f):
+<ol id="ol0009" compact="compact" ol-style="">
+<li>(a) a fructosyl peptide oxidase comprising an amino acid sequence represented by SEQ ID NO: 1;</li>
+<li>(b) a fructosyl peptide oxidase comprising an amino acid sequence having deletion, substitution and/or addition of one to several amino acids relative to the amino acid sequence represented by SEQ ID NO: 1;</li>
+<li>(c) a fructosyl peptide oxidase comprising an amino acid sequence having 80% or higher homology with the amino acid sequence represented by SEQ ID NO: 1;</li>
+<li>(d) a fructosyl peptide oxidase comprising an amino acid sequence represented by SEQ ID NO: 3;</li>
+<li>(e) a fructosyl peptide oxidase comprising an amino acid sequence having<!-- EPO <DP n="20"> --> deletion, substitution and/or addition of one to several amino acids relative to the amino acid sequence represented by SEQ ID NO: 3; and</li>
+<li>(f) a fructosyl peptide oxidase comprising an amino acid sequence having 80% or higher homology with the amino acid sequence represented by SEQ ID NO: 3.</li>
+</ol></p>
+<p id="p0061" num="0061">Herein, "deletion, substitution and/or addition of one to several amino acids" means deletion, substitution and/or addition of, for example, 1 to 20, preferably 1 to 10, and more preferably 1 to 5 amino acids.</p>
+<p id="p0062" num="0062">Herein, "having 80% or higher homology" has no limitation as long as homology with the amino acid sequence represented by SEQ ID NO: 1 or 3 is 80% or higher, for example, 80% or higher, preferably 90% or higher, and most preferably 95% or higher.</p>
+<p id="p0063" num="0063">The above-described oxidases may be obtained by cloning and expressing a native fructosyl peptide oxidase gene derived from chromosomal DNA or cDNA of <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798) or a native fructosyl peptide oxidase gene derived from <i>Eupenicillium terrenum</i> ATCC 18547 in a suitable vector host system. The oxidases may also be obtained from fructosyl peptide oxidase derived from various sources acquired from nature.</p>
+<p id="p0064" num="0064">The fructosyl peptide oxidase genes (hereinafter, referred to as "the genes of the invention") coding for the fructosyl peptide oxidases may comprise genes coding for the oxidases (a) to (f) above, and genes coding for the oxidases comprising the following DNA (g), (h), (i), (j), (k) or (l):
+<ul id="ul0002" list-style="none" compact="compact">
+<li>(g) DNA comprising a nucleotide sequence represented by SEQ ID NO: 2;</li>
+<li>(h) DNA which hybridizes with DNA comprising a nucleotide sequence complementary to a full-length or 15 or more consecutive bases of the DNA comprising the nucleotide sequence represented by SEQ ID NO: 2 under stringent conditions, and which codes for a protein having a fructosyl peptide oxidase activity;</li>
+<li>(i) DNA which indicates 80% or higher homology with a full-length or 15 or more consecutive bases of the DNA comprising the nucleotide sequence represented by<!-- EPO <DP n="21"> --> SEQ ID NO: 2, and which codes for a protein having a fructosyl peptide oxidase activity;</li>
+<li>(j) DNA comprising a nucleotide sequence represented by SEQ ID NO: 4;</li>
+<li>(k) DNA which hybridizes with DNA comprising a nucleotide sequence complementary to a full-length or 15 or more consecutive bases of the DNA comprising the nucleotide sequence represented by SEQ ID NO: 4 under stringent conditions, and which codes for a protein having a fructosyl peptide oxidase activity; and</li>
+<li>(1) DNA which indicates 80% or higher homology with a full-length or 15 or more consecutive bases of the DNA comprising the nucleotide sequence represented by SEQ ID NO: 4, and which codes for a protein having a fructosyl peptide oxidase activity.</li>
+</ul></p>
+<p id="p0065" num="0065">Herein, "stringent conditions" refer to conditions under which a signal from a specific hybrid is clearly distinguished from a signal from a non-specific hybrid upon colony hybridization, plaque hybridization, Southern blot hybridization or the like (<nplcit id="ncit0009" npl-type="b"><text>Current Protocols in Molecular Biology (WILEY, Interscience, 1989</text></nplcit>)). These conditions differ depending on the hybridization system used as well as the type, sequence and length of the probe. These conditions can be determined by changing the hybridization temperature, washing temperature and salt concentration. For example, when a signal from a non-specific hybrid is positively detected, the hybridization and washing temperatures can be raised while the salt concentration is decreased, thereby enhancing specificity. When a signal from a specific hybrid is not detected, the hybridization and washing temperatures can be decreased while the salt concentration is increased, thereby stabilizing the hybrid. More specifically, DNA that is subjected to hybridization under stringent conditions may have a certain homology with a nucleotide sequence of probe DNA. Homology as used in "DNA comprising a nucleotide sequence indicating 80% or higher homology with a full-length or 15 or more<!-- EPO <DP n="22"> --> consecutive bases of a nucleotide sequence" refers to a homology of, for example, 80% or higher, preferably 90% or higher, and most preferably 95% or higher.</p>
+<p id="p0066" num="0066">Genes coding for the above-mentioned oxidases may be, for example, a gene coding for an oxidase obtained by cloning and expressing a native fructosyl peptide oxidase gene derived from chromosomal DNA or cDNA of <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798) in a suitable vector host system, or a gene coding for an oxidase obtained by cloning and expressing a native fructosyl peptide oxidase gene derived from chromosomal DNA or cDNA of <i>Eupenicillium terrenum</i> ATCC 18547 in a suitable vector host system.</p>
+<p id="p0067" num="0067">The above-mentioned DNA may be, for example, a native fructosyl peptide oxidase gene derived from chromosomal DNA or cDNA of <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798), or a native fructosyl peptide oxidase gene derived from chromosomal DNA or cDNA of <i>Eupenicillium terrenum</i> ATCC 18547. The genes coding for the oxidases or the DNA thereof may also be obtained from fructosyl peptide oxidases derived from various sources acquired from nature.</p>
+<p id="p0068" num="0068">In addition, the oxidases, genes coding for the oxidases or DNA thereof may also be obtained from various mutant fructosyl peptide oxidases obtained from native fructosyl peptide oxidases.</p>
+<p id="p0069" num="0069">Hereinafter, a method for obtaining the genes will be described.</p>
+<p id="p0070" num="0070">In order to obtain the genes, a generally employed gene cloning method is used. For example, chromosomal DNA or mRNA is extracted from cells capable of producing the above-described oxidases according to a routine method (e.g., a method described in <nplcit id="ncit0010" npl-type="b"><text>Current Protocols in Molecular Biology (WILEY, Interscience, 1989</text></nplcit>)). Moreover, cDNA can be synthesized using mRNA as a template. Thus, chromosomal DNA or a cDNA library can be obtained. Next, suitable probe DNA is synthesized based on the amino acid sequence of the oxidase,<!-- EPO <DP n="23"> --> which is used to screen for DNA from the chromosomal DNA or cDNA library. Alternatively, DNA containing a gene fragment of interest is amplified by polymerase chain reaction (PCR method) such as the 5'-RACE or 3'-RACE method by producing suitable primer DNA based on the above-mentioned amino acid sequence. Then, the obtained DNA fragments are linked to obtain DNA containing a full-length gene of the invention. Furthermore, the genes of the invention coding for the oxidases can be obtained from various organisms through hybridization with the above-mentioned probe DNA.</p>
+<p id="p0071" num="0071">For example, the genes of the invention from <i>Coniochaeta</i> sp. NISL, 9330 (FERM BP-7798) or <i>Eupenicillium terrenum</i> ATCC 18547 can be obtained as follows.</p>
+<p id="p0072" num="0072">First, the above-described microorganism is cultured. The obtained cells are frozen in liquid nitrogen, followed by physical disruption using, for example, a mortar. From the obtained fine powdery cell debris, chromosomal DNA is extracted according to a general method using a commercially available DNA extraction kit or the like. Then, a total RNA fraction is extracted from the cell debris according to a general method by using a commercially available RNA extraction kit or the like. Then, RNA is collected from this extract through ethanol precipitation. If necessary, a commercially available Oligo dT column is used to fractionate RNA having a poly-A chain according to a general method.</p>
+<p id="p0073" num="0073">Next, the oxidase produced from the above-mentioned microorganism is purified, isolated and sequenced to determine the N-terminal amino acid sequence thereof. The obtained peptide fragment is digested with trypsin or lysyl-end peptidase to give a peptide fragment, and the amino acid sequence thereof (i.e., the internal amino acid sequence) is determined. Then, considering the information of the obtained partial amino acid sequence and the codon usage frequency of the above-mentioned microorganism, primers are synthesized for PCR. These primers as well as the obtained chromosomal DNA or RNA as a template are used to perform PCR or RT-PCR,<!-- EPO <DP n="24"> --> thereby obtaining a DNA fragment coding for a part of the oxidase of the invention. Furthermore, primers are appropriately synthesized based on the nucleotide sequence of the obtained DNA fragment.</p>
+<p id="p0074" num="0074">Next, using the above-mentioned primers and RNA, cDNA containing the fragment of the present gene is amplified by a suitable RT-PCR method such as the 5'-RACE or 3'-RACE method. The amplified products are linked to obtain cDNA containing a full-length gene. RT-PCR using the RNA as a template and synthesized primers complementary to the 5'- and 3'-terminal sequences can amplify cDNA containing the present gene.</p>
+<p id="p0075" num="0075">The amplified DNA can be cloned following a general method. The amplified DNA is inserted into a suitable vector to obtain recombinant DNA. For cloning, a commercially available kit such as TA Cloning Kit (available from Invitrogen), plasmid vector DNA such as pUC119 (available from Takara Bio Inc.), pBR322 (available from Takara Bio Inc.), pMAL-C2 (available from New England Labs), pBluescript II SK<sup>+</sup> (available from Stratagene) and pKK223-3 (available from Amersham Bioscience K.K.), bacteriophage vector DNA such as λENBL3 (available from Stratagene) and XDASH II (available from Funakoshi Co., Ltd.), and the like can be used.</p>
+<p id="p0076" num="0076">The thus-obtained recombinant DNA is used to transform or transduce, for example, <i>E. coli</i> K12, preferably <i>E. coli</i> JM109 (available from Toyobo Co., Ltd.), DH5α (available from Toyobo Co., Ltd.), XL1-Blue (available from Funakoshi Co., Ltd.) and the like, thereby obtaining a transformant or a transductant containing the recombinant DNA. Transformation can be performed, for example, according to the method by <nplcit id="ncit0011" npl-type="s"><text>D.M. Morrison (Methods in Enzymology, 68, 326-331, 1979</text></nplcit>). Transduction can be performed, for example, according to the method by <nplcit id="ncit0012" npl-type="s"><text>B. Hohn (Methods in Enzymology, 68, 299-309, 1979</text></nplcit>). As a host cell, microorganisms other than <i>E. coli,</i> for example, other bacteria, yeasts, filamentous fungi or actinomycetes, or animal cells may be used.<!-- EPO <DP n="25"> --></p>
+<p id="p0077" num="0077">The total nucleotide sequence of the above-described amplified DNA may be analyzed by using, for example, LI-COR MODEL 4200L sequencer (LI-COR, Inc.) or 370A DNA sequence system (Perkin Elmer). The nucleotide sequence is compared with information of the partial amino acid sequences so as to confirm whether or not the present gene is obtained. By analyzing the obtained gene, the translated polypeptide, namely, the amino acid sequence of the oxidase, is determined.</p>
+<p id="p0078" num="0078">Examples of the genes include genes containing DNA comprising a nucleotide sequence represented by SEQ ID NO: 2 or 4. Plasmid pKK223-3-CFP containing DNA comprising a nucleotide sequence represented by SEQ ID NO: 2 was deposited at the International Patent Organism Depositary, the National Institute of Advanced Industrial Science and Technology, an Independent Administrative Institution under the Ministry of Economy, Trade and Industry, AIST Tsukuba Central 6, Higashi 1-1-1, Tsukuba, Ibaraki, Japan as FERM BP-8132, while plasmid puc-EFP containing DNA comprising a nucleotide sequence represented by SEQ ID NO: 4 was deposited at the AIST as FERM BP-8131.</p>
+<p id="p0079" num="0079">The above-mentioned genes may be modified to give various modified oxidases of the invention.</p>
+<p id="p0080" num="0080">In order to modify the above-mentioned genes, any known method may be used, for example, a method in which the above-mentioned recombinant DNA is brought into contact with a chemical mutation agent such as hydroxylamine or nitrous acid, a point mutation method for random modification using a PCR method, a well-known site-directed mutagenesis for site-specific substitution or deletion using a commercially available kit, a method in which the recombinant DNA is selectively cleaved, a selected oligonucleotide is then removed from or added thereto, followed by linking (i.e., an oligonucleotide mutagenesis method). Then, the treated recombinant<!-- EPO <DP n="26"> --> DNA is purified using desalting column, QIAGEN (available from Qiagen) or the like to obtain various recombinant DNAs.</p>
+<p id="p0081" num="0081">Through these modifications, for example, the following genes can be obtained: the genes containing DNA which hybridizes under stringent conditions with DNA comprising a nucleotide sequence complementary to a full-length or 15 or more consecutive bases of the DNA comprising the nucleotide sequence represented by SEQ ID NO: 2 or 4 and which codes for a protein having a fructosyl peptide oxidase activity; or the genes containing DNA which indicates 80% or higher homology with a full-length or 15 or more consecutive bases of the DNA comprising the nucleotide sequence represented by SEQ ID NO: 2 or 4, and which codes for a protein having a fructosyl peptide oxidase activity.</p>
+<p id="p0082" num="0082">Furthermore, by modifying the genes, for example, the following oxidases can be obtained: a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to several amino acids relative to the amino acid sequence represented by SEQ ID NO: 1 or 3, and having a fructosyl peptide oxidase activity; or a protein having 80% or higher homology with the amino acid sequence represented by SEQ ID NO: 1 or 3, and having a fructosyl peptide oxidase activity.</p>
+<p id="p0083" num="0083">Next, the transformant or transductant including the above-described recombinant DNA is cultured in a medium, and fructosyl peptide oxidase is collected from the culture. In general, the transformant or transductant is cultured by using a medium suitable for growing a host used. For example, when <i>E. coli</i> is used as a host, the transformant is seeded in 10L LB medium, and cultured using a jar fermenter at 30°C for 24 hours with an air flow of 1 L/min and an agitation rate of 600 rpm. The obtained 10 L culture is centrifuged at 7,000 rpm for 10 minutes, thereby collecting and obtaining cells. From the obtained cells, the enzyme can be obtained according to the above-described methods.<!-- EPO <DP n="27"> --></p>
+<heading id="h0014"><u>Examples</u></heading>
+<p id="p0084" num="0084">Hereinafter, the present invention will be described in more detail with reference to the Experimental Example and Examples described below, although the technical scope of the present invention is not limited to these Examples.</p>
+<heading id="h0015"><u>Experimental Example 1: Search for microorganism capable of producing the inventive oxidase</u></heading>
+<p id="p0085" num="0085">Soil-derived microorganisms and deposited microorganisms provided by microorganism collection organizations were used for the search. Soil-derived microorganisms were isolated from about 100 soil samples obtained at different places in and around Noda-City (Chiba) and Tsukuba-City (Ibaraki). Particularly, one small spatula of each soil sample was grown by shake-culture on a enrichment medium (0.5% yeast extract, 0.2% potassium dihydrogenphosphate, 0.05% magnesium sulfate, 0.1% fructosyl valyl histidine, pH 6.5) at 30°C for one day, and microorganisms were isolated on a plate medium (enrichment medium + 1.2% agar). About 5,000 strains were isolated, most of which were bacteria and yeast. Deposited strains used included 380 strains of yeast, 480 strains of filamentous fungi and 700 strains of actinomycetes.</p>
+<p id="p0086" num="0086">Soil-derived bacteria and yeast were inoculated on 3 ml of the above-described enrichment medium, filamentous fungi were inoculated on 3 ml of enzyme inducible medium 1 (0.1% yeast extract, 0.1% malt extract, 0.1% potassium dihydrogenphosphate, 0.05% magnesium sulfate, 0.1% fructosyl valyl histidine, pH 7.3) and actinomycetes were inoculated on 3 ml of enzyme-induction media 2 (0.2% dry yeast, 1.25% soybean powder, 2% fructosyl valyl histidine). Soil-derived microorganisms were grown by shake-culture for 24 hours while yeast, filamentous fungi and actinomycetes were grown by shake-culture for 3-5 days at 30°C. Each culture solution was centrifuged at 3,000 rpm for 10 minutes to obtain cells. Next, cells were suspended in a lysis buffer (100mM phosphate buffer (pH 8), 1mM EDTA, 1 mg/ml lysozyme, 0.5 mM PMSF), disrupted by, for example, ultrasonication (1-3 minutes) or using a Physcotron (50 power, 30 seconds, twice, available from Microtec Nition Co., Ltd.), added with Triton X-100 to a final concentration of 0.5%, and<!-- EPO <DP n="28"> --> centrifuged at 15,000 rpm, 4°C for 10 minutes to collect supernatant as crude enzyme solution. Each of the crude enzyme solutions obtained was examined for the presence or absence of fructosyl peptide oxidase activity by the above-described activity assay to select 19 strains with the same activity, all of which were filamentous fungi. Particularly, these filamentous fungi included <i>Achaetomiella</i> (1 strain), <i>Achaetomium</i> (8 strains), <i>Thielavia</i> (1 strain), <i>Chaetomium</i> (2 strains), <i>Gelasinospora</i> (1 strain), <i>Microascus</i> (1 strain), <i>Coniochaeta</i> (1 strain), and <i>Eupenicillium</i> (4 strains).</p>
+<heading id="h0016"><u>Example 1: Preparing the inventive oxidase produced by the filamentous fungus belonging to the genus</u> <i>Achaetomiella</i></heading>
+<p id="p0087" num="0087"><i>Achaetomiella virescens</i> ATCC 32393 was inoculated on 0.05L of a medium (0.4% yeast extract, 1% malt extract, 2% glucose, 0.1% tryptone, 0.1% potassium dihydrogenphosphate, 0.05% magnesium sulfate, pH 7) contained in a 0.15L Erlenmeyer flask, and grown by rotary shaking culture at 120 rpm, 30°C for 3 days. Next, the culture solution (seed) was dispensed (10mL/flask) into 5L Erlenmeyer flasks (each containing 1L of the above-described medium) and grown by rotary shaking culture at 90 rpm, 30°C for 4 days. Cells were collected from the culture solution using a Buchner funnel with a filter. The cells obtained were frozen for storage at - 80°C.</p>
+<p id="p0088" num="0088">Frozen cells (collected from 6L of culture solution) were suspended in 1L of buffer A (0.4M sodium chloride, 20mM phosphate buffer, 1mM EDTA, 5% glycerol, 0.5mM PMSF, pH 8), and disrupted by a French press. Solution containing disrupted cells was centrifuged at 9,000 rpm for 15 minutes, and supernatant was loaded on a DEAE Sepharose FF (available from Amersham Biotech) column (5 cm x 18 cm) pre-equilibrated with buffer A. Additionally, 500 ml of buffer A was added, and the whole elution solution was collected. The elution solution was added slowly with ammonium sulfate to 40% saturation to precipitate an excess amount of protein. The solution was left to stand at 4°C overnight, and then centrifuged at 9,000 rpm, 4°C for 15 minutes. Next, ammonium sulfate was added slowly to supernatant to 65% saturation to precipitate the protein of interest. The supernatant solution was left to stand at 4°C overnight, and centrifuged at 9,000 rpm, 4°C for 15 minutes to collect precipitant.</p>
+<p id="p0089" num="0089">The precipitant was dissolved in 30 ml of buffer B (10mM Tris-HCl, 0.2mM<!-- EPO <DP n="29"> --> EDTA, 1% glycerol, pH 8.6), desalted with PD-10 (available from Amersham Biotech), and then applied to a Q Sepharose FF (available from Amersham Biotech) column (2.5 cm x 15 cm) pre-equilibrated with buffer B. The gel was washed with 150 ml of buffer B and eluted with a linear gradient from buffer B to buffer C (150mM sodium chloride, 50mM Tris-HCl, 1mM EDTA, 5% glycerol, pH 8.6). Active fraction was eluted at about 0.08M sodium chloride.</p>
+<p id="p0090" num="0090">The eluted active fraction was concentrated in CentriPrep 10 (available from Amicon), dialyzed, and loaded on TSK gel super Q (available from Tosoh Co., Ltd.). Elution was performed using a linear gradient from buffer B to buffer C. Activity was monitored at 280 nm using a flow rate of 1ml/min. Active fraction was eluted at about 0.08M sodium chloride.</p>
+<p id="p0091" num="0091">The active fraction obtained was concentrated in Microcon 10 (available from Amicon), and loaded on a POROS PE (available from Perceptive Biosystems). Elution was performed using a linear gradient from buffer D (2M ammonium sulfate, 20mM phosphate buffer, 1mM EDTA, 5% glycerol, pH 7) to buffer E (20mM phosphate buffer, 1mM EDTA, 5% glycerol, pH 8). Activity was monitored at 280 nm using a flow rate of 2 ml/min. Active fraction was eluted at about 1M ammonium sulfate. The active fraction obtained was analyzed by SDS-PAGE to obtain a single band (molecular weight = about 52,000). The active fraction obtained was used to determine the following physiochemical properties.</p>
+<heading id="h0017"><u>Example 2: Physiochemical properties of the inventive oxidase produced by filamentous fungus belonging to the genus <i>Achaetomiella</i></u></heading>
+<p id="p0092" num="0092">The physiochemical properties of the inventive oxidase obtained in Example 1 will be described below.</p>
+<heading id="h0018">(a) Activity and substrate specificity</heading>
+<p id="p0093" num="0093">The activity of the inventive oxidase was assayed by the above-described enzyme activity assay using, as substrate, fructosyl valyl histidine, fructosyl glycine or ε-fructosyl lysine. The inventive oxidase had 42% relative activity for fructosyl valyl histidine and 18% for fructosyl glycine when compared to 100% activity for ε-fructosyl lysine.</p>
+<heading id="h0019">(b) Optimum pH</heading><!-- EPO <DP n="30"> -->
+<p id="p0094" num="0094">Enzyme reaction was monitored in 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 6.8-9.0), 200mM potassium phosphate buffer (pH 6.5-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C. The results are shown in <figref idref="f0001">Figure 1</figref>. The inventive oxidase exhibited its maximum activity (100%) at pH 8.0 and relative activities of 70% or higher at pH 7.0-8.0. From these results, the optimum pH for the inventive oxidase was determined to be pH 7.0-8.0, and most preferably pH 8.0.</p>
+<heading id="h0020">(c) Km value for fructosyl valyl histidine</heading>
+<p id="p0095" num="0095">In the above-described activity assay, the activity of the oxidase was monitored using different concentrations of fructosyl valyl histidine (substrate), and Michaelis constant (Km) was determined from a Lineweaver-Burk plot. The Km value for fructosyl valyl histidine was found to be 2.3 mM.</p>
+<heading id="h0021">(d) Optimum temperature range</heading>
+<p id="p0096" num="0096">The activity of the inventive oxidase was assayed at different temperatures using reactions which consisted of the same compositions as those used in the above-described activity assay. The results are shown in <figref idref="f0002">Figure 3</figref>. The enzyme exhibited its maximum activity (100%) at around 40°C and relative activities of 50% or higher at from 30 to 45°C.</p>
+<p id="p0097" num="0097">From these results, the optimum temperature range of the inventive oxidase was determined to be 30-45°C.</p>
+<heading id="h0022">(e) Thermostability</heading>
+<p id="p0098" num="0098">The thermostability of the inventive oxidase following a treatment with 200mM potassium phosphate buffer (pH 8.0) at different temperatures for 10 minutes is shown in <figref idref="f0003">Figure 4</figref> which illustrates that the inventive oxidase remained stable up to about 50°C.</p>
+<heading id="h0023">(f) Stable pH range</heading>
+<p id="p0099" num="0099">The inventive oxidase was treated with 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 6.8-9.0), 200mM potassium phosphate buffer (pH 6.5-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C for 10 minutes, and its remaining activity was determined. The results are shown in <figref idref="f0001">Figure 2</figref>. The inventive oxidase exhibited its maximum activity (100%) at around pH 7.0 and remaining activities of 70% or higher at pH 6.0-9.0.<!-- EPO <DP n="31"> --></p>
+<p id="p0100" num="0100">From these results, the stable pH range for the inventive oxidase was determined to be pH 6.0-9.0.</p>
+<heading id="h0024">(g) Molecular weight</heading>
+<p id="p0101" num="0101">Molecular weight was determined by SDS-PAGE on Multigel 10/20 (available from DAIICHI PURE CHEMICALS CO., LTD.). The molecular weight of the inventive oxidase was determined to be about 52,000.</p>
+<heading id="h0025">(h) Identifying reaction product</heading>
+<p id="p0102" num="0102">Reaction solution was assayed by HPLC to identify reaction products. First, 50 <i>µ</i>l of reaction solution (2mM fructosyl valyl histidine, 5mM phosphate buffer (pH 8.0), 0.003U of the inventive oxidase) was incubated at 37°C for 2 hours, diluted (10x) and then assayed for the reaction products in a TSK gel Amide-80 column (available from Tosoh Co., Ltd.) . As a control, the same procedure was repeated except for using a buffer instead of the enzyme. As a result, a peak was detected only for fructosyl valyl histidine in the control case, while in the enzyme case a peak was detected only for valyl histidine and no peak was detected for fructosyl valyl histidine. From these results, it was confirmed that the inventive oxidase catalyzes the decomposition of fructosyl valyl histidine to produce valyl histidine. Further, it was suggested that this reaction cleaved an α-ketoamine bond, as in the glycated amino acid oxidase reaction.</p>
+<heading id="h0026"><u>Example 3: Comparison of thermostability</u></heading>
+<p id="p0103" num="0103">The thermostability of the inventive oxidase produced by the filamentous fungus belonging to the genus <i>Achaetomiella</i> was compared to that of the oxidase disclosed in Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0034" dnum="JP2001095598A"><text>2001-95598</text></patcit>. <i>E. coli</i> strain DH5α (pFP1) (FERM BP-7297) which produces the oxidase disclosed in Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0035" dnum="JP2001095598A"><text>2001-95598</text></patcit> was inoculated on 10ml of LB-amp medium (1% bactotryptone, 0.5% bactoyeast extract, 0.5% sodium chloride, 50 µg/mL ampicillin, pH 7), and grown by reciprocal shaking culture at 120 rpm, 30°C for 20 hours. The resultant culture solution was centrifuged at 12,000 rpm for 10 minutes to collect cells which were then suspended in 10 ml of lysis buffer (50mM phosphate buffer, 1mM EDTA, 5% glycerol, 0.5mM PMSF, pH 8), and then disrupted by ultrasonication. The suspension containing disrupted cells was centrifuged at 12,000 rpm for 10 minutes and supernatant obtained was used as crude enzyme<!-- EPO <DP n="32"> --> solution. The crude enzyme solution was treated with 200mM potassium phosphate buffer (pH 8.0) at 45°C for 10 minutes, and then assayed for its activity using fructosyl valyl histidine as the substrate. No activity was detected. These results show that the oxidase disclosed in Japanese Patent Application Laid-Open (kohyo) No. <patcit id="pcit0036" dnum="JP2001095598A"><text>2001-95598</text></patcit> exhibited a low thermostability, which is disadvantageous in that it may not be stable during storage when it is formulated into a reagent (an enzyme) contained in a kit for clinical diagnosis. On the other hand, the inventive oxidase exhibited, as described above, an extremely high thermostability with 80% or higher activity following a heat treatment at 45°C for 10 minutes.</p>
+<heading id="h0027"><u>Example 4: The inventive oxidases produced by filamentous fungi</u></heading>
+<p id="p0104" num="0104">Among the filamentous fungi obtained in the search described in Experimental Example 1 above, the above-listed filamentous fungi, <i>Achaetomiella</i> (1 strain), <i>Achaetomium</i> (8 strains), <i>Thielavia</i> (1 strain), <i>Chaetomium</i> (2 strains), <i>Gelasinospora</i> (1 strain), <i>Microascus</i> (1 strain), <i>Coniochaeta</i> (1 strain) and <i>Eupenicillium</i> (1 strain) were used to produce the inventive oxidases. Next, the physiochemical properties of these oxidases were determined. The results are shown in Tables 1 and 2. Each of these 16 strains was cultured on 3 ml of the above-described enzyme inducible medium 1 at 30°C for 4 days and cells were then collected. The cells collected were suspended in 0.9 ml of lysis buffer, disrupted by using a Physcotron and by ultrasonication, added with Triton X-100 to a final concentration of 0.5%, and then centrifuged at 15,000 rpm, 4°C for 10 minutes to collect supernatant which was then used as crude enzyme sample. Each of the crude enzyme samples obtained was examined for its activity for fructosyl valyl histidine (FVH), fructosyl glycine (FG) or ε-fructosyl lysine (sFL). For comparison, activities of each enzyme are shown as % relative activities when compared to its activity for ε-fructosyl lysine (100%). Each crude enzyme sample was heat-treated at 45°C for 10 minutes, and then its activity for fructosyl valyl histidine was determined and compared to the activity before treatment. As shown in Tables 1 and 2, all of these sample strains showed activities on fructosyl valyl histidine though with different levels of activity per medium. Although these samples obtained from different strains exhibited slightly different substrate specificities, the inventive oxidases produced by <i>Eupenicillium terrenum</i> ATCC 18547 and <i>Coniochaeta</i> sp. NISL<!-- EPO <DP n="33"> --> 9330 (FERM BP-7798) exhibited particularly preferable properties in that they acted well on fructosyl valyl histidine but less on ε-fructosyl lysine. It was found that the inventive oxidases produced by <i>Achaetomiella virescens</i> ATCC 32393 and <i>Chaetomium</i> sp. NISL 9335 (FERM BP-7799) exhibit a relatively strong action on fructosyl valyl histidine. It was also shown that under the above-described heat-treatment conditions, the inventive oxidase samples produced by 12 out of 16 strains exhibited remaining activities of 100% or higher while those produced by the remaining 4 strains exhibited 80-100% remaining activities, which indicated that all of the oxidase samples produced by those 16 strains had extremely high stability.
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<title><b><u>Table 1</u></b></title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="59mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="14mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="31mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top">Strain</entry>
+<entry morerows="1" valign="top">Activity per medium (U/L)</entry>
+<entry namest="col3" nameend="col5" align="left" valign="top">Substrate specificity (% relative activity)</entry>
+<entry morerows="1" valign="top">Thermostability (%)</entry></row>
+<row>
+<entry valign="top">FVH</entry>
+<entry valign="top">FG</entry>
+<entry valign="top">eFL</entry></row></thead>
+<tbody>
+<row>
+<entry valign="bottom"><i>Thielavia novoquineensis</i> NISL 9334</entry>
+<entry valign="bottom">0.9</entry>
+<entry valign="bottom">17</entry>
+<entry valign="bottom">10</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">100</entry></row>
+<row>
+<entry valign="bottom"><i>Chaetomium quatrangulatum</i> NISL 9329</entry>
+<entry valign="bottom">1.0</entry>
+<entry valign="bottom">8</entry>
+<entry valign="bottom">15</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">107</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium luteum</i> ATCC 18524</entry>
+<entry valign="bottom">1.6</entry>
+<entry valign="bottom">39</entry>
+<entry valign="bottom">22</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">100</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium strumarium</i> NISL 9324</entry>
+<entry valign="bottom">1.1</entry>
+<entry valign="bottom">26</entry>
+<entry valign="bottom">21</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">100</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium globosum</i> NISL 9321</entry>
+<entry valign="bottom">4.1</entry>
+<entry valign="bottom">18</entry>
+<entry valign="bottom">10</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">104</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium luteum</i> NISL 9323</entry>
+<entry valign="bottom">7.2</entry>
+<entry valign="bottom">38</entry>
+<entry valign="bottom">18</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">108</entry></row>
+<row>
+<entry valign="bottom"><i>Gelasinospora pseudoreticulata</i> NISL 9332</entry>
+<entry valign="bottom">1.2</entry>
+<entry valign="bottom">17</entry>
+<entry valign="bottom">14</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">102</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="34"> -->
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<title><b><u>Table 2</u></b></title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="53mm"/>
+<colspec colnum="2" colname="col2" colwidth="36mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="15mm"/>
+<colspec colnum="6" colname="col6" colwidth="28mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top">Stain</entry>
+<entry morerows="1" valign="top">Activity per medium (U/L)</entry>
+<entry namest="col3" nameend="col5" align="left" valign="top">Substrate specificity (% relative activity)</entry>
+<entry morerows="1" valign="top">Thermostability (%)</entry></row>
+<row>
+<entry valign="top">FVH</entry>
+<entry valign="top">FG</entry>
+<entry valign="top">εFL</entry></row></thead>
+<tbody>
+<row>
+<entry valign="bottom"><i>Achaetomiella virescens</i> ATCC 32393</entry>
+<entry valign="bottom">11.6</entry>
+<entry valign="bottom">71</entry>
+<entry valign="bottom">25</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">88</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium strumarium</i> NISL 9325</entry>
+<entry valign="bottom">20.9</entry>
+<entry valign="bottom">42</entry>
+<entry valign="bottom">24</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">107</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium strumarium</i> NISL 9326</entry>
+<entry valign="bottom">6.0</entry>
+<entry valign="bottom">15</entry>
+<entry valign="bottom">6</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">102</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium</i> sp. NISL 9327</entry>
+<entry valign="bottom">3.2</entry>
+<entry valign="bottom">26</entry>
+<entry valign="bottom">21</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">104</entry></row>
+<row>
+<entry valign="bottom"><i>Chaetomium</i> sp. NISL 9335</entry>
+<entry valign="bottom">13.2</entry>
+<entry valign="bottom">69</entry>
+<entry valign="bottom">88</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">100</entry></row>
+<row>
+<entry valign="bottom"><i>Eupenicillium terrenum</i> ATCC 18547</entry>
+<entry valign="bottom">2.8</entry>
+<entry valign="bottom">1023</entry>
+<entry valign="bottom">1862</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">100</entry></row>
+<row>
+<entry valign="bottom"><i>Microascus</i> sp. NISL 9333</entry>
+<entry valign="bottom">19.1</entry>
+<entry valign="bottom">27</entry>
+<entry valign="bottom">37</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">94</entry></row>
+<row>
+<entry valign="bottom"><i>Achaetomium</i> sp. NISL 9328</entry>
+<entry valign="bottom">19.4</entry>
+<entry valign="bottom">38</entry>
+<entry valign="bottom">21</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">80</entry></row>
+<row>
+<entry valign="bottom"><i>Coniochaeta</i> sp. NISL 9330</entry>
+<entry valign="bottom">70.1</entry>
+<entry valign="bottom">165</entry>
+<entry valign="bottom">65</entry>
+<entry valign="bottom">100</entry>
+<entry valign="bottom">80</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0028"><u>Example 5: Preparing the inventive oxidases produced by linear fungi belonging to the genera <i>Chaetomium</i> and <i>Coniochaeta</i></u></heading>
+<p id="p0105" num="0105"><i>Chaetomium</i> sp. NISL 9335 (FERM BP-7799) and <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798) cells were cultured, and the inventive oxidases were purified therefrom. Both oxidases were obtained using the same purification procedure.</p>
+<p id="p0106" num="0106">Each of the oxidases obtained was inoculated on 3 ml of a medium (0.4% yeast extract, 1% malt extract, 2% glucose, 0.1% tryptone, 0,1% potassium dihydrogenphosphate, 0,05% magnesium sulfate, pH 7) contained in a glass tube (1.6 cm (diameter) x 12.5 cm), and grown by reciprocal shaking culture at 120 rpm, 30°C for 1 day. Then, 3 ml of the culture (seed) was dispensed (3 ml/flask) into 1L Erlenmeyer flasks each containing 0.4L of the above-described medium, and grown by rotary shaking culture at 130 rpm, 30°C for 4 days. Cells were collected from the culture solution by filtration using a Buchner funnel with a filter or by centrifugation at 12,000 rpm for 10 minutes. The cells obtained were frozen for storage at -80°C.</p>
+<p id="p0107" num="0107">Frozen cells (collected from 0.4L of culture solution) were suspended in 0.025 L of buffer A, and disrupted by a French press. The suspension containing disrupted cells was centrifuged at 12,000 rpm for 10 minutes, and ammonium sulfate was added<!-- EPO <DP n="35"> --> slowly to the supernatant to 65% saturation to precipitate the protein of interest. The supernatant solution was left to stand at 4°C overnight, and centrifuged at 12,000 rpm for 10 minutes to collect precipitant.</p>
+<p id="p0108" num="0108">The precipitant was then dissolved in 5 ml of buffer D and centrifuged at 15,000 rpm for 10 minutes to give a supernatant which was then subjected to POROS PE. Elution was performed using a linear gradient from buffer D to buffer E. Activity was monitored at 280 nm using a flow rate of 2ml/min. Active fractions were eluted at about 0.25 M ammonium sulfate for both of the enzymes. Both of the active fractions obtained were concentrated and demineralized in Microcon 10 (available from Amicon) and used to determine their physiochemical properties as described below.</p>
+<heading id="h0029"><u>Example 6: The physiochemical properties of the inventive oxidase produced by <i>Chaetomium</i> sp.</u></heading>
+<p id="p0109" num="0109">The physiochemical properties of the inventive oxidase produced by <i>Chaetomium</i> sp. NISL 9335 (FERM BP-7799) obtained in Example 5 will be described below.</p>
+<heading id="h0030">(a) Activity and substrate specificity</heading>
+<p id="p0110" num="0110">The activity of the inventive oxidase was assayed by the above-described enzyme activity assay using, as substrate, fructosyl valyl histidine, fructosyl glycine or ε-fructosyl lysine. The inventive oxidase exhibited 40% relative activity for fructosyl valyl histidine and 28% for fructosyl glycine when compared to 100% activity for ε-fructosyl lysine.</p>
+<heading id="h0031">(b) Optimum pH</heading>
+<p id="p0111" num="0111">Enzyme reaction was monitored in 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 6.8-9.0), 200mM potassium phosphate buffer (pH 6.5-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C. The results are shown in <figref idref="f0004">Figure 5</figref>. The inventive oxidase exhibited its maximum activity at pH 8.0. It still exhibited relative activities of 70% or higher at pH 6.0-8.0 when compared to the maximum activity (100%) at around pH 8.0. From these results, the optimum pH for the inventive oxidase was determined to be pH 6.0-8.0, and most preferably pH 8.0.</p>
+<heading id="h0032">(c) Optimum temperature range</heading><!-- EPO <DP n="36"> -->
+<p id="p0112" num="0112">The activity of the inventive oxidase was assayed at different temperatures using reaction solutions which consisted of the same compositions as those used in the above-described activity assay. The results are shown in <figref idref="f0005">Figure 7</figref>. The enzyme exhibited its maximum activity (100%) at around 37°C and relative activities of 60% or higher at from 20 to 45°C.</p>
+<p id="p0113" num="0113">From these results, the optimum temperature range of the inventive oxidase was determined to be from 20 to 45°C.</p>
+<heading id="h0033">(d) Thermostability</heading>
+<p id="p0114" num="0114">The inventive oxidase was treated with 200 mM potassium phosphate buffer (pH 8.0) at different temperatures for 10 minutes and the thermostability thereof was determined. The results are shown in <figref idref="f0006">Figure 8</figref> which illustrates that the inventive oxidase remained stable up to about 55°C.</p>
+<heading id="h0034">(e) Stable pH range</heading>
+<p id="p0115" num="0115">The inventive oxidase was treated with 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 6.8-9.0), 200mM potassium phosphate buffer (pH 6.5-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C for 10 minutes, and the remaining activity thereof was determined. The results are shown in <figref idref="f0004">Figure 6</figref>. The inventive oxidase exhibited its maximum activity at around pH 7.0 and remaining activities of 70% or higher at pH 5.0-9.0.</p>
+<p id="p0116" num="0116">From these results, the stable pH range for the inventive oxidase was determined to be pH 5.0-9.0.</p>
+<heading id="h0035"><u>Example 7: The physiochemical properties of the inventive oxidase produced by</u> <i>Coniochaeta</i> <u>sp. which has less action on</u> ε-fructosyl lysine</heading>
+<p id="p0117" num="0117">The physiochemical properties of the inventive oxidase produced by <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798) obtained in Example 5 will be described below.</p>
+<heading id="h0036">(a) Activity and substrate specificity</heading>
+<p id="p0118" num="0118">The activity of the inventive oxidase was assayed by the above-described enzyme activity assay using, as substrate, fructosyl valyl histidine, fructosyl glycine or ε-fructosyl lysine. The inventive oxidase exhibited 61% relative activity for ε-fructosyl lysine and 39% for fructosyl glycine when compared to 100% activity for<!-- EPO <DP n="37"> --> fructosyl valyl histidine, which shows that the enzyme had less action on ε-fructosyl lysine.</p>
+<heading id="h0037">(b) Optimum pH</heading>
+<p id="p0119" num="0119">Enzyme reaction was monitored in 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 6.8-9.0), 200mM potassium phosphate buffer (pH 6.5-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C. The results are shown in <figref idref="f0007">Figure 9</figref>. The inventive oxidase exhibited its maximum activity at pH 7.0. It still exhibited relative activities of 70% or higher at pH 6.0-8.0 when compared to the maximum activity (100%) obtained at around pH 7.0. From these results, the optimum pH for the inventive oxidase was determined to be pH 6.0-8.0, and most preferably pH 7.0.</p>
+<heading id="h0038">(c) Optimum temperature range</heading>
+<p id="p0120" num="0120">The activity of the inventive oxidase was assayed at different temperatures using reaction solutions which consisted of the same compositions as those used in the above-described activity assay. The results are shown in <figref idref="f0008">Figure 11</figref>. The enzyme exhibited its maximum activity (100%) at around 40°C and relative activities of 60% or higher at 20-40°C.</p>
+<p id="p0121" num="0121">From these results, the optimum temperature range of the inventive oxidase was determined to be from 20 to 40°C.</p>
+<heading id="h0039">(d) Thermostability</heading>
+<p id="p0122" num="0122">The inventive oxidase was treated with 200 mM potassium phosphate buffer (pH 8.0) at different temperatures for 10 minutes and the thermostability thereof was determined. The results are shown in <figref idref="f0009">Figure 12</figref> which illustrates that the inventive oxidase remained stable up to about 50°C.</p>
+<heading id="h0040">(e) Stable pH range</heading>
+<p id="p0123" num="0123">The inventive oxidase was treated with 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 6.8-9.0), 200mM potassium phosphate buffer (pH 6.5-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C for 10 minutes, and the remaining activity thereof was determined. The results are shown in <figref idref="f0007">Figure 10</figref>. The inventive oxidase exhibited its maximum remaining activity at around pH 7.0 and remaining activities of 70% or higher at pH 5.0-9.0.<!-- EPO <DP n="38"> --></p>
+<p id="p0124" num="0124">From these results, the stable pH range for the inventive oxidase was determined to be pH 5.0-9.0.</p>
+<heading id="h0041"><u>Example 8: Preparing the inventive oxidase produced by <i>Eupenicillium terrenum</i> which has less action on ε-fructosyl lysine</u></heading>
+<p id="p0125" num="0125"><i>Eupenicillium terrenum</i> ATCC 18547 cells were inoculated on 0.05L of a medium (0.1% yeast extract, 0.1% malt extract, 0.1% potassium dihydrogenphosphate, 0,05% magnesium sulfate, pH 7.3) contained in a 0.15L Erlenmeyer flask, and grown by rotary shaking culture at 120 rpm, 25°C for 3 days. Next, the culture (seed) was dispensed (10mL/flask) into 5L Erlenmeyer flasks (each containing 1L of the above-described medium) and grown by rotary shaking culture at 100 rpm, 25°C for 4 days. Cells were collected from the culture solution by filtration using a Buchner funnel with a filter. The cells obtained were then frozen for storage at -80°C.</p>
+<p id="p0126" num="0126">Frozen cells (collected from 6L of culture solution) were suspended in 500mL of buffer F (10mM phosphate buffer, 1mM EDTA, 5% glycerol, 0,5mM PMSF, pH 8), and disrupted by a French press. The suspension containing disrupted cells was centrifuged at 9,000 rpm for 15 minutes, and buffer F was added to the supernatant to give a crude enzyme solution (500 mL). Ammonium sulfate was then added slowly to the crude enzyme solution to 40% saturation to precipitate an excess amount of protein. The solution was then left to stand at 4°C overnight and then centrifuged at 9,000 rpm, 4°C for 15 minutes to collect supernatant. Further, ammonium sulfate was added slowly to the supernatant to 60% saturation to precipitate protein. The supernatant solution was left to stand at 4°C overnight, followed by centrifugation (9,000 rpm, 4°C, 15 minutes) to collect precipitant.</p>
+<p id="p0127" num="0127">The precipitant was dissolved in 10 ml of buffer G (10mM phosphate buffer, 1mM EDTA, 5% glycerol, 0.2M NaCl, pH 8) followed by buffer replacement with PD-10 (available from Amersham Biotech), and then applied to an UltrogelAcA34 (available from IBF Biotechnics) column (2.8 cm x 85 cm) pre-equilibrated with buffer G. The column was eluted with 1L of buffer G to collect active fraction.</p>
+<p id="p0128" num="0128">The active fraction obtained was concentrated in CentriPrep 10 (available from Amicon) followed by buffer replacement with buffer F, and then applied to a Q Sepharose FF (available from Amersham Biotech) column (1.0 cm x 8 cm).<!-- EPO <DP n="39"> --></p>
+<p id="p0129" num="0129">Elution was performed using a linear gradient from buffer H (10mM phosphate buffer, 1mM EDTA, 5% glycerol, pH 8) to buffer I (10mM phosphate buffer, 1mM EDTA, 5% glycerol, 0.5 M NaCl, pH 8).</p>
+<p id="p0130" num="0130">The active fraction obtained was again concentrated in CentriPrep 10 (available from Amicon) and then applied to POROS PE (available from Perceptive Biosystems). Elution was performed using a linear gradient from buffer D to buffer E. Protein amount was monitored at O.D. 280 nm using a flow rate of 2ml/min. Active fraction was eluted at about 0.01 M ammonium sulfate. Obtained active fraction was analyzed by SDS-PAGE to confirm a single band (molecular weight = about 53kDa). The active fraction obtained was used to determine its physiochemical properties as described below.</p>
+<heading id="h0042"><u>Example 9: The physiochemical properties of the inventive oxidase produced by <i>Eupenicillium terrenum</i> which has less action on</u> ε-fructosyl lysine</heading>
+<p id="p0131" num="0131">The physiochemical properties of the inventive oxidase produced by <i>Eupenicillium terrenum</i> ATCC 18547 which has less action on ε-fructosyl lysine were as described below.</p>
+<heading id="h0043">(a) Activity and substrate specificity</heading>
+<p id="p0132" num="0132">The activity of the inventive oxidase was assayed by the above-described enzyme activity assay using, as substrate, fructosyl valyl histidine, fructosyl glycine or ε-fructosyl lysine. The inventive oxidase with less action on ε-fructosyl lysine exhibited 182% relative activity for fructosyl glycine and 9.78% for ε-fructosyl lysine when compared to 100% activity for fructosyl valyl histidine, indicating that the inventive oxidase had high specificity for fructosyl valyl histidine and fructosyl glycine.</p>
+<heading id="h0044">(b) Optimum pH</heading>
+<p id="p0133" num="0133">Enzyme reaction was monitored in 200mM acetic acid buffer (pH 4.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 7.0-8.5), 200mM potassium phosphate buffer (pH 6.0-8.0) or 200mM glycine buffer (pH 8.0-9.0) at the indicated pH values at 30°C. The results are shown in <figref idref="f0010">Figure 13</figref>. The inventive oxidase with less action on ε-fructosyl lysine exhibited its maximum activity in potassium phosphate buffer at pH 7.0. It still exhibited relative activities of 70% or higher in the same buffer<!-- EPO <DP n="40"> --> at pH 6.0-8.0 when compared to the maximum activity (100%) at around pH 7.0. From these results, the optimum pH for the inventive oxidase with less action on ε-fructosyl lysine was determined to be pH 6.0-8.0, and most preferably pH 7.0.</p>
+<heading id="h0045">(c) Km value for fructosyl valyl histidine</heading>
+<p id="p0134" num="0134">In the above-described activity assay, activity was monitored using different concentrations of fructosyl valyl histidine (substrate), and Michaelis constant (Km) was determined from a Lineweaver-Burk plot. The Km value of the enzyme for fructosyl valyl histidine was found to be 4.25 mM.</p>
+<heading id="h0046">(d) Optimum temperature range</heading>
+<p id="p0135" num="0135">The activity of the inventive oxidase was assayed at different temperatures using reaction solutions which consisted of the same compositions as those used in the above-described activity assay. The results are shown in <figref idref="f0011">Figure 15</figref>. The enzyme exhibited its maximum activity (100%) at around 35°C and relative activities of 60% or higher at from 25 to 40°C.</p>
+<p id="p0136" num="0136">From these results, the optimum temperature range of the inventive oxidase with less action on ε-fructosyl lysine was determined to be 25-40°C.</p>
+<heading id="h0047">(e) Thermostability</heading>
+<p id="p0137" num="0137">The inventive oxidase was treated with 200mM potassium phosphate buffer (pH 8.0) at different temperatures for 10 minutes and the remaining activity thereof was monitored. The results are shown in <figref idref="f0012">Figure 16</figref> which illustrates that the inventive oxidase with less action on ε-fructosyl lysine exhibited high stability, with approximately 100% remaining activity up to about 45°C.</p>
+<heading id="h0048">(f) Stable pH range</heading>
+<p id="p0138" num="0138">The inventive oxidase was treated with 200mM acetic acid buffer (pH 3.0-6.0), 200mM MES-NaOH (pH 6.0-7.0), 200mM Tris buffer (pH 7.0-8.5), 200mM potassium phosphate buffer (pH 6.0-8.0) or 200mM glycine buffer (pH 8.0-12.0) at the indicated pH values at 30°C for 10 minutes, and the remaining activity thereof was monitored. The results are shown in <figref idref="f0010">Figure 14</figref>. The inventive oxidase exhibited its maximum activity in potassium phosphate buffer at pH 8.0 and remaining activities of 60% or higher at pH 6.0-9.0.</p>
+<p id="p0139" num="0139">From these results, the stable pH range for the inventive oxidase with less action on ε-fructosyl lysine was determined to be pH 6.0-9.0.<!-- EPO <DP n="41"> --></p>
+<heading id="h0049">(g) Molecular weight</heading>
+<p id="p0140" num="0140">Molecular weight was determined by SDS-PAGE using Multigel 10/20 (available from DAIICHI PURE CHEMICALS CO., LTD.). The molecular weight of inventive oxidase with less action on ε-fructosyl lysine was about 53,000.</p>
+<heading id="h0050">(h) Identifying reaction product</heading>
+<p id="p0141" num="0141">Reaction solution was assayed by HPLC to identify reaction products. First, 50 µl of reaction solution (2mM fructosyl valyl histidine, 5mM phosphate buffer (pH 8.0), 0.003U of the inventive oxidase) was incubated at 37°C for 2 hours, diluted (10x) and then assayed for the reaction products in a TSK gel Amide-80 column (available from Tosoh Co., Ltd.). Similarly, a control sample was obtained by using a buffer instead of the enzyme and assayed. As a result, a peak was detected only for fructosyl valyl histidine in the control sample, while in the enzyme sample a peak was detected only for valyl histidine with no peak detected for fructosyl valyl histidine. From these results, it was confirmed that the inventive oxidase catalyzes the decomposition of fructosyl valyl histidine to produce valyl histidine. Further, it was suggested that this reaction cleaved an α-ketoamine bond, as in the glycated amino acid oxidase reaction.</p>
+<heading id="h0051"><u>Example 10: The inventive oxidases produced by filamentous fungi belonging to the genus <i>Eupenicillium</i> which have less action on ε-fructosyl lysine</u></heading>
+<p id="p0142" num="0142">Among the inventive filamentous fungi selected in Experimental Example 1, in addition to <i>Eupenicillium terrenum</i> ATCC 18547, three strains of filamentous fungi belonging to the genus <i>Eupenicillium</i> were obtained which produce the inventive oxidases with less action on ε-fructosyl lysine. These filamentous fungi belonging to the genus <i>Eupenicillium</i> (i.e., <i>Eupenicillium terrenum</i> ATCC 18547, <i>Eupenicillium senticosum</i> IFO 9158, <i>Eupenicillium idahoense</i> IFO 9510, and <i>Eupenicillium euglaucum</i> IFO 31729) were used to prepare the inventive oxidases with less action on ε-fructosyl lysine. The physiochemical properties of the oxidases obtained were then assayed. The results are shown in Table 3.</p>
+<p id="p0143" num="0143">Each of the above-described 4 strains was cultured on the above-described enzyme induction media 1 (3 ml) at 30°C for 4 days and then cells were collected. The cells obtained were suspended in 0.9 ml of a lysis buffer, disrupted by using a Physcotron and by ultrasonication, added with Triton X-100 to a final concentration of<!-- EPO <DP n="42"> --> 0.5%, and centrifuged at 15,000 rpm, 4°C for 10 minutes to collect supernatant (crude enzyme sample). Each of the crude enzyme samples obtained was assayed for its activity for fructosyl valyl histidine (FVH), fructosyl glycine (FG) or ε-fructosyl lysine (εFL). The activities were indicated as % relative activities when compared to the activity for fructosyl valyl histidine (100%). Moreover, each crude enzyme sample was heat-treated at 45°C for 10 minutes and its activity for fructosyl valyl histidine was assayed. The results were compared to the activity obtained before heat-treatment. As shown in Table 3, all the strain samples tested acted on fructosyl valyl histidine and fructosyl glycine, although the level of activity per medium was different depending on the strains. Particularly, two out of the four stains exhibited 2-fold or higher activities, one exhibited 3-fold or higher activity, and the remaining one exhibited even 10-fold or higher activity for fructosyl valyl histidine when compared to their activities for ε-fructosyl lysine. Under the above-described heat-treatment conditions, all of the inventive oxidase samples obtained from the 4 strains exhibited remaining activities of 90% or higher, indicating that they are very stable.
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title><b><u>Table 3</u></b></title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="49mm"/>
+<colspec colnum="2" colname="col2" colwidth="35mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<colspec colnum="4" colname="col4" colwidth="18mm"/>
+<colspec colnum="5" colname="col5" colwidth="18mm"/>
+<colspec colnum="6" colname="col6" colwidth="31mm"/>
+<thead>
+<row>
+<entry morerows="1" valign="top">Strain</entry>
+<entry morerows="1" valign="top">Activity per medium (U/L)</entry>
+<entry namest="col3" nameend="col5" align="left" valign="top">Substrate specificity (% Relative activity)</entry>
+<entry morerows="1" valign="top">Thermostability (%)</entry></row>
+<row>
+<entry valign="top">FVH</entry>
+<entry valign="top">FG</entry>
+<entry valign="top">εFL</entry></row></thead>
+<tbody>
+<row>
+<entry><i>Eupenicillium terrenum</i> ATCC 18547</entry>
+<entry>2.8</entry>
+<entry>100</entry>
+<entry>182</entry>
+<entry>9.78</entry>
+<entry>100</entry></row>
+<row>
+<entry><i>Eupenicillium senticosum</i> IFO 9158</entry>
+<entry>0.52</entry>
+<entry>100</entry>
+<entry>83.1</entry>
+<entry>30.8</entry>
+<entry>92.9</entry></row>
+<row>
+<entry><i>Eupenicillium idahoense</i> IFO 9510</entry>
+<entry>0.25</entry>
+<entry>100</entry>
+<entry>86.1</entry>
+<entry>41.0</entry>
+<entry>90.0</entry></row>
+<row>
+<entry><i>Eupenicillium euglaucum</i> IFO 31729</entry>
+<entry>0.095</entry>
+<entry>100</entry>
+<entry>83.3</entry>
+<entry>38.9</entry>
+<entry>116</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0052"><u>Example 11: Reaction of the inventive oxidase with products obtained by treatment of glycated peptide with protease</u></heading>
+<p id="p0144" num="0144">Glycated hemoglobin (HbA<sub>1c</sub>) may be treated with endoproteinase Glu-C to liberate α-glycated hexapeptide (fructosyl Val-His-Leu-Thr-Pro-Glu) from the glycated hemoglobin β-chain (<nplcit id="ncit0013" npl-type="s"><text>Clin. Chem., 43; 10 1944-1951, 1997</text></nplcit>). Fructosyl Val-His-Leu-Thr-Pro-Glu<!-- EPO <DP n="43"> --> (available from PEPTIDE INSTITUTE, INC), which is the same substance as the α-glycated hexapeptide, was used in the following experiment.</p>
+<heading id="h0053"><u>(1) Preparation of reagents</u></heading>
+<heading id="h0054">(A) 20 mM α-glycated hexapeptide</heading>
+<p id="p0145" num="0145">α-glycated hexapeptide (fructosyl Val-His-Leu-Thr-Pro-Glu, MW=856, available from PEPTIDE INSTITUTE, INC) (3.434 mg) was dissolved in 0.2 ml of water.</p>
+<heading id="h0055">(B) Protease</heading>
+<p id="p0146" num="0146">Molsin (15 mg, available from Kikkoman Corp.) was dissolved in 0.2 ml of buffer (10mM acetate buffer, pH 3.0)</p>
+<heading id="h0056">(C) 0.2 M acetate buffer, pH 3.0</heading>
+<heading id="h0057">(D) Reaction substrate</heading>
+<heading id="h0058">(a) Products obtained by digesting α-glycated hexapeptide with protease</heading>
+<p id="p0147" num="0147">A (100 µl), B (5 µl) and C (5 µl) were mixed in a microtube and incubated at 37°C for 17 hours. The reaction solution was then filtered using Microcon 10 (available from Amicon) to remove protease.</p>
+<heading id="h0059">(b) 20mM fructosyl glycine (control)</heading>
+<p id="p0148" num="0148">Fructosyl glycine (4.5 mg) was dissolved in 1 ml of water.</p>
+<heading id="h0060">(E) Developer solution</heading>
+<p id="p0149" num="0149">Developer solution consisted of the following materials:
+<ul id="ul0003" list-style="none" compact="compact">
+<li>5 µl of 10 mg/ml 4-aminoantipyrine;</li>
+<li>7.5 µl of 2% 2,4-dichlorophenol sulfate;</li>
+<li>1 µl of 3300 U/ml peroxidase;</li>
+<li>100 µl of 1M phosphate buffer (pH 8); and</li>
+<li>286.5 µl of water.</li>
+</ul></p>
+<heading id="h0061">(F) The inventive oxidases</heading>
+<p id="p0150" num="0150">
+<ol id="ol0010" compact="compact" ol-style="">
+<li>(a) Enzyme purified from <i>Achaetomiella virescens</i> ATCC 32393</li>
+<li>(b) Enzyme purified from <i>Eupenicillium terrenum</i> ATCC 18547</li>
+<li>(c) Enzyme purified from <i>Coniochaeta</i> sp. NISL 9330 (FERM BP-7798)</li>
+<li>(d) 20 mM phosphate buffer, pH 8.0</li>
+</ol><!-- EPO <DP n="44"> --></p>
+<heading id="h0062">(2) Reaction assay</heading>
+<p id="p0151" num="0151">Reaction substrate (D: a, b) (20 µl), developer solution (E) (20 µl) and the inventive oxidase (F: a-d) (10 µl) were mixed in 96-well assay plates for reaction. Each plate was monitored at 510nm using a plate reader (Immuno Mini NJ-2300, available from Nalge Nunc International K. K.) for 70 minutes. The results are shown as % relative activity when compared to 100% activity for fructosyl glycine (Table 4). N. D. indicates that color development was undetectable. It was confirmed that all of the inventive oxidases were reactive with the protease-digested products of α-glycated hexapeptide.
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title><b><u>Table 4</u></b></title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="25mm"/>
+<colspec colnum="2" colname="col2" colwidth="47mm"/>
+<colspec colnum="3" colname="col3" colwidth="46mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<colspec colnum="5" colname="col5" colwidth="21mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top"><i>Achaetomiella virescens</i> ATCC 32393</entry>
+<entry valign="top"><i>Eupenicillium terrenum</i> ATCC 18547</entry>
+<entry valign="top"><i>Coniochaeta</i> sp. NISL 9330</entry>
+<entry valign="top">Phosphate buffer</entry></row></thead>
+<tbody>
+<row>
+<entry valign="middle">α-glycated hexapeptide</entry>
+<entry valign="middle">9.2 %</entry>
+<entry valign="middle">9.5 %</entry>
+<entry valign="middle">10.0%</entry>
+<entry valign="middle">N. D.</entry></row>
+<row>
+<entry valign="middle">fructosyl glycine</entry>
+<entry valign="middle">100 %</entry>
+<entry valign="middle">100 %</entry>
+<entry valign="middle">100 %</entry>
+<entry valign="middle">N. D.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0063"><u>Example 12: Cloning and expression of the inventive gene (derived from</u> <i>Coniochaeta</i> <u>sp.) by using transformant</u></heading>
+<heading id="h0064">(1) Preparation of <i>Coniochaeta</i> sp. mRNA</heading>
+<p id="p0152" num="0152"><i>Coniochaeta</i> sp. was inoculated on 0.05L of a medium (0.4% yeast extract, 1% malt extract, 2% glucose, 0.1% tryptone, 0.1% potassium dihydrogenphosphate, 0.05% magnesium sulfate, pH 7) contained in a 0.15L Erlenmeyer flask, and grown by rotary shaking culture at 120 rpm, 30°C for 1 day. Next, the culture (seed) was dispensed (1ml/flask) into 1L Erlenmeyer flasks (each containing 0.5 L of the above-described medium) and grown by rotary shaking culture at 120 rpm, 30°C for 2 days. The culture solution was centrifuged at 12,000 rpm for 10 minutes to collect cells. The cells obtained were disrupted in a mortar with a pestle in the presence of liquid nitrogen, suspended in 10 ml of RNA extraction reagent ISOGEN (available from Wako Pure Chemical Industries, Ltd.), and centrifuged at 2,700 rpm for 5 minutes to obtain RNA fraction, from which mRNA (0.51 mg) was obtained according to the method described in <nplcit id="ncit0014" npl-type="b"><text>Current Protocols in Molecular Biology (WILEY, Interscience, 1989</text></nplcit>).<!-- EPO <DP n="45"> --></p>
+<heading id="h0065">(2) Synthesis of primers</heading>
+<p id="p0153" num="0153">Fructosyl peptide oxidase (about 10 µg) purified according to the method described in Example 5 was digested with trypsin and subjected to preparative HPLC to obtain 7 peptides. The 7 peptides obtained were read on an ABI 470A protein sequencer (available from Perkin-Elmer Corp.) to determine the internal amino acid sequences. The sequences determined were used to synthesize primers shown in SEQ ID NOS: 5 and 6 utilizing Amersham Biotech Custom Synthesis Service.</p>
+<heading id="h0066">(3) RT-PCR</heading>
+<p id="p0154" num="0154">A first reaction solution was prepared using the following materials:
+<tables id="tabl0005" num="0005">
+<table frame="bottom">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="47mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<tbody>
+<row>
+<entry>Mg Cl<sub>2</sub></entry>
+<entry>5mM;</entry></row>
+<row>
+<entry>* 10x RNA PCR buffer</entry>
+<entry>2 µl;</entry></row>
+<row>
+<entry>H<sub>2</sub>O</entry>
+<entry>8.5 µl;</entry></row>
+<row>
+<entry>dNTPs</entry>
+<entry>1mM each;</entry></row>
+<row>
+<entry>RNase inhibitor</entry>
+<entry>1U/µl;</entry></row>
+<row>
+<entry>* AMV reverse transcriptase XL</entry>
+<entry>0.25U/µl;</entry></row>
+<row>
+<entry>* oligo dT adapter primer</entry>
+<entry>0.125 µM; and</entry></row>
+<row>
+<entry>mRNA</entry>
+<entry>1 µg.</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="47mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify">Note) * : available from Takara Bio Inc.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0155" num="0155">The first reaction solution was left to stand at 42°C for 30 minutes for reverse transcription reaction, denatured at 99°C for 5 minutes and then stored at 5°C.</p>
+<p id="p0156" num="0156">Next, a second reaction solution was prepared using the following materials:
+<tables id="tabl0006" num="0006">
+<table frame="bottom">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="46mm"/>
+<tbody>
+<row>
+<entry>Primer (SEQ ID NO: 5)</entry>
+<entry>0.2 µM;</entry></row>
+<row>
+<entry>Primer (SEQ ID NO: 6)</entry>
+<entry>0.2 µM;</entry></row>
+<row>
+<entry>* 10x RNA PCR buffer</entry>
+<entry>8 µl;</entry></row>
+<row>
+<entry>Magnesium chloride</entry>
+<entry>2.5 mM;</entry></row>
+<row>
+<entry>*Taq polymerase</entry>
+<entry>2.5 U; and</entry></row>
+<row>
+<entry>H<sub>2</sub>O</entry>
+<entry>(to a final total volume of 80µl).</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="36mm"/>
+<colspec colnum="2" colname="col2" colwidth="46mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify">Note) * : available from Takara Bio Inc.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0157" num="0157">Then, 80 µl of the second reaction solution was added to the tube containing reverse-transcription, and 30 cycles of PCR amplification were performed. The amplification cycle consisted of denaturing at 94°C for 30 seconds, annealing at 62°C for 30 seconds and extension at 72°C for 1.5 minutes.<!-- EPO <DP n="46"> --></p>
+<p id="p0158" num="0158">After completion of PCR reaction, the reaction solution was subjected to electrophoresis on agarose gel to confirm a band at approximately 0.77 kb, which seemed to be the fragment of interest. The region of the gel containing the band was excised and DNA fragment was purified in GENECLEAN II (available from BIO 101 Inc.</p>
+<heading id="h0067">(4) Analysis of purified DNA fragment</heading>
+<p id="p0159" num="0159">Purified DNA fragment was sequenced and analyzed using a 370A DNA sequencing system (available from Perkin-Elmer Corp.) to confirm the presence of the above-described amino acid sequence (Leu-Ser-Lys-Met-Pro-Leu-Leu-Gln-Arg) in the putative amino acid sequence deduced from the nucleotide sequence determined. From these results, it was confirmed that the DNA fragment obtained by the above-described RT-PCR amplification contained a portion of the genetic sequence encoding the fructosyl peptide oxidase derived from <i>Coniochaeta</i> sp.</p>
+<heading id="h0068">(5) Analysis of the downstream region by 3'-RACE</heading>
+<p id="p0160" num="0160">First, a primer (SEQ ID NO: 7) was designed using the DNA sequence data obtained as described above and synthesized utilizing Amersham Biotech Custom Synthesis Service. This primer, the above-described mRNA and 3'-Full RACE Core Set (available from Takara Bio Inc.) were used to perform RT-PCR to amplify the 3'-unknown region. The reaction solution was subjected to electrophoresis on agarose gel followed by purification and extraction of an about 500bp DNA fragment using Reco Chip (available from Takara Bio Inc.). The DNA fragment purified was then sequenced and analyzed in a DNA sequencer to confirm the presence of the same sequence as the 3' sequence of a portion of the genetic sequence encoding the fructosyl peptide oxidase derived from <i>Coniochaeta</i> sp. in the 5'-region of the nucleotide sequence determined. Further, the presence of the above-described amino acid sequence (Phe-Gln-Asp-Lys-Glu-Leu-Phe-Asn-Arg) was confirmed in the putative amino acid sequence deduced from the nucleotide sequence determined.</p>
+<heading id="h0069">(6) Analysis of the upstream region by 5'-RACE</heading>
+<p id="p0161" num="0161">First, primers (SEQ ID NOS: 8-12) were designed using the DNA sequence data obtained as described above and synthesized utilizing Amersham Biotech Custom Synthesis Service. These primers, the above-described mRNA and 5'-Full RACE Core Set (available from Takara Bio Inc.) were used to perform RT-PCR to amplify the 5'-unknown<!-- EPO <DP n="47"> --> region. The reaction solution was subjected to electrophoresis on agarose gel followed by purification and extraction of an about 450bp DNA fragment using Reco Chip (available from Takara Bio Inc.). The DNA fragment purified was then sequenced and analyzed in a DNA sequencer to confirm the presence of the same sequence as the 5' sequence of a portion of the genetic sequence encoding the fructosyl peptide oxidase derived from <i>Coniochaeta</i> sp. in the 3'-region of the nucleotide sequence determined. Further, the presence of the above-described amino acid sequence (Ser-Gly-Tyr-Ala-Pro-Ala-Asn-Ile-Thr) was confirmed in the putative amino acid sequence deduced from the nucleotide sequence determined.</p>
+<heading id="h0070">(7) Obtaining genetic fragments by RT-PCR</heading>
+<p id="p0162" num="0162">Translation start and stop codons were deduced from the above-described 3 nucleotide sequences, and primer DNAs (SEQ ID NOS: 13 and 14) for the N- and C-terminal regions were synthesized utilizing Amersham Biotech Custom Synthesis Service. These primers and the above-described mRNA were used to perform RT-PCR. The reaction solution was subjected to electrophoresis on agarose gel to confirm the presence of an approximately 1.3 kb band. Then, DNA fragment contained in the band was purified and extracted using Reco Chip (available from Takara Bio Inc.). Further, plasmid pKK223-3 (available from Amersham) was digested with restriction enzyme EcoRI, blunt-ended using BluntingKit (available from Takara Bio Inc.) and ligated with the DNA fragment purified and extracted as described above. The ligated DNA was then used to transform <i>E. coli</i> JM 109. The plasmid pKK223-3-CFP obtained as described above was deposited at the International Patent Organism Depositary, the National Institute of Advanced Industrial Science and Technology, an Independent Administrative Institution under the Ministry of Economy, Trade and Industry, AIST Tsukuba Central 6, Higashi 1-1-1, Tsukuba, Ibaraki, Japan as FERM BP-8132.</p>
+<heading id="h0071">(8) Confirmation of activity</heading>
+<p id="p0163" num="0163"><i>E. coli</i> JM 109 (pKK223-3-CFP) cells were grown in 10 ml of TY-medium containing 50 µg/ml ampicillin (1% bactotryptone, 0.5% bactoyeast extract, 0.5% NaCl, pH 7.0) by shake-culture at 32°C to Klett 100 , added with IPTG to a final concentration of 1mM, and cultured for an additional 3 hours. The culture solution was treated in an Ultrasonicgenerator (available from Nissei) for 20 sec. x 4 times while cooling on ice. The culture solution was loaded in a micro tube, and centrifuged in a microcentrifuge at<!-- EPO <DP n="48"> --> 12,000 rpm for 10 minutes to give supernatant and precipitate fractions. The supernatant fraction obtained was transferred to another micro tube, and fructosyl peptide oxidase activity was determined according to the above-described enzyme activity assay to find that JM109 (pKK 223-3-CFP) had 4.74 U/ml fructosyl peptide oxidase activity.</p>
+<heading id="h0072">(9) Analysis of gene encoding fructosyl peptide oxidase</heading>
+<p id="p0164" num="0164">Since it was confirmed that <i>E. coli</i> JM109 (pKK223-3-CFP) had fructosyl peptide oxidase activity, it became clear that the insert fragment incorporated in pKK223-3-CFP contained the gene encoding fructosyl peptide oxidase. Therefore, the nucleotide sequence of the plasmid DNA was determined using a 370A DNA sequencing system (available from Perkin-Elmer Corp.). The nucleotide sequence of the plasmid DNA determined and the putative amino acid sequence of the polypeptide which may be translated therefrom are shown in SEQ ID NOS: 2 and 1, respectively. The gene encoding fructosyl peptide oxidase had a 1314bp coding region which encoded 437 amino acids.</p>
+<heading id="h0073"><u>Example 13: Cloning and expression of the inventive gene (derived from</u> <i>Eupenicillium</i> <u><i>terrenum)</i> by transformant</u></heading>
+<heading id="h0074">(1) Preparation of <i>Eupenicillium terrenum</i> mRNA</heading>
+<p id="p0165" num="0165"><i>Eupenicillium terrenum</i> ATCC 18547 was inoculated on 0.05L of a medium (0.1% yeast extract, 0.1% malt extract, 0.1% potassium dihydrogenphosphate, 0.05% magnesium sulfate, pH 7.3) contained in a 0.15L Erlenmeyer flask, and grown by rotary shaking culture at 120 rpm, 25°C for 3 days. Next, the culture (seed) was dispensed (1 ml/flask) into 1L Erlenmeyer flasks (each containing 0.5 L of the above-described medium) and grown by rotary shaking culture at 120 rpm, 25°C for 4 days. The culture solution was centrifuged at 12,000 rpm for 10 minutes to collect cells. The cells obtained were disrupted in a mortar with a pestle in the presence of liquid nitrogen, suspended in 10 ml of RNA extraction reagent ISOGEN (available from Wako Pure Chemical Industries, Ltd.), and centrifuged at 2,700 rpm for 5 minutes to give RNA fraction, from which mRNA was obtained according to the method described in <nplcit id="ncit0015" npl-type="b"><text>Current Protocols in Molecular Biology (WILEY, Interscience, 1989</text></nplcit>).</p>
+<heading id="h0075">(2) Synthesis of primers</heading><!-- EPO <DP n="49"> -->
+<p id="p0166" num="0166">Fructosyl peptide oxidase (about 10 µg) purified according to the method described in Example 8 was digested with trypsin and subjected to preparative HPLC to obtain 6 peptides. The 6 peptides obtained were read on an ABI 470A protein sequencer (available from Perkin-Elmer Corp.) to determine the internal amino acid sequences (Thr-Asn-Val-Trp-Leu-Glu-Ser-Glu, Asp-Leu-Ala-Glu-Met-Pro-Gly, Asn-Phe-Ile-Leu-Ala, Leu-Pro-Asn-Ile-Gly, x-Pro-Thr-Asp-x-Tyr-Pro, Leu-His-Gln-Pro-Tyr-Gly-Ala-x-x-Pro). The sequences determined were used to synthesize primers shown in SEQ ID NOS: 15 and 16 utilizing Amersham Biotech Custom Synthesis Service.</p>
+<heading id="h0076">(3) RT-PCR</heading>
+<p id="p0167" num="0167">A first reaction solution was prepared using the following materials:
+<tables id="tabl0007" num="0007">
+<table frame="bottom">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="48mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<tbody>
+<row>
+<entry>Mg Cl<sub>2</sub></entry>
+<entry>5 mM;</entry></row>
+<row>
+<entry>* 10x RNA PCR buffer</entry>
+<entry>2 µl;</entry></row>
+<row>
+<entry>H<sub>2</sub>O</entry>
+<entry>8.5 µl;</entry></row>
+<row>
+<entry>dNTPs</entry>
+<entry>1 mM each;</entry></row>
+<row>
+<entry>RNase inhibitor</entry>
+<entry>1 U/µl;</entry></row>
+<row>
+<entry>* AMV reverse transcriptase XL</entry>
+<entry>0.25 U/µl;</entry></row>
+<row>
+<entry>* oligo dT adapter primer</entry>
+<entry>0.125 µM; and</entry></row>
+<row>
+<entry>mRNA</entry>
+<entry>1 µg.</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="48mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify">Note) * : available from Takara Bio Inc.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0168" num="0168">The first reaction solution was left to stand at 42°C for 30 minutes for reverse transcription reaction, denatured at 99°C for 5 minutes and then stored at 5°C.</p>
+<p id="p0169" num="0169">Next, a second reaction solution was prepared using the following materials:
+<tables id="tabl0008" num="0008">
+<table frame="bottom">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="47mm"/>
+<tbody>
+<row>
+<entry>Primer (SEQ ID NO: 15)</entry>
+<entry>0.2 µM;</entry></row>
+<row>
+<entry>Primer (SEQ ID NO: 16)</entry>
+<entry>0.2 µM;</entry></row>
+<row>
+<entry>* 10x RNA PCR buffer</entry>
+<entry>8 µl;</entry></row>
+<row>
+<entry>Magnesium chloride</entry>
+<entry>2.5 mM;</entry></row>
+<row>
+<entry>*Taq polymerase</entry>
+<entry>2.5 U; and</entry></row>
+<row>
+<entry>H<sub>2</sub>O</entry>
+<entry>(to a final total volume of 80 µl).</entry></row></tbody></tgroup>
+<tgroup cols="2" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="38mm"/>
+<colspec colnum="2" colname="col2" colwidth="47mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col2" align="justify">Note) * : available from Takara Bio Inc.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0170" num="0170">Then, 80 µl of the second reaction solution was added to the tube containing reverse-transcription, and 30 cycles of PCR amplification were performed. The<!-- EPO <DP n="50"> --> amplification cycle consisted of denaturing at 94°C for 30 seconds, annealing at 62°C for 30 seconds and extension at 72°C for 1.5 minutes.</p>
+<p id="p0171" num="0171">After completion of PCR reaction, the reaction solution was subjected to electrophoresis on agarose gel to confirm a band at approximately 0.9 kb, which seemed to be the fragment of interest. The region of the gel containing the band was excised and DNA fragment was purified in GENECLEAN II (available from BIO 101, Inc.)</p>
+<heading id="h0077">(4) Analysis of purified DNA fragment</heading>
+<p id="p0172" num="0172">Purified DNA fragment was sequenced and analyzed on a 370A DNA sequencing system (available from Perkin-Elmer Corp.) to confirm the presence of the above-described amino acid sequences (Asn-Phe-Ile-Leu-Ala, Leu-Pro-Asn-Ile-Gly, x-Pro-Thr-Asp-x-Tyr-Pro, Leu-His-Gln-Pro-Tyr-Gly-Ala-x-x-Pro) in the putative amino acid sequence deduced from the nucleotide sequence determined. From these results, it was confirmed that the DNA fragment obtained by the above-described RT-PCR amplification contained a portion of the genetic sequence encoding the fructosyl peptide oxidase derived from <i>Eupenicillium terrenum.</i></p>
+<heading id="h0078">(5) Analysis of the downstream region by 3'-RACE</heading>
+<p id="p0173" num="0173">First, a primer (SEQ ID NO: 17) was designed using the DNA sequence data obtained as described above and synthesized utilizing Amersham Biotech Custom Synthesis Service. This primer, the above-described mRNA and 3'-Full RACE Core Set (available from Takara Bio Inc.) were used to perform RT-PCR to amplify the 3'-unknown region. The reaction solution was subjected to electrophoresis on agarose gel followed by purification and extraction of an about 400bp DNA fragment using Reco Chip (available from Takara Bio Inc.). The DNA fragment purified was then sequenced and analyzed in a DNA sequencer to confirm the presence of the same sequence as the 3' sequence of a portion of the genetic sequence encoding the fructosyl peptide oxidase derived from <i>Eupenicillium terrenum</i> in the 5'-region of the nucleotide sequence determined.</p>
+<heading id="h0079">(6) Analysis of the upstream region by 5'-RACE</heading>
+<p id="p0174" num="0174">First, primers (SEQ ID NOS: 18-22) were designed using the DNA sequence data obtained as described above and synthesized utilizing Amersham Biotech Custom Synthesis Service. These primers, the above-described mRNA and 5'-Full RACE Core Set (available from Takara Bio Inc.) were used to perform RT-PCR to amplify the 5'-unknown<!-- EPO <DP n="51"> --> region. The reaction solution was subjected to electrophoresis on agarose gel followed by purification and extraction of an about 600bp DNA fragment using Reco Chip (available from Takara Bio Inc.). The DNA fragment purified was then sequenced and analyzed in a DNA sequencer to confirm the presence of the same sequence as the 5' sequence of a portion of the genetic sequence encoding the fructosyl peptide oxidase derived from <i>Eupenicillium terrenum</i> in the 3'-region of the nucleotide sequence determined.</p>
+<heading id="h0080">(7) Obtaining genetic fragments by RT-PCR</heading>
+<p id="p0175" num="0175">Translation start and stop codons were deduced from the above-described 3 nucleotide sequences, and primer DNAs (SEQ ID NOS: 23 and 24) for the N- and C-terminal regions were synthesized utilizing Amersham Biotech Custom Synthesis Service. These primers and the above-described mRNA were used to perform RT-PCR. The reaction solution was then subjected to electrophoresis on agarose gel to confirm the presence of an approximately 1.3 kb band. Then, DNA fragment contained in the band was purified and extracted using Reco Chip (available from Takara Bio Inc.). Further, plasmid pUC19 (available from Takara Bio Inc) was digested with restriction enzyme <i>Sma</i>I<i>,</i> and ligated with the DNA fragment purified and extracted as described above. The ligated DNA was then used to transform <i>E. coli</i> JM 109. The obtained plasmid puc-EFP was deposited at the International Patent Organism Depositary, the National Institute of Advanced Industrial Science and Technology, an Independent Administrative Institution under the Ministry of Economy, Trade and Industry, AIST Tsukuba Central 6, Higashi 1-1-1, Tsukuba, Ibaraki, Japan as FERM BP-8131.</p>
+<heading id="h0081">(8) Confirmation of activity</heading>
+<p id="p0176" num="0176"><i>E. coli</i> JM 109 (puc-EFP) cells were grown in 10 ml of TY-medium containing 50 µg/ml ampicillin (1% bactotryptone, 0.5% bactoyeast extract, 0.5% NaCl, pH 7.0) by shake-culture at 30°C to Klett 100, added with IPTG to a final concentration of 1mM, and cultured for an additional 3 hours. The culture solution was treated in an Ultrasonicgenerator (available from Nissei) for 20 sec. x 4 times while cooling on ice. The culture solution was loaded in a microtube, and centrifuged in a microcentrifuge at 12,000 rpm for 10 minutes to obtain supernatant and precipitate fractions. The supernatant fraction obtained was transferred to another microtube and determined for fructosyl peptide oxidase activity according to the above-described enzyme activity<!-- EPO <DP n="52"> --> assay to find that JM109 (puc-EFP) had a fructosyl peptide oxidase activity of 0.01 U/ml.</p>
+<heading id="h0082">(9) Analysis of gene encoding fructosyl peptide oxidase</heading>
+<p id="p0177" num="0177">Since it was confirmed that <i>E. coli</i> JM109 (puc-EFP) had fructosyl peptide oxidase activity, it became clear that the insert fragment incorporated in pue-EFP contained the gene encoding fructosyl peptide oxidase. Therefore, the nucleotide sequence of the plasmid DNA was determined using a 370A DNA sequencing system (available from Perkin-Elmer Corp.). The nucleotide sequence of the plasmid DNA determined and the putative amino acid sequence of the polypeptide which may be translated from the DNA are shown in SEQ ID NOS: 4 and 3, respectively. The gene encoding fructosyl peptide oxidase had a 1314bp coding region which coded for 437 amino acids.</p>
+<p id="p0178" num="0178">According to the present invention, novel fructosyl peptide oxidases with a variety of physicochemical properties and a method for producing them are provided. The inventive fructosyl peptide oxidases are advantageous in that they can be used easily as diagnostic enzymes in an assay kit and that they can be mass-produced at low cost, and are therefore useful in the industry. Further, the present disclosure also provides oxidases which have less action on fructosyl lysine. Those oxidases have improved stability and are particularly useful as enzymes for diagnosing diabetes. The present invention also provides a method for producing those oxidases. In this way, the present disclosure allows for the development of a kit for clinical diagnosis with improved storage stability. Those oxidases with less action on fructosyl lysine are more useful in the industry.<!-- EPO <DP n="53"> --></p>
+<heading id="h0083">SEQUENCE LISTING</heading>
+<p id="p0179" num="0179">
+<ul id="ul0004" list-style="none" compact="compact">
+<li>&lt;110&gt;Kikkoman Corporation</li>
+<li>&lt;120&gt;Novel fructosyl peptide oxidase</li>
+<li>&lt;130&gt;CMD/FP6090641</li>
+<li>&lt;150&gt;<patcit id="pcit0037" dnum="JP2001266665A"><text>JP 2001-266665</text></patcit><br/>
+&lt;151&gt;2001-9-4</li>
+<li>&lt;150&gt;<patcit id="pcit0038" dnum="JP2001378151A"><text>JP 2001-378151</text></patcit><br/>
+&lt;151&gt;2001-12-12</li>
+<li>&lt;150&gt;<patcit id="pcit0039" dnum="JP2002228727A"><text>JP 2002-228727</text></patcit><br/>
+&lt;151&gt;2002-8-6</li>
+<li>&lt;160&gt;24</li>
+<li>&lt;210&gt; 1<br/>
+&lt;211&gt;437<br/>
+&lt;212&gt;PRT<br/>
+<u>&lt;213&gt;Coniochaeta</u> sp.</li>
+<li>&lt;400&gt;1
+<img id="ib0001" file="imgb0001.tif" wi="142" he="39" img-content="dna" img-format="tif"/><!-- EPO <DP n="54"> -->
+<img id="ib0002" file="imgb0002.tif" wi="144" he="233" img-content="dna" img-format="tif"/><!-- EPO <DP n="55"> -->
+<img id="ib0003" file="imgb0003.tif" wi="143" he="233" img-content="dna" img-format="tif"/><!-- EPO <DP n="56"> -->
+<img id="ib0004" file="imgb0004.tif" wi="143" he="166" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt;2<br/>
+&lt;211&gt;1314<br/>
+&lt;212&gt;DNA<br/>
+<u>&lt;213&gt;Coniochaeta</u> sp.</li>
+<li>&lt;400&gt;2
+<img id="ib0005" file="imgb0005.tif" wi="158" he="22" img-content="dna" img-format="tif"/><!-- EPO <DP n="57"> -->
+<img id="ib0006" file="imgb0006.tif" wi="162" he="158" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt;3<br/>
+&lt;211&gt;437<br/>
+&lt;212&gt;PRT<br/>
+<u>&lt;213&gt;Eupenicillium terrenum</u></li>
+<li>&lt;400&gt;3
+<img id="ib0007" file="imgb0007.tif" wi="142" he="31" img-content="dna" img-format="tif"/><!-- EPO <DP n="58"> -->
+<img id="ib0008" file="imgb0008.tif" wi="143" he="233" img-content="dna" img-format="tif"/><!-- EPO <DP n="59"> -->
+<img id="ib0009" file="imgb0009.tif" wi="140" he="233" img-content="dna" img-format="tif"/><!-- EPO <DP n="60"> -->
+<img id="ib0010" file="imgb0010.tif" wi="143" he="166" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt;4<br/>
+&lt;211&gt;1314<br/>
+&lt;212&gt;DNA<br/>
+<u>&lt;213&gt;Eupenicillium terrenum</u></li>
+<li>&lt;400&gt;4
+<img id="ib0011" file="imgb0011.tif" wi="156" he="5" img-content="dna" img-format="tif"/><!-- EPO <DP n="61"> -->
+<img id="ib0012" file="imgb0012.tif" wi="153" he="233" img-content="dna" img-format="tif"/><!-- EPO <DP n="62"> -->
+<img id="ib0013" file="imgb0013.tif" wi="161" he="90" img-content="dna" img-format="tif"/></li>
+<li>&lt;210&gt;5<br/>
+&lt;211&gt;23<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;5 tgg ytn gay aay gar gay gar at 23</li>
+<li>&lt;210&gt;6<br/>
+&lt;211&gt;26<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;6<!-- EPO <DP n="63"> --> ttr aar ttr tgi ccr aar tci cci gt 26</li>
+<li>&lt;210&gt;7<br/>
+&lt;211&gt;20<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt; 7 ccc aca gac act tat cca ga 20</li>
+<li>&lt;210&gt;8<br/>
+&lt;211&gt;15<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;8 act cag cgg cct ctt   15</li>
+<li>&lt;210&gt;9<br/>
+&lt;211&gt;28<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;9 aga tgg tac caa ata tta cgc tga caa g 28<!-- EPO <DP n="64"> --></li>
+<li>&lt;210&gt;10<br/>
+&lt;211&gt;27<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;10 ttt aca cca cgt tct ttc aag aac tgt   27</li>
+<li>&lt;210&gt; 11<br/>
+&lt;211&gt;26<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt; 11 aag gct tgg gtg tat gct cat att ca   26</li>
+<li>&lt;210&gt;12<br/>
+&lt;211&gt;27<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;12 tcc ttg tat ttg gtc acg ttg aag caa   27</li>
+<li>&lt;210&gt;13<br/>
+&lt;211&gt;23<br/>
+<!-- EPO <DP n="65"> -->&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;13 atg acg tcg aat cgt gca gat ac   23</li>
+<li>&lt;210&gt;14<br/>
+&lt;211&gt;25<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;14 tta caa ttt cgg atc atg ttt cca t   25</li>
+<li>&lt;210&gt;15<br/>
+&lt;211&gt;22<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;15 acn aay gtn tgg ctn gar wsn g</li>
+<li>&lt;210&gt;16<br/>
+&lt;211&gt;19<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence<!-- EPO <DP n="66"> --></li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;16 kcc anc cng gca tyt cng c</li>
+<li>&lt;210&gt;17<br/>
+&lt;211&gt;21<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;17 cat ccc aca gat acc tac cct</li>
+<li>&lt;210&gt;18<br/>
+&lt;211&gt;20<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;18 tcc cga tgt ttg gca aca gc</li>
+<li>&lt;210&gt;19<br/>
+&lt;211&gt;22<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence<!-- EPO <DP n="67"> --></li>
+<li>&lt;400&gt;19 gtg cct gtg gtc tat gat ggt g</li>
+<li>&lt;210&gt;20<br/>
+&lt;211&gt;20<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;20 atc aac cgt acg ggg ctg ca</li>
+<li>&lt;210&gt;21<br/>
+&lt;211&gt;21<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;21 gat cgc att gat agc ctt ggc</li>
+<li>&lt;210&gt;22<br/>
+&lt;211&gt;30<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;22 ctc cac gca cca gca gcc aag aca acc ttg<!-- EPO <DP n="68"> --></li>
+<li>&lt;210&gt;23<br/>
+&lt;211&gt;24<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;23 gac atg get cat tcg cgt gca age</li>
+<li>&lt;210&gt;24<br/>
+&lt;211&gt;25<br/>
+&lt;212&gt;DNA<br/>
+&lt;213&gt;Artificial Sequence</li>
+<li>&lt;220&gt;<br/>
+&lt;223&gt;Artificially Synthesized Primer Sequence</li>
+<li>&lt;400&gt;24 caa gaa tca caa atg tgc atc atg c</li>
+</ul></p>
+</description>
+<claims id="claims01" lang="en"><!-- EPO <DP n="69"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A protein comprising any one of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity on fructosyl valyl histidine:
+<claim-text>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 1;</claim-text>
+<claim-text>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</claim-text>
+<claim-text>(c) a protein comprising an amino acid sequence having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A gene coding for any one of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity on fructosyl valyl histidine:
+<claim-text>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 1;</claim-text>
+<claim-text>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</claim-text>
+<claim-text>(c) a protein comprising an amino acid sequence having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 1, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</claim-text></claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A gene comprising any one of the following DNAs (a), (b) and (c):
+<claim-text>(a) DNA comprising a nucleotide sequence represented by SEQ ID NO: 2;</claim-text>
+<claim-text>(b) DNA which hybridizes under stringent conditions with DNA comprising a nucleotide sequence complementary to the nucleotide sequence represented by SEQ ID NO: 2, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</claim-text>
+<claim-text>(c) DNA which has 80% or higher sequence identity with the nucleotide sequence represented by SEQ ID NO: 2, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</claim-text><!-- EPO <DP n="70"> --></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>Recombinant DNA obtained by inserting the gene of claim 2 or 3 into vector DNA</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A host cell transformed or transduced by the recombinant DNA of claim 4.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A method for producing a fructosyl peptide oxidase, comprising: culturing the above-mentioned host of claim 5 in a medium; and collecting the fructosyl peptide oxidase from the culture.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A protein comprising any one of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity on fructosyl valyl histidine:
+<claim-text>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 3;</claim-text>
+<claim-text>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</claim-text>
+<claim-text>(c) a protein comprising an amino acid sequence having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</claim-text></claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A gene coding for any one of the following proteins (a), (b) and (c) having a fructosyl peptide oxidase activity on fructosyl valyl histidine:
+<claim-text>(a) a protein comprising an amino acid sequence represented by SEQ ID NO: 3;</claim-text>
+<claim-text>(b) a protein comprising an amino acid sequence having deletion, substitution and/or addition of one to 20 amino acids relative to the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</claim-text>
+<claim-text>(c) a protein having 80% or higher sequence identity with the amino acid sequence represented by SEQ ID NO: 3, and having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</claim-text></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A gene comprising any one of the following DNAs (a), (b) and (c):
+<claim-text>(a) DNA comprising a nucleotide sequence represented by SEQ ID NO: 4;<!-- EPO <DP n="71"> --></claim-text>
+<claim-text>(b) DNA which hybridizes under stringent conditions with DNA comprising a nucleotide sequence complementary to the nucleotide sequence represented by SEQ ID NO: 4, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine; and</claim-text>
+<claim-text>(c) DNA which has 80% or higher sequence identity with the nucleotide sequence represented by SEQ ID NO: 4, and which codes for a protein having a fructosyl peptide oxidase activity on fructosyl valyl histidine.</claim-text></claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>Recombinant DNA obtained by inserting the gene of claim 8 or 9 into vector DNA.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>A host cell transformed or transduced by the recombinant DNA of claim 10.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A method for producing a fructosyl peptide oxidase comprising: culturing the above-mentioned host of claim 10 in a medium; and collecting the fructosyl peptide oxidase from the culture.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="72"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Protein, das eines der folgenden Proteine (a), (b) und (c) mit einer Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin umfasst:
+<claim-text>(a) ein Protein, das eine Aminosäuresequenz der SEQ ID NO: 1 umfasst,</claim-text>
+<claim-text>(b) ein Protein, das eine Aminosäuresequenz mit einer Deletion, Substitution und/oder Addition von ein bis 20 Aminosäuren in Bezug auf die Aminosäuresequenz der SEQ ID NO: 1 umfasst und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist; und</claim-text>
+<claim-text>(c) ein Protein, das eine Aminosäuresequenz mit 80 % oder mehr Sequenzidentität mit der Aminosäuresequenz der SEQ ID NO: 1 aufweist und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Gen, das für ein beliebiges der folgenden Proteine (a), (b) und (c) mit Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin kodiert:
+<claim-text>(a) ein Protein, das eine Aminosäuresequenz der SEQ ID NO: 1 umfasst,</claim-text>
+<claim-text>(b) ein Protein, das eine Aminosäuresequenz mit einer Deletion, Substitution und/oder Addition von ein bis 20 Aminosäuren in Bezug auf die Aminosäuresequenz der SEQ ID NO: 1 umfasst und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist; und</claim-text>
+<claim-text>(c) ein Protein, das eine Aminosäuresequenz mit 80 % oder mehr Sequenzidentität mit der Aminosäuresequenz der SEQ ID NO: 1 aufweist und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Gen, das eine beliebige der folgenden DNAs (a), (b) und (c) umfasst:
+<claim-text>(a) DNA, die eine Nucleotidsequenz der SEQ ID NO: 2 umfasst,</claim-text>
+<claim-text>(b) DNA, die unter stringenten Bedingungen mit DNA hybridisiert, die eine Nucleotidsequenz umfasst, die komplementär zur Nucleotidsequenz der SEQ ID NO: 2 ist, und die für ein Protein mit einer Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin kodiert; und</claim-text>
+<claim-text>(c) DNA, die 80 % oder mehr Sequenzidentität mit der Nucleotidsequenz der SEQ ID NO: 2 aufweist und für ein Protein mit einer Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin kodiert.</claim-text><!-- EPO <DP n="73"> --></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Rekombinante DNA, die durch Insertion eines Gens nach Anspruch 2 oder 3 in Vektor-DNA erhalten wurde.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Wirtszelle, die durch eine rekombinante DNA nach Anspruch 4 transformiert oder transduziert ist.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren zur Herstellung einer Fructosylpeptidoxidase, das Folgendes umfasst: Kultivieren des oben genannten Wirts nach Anspruch 5 in einem Medium; und Gewinnen der Fructosylpeptidoxidase aus der Kultur.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Protein, das ein beliebiges der folgenden Proteine (a), (b) und (c) mit Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin umfasst:
+<claim-text>(a) ein Protein, das eine Aminosäuresequenz der SEQ ID NO: 3 umfasst,</claim-text>
+<claim-text>(b) ein Protein, das eine Aminosäuresequenz mit einer Deletion, Substitution und/oder Addition von ein bis 20 Aminosäuren in Bezug auf die Aminosäuresequenz der SEQ ID NO: 3 umfasst und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist; und</claim-text>
+<claim-text>(c) ein Protein, das eine Aminosäuresequenz mit 80 % oder mehr Sequenzidentität mit der Aminosäuresequenz der SEQ ID NO: 3 aufweist und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Gen, das für ein beliebiges der folgenden Proteine (a), (b) und (c) mit Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin kodiert:
+<claim-text>(a) ein Protein, das eine Aminosäuresequenz der SEQ ID NO: 3 umfasst,</claim-text>
+<claim-text>(b) ein Protein, das eine Aminosäuresequenz mit einer Deletion, Substitution und/oder Addition von ein bis 20 Aminosäuren in Bezug auf die Aminosäuresequenz der SEQ ID NO: 3 umfasst und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist; und</claim-text>
+<claim-text>(c) ein Protein, das eine Aminosäuresequenz mit 80 % oder mehr Sequenzidentität mit der Aminosäuresequenz der SEQ ID NO: 3 aufweist und eine Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin aufweist.</claim-text></claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Gen, das eine beliebige der folgenden DNAs (a), (b) und (c) umfasst:
+<claim-text>(a) DNA, die eine Nucleotidsequenz der SEQ ID NO: 4 umfasst,<!-- EPO <DP n="74"> --></claim-text>
+<claim-text>(b) DNA, die unter stringenten Bedingungen mit DNA hybridisiert, die eine Nucleotidsequenz umfasst, die komplementär zur Nucleotidsequenz der SEQ ID NO: 4 ist, und die für ein Protein mit einer Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin kodiert; und</claim-text>
+<claim-text>(c) DNA, die 80 % oder mehr Sequenzidentität mit der Nucleotidsequenz der SEQ ID NO: 4 aufweist und für ein Protein mit einer Fructosylpeptidoxidaseaktivität auf Fructosylvalylhistidin kodiert.</claim-text></claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Rekombinante DNA, die durch Insertion eines Gens nach Anspruch 8 oder 9 in Vektor-DNA erhalten wurde.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Wirtszelle, die durch eine rekombinante DNA nach Anspruch 10 transformiert oder transduziert ist.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren zur Herstellung einer Fructosylpeptidoxidase, das Folgendes umfasst: Kultivieren des oben genannten Wirts nach Anspruch 10 in einem Medium; und Gewinnen der Fructosylpeptidoxidase aus der Kultur.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="fr"><!-- EPO <DP n="75"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Protéine comprenant l'une quelconque des protéines (a), (b) et (c) suivantes ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine :
+<claim-text>(a) une protéine comprenant une séquence d'acides aminés représentée par SEQ ID NO : 1 ;</claim-text>
+<claim-text>(b) une protéine comprenant une séquence d'acides aminés ayant une délétion, une substitution et/ou une addition de un à 20 acides aminés par rapport à la séquence d'acides aminés représentée par SEQ ID NO : 1, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine ; et</claim-text>
+<claim-text>(c) une protéine comprenant une séquence d'acides aminés ayant une identité de séquence de 80 % ou plus avec la séquence d'acides aminés représentée par SEQ ID NO : 1, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Gène codant pour l'une quelconque des protéines (a), (b) et (c) suivantes ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine :
+<claim-text>(a) une protéine comprenant une séquence d'acides aminés représentée par SEQ ID NO : 1 ;</claim-text>
+<claim-text>(b) une protéine comprenant une séquence d'acides aminés ayant une délétion, une substitution et/ou une addition de un à 20 acides aminés par rapport à la séquence d'acides aminés représentée par SEQ ID NO : 1, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine ; et</claim-text>
+<claim-text>(c) une protéine comprenant une séquence d'acides aminés ayant une identité de séquence de 80 % ou plus avec la séquence d'acides aminés représentée par SEQ ID NO : 1, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine.</claim-text><!-- EPO <DP n="76"> --></claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Gène comprenant l'un quelconque des ADN (a), (b) et (c) suivants :
+<claim-text>(a) un ADN comprenant une séquence nucléotidique représentée par SEQ ID NO : 2 ;</claim-text>
+<claim-text>(b) un ADN qui s'hybride dans des conditions strictes avec un ADN comprenant une séquence nucléotidique complémentaire de la séquence nucléotidique représentée par SEQ ID NO : 2, et qui code pour une protéine ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine ; et</claim-text>
+<claim-text>(c) un ADN qui a une identité de séquence de 80 % ou plus avec la séquence nucléotidique représentée par SEQ ID NO : 2, et qui code pour une protéine ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>ADN recombinant obtenu en insérant le gène selon la revendication 2 ou 3 dans de l'ADN vecteur.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Cellule hôte transformée ou transduite par l'ADN recombinant de la revendication 4.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé de production d'un fructosyl-peptide oxidase, comprenant l'étape consistant à :<br/>
+mettre en culture l'hôte mentionné ci-dessus selon la revendication 5 dans un milieu ; et recueillir la fructosyl-peptide oxidase à partir de la culture.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Protéine comprenant l'une quelconque des protéines (a), (b) et (c) suivantes ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine :
+<claim-text>(a) une protéine comprenant une séquence d'acides aminés représentée par SEQ ID NO : 3 ;</claim-text>
+<claim-text>(b) une protéine comprenant une séquence d'acides aminés ayant une délétion, une substitution et/ou une addition de<!-- EPO <DP n="77"> --> un à 20 acides aminés par rapport à la séquence d'acides aminés représentée par SEQ ID NO : 3, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine ; et</claim-text>
+<claim-text>(c) une protéine comprenant une séquence d'acides aminés ayant une identité de séquence de 80 % ou plus avec la séquence d'acides aminés représentée par SEQ ID NO : 3, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Gène codant pour l'une quelconque des protéines (a), (b) et (c) suivantes ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine :
+<claim-text>(a) une protéine comprenant une séquence d'acides aminés représentée par SEQ ID NO : 3 ;</claim-text>
+<claim-text>(b) une protéine comprenant une séquence d'acides aminés ayant une délétion, une substitution et/ou une addition de un à 20 acides aminés par rapport à la séquence d'acides aminés représentée par SEQ ID NO : 3, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine ; et</claim-text>
+<claim-text>(c) une protéine ayant une identité de séquence de 80 % ou plus avec la séquence d'acides aminés représentée par SEQ ID NO : 3, et ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Gène comprenant l'un quelconque des ADN (a), (b) et (c) suivants :
+<claim-text>(a) un ADN comprenant une séquence nucléotidique représentée par SEQ ID NO : 4 ;</claim-text>
+<claim-text>(b) un ADN qui s'hybride dans des conditions strictes avec un ADN comprenant une séquence nucléotidique complémentaire de la séquence nucléotidique représentée par SEQ ID NO : 4, et qui code pour une protéine ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine ; et<!-- EPO <DP n="78"> --></claim-text>
+<claim-text>(c) un ADN qui a une identité de séquence de 80 % ou plus avec la séquence nucléotidique représentée par SEQ ID NO : 4, et qui code pour une protéine ayant une activité fructosyl-peptide oxidase sur de la fructosyl-valyl-histidine.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>ADN recombinant obtenu en insérant le gène selon la revendication 8 ou 9 dans de l'ADN vecteur.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Cellule hôte transformée ou transduite par l'ADN recombinant selon la revendication 10.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé de production d'une fructosyl-peptide oxidase comprenant les étapes consistant à :<br/>
+mettre en culture l'hôte mentionné ci-dessus selon la revendication 10 dans un milieu ; et recueillir la fructosyl-peptide oxidase à partir de la culture.</claim-text></claim>
+</claims>
+<drawings id="draw" lang="en"><!-- EPO <DP n="79"> -->
+<figure id="f0001" num="1,2"><img id="if0001" file="imgf0001.tif" wi="150" he="201" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="80"> -->
+<figure id="f0002" num="3"><img id="if0002" file="imgf0002.tif" wi="142" he="151" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="81"> -->
+<figure id="f0003" num="4"><img id="if0003" file="imgf0003.tif" wi="150" he="143" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="82"> -->
+<figure id="f0004" num="5,6"><img id="if0004" file="imgf0004.tif" wi="165" he="198" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="83"> -->
+<figure id="f0005" num="7"><img id="if0005" file="imgf0005.tif" wi="147" he="143" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="84"> -->
+<figure id="f0006" num="8"><img id="if0006" file="imgf0006.tif" wi="146" he="132" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="85"> -->
+<figure id="f0007" num="9,10"><img id="if0007" file="imgf0007.tif" wi="161" he="201" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="86"> -->
+<figure id="f0008" num="11"><img id="if0008" file="imgf0008.tif" wi="142" he="134" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="87"> -->
+<figure id="f0009" num="12"><img id="if0009" file="imgf0009.tif" wi="147" he="130" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="88"> -->
+<figure id="f0010" num="13,14"><img id="if0010" file="imgf0010.tif" wi="165" he="219" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="89"> -->
+<figure id="f0011" num="15"><img id="if0011" file="imgf0011.tif" wi="149" he="151" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="90"> -->
+<figure id="f0012" num="16"><img id="if0012" file="imgf0012.tif" wi="145" he="134" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP5033997A"><document-id><country>JP</country><doc-number>5033997</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0004]</crossref><crossref idref="pcit0018">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP11127895A"><document-id><country>JP</country><doc-number>11127895</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0004]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO9713872A"><document-id><country>WO</country><doc-number>9713872</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0004]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP6065300A"><document-id><country>JP</country><doc-number>6065300</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0004]</crossref><crossref idref="pcit0019">[0005]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="JP2195900A"><document-id><country>JP</country><doc-number>2195900</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0004]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="JP3155780A"><document-id><country>JP</country><doc-number>3155780</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0004]</crossref><crossref idref="pcit0020">[0005]</crossref><crossref idref="pcit0033">[0059]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="JP4004874A"><document-id><country>JP</country><doc-number>4004874</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0004]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="JP5192193A"><document-id><country>JP</country><doc-number>5192193</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0008">[0004]</crossref><crossref idref="pcit0026">[0005]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="JP6046846A"><document-id><country>JP</country><doc-number>6046846</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0009">[0004]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="JP11155596A"><document-id><country>JP</country><doc-number>11155596</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0010">[0004]</crossref></li>
+<li><patcit id="ref-pcit0011" dnum="JP10313893A"><document-id><country>JP</country><doc-number>10313893</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0011">[0004]</crossref></li>
+<li><patcit id="ref-pcit0012" dnum="JP11504808A"><document-id><country>JP</country><doc-number>11504808</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0012">[0004]</crossref></li>
+<li><patcit id="ref-pcit0013" dnum="JP2000333696A"><document-id><country>JP</country><doc-number>2000333696</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0013">[0004]</crossref></li>
+<li><patcit id="ref-pcit0014" dnum="JP2001054398A"><document-id><country>JP</country><doc-number>2001054398</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0014">[0004]</crossref></li>
+<li><patcit id="ref-pcit0015" dnum="JP2001204495A"><document-id><country>JP</country><doc-number>2001204495</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0015">[0004]</crossref></li>
+<li><patcit id="ref-pcit0016" dnum="JP2001204494A"><document-id><country>JP</country><doc-number>2001204494</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0016">[0004]</crossref></li>
+<li><patcit id="ref-pcit0017" dnum="JP2001095598A"><document-id><country>JP</country><doc-number>2001095598</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0017">[0004]</crossref><crossref idref="pcit0027">[0005]</crossref><crossref idref="pcit0029">[0046]</crossref><crossref idref="pcit0034">[0103]</crossref><crossref idref="pcit0035">[0103]</crossref><crossref idref="pcit0036">[0103]</crossref></li>
+<li><patcit id="ref-pcit0018" dnum="JP7289253A"><document-id><country>JP</country><doc-number>7289253</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0021">[0005]</crossref><crossref idref="pcit0022">[0005]</crossref><crossref idref="pcit0030">[0059]</crossref></li>
+<li><patcit id="ref-pcit0019" dnum="JP8154672A"><document-id><country>JP</country><doc-number>8154672</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0023">[0005]</crossref><crossref idref="pcit0031">[0059]</crossref></li>
+<li><patcit id="ref-pcit0020" dnum="JP8336386A"><document-id><country>JP</country><doc-number>8336386</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0024">[0005]</crossref><crossref idref="pcit0032">[0059]</crossref></li>
+<li><patcit id="ref-pcit0021" dnum="JP2000245454A"><document-id><country>JP</country><doc-number>2000245454</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0025">[0005]</crossref></li>
+<li><patcit id="ref-pcit0022" dnum="EP0709457A"><document-id><country>EP</country><doc-number>0709457</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0028">[0006]</crossref></li>
+<li><patcit id="ref-pcit0023" dnum="JP2001266665A"><document-id><country>JP</country><doc-number>2001266665</doc-number><kind>A</kind><date>20010904</date></document-id></patcit><crossref idref="pcit0037">[0179]</crossref></li>
+<li><patcit id="ref-pcit0024" dnum="JP2001378151A"><document-id><country>JP</country><doc-number>2001378151</doc-number><kind>A</kind><date>20011212</date></document-id></patcit><crossref idref="pcit0038">[0179]</crossref></li>
+<li><patcit id="ref-pcit0025" dnum="JP2002228727A"><document-id><country>JP</country><doc-number>2002228727</doc-number><kind>A</kind><date>20020806</date></document-id></patcit><crossref idref="pcit0039">[0179]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><atl/><serial><sertitle>Chromatogr. Sci.</sertitle><pubdate><sdate>19790000</sdate><edate/></pubdate><vid>10</vid></serial><location><pp><ppf>659</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0001">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><atl/><serial><sertitle>Clin. Chem.</sertitle><pubdate><sdate>19820000</sdate><edate/></pubdate><vid>28</vid></serial><location><pp><ppf>2088</ppf><ppl>2094</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><atl/><serial><sertitle>Clin. Chem.</sertitle><pubdate><sdate>19800000</sdate><edate/></pubdate><vid>26</vid></serial><location><pp><ppf>1598</ppf><ppl>1602</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="s"><article><atl/><serial><sertitle>JJCLA</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>18</vid></serial><location><pp><ppf>620</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0004">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="s"><article><atl/><serial><sertitle>Clin. Chim. Acta</sertitle><pubdate><sdate>19820000</sdate><edate/></pubdate><vid>127</vid></serial><location><pp><ppf>87</ppf><ppl>95</ppl></pp></location></article></nplcit><crossref idref="ncit0005">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><atl/><serial><sertitle>Clin. Chim. Acta</sertitle><pubdate><sdate>19810000</sdate><edate/></pubdate><vid>112</vid></serial><location><pp><ppf>197</ppf><ppl>204</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0004]</crossref></li>
+<li><nplcit id="ref-ncit0007" npl-type="s"><article><author><name>HORIUCHI et al.</name></author><atl/><serial><sertitle>Agric. Biol. Chem.</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>53</vid></serial><location><pp><ppf>103</ppf><ppl>110</ppl></pp></location></article></nplcit><crossref idref="ncit0007">[0046]</crossref></li>
+<li><nplcit id="ref-ncit0008" npl-type="s"><article><atl/><serial><sertitle>Agric. Biol. Chem.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>55</vid></serial><location><pp><ppf>333</ppf><ppl>338</ppl></pp></location></article></nplcit><crossref idref="ncit0008">[0046]</crossref></li>
+<li><nplcit id="ref-ncit0009" npl-type="b"><article><atl/><book><author><name>WILEY</name></author><book-title>Current Protocols in Molecular Biology</book-title><imprint><name>Interscience</name><pubdate>19890000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0009">[0065]</crossref><crossref idref="ncit0010">[0070]</crossref><crossref idref="ncit0014">[0152]</crossref><crossref idref="ncit0015">[0165]</crossref></li>
+<li><nplcit id="ref-ncit0010" npl-type="s"><article><author><name>D.M. MORRISON</name></author><atl/><serial><sertitle>Methods in Enzymology</sertitle><pubdate><sdate>19790000</sdate><edate/></pubdate><vid>68</vid></serial><location><pp><ppf>326</ppf><ppl>331</ppl></pp></location></article></nplcit><crossref idref="ncit0011">[0076]</crossref></li>
+<li><nplcit id="ref-ncit0011" npl-type="s"><article><author><name>B. HOHN</name></author><atl/><serial><sertitle>Methods in Enzymology</sertitle><pubdate><sdate>19790000</sdate><edate/></pubdate><vid>68</vid></serial><location><pp><ppf>299</ppf><ppl>309</ppl></pp></location></article></nplcit><crossref idref="ncit0012">[0076]</crossref></li>
+<li><nplcit id="ref-ncit0012" npl-type="s"><article><atl/><serial><sertitle>Clin. Chem.</sertitle><pubdate><sdate>19970000</sdate><edate/></pubdate><vid>43</vid><ino>10</ino></serial><location><pp><ppf>1944</ppf><ppl>1951</ppl></pp></location></article></nplcit><crossref idref="ncit0013">[0144]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

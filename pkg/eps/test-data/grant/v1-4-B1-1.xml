@@ -1,0 +1,2754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.4//EN" "ep-patent-document-v1-4.dtd">
+<ep-patent-document id="EP95305416B1" file="EP95305416NWB1.xml" lang="en" country="EP" doc-number="0697382" kind="B1" date-publ="20091216" status="n" dtd-version="ep-patent-document-v1-4">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIE..................................................................</B001EP><B005EP>J</B005EP><B007EP>DIM360 Ver 2.15 (14 Jul 2008) -  2100000/0</B007EP></eptags></B000><B100><B110>0697382</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20091216</date></B140><B190>EP</B190></B100><B200><B210>95305416.0</B210><B220><date>19950802</date></B220><B240><B241><date>19970711</date></B241><B242><date>19980803</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>287392</B310><B320><date>19940808</date></B320><B330><ctry>US</ctry></B330></B300><B400><B405><date>20091216</date><bnum>200951</bnum></B405><B430><date>19960221</date><bnum>199608</bnum></B430><B450><date>20091216</date><bnum>200951</bnum></B450><B452EP><date>20090622</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C04B  26/28        20060101AFI20090612BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C04B  18/16        20060101ALI20090612BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C04B  14/36        20060101ALI20090612BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>C04B  28/14        20060101ALI20090612BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>Eine Gips/Zellulosefaser enthaltende Zusammensetzung für Schallziegel</B542><B541>en</B541><B542>A gypsum/cellulosic fiber acoustical tile composition</B542><B541>fr</B541><B542>Une composition pour dalle acoustique en plâtre et fibre cellulosique</B542></B540><B560><B561><text>EP-A- 0 370 703</text></B561><B561><text>EP-A- 0 663 374</text></B561><B561><text>DE-A- 1 494 393</text></B561><B561><text>US-A- 3 988 199</text></B561><B561><text>US-A- 5 013 405</text></B561></B560></B500><B700><B720><B721><snm>Baig, Mirza A.</snm><adr><str>9415 Meadow Lane</str><city>Des Plaines,
+Illinois 60016</city><ctry>US</ctry></adr></B721></B720><B730><B731><snm>USG INTERIORS, Inc.</snm><iid>01027632</iid><irf>EP 13308</irf><adr><str>125 South Franklin Street</str><city>Chicago,
+Illinois 60606-4678</city><ctry>US</ctry></adr></B731></B730><B740><B741><snm>Johnson, Terence Leslie</snm><iid>00042961</iid><adr><str>Marks &amp; Clerk LLP 
+90 Long Acre</str><city>London
+WC2E 9RA</city><ctry>GB</ctry></adr></B741></B740></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>ES</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>MC</ctry><ctry>NL</ctry><ctry>PT</ctry><ctry>SE</ctry></B840><B880><date>19970212</date><bnum>199707</bnum></B880></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<p id="p0001" num="0001">The invention relates to acoustical tile compositions useful in manufacturing acoustical tiles and panels for ceiling applications. More particularly, this invention relates to acoustical tile compositions based on a gypsum/cellulosic fiber composition which can replace all or a portion of the mineral wool normally present in acoustical ceiling tiles. The invention also relates to a novel gypsum/cellulosic fiber/lightweight aggregate material composition which is used in a water-felting process to manufacture acoustical ceiling tiles and panels.</p>
+<heading id="h0001"><b><u>BACKGROUND OF THE INVENTION</u></b></heading>
+<p id="p0002" num="0002">Water-felting of dilute aqueous dispersions of mineral wool and lightweight aggregate is a commercial process for manufacturing acoustical ceiling tile. In this process, a dispersion of mineral wool, lightweight aggregate, binder and other ingredients as desired or necessary is flowed onto a moving foraminous support wire, such as that of a Fourdrinier or Oliver rat forming machine for dewatering. The dispersion dewaters first by gravity and then vacuum suction means; the wet mat is dried in heated convection drying ovens, and the dried material is cut to the desired dimensions and optionally top coated, such as with paint, to produce acoustical ceiling tiles and panels.</p>
+<p id="p0003" num="0003">For many years, acoustical ceiling tile has also been made by a wet pulp molded or cast process such as described in <patcit id="pcit0001" dnum="US1769519A"><text>U.S. Patent No. 1,769,519</text></patcit>. According to the teaching of this patent, a molding composition comprising granulated mineral wool fibers, fillers, colorants and a binder, in particular a starch gel, is prepared for molding or casting the body of the tile. This mixture or composition is placed upon suitable trays which have been covered with paper or a metallic foil and then the composition is screeded to a desired thickness with a screed bar or roller. A decorative surface, such as elongated fissures, may be provided by the screed bar or roller. The trays filled with the mineral wool pulp or composition are then placed in an oven to dry or cure the composition. The dried sheets are removed from the trays and may be treated on one or both faces to provide smooth surfaces, to obtain the desired thickness and to prevent warping. The sheets are then cut into tiles of a desired size.</p>
+<p id="p0004" num="0004"><patcit id="pcit0002" dnum="US5320677A"><text>U.S. Patent No. 5,320,677, issued June 14, 1994</text></patcit>, discloses a composite material and method for making it wherein ground gypsum is calcined under pressure in a dilute slurry in the presence of a cellulosic fiber. The uncalcined, ground gypsum and the cellulosic fiber are mixed together with<!-- EPO <DP n="2"> --> sufficient water to form a dilute slurry which is then heated under pressure to calcine the gypsum, converting it to calcium sulphate alpha hemihydrate. The resulting co-calcined material consists of the cellulosic fiber physically interlocked with calcium sulphate crystals. This interlocking not only creates a good bond between the calcium sulphate and the cellulosic fiber, it also prevents migration of the calcium sulphate away from the cellulosic fiber when the alpha hemihydrate is subsequently rehydrated to the dihydrate (gypsum).</p>
+<p id="p0005" num="0005">The co-calcined gypsum/cellulosic fiber material can be dried immediately before it cools to provide a stable, rehydratable alpha hemihydrate composite for later use. Alternatively, the co-calcined material can be directly converted into a usable product by separating the excess water which is not needed for rehydration, forming the composite particles into a desired shape or form, and then rehydrating the particles to a set and stabilized gypsum/cellulosic fiber composite material.</p>
+<p id="p0006" num="0006">Mineral wool acoustical tiles are very porous which is necessary to provide good sound absorption. <patcit id="pcit0003" dnum="US3498404A"><text>U.S. Patents Nos. 3,498,404</text></patcit>; <patcit id="pcit0004" dnum="US5013405A"><text>5,013,405</text></patcit> and <patcit id="pcit0005" dnum="US5047120A"><text>5,047,120</text></patcit> also disclose that mineral fillers, such as expended perlite, may be incorporated into the composition to improve sound absorbing properties and to provide light weight.</p>
+<p id="p0007" num="0007"><patcit id="pcit0006" dnum="US3988199A"><text>U.S. 3988199</text></patcit> discloses a wet press providing early "green" strength infer alia to a perlite insulation board.</p>
+<p id="p0008" num="0008"><patcit id="pcit0007" dnum="EP0370703A"><text>EP-A-0370703</text></patcit> discloses a composite material which is based on calcium sulphate hemihydrate to form a product for providing good acoustical properties.<!-- EPO <DP n="3"> --></p>
+<p id="p0009" num="0009">It is accordingly an object of the invention to seek to provide a composition and tile which overcomes the disadvantages of the prior art.</p>
+<p id="p0010" num="0010">According to the invention there is provided a wetted mineral wool-free composition suitable for making acoustical tiles, comprising calcium sulphate dehydrate particles cellulosic fiber, a lightweight aggregate material and a binder, in which, on a dry basis, there is at least about 15% by weight of calcium sulphate dehydrate and at least about 13% by weight of cellulosic fiber.</p>
+<p id="p0011" num="0011">The binder may be starch which may be present, on a dry solids basis, in an amount ranging from about 3 to about 15% by weight.</p>
+<p id="p0012" num="0012">The lightweight aggregate material may be expanded perlite which may be present, on a dry solids basis, in an amount of at least about 25% by weight</p>
+<p id="p0013" num="0013">The cellulosic fiber may be paper which may be present, on a dry solids basis, in an amount ranging from about 13 to about 30% by weight.</p>
+<p id="p0014" num="0014">The calcium sulphate dihydrate may range from about 15 to about 45% by weight, the expanded perlite from about 25 to 60% by weight, and the cellulosic fiber is paper fiber from about 13 to about 30% by weight.</p>
+<p id="p0015" num="0015">At least a portion of the calcium sulphate dihydrate particles and the cellulosic fiber may be in the form of a composite material which has preferably been produced by calcining under pressure a dilute slurry of calcium sulphate dihydrate and cellulosic fiber.<!-- EPO <DP n="4"> --></p>
+<p id="p0016" num="0016">The composite material may comprise calcined calcium sulphate dihydrate in the form of calcium sulphate alpha hemihydrate which has been co-calcined with the cellulosic fibers.</p>
+<p id="p0017" num="0017">The cellulosic fibers may be paper fibers.</p>
+<p id="p0018" num="0018">A portion of the cellulosic fibers may be added to the composition as uncalcined fibers in addition to the calcined calcium sulphate dihydrate/cellulosic fiber composite material.</p>
+<p id="p0019" num="0019">The calcium sulphate dihydrate may range from about 15 to 45% by weight and the cellulosic fiber may range from about 13 to about 30% by weight.</p>
+<p id="p0020" num="0020">The cellulosic fiber may be paper and a portion of the paper fibers may be added to the composition as uncalcined fibers in addition to the calcined calcium sulphate dihydrate/paper fiber composite material.</p>
+<p id="p0021" num="0021">A substantial portion of the calcium sulphate dihydrate particles and a minor portion of the cellulosic fiber may be in the form of ground gypsum wallboard.</p>
+<p id="p0022" num="0022">The calcium sulphate dihydrate may range from about 15 to about 45% by weight and substantially all of the calcium sulphate hydrate particles may be in the form of ground gypsum wallboard.</p>
+<p id="p0023" num="0023">The cellulosic fiber may be paper and the major portion of the paper fiber may be newsprint added to the composition to supplement the paper fiber in the ground gypsum wallboard.</p>
+<p id="p0024" num="0024">The composition may further comprise mineral wool.</p>
+<p id="p0025" num="0025">The amount of mineral wool may range from about 10% to about 30% by weight.<!-- EPO <DP n="5"> --></p>
+<p id="p0026" num="0026">The calcium sulphate dihydrate may range from about 15% to about 25% by weight, the expanded perlite may range from about 25 to about 40% by weight, and the cellulosic fiber may be paper fiber ranging from about 13 to about 30% by weight.</p>
+<p id="p0027" num="0027">According to a second aspect of the invention there is provided a wetted composition comprising mineral wool, gypsum, cellulosic fibre, a lightweight aggregate material and a binder, in which, on a dry solids basis, there is at least about 10% by weight of mineral wool and at least 13% by weight of cellulosic fibre.</p>
+<p id="p0028" num="0028">According to a third aspect of the invention there is provided a dry acoustical tile made from a composition as hereinbefore defined.</p>
+<p id="p0029" num="0029">The calcium sulphate dihydrate may range from about 20 to about 40% by weight, the expanded perlite from about 25 to about 50% by weight, and the cellulosic fiber may be paper fiber which may range from about 13 to about 30% by weight.</p>
+<p id="p0030" num="0030">The tile may be mineral-wool free.</p>
+<p id="p0031" num="0031">Thus, using the invention there may be provided a composition, consisting essentially of calcium sulphate dihydrate, cellulosic fiber, a lightweight aggregate material and a binder which can be used to manufacture acoustical ceiling tiles and panels employing equipment and procedures currently used in a water-felting process to produce acoustical tiles and panels. (It is understood that hereinafter the term "tiles" includes panels). The composition may also contain a reduced amount of mineral wool or it may contain no mineral wool. The dried product can be formed into tiles having comparable acoustical<!-- EPO <DP n="6"> --> properties with commercially available acoustical tiles. A particularly preferred composition may employ a gypsum/cellulosic fiber composite material in which the calcium sulphate dihydrate and cellulosic fiber are co-calcined under pressure physically to interlock the cellulosic fiber with the calcium sulphate crystals. Acoustical tiles made from compositions embodying the invention have acceptable physical properties for use in suspended ceiling systems. In addition, compositions which contain waste newsprint and/or waste (scrap) gypsum wallboard are environmentally friendly.</p>
+<p id="p0032" num="0032">Acoustical tile compositions of this invention may be based on using a calcium sulphate dihydrate/cellulosic fiber composition as a replacement, either partial or complete, for mineral wool in manufacturing ceiling tiles or panels using a water-felting process. In addition to the calcium sulphate dihydrate and cellulosic fiber, the<!-- EPO <DP n="7"> --> composition may also contain a lightweight aggregate material and a binder, and it may also contain other additives, such as clay, flocculant and surfactant, normally included in acoustical ceiling tile formulations. As noted above, the composition may contain some mineral wool (in reduced amount), however, it has been found that the compositions of the invention can be used to make mineral wool-free acoustical tiles and panels.</p>
+<p id="p0033" num="0033">One of the key ingredients in the novel acoustical tile composition of the invention is gypsum (calcium sulphate dihydrate). The solubility of the calcium sulphate dihydrate in the processing slurry enables it to function as a flocculant in the formulation. This flocculating function provides uniform distribution of fine particles (clay, gypsum, perlite and starch) in the wet mat during processing. In the absence of this flocculating action, the fine and high density particles tend to migrate to the bottom of the mat during processing which adversely affects drainage of the water from the wet mat. The presence of calcium sulphate dihydrate in the formulation also provides de-agglomeration of the mineral fiber (if present) and cellulose fiber slurries. The de-agglomeration or dispersant function provided by the calcium sulphate dihydrate enables the processing of a higher slurry consistency (% solids) which reduces the amount of water to be removed from the mat and increases the production rate. The higher slurry consistency also enables the entrainment of more air during formation of the mat, and this improves the sound absorption property in the dried product.</p>
+<p id="p0034" num="0034">In addition to the processing benefits provided by the calcium sulphate dihydrate it also improves the properties of the acoustical<!-- EPO <DP n="8"> --> tile. The presence of calcium sulphate dihydrate, replacing the mineral wool fiber (partial or complete) in the formulation, provides a significant improvement in the surface hardness of the panels. The improved surface hardness of the ceiling tiles also provides good surface texturing (e.g. fissuring, perforation, etc.). The higher level of cellulose fiber may also contribute to these improvements. The surface smoothness of the acoustical tiles may also be improved by the gypsum whereby sanding of the surface after drying may be eliminated. The gypsum in the panels also provides improved fire properties.</p>
+<p id="p0035" num="0035">It has also been found that the gypsum/cellulosic fiber formulation does not springback (swell) after the wet pressing and drying operations compared to formulations containing mineral fiber. The non-swelling characteristics of the mineral wool-free ceiling tile indicates that the dry mat thickness can be precisely determined or controlled during the wet pressing operation, thereby eliminating the need to apply a filler coat or to sand the dry mat to control the thickness for finishing the panel.</p>
+<p id="p0036" num="0036">The calcium sulphate dihydrate is either uncalcined or calcined to hemihydrate and then rehydrated. Alternatively, the gypsum source may be calcium sulphate hemihydrate (with or without co-calcining) or calcium sulphate anhydrite. As more fully discussed below, the gypsum may be co-calcined with a cellulose fiber material to form a composite material of cellulose fibers interlocked with calcium sulphate crystals.</p>
+<p id="p0037" num="0037">Another key ingredient in the acoustical tile compositions of the invention is the cellulosic fiber. Several types of cellulosic fiber<!-- EPO <DP n="9"> --> have been evaluated in these compositions. It is well known to use newsprint in acoustical tile formulations, and both hammermilled and hydropulped newsprint have been evaluated in these compositions. Refined paper fibers and wood fiber may also be used as the source of the cellulosic fiber, however, it has been found that ceiling tiles made with wood fiber, either softwood or hardwood, are more difficult to cut with a knife at the installation site. Furthermore, wood fibers are a more expensive source of the cellulosic fiber.</p>
+<p id="p0038" num="0038">A preferred source of the cellulosic fiber is a composite gypsum/cellulose fiber material which has been co-calcined as disclosed in <patcit id="pcit0008" dnum="US5320677A"><text>U.S. Patent No. 5,320,677</text></patcit>. As disclosed therein, uncalcined gypsum and either wood or paper fibers are mixed together with sufficient water to form a dilute slurry which is then heated under pressure to calcine the gypsum, converting it to an alpha calcium sulphate hemihydrate. The resulting composite<!-- EPO <DP n="10"> --> material comprises cellulosic fibers physically interlocked with calcium sulfate crystals. The composite material can be dried immediately before it cools to provide a stable, but rehydratable calcium sulfate hemihydrate, or the composite material slurry can be used directly in manufacturing the acoustical tile. It has been found that the use of co-calcined gypsum/cellulose fiber composite material provides an acoustical tile composition having greater mat solids retention and better wet lap strength, however, it does drain slower and is harder to cut with a knife than tiles made with gypsum physically blended with paper fiber (newsprint), especially if the longer and stronger wood fibers are used.</p>
+<p id="p0039" num="0039">Another source of both gypsum and cellulosic fibers is waste (scrap) gypsum wallboard. It has been found that the scrap wallboard can be ground into gypsum particles and paper fibers which can be physically mixed with the other ingredients in an acoustical formulation to provide a slurry useful in a water-felting process for preparing a ceiling tile. Alternatively, the ground scrap wallboard can be used as a feed material in a co-calcining process, and the co-calcined composite gypsum/paper fiber material can be used in a formulation for preparing a ceiling tile by water-felting.</p>
+<p id="p0040" num="0040">A third key ingredient in the novel acoustical tile compositions of the invention is a lightweight aggregate material. Expanded perlite is preferred for its low cost and performance.</p>
+<p id="p0041" num="0041">The expanded perlite provides porosity in the composition which enhances acoustical properties. It has been found that a medium grade expanded perlite provides sufficient porosity and acceptable texturability. An expanded perlite material commercially available from Silbrico Corporation under the designation 3-S perlite has been found acceptable. Medium grade expanded perlite contains perlite particles that are similar in size to granulated mineral wool. Equivalents of expanded perlite such as vermiculite, glass beads, diatomite or exfoliated clays may also be used as substitutes for the perlite or in combination therewith.</p>
+<p id="p0042" num="0042">The fourth key ingredient is a binder. Starch may be used as a binder in mineral wool based acoustical tiles. A starch gel may be prepared by dispersing starch particles in water and heating the slurry until the starch is fully cooked and the slurry thickens to a viscous gel. A portion of the cellulosic fibers may be incorporated into the starch slurry<!-- EPO <DP n="11"> --> prior to cooking. The cooking temperature of the starch slurry should be closely monitored to assure full swelling of the starch granules. A representative cooking temperature for corn starch is about 82°C (180°F) to about 90°C (195°F). Starch may also be used as a binder without pre-cooking the starch to form a gel.</p>
+<p id="p0043" num="0043">A latex binder may be used in place of the starch or in combination with the starch binder. Many of the latex binders useful in acoustical ceiling formulations are disclosed in <patcit id="pcit0009" dnum="US5250153A"><text>U.S Patent No. 5,250,153</text></patcit>._As set forth therein, one of the problems with acoustical panels employing a starch binder is excessive sag, especially in high humidity conditions. It is well known in the art to use thermoplastic binders (latexes) in acoustical tiles based on mineral wool. These latex binders may have a glass transition temperature ranging from about 30°C. to about 110°C. Examples of latex binders include polyvinyl acetate, vinyl acetate/acrylic emulsion, vinylidene chloride, polyvinyl chloride, styrene/acrylic copolymer and carboxylated styrene/butadiene. A kraft paper gel formed by refining the paper fibers may also be used as a binder.</p>
+<p id="p0044" num="0044">In addition to the four principal ingredients, the acoustical compositions of the invention may also contain inorganic fillers such as clay, mica, wollastonite, silica and other lightweight aggregates, surfactants and flocculants.</p>
+<p id="p0045" num="0045">The acoustical tile compositions of the invention consist essentially of gypsum, cellulose fiber, a lightweight aggregate material and a binder which can be present, preferably, in the following amounts:
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<thead>
+<row>
+<entry valign="top">Ingredient</entry>
+<entry align="center" valign="top">Weight Percent</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Gypsum</entry>
+<entry align="center">15-45%</entry></row>
+<row rowsep="0">
+<entry>Cellulose Fiber</entry>
+<entry align="center">13-30%</entry></row>
+<row rowsep="0">
+<entry>Lightweight Aggregate</entry>
+<entry align="center">25-60%</entry></row>
+<row rowsep="0">
+<entry>Binder</entry>
+<entry align="center">3-15%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0046" num="0046">In some of the examples which follow, soluble gypsum was added to the slurry water prior to incorporating the dry ingredients into the slurry. The reason for this prior addition of gypsum to the slurry water is that gypsum dissolves in water, and the prior addition of gypsum to the slurry water gives batter retention of the dry gypsum ingredient in the dried product. Otherwise, it may be necessary to increase the amount of dry gypsum in the ingredient mix to compensate for gypsum going into solution.</p>
+<heading id="h0002"><u>Example 1</u></heading>
+<p id="p0047" num="0047">Acoustical ceiling tiles were prepared to evaluate replacing mineral fiber in a conventional water-felted formulation and process. The mineral fiber was replaced with<!-- EPO <DP n="12"> --> gypsum and wood fiber at 25, 50.75 and 100% levels. Some tiles were made in which the gypsum and wood fiber were co-calcined prior to incorporation into the acoustical formulation, and other tiles were made in which the gypsum and wood fiber were just physically mixed with the other ingredients without co-calcining. The ratio of gypsum to wood fiber was 85:15 percent by weight in all formulations.</p>
+<p id="p0048" num="0048">The wood fiber was a softwood obtained from the International Paper Pilot Rock facility. The expanded perlite was Silbrico Corporation 3-S grade. In addition to the wood fiber, cellulosic fibers were also supplied by shredded newspaper. 1500 grams of water was added to the required amount of newspaper and mired at high speed in an industrial blender. Corn starch was used as the binder. The flocculant was GEN DRIV 162, and 4 grams of the flocculant were added to 1000 milliliters of deionized water and mixed for at least 2 hours. The surfactant wan NEODOL 25-3.</p>
+<p id="p0049" num="0049">The gypsum and wood fiber were calcined together in a reactor at 15% solids consistency. The calcination was carried out in accordance with the procedures disclosed in <patcit id="pcit0010" dnum="US5320677A"><text>U.S. Patent No. 5,320,677</text></patcit>. After co-calcining, excess water was removed from the composite material by applying a vacuum thereto, after which the composite material was allowed to hydrate fully to calcium sulphate dehydrate (gypsum) prior to drying at 48.9°C (120°F) overnight to constant weight. Another batch of gypsum/wood fiber was co-calcined as previously described, except that after removal of the excess water by vacuum, the composite material was immediately dried at 121.1°C (250°F) for 30 minutes to avoid hydration, followed by drying at 48.9°C (120°F) overnight to constant weight. In this Composite material, the calcium sulfate was in the hemihydrate form. After drying, the gypsum/wood fiber composites, in both dihydrate and hemihydrate forms, were broken down in a twin shall blender prior to incorporation into the acoustical tile composition.</p>
+<p id="p0050" num="0050">In the water-felting process used to make the accoustical tiles, the feed slurry during mat formation was held at 4% solids. This 4% solids consistency was also used in making the control tile which contained 100% mineral fiber and no gypsum/wood fiber. The following formulations (in weight parent) were used to make the tiles:<!-- EPO <DP n="13"> -->
+<tables id="tabl0002" num="0002">
+<table frame="none">
+<title><b><u>TABLE 1</u></b></title>
+<tgroup cols="6" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="19mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="21mm"/>
+<colspec colnum="6" colname="col6" colwidth="23mm"/>
+<thead>
+<row>
+<entry rowsep="0"/>
+<entry namest="col2" nameend="col3" rowsep="0" align="left"><b>Control</b></entry>
+<entry namest="col4" nameend="col6" rowsep="0" align="left"><b>Experimental</b></entry></row>
+<row>
+<entry><b>Ingredients</b></entry>
+<entry><b>100% M-F</b><br/>
+<b>0% G/WF</b></entry>
+<entry><b>75% M-F</b><br/>
+<b>25% G/WF</b></entry>
+<entry><b>50% M-F</b><br/>
+<b>50% G/WF</b></entry>
+<entry><b>25% M-F</b><br/>
+<b>75% G/WF</b></entry>
+<entry><b>0% M-F</b><br/>
+<b>100% G/WF</b></entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry><b>Mineral Fiber</b></entry>
+<entry align="center">37.58</entry>
+<entry align="char" char=".">28.18</entry>
+<entry align="char" char=".">18.79</entry>
+<entry align="char" char=".">9.39</entry>
+<entry align="center">0</entry></row>
+<row rowsep="0">
+<entry><b>Gypsum</b></entry>
+<entry align="center">0</entry>
+<entry align="char" char=".">7.98</entry>
+<entry align="char" char=".">15.97</entry>
+<entry align="char" char=".">23.9</entry>
+<entry align="center">31.94</entry></row>
+<row rowsep="0">
+<entry><b>Wood Fiber</b></entry>
+<entry align="center">0</entry>
+<entry align="char" char=".">1.41</entry>
+<entry align="char" char=".">2.82</entry>
+<entry align="char" char=".">4.22</entry>
+<entry align="center">5.64</entry></row>
+<row rowsep="0">
+<entry><b>Expanded Perlite</b></entry>
+<entry align="center">34.83</entry>
+<entry align="char" char=".">34.83</entry>
+<entry align="char" char=".">34.83</entry>
+<entry align="char" char=".">34.83</entry>
+<entry align="center">34.83</entry></row>
+<row rowsep="0">
+<entry><b>Newspaper</b></entry>
+<entry align="center">15.91</entry>
+<entry align="char" char=".">15.91</entry>
+<entry align="char" char=".">15.91</entry>
+<entry align="char" char=".">15.91</entry>
+<entry align="center">15.91</entry></row>
+<row rowsep="0">
+<entry><b>Total Cellulosic Fiber</b></entry>
+<entry align="center">15.91</entry>
+<entry align="char" char=".">17.32</entry>
+<entry align="char" char=".">18.73</entry>
+<entry align="char" char=".">20.13</entry>
+<entry align="center">21.55</entry></row>
+<row rowsep="0">
+<entry><b>CTS-1 Clay</b></entry>
+<entry align="center">3.54</entry>
+<entry align="char" char=".">3.54</entry>
+<entry align="char" char=".">3.54</entry>
+<entry align="char" char=".">3.54</entry>
+<entry align="center">3.54</entry></row>
+<row rowsep="0">
+<entry><b>Starch</b></entry>
+<entry align="center">8.01</entry>
+<entry align="char" char=".">8.01</entry>
+<entry align="char" char=".">8.01</entry>
+<entry align="char" char=".">8.01</entry>
+<entry align="center">8.01</entry></row>
+<row rowsep="0">
+<entry><b>Flocculant</b></entry>
+<entry align="center">0.06</entry>
+<entry align="char" char=".">0.06</entry>
+<entry align="char" char=".">0.06</entry>
+<entry align="char" char=".">0.06</entry>
+<entry align="center">0.06</entry></row>
+<row rowsep="0">
+<entry><b>Surfactant</b></entry>
+<entry align="center">0.08</entry>
+<entry align="char" char=".">0.08</entry>
+<entry align="char" char=".">0.08</entry>
+<entry align="char" char=".">0.08</entry>
+<entry align="center">0.08</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="14"> -->
+The evaluation procedures included board formation and processing, drainage time, pressing, drying and the effect on the physical properties of the acoustical tiles. In general, there was no significant difference in the formation of the mat. After mixing all of the ingredients at a 4% solids consistency, the slurry was poured in a Tappi Box and gently mixed with 30.48 cms (12 inch) by 30.48 cm (12 inch) perforated plunger to disperse the solids uniformly. After the mat was formed in the box, vacuum was applied to the wet mat. It took about 30 seconds for the vacuum to reach 50.8 cms (20 inches) of mercury, afterwhich the vacuum was released and the two drainage times were recorded. The first drainage time was when the water totally disappeared from the surface of the mat, and the second drainage time was when the vacuum dial indicator dropped to 12.7 cms (5 inches) of mercury. At this stage, the vacuum system was turned off, and the wet mat was removed from the Tappi Box and weighed prior to pressing. The vacuum dewatered boards were pressed to 1.1..59 (5/8 inch) thickness and dried.</p>
+<p id="p0051" num="0051">The wet mats were dried in an oven at 315.6°C (600°F) for 30 minutes, and thereafter, the oven temperature was lowered to 176.7°C (350°F) and the tiles were dried for an additional 90 minutes. Prior to drying, a study was performed to determine whether the wet mats could be dried without calcining the gypsum therein. It was determined that the mats could be dried in an oven as recited above without calcining the gypsum to hemihydrate or anhydrite.</p>
+<p id="p0052" num="0052">After drying, all of the test specimens were cut and subjected to 23.9°C (75°F)/50% Relative humidity conditions for at least 24 hours prior to testing. The specimens were tested for the following:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>1) density, thickness and MOR strength</li>
+<li>2) acoustical properties (NRC)</li>
+<li>3) dimensional stability (water absorption)</li>
+</ol>
+The following results were recorded (results are based on an average of 4 specimens in each set unless otherwise indicated):<!-- EPO <DP n="15"> -->
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<title>TABLE1A</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="24mm"/>
+<colspec colnum="6" colname="col6" colwidth="24mm"/>
+<colspec colnum="7" colname="col7" colwidth="24mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="26mm"/>
+<colspec colnum="10" colname="col10" colwidth="26mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col10" align="center" valign="top">Gypsum &amp; Wood Fiber (No Co-calcination)</entry></row>
+<row>
+<entry colsep="0" align="center"/>
+<entry colsep="0">Drainage</entry>
+<entry colsep="0">Thickness After</entry>
+<entry colsep="0">%Water Removed</entry>
+<entry colsep="0">%Water Removed</entry>
+<entry colsep="0">%Total Water</entry>
+<entry colsep="0">Dry Board Thick</entry>
+<entry colsep="0">Dry Board Density</entry>
+<entry colsep="0">% Wt. Loss During</entry>
+<entry colsep="0">Additional Wt. Loss</entry></row>
+<row>
+<entry align="center" valign="top"/>
+<entry valign="top">Time (sec.)</entry>
+<entry valign="top">Vacuum<br/>
+cms (in.)</entry>
+<entry valign="top">(Vacuum)</entry>
+<entry valign="top">Pressing</entry>
+<entry valign="top">Dried</entry>
+<entry valign="top">cms. (in.)</entry>
+<entry valign="top">Kg/m<sup>3</sup><br/>
+(lb.ft.<sup>3</sup>)</entry>
+<entry valign="top">Processing</entry>
+<entry valign="top">% (gypsum)</entry></row></thead>
+<tbody>
+<row>
+<entry>Control (100%MF)*</entry>
+<entry>4.3 -11.4</entry>
+<entry>2.62(1.031)</entry>
+<entry align="char" char=".">80.47</entry>
+<entry align="char" char=".">80.93</entry>
+<entry align="char" char="." charoff="15">79.77</entry>
+<entry>1.61(0.635)</entry>
+<entry>161.0 (10.02)</entry>
+<entry>5.01</entry>
+<entry>-</entry></row>
+<row>
+<entry>75% MF &amp; 25% G/WF</entry>
+<entry>4 -11</entry>
+<entry>2.54 (1.000)</entry>
+<entry align="char" char=".">80.60</entry>
+<entry align="char" char=".">82.27</entry>
+<entry align="char" char="." charoff="15">79.89</entry>
+<entry>1.51 (0-596)</entry>
+<entry>158.6 (9.87)</entry>
+<entry>10.74</entry>
+<entry>5.58</entry></row>
+<row>
+<entry>50°/o MF &amp; 50% G/WF</entry>
+<entry>4 -11</entry>
+<entry>2.54(1.000)</entry>
+<entry align="char" char=".">80.55</entry>
+<entry align="char" char=".">81.85</entry>
+<entry align="char" char="." charoff="15">80.52</entry>
+<entry>1.50 (0.592)</entry>
+<entry>158,6 (9.87)</entry>
+<entry>11.45</entry>
+<entry>6.45</entry></row>
+<row>
+<entry>25% MF &amp; 75% G/WF</entry>
+<entry>5.5-12.5</entry>
+<entry>2.46 (0.969)</entry>
+<entry align="char" char=".">81.68</entry>
+<entry align="char" char=".">82.27</entry>
+<entry align="char" char="." charoff="15">80.13</entry>
+<entry>1.48 (0.583)</entry>
+<entry>160.55 (9.99)</entry>
+<entry>11.80</entry>
+<entry>6.80</entry></row>
+<row>
+<entry>100%G/WF **</entry>
+<entry>7.3 -13</entry>
+<entry>2.38 (0.938)</entry>
+<entry align="char" char=".">81.52</entry>
+<entry align="char" char=".">82.69</entry>
+<entry align="char" char="." charoff="15">79.97</entry>
+<entry>1.48 (0.582)</entry>
+<entry>159.9(9.95)</entry>
+<entry>12.20</entry>
+<entry>7.20</entry></row></tbody></tgroup>
+<tgroup cols="10" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="24mm"/>
+<colspec colnum="6" colname="col6" colwidth="24mm"/>
+<colspec colnum="7" colname="col7" colwidth="24mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="26mm"/>
+<colspec colnum="10" colname="col10" colwidth="26mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col10" align="justify">* 2 specimens<br/>
+** 3 specimens</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<title>TABLE 1B</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="23mm"/>
+<colspec colnum="4" colname="col4" colwidth="13mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="23mm"/>
+<colspec colnum="8" colname="col8" colwidth="23mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<colspec colnum="10" colname="col10" colwidth="12mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col10" align="center" valign="top">Dihydrate Composite (Co-Calcined)</entry></row></thead>
+<tbody>
+<row>
+<entry>Control</entry>
+<entry>4.4 -11,4</entry>
+<entry>2.7 (1.063)</entry>
+<entry align="char" char="." charoff="28">80.44</entry>
+<entry align="char" char="." charoff="28">82.11</entry>
+<entry align="char" char="." charoff="28">78.76</entry>
+<entry>1.60 (0-631)</entry>
+<entry>158,63 (9.87)</entry>
+<entry>5.51</entry>
+<entry>-</entry></row>
+<row>
+<entry>75% MF &amp; 25% GWF</entry>
+<entry>4.6-10.9</entry>
+<entry>2.54(1.000)</entry>
+<entry align="char" char="." charoff="28">78.27</entry>
+<entry align="char" char="." charoff="28">80.58</entry>
+<entry align="char" char="." charoff="28">80.57</entry>
+<entry>1,59 (0.627)</entry>
+<entry>169.59 (9.93)</entry>
+<entry>9.74</entry>
+<entry>4.2</entry></row>
+<row>
+<entry>50% MF &amp; 50 GWF</entry>
+<entry>5- 31</entry>
+<entry>2.38 (0.938)</entry>
+<entry align="char" char="." charoff="28">81.24</entry>
+<entry align="char" char="." charoff="28">82.41</entry>
+<entry align="char" char="." charoff="28">79.83</entry>
+<entry>1.50 (0.591)</entry>
+<entry>157.5 (9.80)</entry>
+<entry>12.26</entry>
+<entry>6.75</entry></row>
+<row>
+<entry>25% MF &amp; 75% GWF***</entry>
+<entry>5.7-11</entry>
+<entry>2,38 (0,938)</entry>
+<entry align="char" char="." charoff="28">79.68</entry>
+<entry align="char" char="." charoff="28">82.03</entry>
+<entry align="char" char="." charoff="28">80.77</entry>
+<entry>1.50 (0.590)</entry>
+<entry>155.41 (9.67)</entry>
+<entry>13.40</entry>
+<entry>7.89</entry></row>
+<row>
+<entry>100% GWF</entry>
+<entry>7-11</entry>
+<entry>2.38 (0.938)</entry>
+<entry align="char" char="." charoff="28">82.24</entry>
+<entry align="char" char="." charoff="28">83.14</entry>
+<entry align="char" char="." charoff="28">79.90</entry>
+<entry>1.42 (0.559)</entry>
+<entry>160.71 (10.00)</entry>
+<entry>15.23</entry>
+<entry>9.72</entry></row></tbody></tgroup>
+<tgroup cols="10" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="23mm"/>
+<colspec colnum="4" colname="col4" colwidth="13mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="23mm"/>
+<colspec colnum="8" colname="col8" colwidth="23mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<colspec colnum="10" colname="col10" colwidth="12mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col10" align="justify">*** 3 specimens</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="16"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<title>TABLE 1C</title>
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="23mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="24mm"/>
+<colspec colnum="6" colname="col6" colwidth="26mm"/>
+<colspec colnum="7" colname="col7" colwidth="26mm"/>
+<colspec colnum="8" colname="col8" colwidth="25mm"/>
+<colspec colnum="9" colname="col9" colwidth="25mm"/>
+<colspec colnum="10" colname="col10" colwidth="25mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col10" align="center" valign="top">Hemihydrate Composite (Co-Calcined)</entry></row>
+<row>
+<entry colsep="0" valign="top"/>
+<entry colsep="0" valign="middle">Drainage Time (sec.)</entry>
+<entry colsep="0" valign="top">Thickness After Vacuum cm<br/>
+(in.)</entry>
+<entry colsep="0" valign="top">%Water Removed (Vacuum)</entry>
+<entry colsep="0" valign="top">%Water Removed<br/>
+(pressing)</entry>
+<entry colsep="0" valign="top">% Total Water Dried</entry>
+<entry colsep="0" valign="top">Dry Board Thick cm (in.)</entry>
+<entry colsep="0" valign="top">Dry Board Density Kg/M<sup>3</sup><br/>
+(lb./ft.<sup>3</sup>)</entry>
+<entry colsep="0" valign="top">% Wt. Loss During Processing</entry>
+<entry colsep="0" valign="top">Additional Wt. Loss<br/>
+% (gypsum)</entry></row></thead>
+<tbody>
+<row>
+<entry>Control<br/>
+(100%MF)*</entry>
+<entry>4.6 - 11</entry>
+<entry>2.54(1.0)</entry>
+<entry align="char" char=".">80.43</entry>
+<entry align="char" char=".">81.31</entry>
+<entry align="char" char=".">79.88</entry>
+<entry>1.58 (0.624)</entry>
+<entry>159.22 (9.94)</entry>
+<entry>5.86</entry>
+<entry>-</entry></row>
+<row>
+<entry>75%MF &amp; 25% G/WF</entry>
+<entry>4.8 - 10.4</entry>
+<entry>2.54(1.0)</entry>
+<entry align="char" char=".">80.93</entry>
+<entry align="char" char=".">81.46</entry>
+<entry align="char" char=".">80.87</entry>
+<entry>1.53(0.602)</entry>
+<entry>156.34 (9.73)</entry>
+<entry>11.24</entry>
+<entry>5.38</entry></row>
+<row>
+<entry>50% MF &amp; G/WF</entry>
+<entry>5.6 - 11.4</entry>
+<entry>2.54 (1.0)</entry>
+<entry align="char" char=".">79.99</entry>
+<entry align="char" char=".">81,57</entry>
+<entry align="char" char=".">81.58</entry>
+<entry>1.51 (0.596)</entry>
+<entry>150.91 (9.39)</entry>
+<entry>14.97</entry>
+<entry>9.12</entry></row>
+<row>
+<entry>25% MF &amp; 75%G/WG</entry>
+<entry>6.8 - 11.3</entry>
+<entry>2.54(1.0)</entry>
+<entry align="char" char=".">81.98</entry>
+<entry align="char" char=".">82.63</entry>
+<entry align="char" char=".">81.06</entry>
+<entry>1.46 (0.573)</entry>
+<entry>152.36 (9.48)</entry>
+<entry>17.58</entry>
+<entry>11.72</entry></row>
+<row>
+<entry>100%G/WF</entry>
+<entry>9.3 - 13.8</entry>
+<entry>2.54(1.0)</entry>
+<entry align="char" char=".">82.9</entry>
+<entry align="char" char=".">83.87</entry>
+<entry align="char" char=".">79.86</entry>
+<entry>1.45 (0.571)</entry>
+<entry>150.91 (9.39)</entry>
+<entry>18.87</entry>
+<entry>13.02</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="17"> -->
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<title>TABLE 1D</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="col1" colwidth="30mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="11mm" colsep="0"/>
+<colspec colnum="4" colname="col4" colwidth="11mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<colspec colnum="6" colname="col6" colwidth="27mm"/>
+<colspec colnum="7" colname="col7" colwidth="22mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col7" align="center" valign="top">Density, Thickness, Strength (MOR)</entry></row>
+<row>
+<entry colsep="0" rowsep="0"/>
+<entry colsep="0">No. of Samples</entry>
+<entry namest="col3" nameend="col4" colsep="0" align="left">% MF/WF</entry>
+<entry colsep="0">Thickness<br/>
+cms (inch)</entry>
+<entry colsep="0">Density<br/>
+Kg/m<sup>3</sup> (lb./ft<sup>3</sup>)</entry>
+<entry colsep="0">MOR<br/>
+Pa (psi)</entry></row></thead>
+<tbody>
+<row>
+<entry rowsep="0">Control (100%MF)</entry>
+<entry align="right">29</entry>
+<entry align="right">100</entry>
+<entry align="right">0</entry>
+<entry>1.59 (0.627)</entry>
+<entry>161.52 (10.05)</entry>
+<entry>365422 (53)</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry align="right">10</entry>
+<entry align="right">75</entry>
+<entry align="right">25</entry>
+<entry>1.52 (0.600)</entry>
+<entry>158.46 (9.86)</entry>
+<entry>379211 (55)</entry></row>
+<row>
+<entry rowsep="0">Gypsum/</entry>
+<entry align="right">10</entry>
+<entry align="right">50</entry>
+<entry align="right">50</entry>
+<entry>1.53 (0.602)</entry>
+<entry>159.91 (9.95)</entry>
+<entry>386106(56)</entry></row>
+<row>
+<entry rowsep="0">Wood (Not</entry>
+<entry align="right">10</entry>
+<entry align="right">25</entry>
+<entry align="right">75</entry>
+<entry>1.50 (0.591)</entry>
+<entry>161.52 (10.05)</entry>
+<entry>434369 (63)</entry></row>
+<row>
+<entry rowsep="0">Co-Calcin.)</entry>
+<entry align="right">9</entry>
+<entry align="right">0</entry>
+<entry align="right">100</entry>
+<entry>1.49 (0.590)</entry>
+<entry>163.13 (10.15)</entry>
+<entry>572264 (83)</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry align="right">10</entry>
+<entry align="right">75</entry>
+<entry align="right">25</entry>
+<entry>1.60 (0.630)</entry>
+<entry>161.52 (10.05)</entry>
+<entry>330948 (48)</entry></row>
+<row>
+<entry rowsep="0">Dihydrate</entry>
+<entry align="right">10</entry>
+<entry align="right">50</entry>
+<entry align="right">50</entry>
+<entry>1.50 (0.593)</entry>
+<entry>160.55 (9.99)</entry>
+<entry>393001 (51)</entry></row>
+<row>
+<entry rowsep="0">Composite</entry>
+<entry align="right"/>
+<entry align="right"/>
+<entry align="right"/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry rowsep="0">(Co-Calcin.)</entry>
+<entry align="right">6</entry>
+<entry align="right">25</entry>
+<entry align="right">75</entry>
+<entry>1.50 (0.591)</entry>
+<entry>154.93 (9.64)</entry>
+<entry>393301 (57)</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry align="right">10</entry>
+<entry align="right">0</entry>
+<entry align="right">100</entry>
+<entry>1.42 (0.559)</entry>
+<entry>164.21 (10.22)</entry>
+<entry>434369 (63)</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry align="right">10</entry>
+<entry align="right">75</entry>
+<entry align="right">25</entry>
+<entry>1.53 (0.602)</entry>
+<entry>156.86 (9.76)</entry>
+<entry>399895 (58)</entry></row>
+<row>
+<entry rowsep="0">Hemihydrate</entry>
+<entry align="right">10</entry>
+<entry align="right">50</entry>
+<entry align="right">50</entry>
+<entry>1.52 (0.597)</entry>
+<entry>150.91 (9.39)</entry>
+<entry>379211 (55)</entry></row>
+<row>
+<entry rowsep="0">Composite</entry>
+<entry align="right"/>
+<entry align="right"/>
+<entry align="right"/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry rowsep="0">(Co-Calcin.)</entry>
+<entry align="right">10</entry>
+<entry align="right">25</entry>
+<entry align="right">75</entry>
+<entry>1.45 (0.571)</entry>
+<entry>152.04(9.46)</entry>
+<entry>39300 (57)</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry align="right">7</entry>
+<entry align="right">0</entry>
+<entry align="right">100</entry>
+<entry>1.44 (0.568)</entry>
+<entry>149.79 (9.32),</entry>
+<entry>385422 (53)</entry></row>
+<row>
+<entry rowsep="0"/>
+<entry align="right"/>
+<entry align="right"/>
+<entry align="right"/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry/>
+<entry align="right"/>
+<entry align="right"/>
+<entry align="right"/>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="18"> -->
+<tables id="tabl0007" num="0007">
+<table frame="none">
+<title>TABLE 1E</title>
+<tgroup cols="7" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="15mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="17mm"/>
+<colspec colnum="6" colname="col6" colwidth="17mm"/>
+<colspec colnum="7" colname="col7" colwidth="21mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col7" align="center" valign="top">Acoustical Properties Dihydrate Composite Frequency</entry></row>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top">250 Hz</entry>
+<entry align="center" valign="top">500 Hz</entry>
+<entry align="center" valign="top">1000 Hz</entry>
+<entry align="center" valign="top">2000 Hz</entry>
+<entry align="center" valign="top">NRC (avg.)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Control</entry>
+<entry align="right">Db Drop</entry>
+<entry align="center">32</entry>
+<entry align="center">27</entry>
+<entry align="center">21.5</entry>
+<entry align="center">22</entry>
+<entry align="char" char="." charoff="9"/></row>
+<row rowsep="0">
+<entry/>
+<entry align="right">Absorbance</entry>
+<entry align="center">0.266</entry>
+<entry align="center">0.392</entry>
+<entry align="center">0.546</entry>
+<entry align="center">0.532</entry>
+<entry align="char" char="." charoff="9">0.434</entry></row>
+<row rowsep="0">
+<entry>75% MF/25%</entry>
+<entry align="right">GWF Db Drop</entry>
+<entry align="center">29.5</entry>
+<entry align="center">24</entry>
+<entry align="center">21</entry>
+<entry align="center">21</entry>
+<entry align="char" char="." charoff="9"/></row>
+<row rowsep="0">
+<entry/>
+<entry align="right">Absorbance</entry>
+<entry align="center">0.326</entry>
+<entry align="center">0.476</entry>
+<entry align="center">0.562</entry>
+<entry align="center">0.560</entry>
+<entry align="char" char="." charoff="9">0.401</entry></row>
+<row rowsep="0">
+<entry>50% MP/50%</entry>
+<entry align="right">GWF Db Drop</entry>
+<entry align="center">29</entry>
+<entry align="center">24.5</entry>
+<entry align="center">20</entry>
+<entry align="center">19.5</entry>
+<entry align="char" char="." charoff="9"/></row>
+<row rowsep="0">
+<entry/>
+<entry align="right">Absorbance</entry>
+<entry align="center">0.332</entry>
+<entry align="center">0.469</entry>
+<entry align="center">0.599</entry>
+<entry align="center">0.606</entry>
+<entry align="char" char="." charoff="9">0.501</entry></row>
+<row rowsep="0">
+<entry>25% MF/75%</entry>
+<entry align="right">GWF Db Drop</entry>
+<entry align="center">29.5</entry>
+<entry align="center">22.5</entry>
+<entry align="center">21.5</entry>
+<entry align="center">19.5</entry>
+<entry align="char" char="." charoff="9"/></row>
+<row rowsep="0">
+<entry/>
+<entry align="right">Absorbance</entry>
+<entry align="center">0.332</entry>
+<entry align="center">0.518</entry>
+<entry align="center">0.546</entry>
+<entry align="center">0.613</entry>
+<entry align="char" char="." charoff="9">0.502</entry></row>
+<row rowsep="0">
+<entry>100% GWF</entry>
+<entry align="right">Db Drop</entry>
+<entry align="center">29</entry>
+<entry align="center">23</entry>
+<entry align="center">18.5</entry>
+<entry align="center">19</entry>
+<entry align="char" char="." charoff="9"/></row>
+<row rowsep="0">
+<entry/>
+<entry align="right">Absorbance</entry>
+<entry align="center">0.339</entry>
+<entry align="center">0.503</entry>
+<entry align="center">0.636</entry>
+<entry align="center">0.621</entry>
+<entry align="char" char="." charoff="9">0.525</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="19"> -->
+<tables id="tabl0008" num="0008">
+<table frame="none">
+<title>TABLE 1F</title>
+<tgroup cols="4" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="32mm"/>
+<colspec colnum="2" colname="col2" colwidth="28mm"/>
+<colspec colnum="3" colname="col3" colwidth="28mm"/>
+<colspec colnum="4" colname="col4" colwidth="34mm"/>
+<thead>
+<row rowsep="0">
+<entry namest="col1" nameend="col4" align="center" valign="top">Dimensional Stability<br/>
+Dihydrate Composite (Avg. 6 Samples)</entry></row>
+<row>
+<entry align="center" valign="top"/>
+<entry align="center" valign="top">% H<sub>2</sub>O<br/>
+Absorption<br/>
+1 - Hour</entry>
+<entry align="center" valign="top">% H<sub>2</sub>O<br/>
+Absorption<br/>
+4 - Hours</entry>
+<entry align="center" valign="top">% Thickness<br/>
+Increase<br/>
+4 - Hours</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Control</entry>
+<entry align="char" char=".">387.96</entry>
+<entry align="char" char=".">404.14</entry>
+<entry align="char" char=".">- 0.540</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="char" char="."/>
+<entry align="char" char="."/>
+<entry align="char" char="."/></row>
+<row rowsep="0">
+<entry>75% MF/25% GWF</entry>
+<entry align="char" char=".">386.48</entry>
+<entry align="char" char=".">396.15</entry>
+<entry align="char" char=".">0.035</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="char" char="."/>
+<entry align="char" char="."/>
+<entry align="char" char="."/></row>
+<row rowsep="0">
+<entry>50% MF/50% GWF</entry>
+<entry align="char" char=".">390.23</entry>
+<entry align="char" char=".">399.90</entry>
+<entry align="char" char=".">- 0.412</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="char" char="."/>
+<entry align="char" char="."/>
+<entry align="char" char="."/></row>
+<row rowsep="0">
+<entry>25% MF/75% GWF</entry>
+<entry align="char" char=".">388.10</entry>
+<entry align="char" char=".">400.66</entry>
+<entry align="char" char=".">- 0.066</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="char" char="."/>
+<entry align="char" char="."/>
+<entry align="char" char="."/></row>
+<row rowsep="0">
+<entry>100% GWF</entry>
+<entry align="char" char=".">388.61</entry>
+<entry align="char" char=".">400.50</entry>
+<entry align="char" char=".">- 0.121</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="20"> --></p>
+<p id="p0053" num="0053">The drainage time was not affected when 25% of the mineral fiber was replaced by gypsum and wood fiber; however, the drainage was slightly adversely affected as the gypsum/wood fiber level increased, especially at 100% hemihydrate composite. The thickness of the dewatered mat slightly decreased when the gypsum/wood fiber level increased.</p>
+<p id="p0054" num="0054">The difference in moisture content, after vacuum dewatering and pressing, was insignificant. The thickness of all of the wet mats was controlled at 0.55 inches during pressing. It appeared that wet pressing only controls the thickness of the mat and does not dewater the mat.</p>
+<p id="p0055" num="0055">The drying data indicates that some gypsum filtered through the screen with excess water during the mat formation and vacuum dewatering. The average weight loss in the control mats was about 5.5%, whereas the weight loss in the mats containing the gypsum/wood fiber was substantially greater. Gypsum settled in the bottom of the mats during mat formation. The dried tiles containing the gypsum/wood fiber were also slightly warped, and the warpage was severe when the mineral filler was totally replaced with the uncalcined gypsum/wood fiber. However, there was no warpage in the tiles made by replacing the mineral fiber with a co-calcined dihydrate or hemihydrate composite.</p>
+<p id="p0056" num="0056">The MOR strength of the tiles containing gypsum/wood fiber was comparable to the control, even though the density was slightly lower (probably due to the gypsum lost during the mat formation). The thickness of the tiles containing the gypsum/wood fiber was lower due to the low specific volume for gypsum, which did not spring back during drying as did the 100% mineral fiber tiles.</p>
+<p id="p0057" num="0057">Duplicate samples of Control and experimental tiles with mineral fiber replaced by gypsum/wood fiber dihydrate composite (co-calcined) were tested for NRC using the Impedance tube method. The samples were not perforated, fissured or painted. In general, the NRC ratings for the tiles containing the gypsum/wood fiber were better than the control, especially for the tiles wherein all of the mineral fiber was replaced.</p>
+<p id="p0058" num="0058">In the test for dimensional stability, there was no significant difference in the one and four hour water absorption values. As noted previously, very little water (about 2%) was removed from the tiles during wet pressing. About 78% moisture was evaporated during drying, however, this produced excessive<!-- EPO <DP n="21"> --> pores in the tiles. However, during the dimensional stability test, water penetrated into the pores of the tiles resulting in high water absorption</p>
+<heading id="h0003"><u>Example 2</u></heading>
+<p id="p0059" num="0059">Waste (scrap) gypsum wallboard was evaluated as a source of gypsum and paper fiber (co-calcined) in acoustical ceiling tiles. The waste wallboard was ground into small particles. Though some large paper pieces were present, these were broken during the calcining and the agitation required to keep the slurry in suspension during the calcining. The scrap gypsum wallboard slurry was co-calcined with additional waste (hydropulped) newspaper, whereby the slurry consisted of 15% dry weight of paper fiber and 85% by weight of gypsum. These were co-calcined at a 15% solids consistency, and the calcination was carried out as disclosed in <patcit id="pcit0011" dnum="US5320677A"><text>U.S. Patent No. 5,320,677</text></patcit>.</p>
+<p id="p0060" num="0060">After the calcination, the gypsum/paper fiber composite material was discharged from the reactor with the gypsum in its hemihydrate form. Two acoustical ceiling tiles were made by dewatering (vacuum) the slurry, after mixing with expanded perlite and corn starch, and then pressing the wet mat to remove additional excess water and to control the thickness of the tiles prior to drying. The tiles were dried at 600°F. for 30 minutes, followed by 90 minutes at 343.3°C (650°F).</p>
+<p id="p0061" num="0061">The following tables represent the formulation and the recorded MOR strength:
+<tables id="tabl0009" num="0009">
+<table frame="none">
+<title><b><u>TABLE 2A</u></b></title>
+<tgroup cols="5" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="42mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="16mm"/>
+<colspec colnum="4" colname="col4" colwidth="22mm"/>
+<colspec colnum="5" colname="col5" colwidth="16mm"/>
+<thead>
+<row>
+<entry align="center" valign="top"/>
+<entry namest="col2" nameend="col3" align="center" valign="top"><b>Tile NO. 1</b></entry>
+<entry namest="col4" nameend="col5" align="center" valign="top"><b>Tile NO. 2</b></entry></row>
+<row>
+<entry valign="top"><b>Ingredient</b></entry>
+<entry align="center" valign="top"><b>Wgt. (gms.)</b></entry>
+<entry align="center" valign="top"><b>Wgt. %</b></entry>
+<entry align="center" valign="top"><b>Wgt. (gms.)</b></entry>
+<entry align="center" valign="top"><b>Wgt. %</b></entry></row></thead>
+<tbody>
+<row>
+<entry><b>Gypsum (hemihydrate)</b></entry>
+<entry align="center">158.1</entry>
+<entry align="center">39.4</entry>
+<entry align="center">607.8</entry>
+<entry align="center">66.4</entry></row>
+<row>
+<entry><b>Waste Paper</b></entry>
+<entry align="center">85.9</entry>
+<entry align="center">21.4</entry>
+<entry align="center">167.0</entry>
+<entry align="center">18.3</entry></row>
+<row>
+<entry><b>Expanded Perlite</b></entry>
+<entry align="center">137.0</entry>
+<entry align="center">34.2</entry>
+<entry align="center">120.0</entry>
+<entry align="center">13.1</entry></row>
+<row>
+<entry><b>Corn Starch</b></entry>
+<entry align="center">20.0</entry>
+<entry align="center">5.0</entry>
+<entry align="center">20.0</entry>
+<entry align="center">2.2</entry></row>
+<row>
+<entry><b>Slurry Consis. (solids %)</b></entry>
+<entry namest="col2" nameend="col3" align="center">4</entry>
+<entry namest="col4" nameend="col5" align="center">6</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0062" num="0062">It will be understood that the Examples in Table 1C and Table 2A referring to hemihydrate and the reference to hemihydrate in Table 1D refer to the source of gypsum as hereinbefore described and are included for an understanding of the invention.<!-- EPO <DP n="22"> -->
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<title>TABLE 2B</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="52mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="27mm"/>
+<colspec colnum="4" colname="col4" colwidth="27mm"/>
+<thead>
+<row>
+<entry colsep="0" align="center">Title Sample</entry>
+<entry colsep="0" align="center">Thickness<br/>
+cms (inch)</entry>
+<entry colsep="0" align="center">Density<br/>
+Kg/m<sup>3</sup> (lbs.ft.<sup>3</sup>)</entry>
+<entry colsep="0" align="center">MOR<br/>
+Pa (psi)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">1a</entry>
+<entry align="center">1.60 (0.632)</entry>
+<entry align="center">120.50 (7.5)</entry>
+<entry align="center">468843 (68)</entry></row>
+<row>
+<entry align="center">1b</entry>
+<entry align="center">1.57(0.619</entry>
+<entry align="center">120.54 (7.5)</entry>
+<entry align="center">427474 (62)</entry></row>
+<row>
+<entry align="center">1c</entry>
+<entry align="center">1.58 (0.623)</entry>
+<entry align="center">118.93 (7.4)</entry>
+<entry align="center">461948 (67)</entry></row>
+<row>
+<entry align="center">1d</entry>
+<entry align="center">1.60 (0.630)</entry>
+<entry align="center">118.93(7.4)</entry>
+<entry align="center">5377911(78)</entry></row>
+<row>
+<entry align="center">Avg.</entry>
+<entry align="center">1.50(0.626)</entry>
+<entry align="center">114.73 (7.45)</entry>
+<entry align="center">471738 (69)</entry></row>
+<row>
+<entry align="center">2a</entry>
+<entry align="center">1.57 (0.620)</entry>
+<entry align="center">327.80(20.4)</entry>
+<entry align="center">1158319(168)</entry></row>
+<row>
+<entry align="center">2b</entry>
+<entry align="center">1.64 (0.645)</entry>
+<entry align="center">339.11 (21.1)</entry>
+<entry align="center">1234161 (179)</entry></row>
+<row>
+<entry align="center">2c</entry>
+<entry align="center">1.63 (0.642)</entry>
+<entry align="center">329.46(20.5)</entry>
+<entry align="center">1096266 (159)</entry></row>
+<row>
+<entry align="center">2d</entry>
+<entry align="center">1.63 (0.643)</entry>
+<entry align="center">324.61 (20.2)</entry>
+<entry align="center">1061792(154)</entry></row>
+<row>
+<entry align="center">Avg.</entry>
+<entry align="center">1.62(0.638)</entry>
+<entry align="center">330.01 (20.6)</entry>
+<entry align="center">1137634(165)</entry></row>
+<row>
+<entry align="center">Control (Typical Mineral Fiber Tile)</entry>
+<entry align="center">1.87(0.62)</entry>
+<entry align="center">176.70 (11)</entry>
+<entry align="center">448159 (65)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0063" num="0063">Tils No.1 which had a density suitable for use as an acoustical ceiling tile also had a MOR comparable to the control.</p>
+<heading id="h0004"><u>Example 3</u></heading>
+<p id="p0064" num="0064">Two ceiling tiles were made using ground scrap gypsum wallboard. There were large paper pieces in the ground wallboard. The ceiling tiles were produced by substituring the ground gypsum wallboard and additional newspaper fiber in a mineral fiber board formulation. The tiles were produced by mixing all of the ingredients for 3 minutes in an aqueous slurry (4% solids). After mixing, the slurry was formed into a wat mat dewatered under vacuum, and wat pressed ta control the thickness and to remove some excess water prior to drying. The processing was comparable to using a mineral fiber formulation except that drainaga time was slightly longer. After drying, there were still large pieces of paper in the tiles. The dried tiles were subjected to 23.9°C (75°F)/50% relative humidity conditions for at least 24 hours prior to testing for MOR strength.</p>
+<p id="p0065" num="0065">The following tables represent the formulation and the recorded MOR strength:<!-- EPO <DP n="23"> -->
+<tables id="tabl0011" num="0011">
+<table frame="none">
+<title><u>TABLE 3 A</u></title>
+<tgroup cols="3" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="46mm"/>
+<colspec colnum="2" colname="col2" colwidth="17mm"/>
+<colspec colnum="3" colname="col3" colwidth="18mm"/>
+<thead>
+<row>
+<entry>Ingredients</entry>
+<entry align="center">Weight<br/>
+(grams)</entry>
+<entry align="center">Weight<br/>
+%</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Gypsum (scrap board;</entry>
+<entry align="char" char=".">157.636</entry>
+<entry align="char" char=".">41.924</entry></row>
+<row rowsep="0">
+<entry>Paper Fiber (scrap coard)</entry>
+<entry align="char" char=".">10.704</entry>
+<entry align="char" char=".">2.676</entry></row>
+<row rowsep="0">
+<entry>Newspaper Fiber (additional)</entry>
+<entry align="char" char=".">64.0</entry>
+<entry align="char" char=".">15.0</entry></row>
+<row rowsep="0">
+<entry>Total Paper Fiber</entry>
+<entry align="char" char=".">74.704</entry>
+<entry align="char" char=".">18.676</entry></row>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="char" char=".">120</entry>
+<entry align="char" char=".">30</entry></row>
+<row rowsep="0">
+<entry>Clay (CTS-1)</entry>
+<entry align="char" char=".">17.5</entry>
+<entry align="char" char=".">4.4</entry></row>
+<row rowsep="0">
+<entry>Start</entry>
+<entry align="char" char=".">20</entry>
+<entry align="char" char=".">5</entry></row>
+<row rowsep="0">
+<entry>Flocculant (Gendrir)</entry>
+<entry align="char" char="."/>
+<entry align="char" char=".">0.06</entry></row>
+<row rowsep="0">
+<entry>Surfactant (Neodal 25-3)</entry>
+<entry align="char" char="."/>
+<entry align="char" char=".">0.08</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0012" num="0012">
+<table frame="all">
+<title>TABLE 3B</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="21mm"/>
+<colspec colnum="2" colname="col2" colwidth="24mm"/>
+<colspec colnum="3" colname="col3" colwidth="27mm"/>
+<colspec colnum="4" colname="col4" colwidth="22mm"/>
+<thead>
+<row>
+<entry colsep="0" align="center">Tile Sample</entry>
+<entry colsep="0" align="center">Thickness<br/>
+cm (inch)</entry>
+<entry colsep="0" align="center">Density<br/>
+Kg/m<sup>3</sup> (lbs.ft.<sup>3</sup>)</entry>
+<entry colsep="0" align="center">MOR<br/>
+Pa(psi)</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">1a</entry>
+<entry align="center">1.47 (0.578)</entry>
+<entry align="center">163.92 (10.2)</entry>
+<entry align="center">317158(46)</entry></row>
+<row>
+<entry align="center">1b</entry>
+<entry align="center">1.45 (0.570)</entry>
+<entry align="center">167.14 (10.4)</entry>
+<entry align="center">379211 (55)</entry></row>
+<row>
+<entry align="center">1c</entry>
+<entry align="center">1.43 (0.565)</entry>
+<entry align="center">167.14 (10.4)</entry>
+<entry align="center">310264 (45)</entry></row>
+<row>
+<entry align="center">1d</entry>
+<entry align="center">1.45 (0.5572)</entry>
+<entry align="center">162.32 (10.1)</entry>
+<entry align="center">296474 (43)</entry></row>
+<row>
+<entry align="center">1e</entry>
+<entry align="center">1.49 (0.590)</entry>
+<entry align="center">167.14 (10.4)</entry>
+<entry align="center">324053 (47)</entry></row>
+<row>
+<entry align="center">Avg.</entry>
+<entry align="center">1.46 (0.575)</entry>
+<entry align="center">165.54 (10.3)</entry>
+<entry align="center">324053 (47)</entry></row>
+<row>
+<entry namest="col1" nameend="col4" align="center"/></row>
+<row>
+<entry align="center">2a</entry>
+<entry align="center">1.47 (0.578)</entry>
+<entry align="center">162.32 (10.1)</entry>
+<entry align="center">351632 (51)</entry></row>
+<row>
+<entry align="center">2b</entry>
+<entry align="center">1.52 (0.599)</entry>
+<entry align="center">163.92 (10.2)</entry>
+<entry align="center">413685 (60)</entry></row>
+<row>
+<entry align="center">2c</entry>
+<entry align="center">1.49 (0.588)</entry>
+<entry align="center">160.71 (10.0)</entry>
+<entry align="center">330948 (48)</entry></row>
+<row>
+<entry align="center">2d</entry>
+<entry align="center">1.47 (0.579)</entry>
+<entry align="center">160.71 (10.0)</entry>
+<entry align="center">303369 (44)</entry></row>
+<row>
+<entry align="center">2e</entry>
+<entry align="center">1.46 (0.577)</entry>
+<entry align="center">165.54 (10.3)</entry>
+<entry align="center">344737(50)</entry></row>
+<row>
+<entry align="center">Avg.</entry>
+<entry align="center">1.48 (0.584)</entry>
+<entry align="center">162.31 (10.1)</entry>
+<entry align="center">351632 (51)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0066" num="0066">This test data indicates that the MOR of these tiles (no co-calcination) was lower at highet density when compared to the same types of tiles (see Example 2) produced by co-calcining the same gypsum wallboard scrap material.</p>
+<heading id="h0005"><u>Example 4</u></heading>
+<p id="p0067" num="0067">Tests wars conducted to evaluate 100% replacement of mineral wool in a ceiling tile formulation with a gypsum/cellulose fiber (co-calcined) composite material. In order to improve the cutability of the ceiling tile, the gypsum was co-calcined with fine (hydropulped) newsprint instand of wood fibers.<!-- EPO <DP n="24"> --></p>
+<p id="p0068" num="0068">Gypsum and 20% by weight of shredded paper (newsprint) were calcined in accordance with the procedure disclosed in <patcit id="pcit0012" dnum="US5320677A"><text>U.S. Patent No. 5,320,677</text></patcit>. The shredded newsprint was soaked in water overnight, and then gypsum was added and mixed with the paper fiber slurry for at least 1 hour prior to calcining the slurry. After calcining, the excess water was removed (vacuum) and then the gypsum/paper fiber composite was dried to hemihydrate.</p>
+<p id="p0069" num="0069">The following tables represent the formulations and the recorded MOR data:<!-- EPO <DP n="25"> -->
+<tables id="tabl0013" num="0013">
+<table frame="bottom">
+<title><u>TABLE 4A</u></title>
+<tgroup cols="9" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="20mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="20mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="19mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<thead>
+<row>
+<entry rowsep="0"/>
+<entry namest="col2" nameend="col3" align="center">Formulation #1</entry>
+<entry namest="col4" nameend="col5" align="center">Formulation #2</entry>
+<entry namest="col6" nameend="col7" align="center">Formulation #3</entry>
+<entry namest="col8" nameend="col9" align="center">Control</entry></row>
+<row>
+<entry>Ingredient</entry>
+<entry align="center">Wt. (gms.)</entry>
+<entry align="center">Wt. %</entry>
+<entry align="center">Wt. (gms.)</entry>
+<entry align="center">Wt. %</entry>
+<entry align="center">wt. (gms.)</entry>
+<entry align="center">wt. %</entry>
+<entry align="center">Wt. (gms)</entry>
+<entry align="center">Wt.%</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Gypsum (calcined)</entry>
+<entry align="char" char=".">142.3</entry>
+<entry align="char" char="." charoff="27">37.2</entry>
+<entry align="char" char=".">142.3</entry>
+<entry align="char" char="." charoff="27">35.4</entry>
+<entry align="char" char=".">142.3</entry>
+<entry align="char" char="." charoff="47">36.3</entry>
+<entry align="center">0</entry>
+<entry align="right"/></row>
+<row rowsep="0">
+<entry>Paper Fiber (calcined)</entry>
+<entry align="char" char=".">30</entry>
+<entry align="char" char="." charoff="27">7.8</entry>
+<entry align="char" char=".">30</entry>
+<entry align="char" char="." charoff="27">7.5</entry>
+<entry align="char" char=".">30</entry>
+<entry align="char" char="." charoff="47">7.65</entry>
+<entry align="center">0</entry>
+<entry align="right"/></row>
+<row rowsep="0">
+<entry>Newsprint</entry>
+<entry align="char" char=".">40</entry>
+<entry align="char" char="." charoff="27">10.5</entry>
+<entry align="char" char=".">40</entry>
+<entry align="char" char="." charoff="27">9.9</entry>
+<entry align="char" char=".">50</entry>
+<entry align="char" char="." charoff="47">12-75</entry>
+<entry align="center"/>
+<entry align="right">16.0</entry></row>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="char" char=".">150</entry>
+<entry align="char" char="." charoff="27">39.2</entry>
+<entry align="char" char=".">150</entry>
+<entry align="char" char="." charoff="27">37.3</entry>
+<entry align="char" char=".">150</entry>
+<entry align="char" char="." charoff="47">38.2</entry>
+<entry align="center"/>
+<entry align="right">30.0</entry></row>
+<row rowsep="0">
+<entry>Corn Starch</entry>
+<entry align="char" char=".">20</entry>
+<entry align="char" char="." charoff="27">5.2</entry>
+<entry align="char" char=".">40</entry>
+<entry align="char" char="." charoff="27">9.9</entry>
+<entry align="char" char=".">20</entry>
+<entry align="char" char="." charoff="47">5.1</entry>
+<entry align="center"/>
+<entry align="right">5.0</entry></row>
+<row rowsep="0">
+<entry>Mineral Fiber</entry>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="27"/>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="27"/>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="47"/>
+<entry align="center"/>
+<entry align="right">44.6</entry></row>
+<row rowsep="0">
+<entry>Clay</entry>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="27"/>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="27"/>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="47"/>
+<entry align="center"/>
+<entry align="right">4</entry></row>
+<row rowsep="0">
+<entry>Slurry Solids</entry>
+<entry align="char" char="."/>
+<entry align="char" char="." charoff="27">7.8</entry>
+<entry align="char" char="."/>
+<entry align="char" char="." charoff="27">8.1</entry>
+<entry align="char" char="."/>
+<entry align="char" char="." charoff="47">7.4</entry>
+<entry align="center"/>
+<entry align="right"/></row></tbody></tgroup>
+<tgroup cols="9" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="33mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="20mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="20mm"/>
+<colspec colnum="7" colname="col7" colwidth="18mm"/>
+<colspec colnum="8" colname="col8" colwidth="19mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col9" align="justify">Standard flocculant and surfactant were used in all formulations.<br/>
+17 grams of gypsum was added to the slurry water to control gypsum solubility.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="26"> -->
+<tables id="tabl0014" num="0014">
+<table frame="all">
+<title>TABLE 4B</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="26mm"/>
+<colspec colnum="5" colname="col5" colwidth="21mm"/>
+<thead>
+<row>
+<entry colsep="0">Sample No.</entry>
+<entry colsep="0">Thickness<br/>
+cms (inch)</entry>
+<entry colsep="0">Density<br/>
+Kg/m<sup>3</sup>(lbs/ft<sup>3</sup>)</entry>
+<entry colsep="0">MOR<br/>
+Pa (psi)</entry>
+<entry colsep="0">Break Load<br/>
+Kgs (lbs.)</entry></row></thead>
+<tbody>
+<row>
+<entry align="right">Form. 1a</entry>
+<entry>1.62 (0.637)</entry>
+<entry>152.68 (9.5)</entry>
+<entry>208221 (30.2)</entry>
+<entry>1.85 (4.08)</entry></row>
+<row>
+<entry align="right">1b</entry>
+<entry>1.60 (0.630)</entry>
+<entry>147.86 (9.2)</entry>
+<entry>184779 (26.8)</entry>
+<entry>1.61 (3.55)</entry></row>
+<row>
+<entry align="right">1c</entry>
+<entry>1.62 (0.636)</entry>
+<entry>147.86 (9.2)</entry>
+<entry>162026 (23.5)</entry>
+<entry>1.44 (3.17)</entry></row>
+<row>
+<entry align="right">1d</entry>
+<entry>1.63 (0.639)</entry>
+<entry>149.46 (9.3)</entry>
+<entry>184090 (26.7)</entry>
+<entry>1.65 (3.63)</entry></row>
+<row>
+<entry align="right">1e</entry>
+<entry>1.73 (0.882)</entry>
+<entry>155.89 (9.7)</entry>
+<entry>209600 (30.4)</entry>
+<entry>2.14 (4.71)</entry></row>
+<row>
+<entry align="right">Average</entry>
+<entry>1.64 (0.645)</entry>
+<entry>151.07 (9.4)</entry>
+<entry>189605 (27.5)</entry>
+<entry>1.74 (3.83)</entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="right"/></row>
+<row>
+<entry align="right">Form. 2a</entry>
+<entry>1.59 (0.626)</entry>
+<entry>155.89 (9.7)</entry>
+<entry>261311 (37.9)</entry>
+<entry>2.25(4.95)</entry></row>
+<row>
+<entry align="right">2b</entry>
+<entry>1.60 (0.630)</entry>
+<entry>157.50 (9.8)</entry>
+<entry>244074 (35.4)</entry>
+<entry>2.12 (4.68)</entry></row>
+<row>
+<entry align="right">2c</entry>
+<entry>1.62 (0.636)</entry>
+<entry>157.50 (9.8)</entry>
+<entry>242005 (35.1)</entry>
+<entry>2.15 (4.73)</entry></row>
+<row>
+<entry align="right">2d</entry>
+<entry>1.66 (0.652)</entry>
+<entry>162.32 (10.1)</entry>
+<entry>299921 (43.5)</entry>
+<entry>2.79 (6.16)</entry></row>
+<row>
+<entry align="right">Average</entry>
+<entry>1.62 (0.636</entry>
+<entry>159.11 (9.9)</entry>
+<entry>262000 (38.0)</entry>
+<entry>2.33 (5.13)</entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="right"/></row>
+<row>
+<entry align="right">Form. 3a</entry>
+<entry>1.59 (0.627)</entry>
+<entry>157.50 (9.8)</entry>
+<entry>281995 (40.9)</entry>
+<entry>2.43 (5.36)</entry></row>
+<row>
+<entry align="right">3b</entry>
+<entry>1.58 (0.621)</entry>
+<entry>154.29 (9.6)</entry>
+<entry>214426 (31.1)</entry>
+<entry>1.81 (4.00)</entry></row>
+<row>
+<entry align="right">3c</entry>
+<entry>1.57 (0.619)</entry>
+<entry>152.63 (9.5)</entry>
+<entry>207532 (30.1)</entry>
+<entry>1.75 (3.85)</entry></row>
+<row>
+<entry align="right">3d</entry>
+<entry>1.58(0.625)</entry>
+<entry>154.29 (9.6)</entry>
+<entry>219942 (31.9)</entry>
+<entry>1.89(4.16)</entry></row>
+<row>
+<entry align="right">3e</entry>
+<entry>1.66 (0.653)</entry>
+<entry>159.11 (9.9)</entry>
+<entry>306127 (44.4)</entry>
+<entry>2.86(6.31)</entry></row>
+<row>
+<entry align="right">Average</entry>
+<entry>1.60 (0.629)</entry>
+<entry>155.59 (9.7)</entry>
+<entry>246142 (35.7)</entry>
+<entry>2.15 (4.74)</entry></row>
+<row>
+<entry align="right">Control a</entry>
+<entry>1.51 (0.593)</entry>
+<entry>181.61 (11.3)</entry>
+<entry>341290 (49.5)</entry>
+<entry>2.63 (5.80)</entry></row>
+<row>
+<entry align="right">b</entry>
+<entry>1.50 (0.590)</entry>
+<entry>181.61 (11-3)</entry>
+<entry>323364 (46.9)</entry>
+<entry>2.46 (5.44)</entry></row>
+<row>
+<entry align="right">c</entry>
+<entry>1.51 (0.596)</entry>
+<entry>181.61 (11.3)</entry>
+<entry>319227 (46.3)</entry>
+<entry>2.49(5.48)</entry></row>
+<row>
+<entry align="right">d</entry>
+<entry>1.50 (0,589)</entry>
+<entry>183.21 (11.4)</entry>
+<entry>359216 (52.1)</entry>
+<entry>2.73 (6.02)</entry></row>
+<row>
+<entry align="right">e</entry>
+<entry>1.55 (0.611)</entry>
+<entry>186.4 (11.6)</entry>
+<entry>331637 (48.1)</entry>
+<entry>2.71 (5.98)</entry></row>
+<row>
+<entry align="right">Average</entry>
+<entry>1.51 (0.596)</entry>
+<entry>183.21 (11.4)</entry>
+<entry>335085 (48.6)</entry>
+<entry>2.60 (5.74)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0070" num="0070">After testing the samples for MOR strength, they were also tested for cutability using a wallboard knife. The control tiles (15% newsprint) cut clean, however, the gypsum/paper fiber tiles (17.4% newsprint) had very rough cuts.</p>
+<heading id="h0006"><u>Example 5</u></heading>
+<p id="p0071" num="0071">Further tests were carried out to determine the effect on tile cutability by reducing the paper fiber content in the formation and also increasing the starch content to maintain the strength of the dry tils .It was believed that reducing the paper fiber content would adversely affect the strength. The experimental ceiling tiles were made using co-calcined gypsm and<!-- EPO <DP n="27"> --> paper fiber (newsprint). After calcining an 80% gypsum and 20% newsprint slurry (15% solids), the slurry was dewatered (vacuum) and dried as a hemihydrate composite material. The hemihydrate composite was evaluated as a replacement for 100% of the mineral fiber. The shredded newsprint was soaked in water overnight and the next day it was mixed with gypsum to form the 15% solids slurry for calcining.</p>
+<p id="p0072" num="0072">The following tables represent the formulations and the recorded strength data:<!-- EPO <DP n="28"> -->
+<tables id="tabl0015" num="0015">
+<table frame="bottom">
+<title>TABLE 5 A</title>
+<tgroup cols="9" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="19mm"/>
+<colspec colnum="7" colname="col7" colwidth="13mm"/>
+<colspec colnum="8" colname="col8" colwidth="20mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<thead>
+<row rowsep="0">
+<entry valign="top"/>
+<entry namest="col2" nameend="col3" align="center" valign="top">Control #1</entry>
+<entry namest="col4" nameend="col5" align="center" valign="top">Formula #2</entry>
+<entry namest="col6" nameend="col7" align="center" valign="top">Formula #3</entry>
+<entry namest="col8" nameend="col9" align="center" valign="top">Formula #4</entry></row>
+<row>
+<entry>Ingredients</entry>
+<entry align="center">wt. (gms.)</entry>
+<entry align="center">wt.%</entry>
+<entry align="center">wt. (gms.)_</entry>
+<entry align="center">Wt. %</entry>
+<entry align="center">Wt. (gms)</entry>
+<entry align="center">Wt.%</entry>
+<entry align="center">Wt. (gms.)</entry>
+<entry align="center">Wt. %</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Mineral Fiber</entry>
+<entry align="char" char=".">178.4</entry>
+<entry align="char" char="." charoff="32">44.6</entry>
+<entry align="center">0</entry>
+<entry align="char" char="." charoff="28"/>
+<entry align="center">0</entry>
+<entry align="char" char="." charoff="28"/>
+<entry align="center">0</entry>
+<entry align="char" char="." charoff="28"/></row>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="char" char=".">120</entry>
+<entry align="char" char="." charoff="32">30</entry>
+<entry align="center">150</entry>
+<entry align="char" char="." charoff="28">39.8</entry>
+<entry align="center">150</entry>
+<entry align="char" char="." charoff="28">39.5</entry>
+<entry align="center">150</entry>
+<entry align="char" char="." charoff="28">39.8</entry></row>
+<row rowsep="0">
+<entry>Gypsum (calcined)</entry>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="32"/>
+<entry align="center">132.8</entry>
+<entry align="char" char="." charoff="28">35.2</entry>
+<entry align="center">132.8</entry>
+<entry align="char" char="." charoff="28">35.0</entry>
+<entry align="center">132.8</entry>
+<entry align="char" char="." charoff="28">35.2</entry></row>
+<row rowsep="0">
+<entry>Paper Fiber (calcined)</entry>
+<entry align="char" char=".">0</entry>
+<entry align="char" char="." charoff="32"/>
+<entry align="center">28</entry>
+<entry align="char" char="." charoff="28">7.4</entry>
+<entry align="center">28</entry>
+<entry align="char" char="." charoff="28">7.4</entry>
+<entry align="center">28</entry>
+<entry align="char" char="." charoff="28">7.4</entry></row>
+<row rowsep="0">
+<entry>Newsprint</entry>
+<entry align="char" char=".">64</entry>
+<entry align="char" char="." charoff="32">16</entry>
+<entry align="center">36</entry>
+<entry align="char" char="." charoff="28">9.6</entry>
+<entry align="center">29</entry>
+<entry align="char" char="." charoff="28">7.6</entry>
+<entry align="center">21</entry>
+<entry align="char" char="." charoff="28">5.6</entry></row>
+<row rowsep="0">
+<entry>Corn Starch</entry>
+<entry align="char" char=".">20</entry>
+<entry align="char" char="." charoff="32">5</entry>
+<entry align="center">20</entry>
+<entry align="char" char="." charoff="28">5.3</entry>
+<entry align="center">35</entry>
+<entry align="char" char="." charoff="28">9.2</entry>
+<entry align="center">40</entry>
+<entry align="char" char="." charoff="28">10.6</entry></row>
+<row rowsep="0">
+<entry>Clay</entry>
+<entry align="char" char=".">17.6</entry>
+<entry align="char" char="." charoff="32">4.4</entry>
+<entry align="center">10</entry>
+<entry align="char" char="." charoff="28">2.7</entry>
+<entry align="center">5</entry>
+<entry align="char" char="." charoff="28">1.3</entry>
+<entry align="center">5</entry>
+<entry align="char" char="." charoff="28">1.3</entry></row>
+<row rowsep="0">
+<entry>Slurry Solids</entry>
+<entry align="char" char="."/>
+<entry align="char" char="." charoff="32">4.0</entry>
+<entry align="center"/>
+<entry align="char" char="." charoff="28">7.0</entry>
+<entry align="center"/>
+<entry align="char" char="." charoff="28">7.1</entry>
+<entry align="center"/>
+<entry align="char" char="." charoff="28">7.0</entry></row></tbody></tgroup>
+<tgroup cols="9" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="35mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="19mm"/>
+<colspec colnum="7" colname="col7" colwidth="13mm"/>
+<colspec colnum="8" colname="col8" colwidth="20mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col9" align="justify">17 grams of gypsum was added to the slurry water to control gypsum solubility.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="29"> -->
+<tables id="tabl0016" num="0016">
+<table frame="all">
+<title>TABLE 5B</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="34mm"/>
+<colspec colnum="3" colname="col3" colwidth="35mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<colspec colnum="5" colname="col5" colwidth="25mm"/>
+<thead>
+<row>
+<entry colsep="0" align="center">Sample No.</entry>
+<entry colsep="0" align="center">Thickness cms (inch)</entry>
+<entry colsep="0" align="center">Density Kg/m<sup>3</sup> (lb./ft<sup>3</sup>)</entry>
+<entry colsep="0" align="center">Break Load Kgs (lbs)</entry>
+<entry colsep="0" align="center">MOR Pa (psi)</entry></row></thead>
+<tbody>
+<row>
+<entry align="right">Control 1a</entry>
+<entry align="center">1.53 (0.601)</entry>
+<entry align="center">182.05 (11.39)</entry>
+<entry align="center">1.89 (4,17)</entry>
+<entry align="center">318538 (46.2)</entry></row>
+<row>
+<entry align="right">b</entry>
+<entry align="center">1.50 (0.592)</entry>
+<entry align="center">181.9 (11.32)</entry>
+<entry align="center">2.21 (4.88)</entry>
+<entry align="center">384037 (55.7)</entry></row>
+<row>
+<entry align="right">c</entry>
+<entry align="center">1.49 (0.586)</entry>
+<entry align="center">180.50 (11.25)</entry>
+<entry align="center">1.94 (4.27)</entry>
+<entry align="center">342669 (49.7)</entry></row>
+<row>
+<entry align="right">d</entry>
+<entry align="center">1.49 (0.586)</entry>
+<entry align="center">179.84 (11.19)</entry>
+<entry align="center">1.91(4.2)</entry>
+<entry align="center">337153 (48.9)</entry></row>
+<row>
+<entry align="right">e</entry>
+<entry align="center">1.47 (0.577)</entry>
+<entry align="center">180.80 (11.25)</entry>
+<entry align="center">2.04 (4. 5)</entry>
+<entry align="center">373006 (54.1)</entry></row>
+<row>
+<entry align="center">Average</entry>
+<entry align="center">1.49 (0.588)</entry>
+<entry align="center">181.29 (11.28)</entry>
+<entry align="center">1.99 (4.4)</entry>
+<entry align="center">350942 (50.9)</entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="right"/></row>
+<row>
+<entry align="right">Formula 2a</entry>
+<entry align="center">1.31 (0.515)</entry>
+<entry align="center">170.04 (10.58)</entry>
+<entry align="center">1.66 (3.65)</entry>
+<entry align="center">379211 (55.0)</entry></row>
+<row>
+<entry align="right">2b</entry>
+<entry align="center">1.32 (0.521)</entry>
+<entry align="center">169-55 (10.55)</entry>
+<entry align="center">1.48 (3.27)</entry>
+<entry align="center">332327 (48.2)</entry></row>
+<row>
+<entry align="right">2c</entry>
+<entry align="center">1.33 (0.525)</entry>
+<entry align="center">170.04 (10.58)</entry>
+<entry align="center">1.82 (4.02)</entry>
+<entry align="center">401964 (58.3)</entry></row>
+<row>
+<entry align="right">2d</entry>
+<entry align="center">1.37 (0.541)</entry>
+<entry align="center">177.10 (11.02)</entry>
+<entry align="center">1.66(3.65)</entry>
+<entry align="center">344048 (49.9)</entry></row>
+<row>
+<entry align="center">Average</entry>
+<entry align="center">1.33 (0.526)</entry>
+<entry align="center">171.80 (10.69)</entry>
+<entry align="center">1.66 (3.65)</entry>
+<entry align="center">364732 (52.9)</entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="right"/></row>
+<row>
+<entry align="right">Formula 3a</entry>
+<entry align="center">1.32 (0.520)</entry>
+<entry align="center">176.63 (10.99)</entry>
+<entry align="center">2.78(6.12)</entry>
+<entry align="center">623975 (90.5)</entry></row>
+<row>
+<entry align="right">3b</entry>
+<entry align="center">1.32 (0.519)</entry>
+<entry align="center">171.64 (10.68)</entry>
+<entry align="center">2.21 (4.87)</entry>
+<entry align="center">498490 (72.3)</entry></row>
+<row>
+<entry align="right">3c</entry>
+<entry align="center">1.33 (0.525)</entry>
+<entry align="center">170.92 (10.61)</entry>
+<entry align="center">2.14 (4.72)</entry>
+<entry align="center">472290 (68.5)</entry></row>
+<row>
+<entry align="right">3d</entry>
+<entry align="center">1.36 (0.536)</entry>
+<entry align="center">174.86 (10.88)</entry>
+<entry align="center">2.12 (4.68)</entry>
+<entry align="center">449538 (65.2)</entry></row>
+<row>
+<entry align="right">3e</entry>
+<entry align="center">1.41 (0.555)</entry>
+<entry align="center">176.84 (11.04)</entry>
+<entry align="center">2.35 (5.18)</entry>
+<entry align="center">464017 (67.3)</entry></row>
+<row>
+<entry align="center">Average</entry>
+<entry align="center">1.35 (0.531)</entry>
+<entry align="center">174.21 (10.84)</entry>
+<entry align="center">2.32(5.11)</entry>
+<entry align="center">501938 (72.8)</entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="right"/></row>
+<row>
+<entry align="right">Formula 4a</entry>
+<entry align="center">1.37 (0.538)</entry>
+<entry align="center">175.88 (10.98)</entry>
+<entry align="center">2.51 (5.53)</entry>
+<entry align="center">526754 (76.4)</entry></row>
+<row>
+<entry align="right">4b</entry>
+<entry align="center">1.31 (0.517)</entry>
+<entry align="center">173. 51 (10.80)</entry>
+<entry align="center">1.89 (4.18)</entry>
+<entry align="center">431611 (62.6)</entry></row>
+<row>
+<entry align="right">4c</entry>
+<entry align="center">1.32 (0.519)</entry>
+<entry align="center">171.48 (10.67)</entry>
+<entry align="center">1.93 (4.25)</entry>
+<entry align="center">435059 (63.1)</entry></row>
+<row>
+<entry align="right">4d</entry>
+<entry align="center">1.32 (0.519)</entry>
+<entry align="center">173.72 (10.81)</entry>
+<entry align="center">1.84 (4.05)</entry>
+<entry align="center">414374 (60.1)</entry></row>
+<row>
+<entry align="right">4e</entry>
+<entry align="center">1.39 (0.547)</entry>
+<entry align="center">176.95 (11.01)</entry>
+<entry align="center">2.15 (4.73)</entry>
+<entry align="center">435748 (63.2)</entry></row>
+<row>
+<entry align="center">Average</entry>
+<entry align="center">1.34 (0.528)</entry>
+<entry align="center"/>
+<entry align="center">2.06 (4.55)</entry>
+<entry align="center">448848 (65.1)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0073" num="0073">The ceiling tiles were also tested for wet strength by taking sample prior to owen drying. The experimental tiles with 17% and 15% total paper fiber handled very well, similar to the central. The tile with 13% paper fiber was somewhat weaker.</p>
+<p id="p0074" num="0074">It was concluded that the ceiling tiles containing 15% to 17% paper fiber, 40% expanded perlite and 10% starch binder provided processing and physical properties comparable to the mineral fiber ceiling tile.<!-- EPO <DP n="30"> --></p>
+<heading id="h0007"><u>Example 6</u></heading>
+<p id="p0075" num="0075">The following formulations were used to compare using co-calcined gypsum/newsprint with a physical mixture of gypsum and newsprint without calcining:
+<tables id="tabl0017" num="0017">
+<table frame="none">
+<title><u>TABLE 6 A</u></title>
+<tgroup cols="4" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="45mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="39mm"/>
+<colspec colnum="4" colname="col4" colwidth="34mm"/>
+<thead>
+<row>
+<entry>Ingredient</entry>
+<entry>Control<br/>
+(Mineral Fiber)</entry>
+<entry>Hemihydrate Composite<br/>
+(calcined)</entry>
+<entry align="center">Newsprint &amp; Gypsum</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Mineral Wool</entry>
+<entry align="center">44.6%</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="center">30.0%</entry>
+<entry align="center">40%</entry>
+<entry align="center">40%</entry></row>
+<row rowsep="0">
+<entry>Tot. Paper Fiber(Newsprint)</entry>
+<entry align="center">16.0%</entry>
+<entry align="center">16%</entry>
+<entry align="center">20-22%</entry></row>
+<row rowsep="0">
+<entry>Gypsum</entry>
+<entry align="center">0</entry>
+<entry align="center">34%</entry>
+<entry align="center">32%</entry></row>
+<row rowsep="0">
+<entry>Corn Starch</entry>
+<entry align="center">5.0%</entry>
+<entry align="center">10%</entry>
+<entry align="center">7-9%</entry></row>
+<row rowsep="0">
+<entry>Clay</entry>
+<entry align="center">4.4%</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row rowsep="0">
+<entry>Flocculant</entry>
+<entry align="center">0.06%</entry>
+<entry align="center">0.06</entry>
+<entry align="center">0</entry></row>
+<row rowsep="0">
+<entry>Surfactant</entry>
+<entry align="center">0.08%</entry>
+<entry align="center">0.08</entry>
+<entry align="center">0</entry></row>
+<row rowsep="0">
+<entry>Slurry Solids</entry>
+<entry align="center">4%</entry>
+<entry align="center">7%</entry>
+<entry align="center">7%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0076" num="0076">In preparing the ceiling tile mats, the surfactant (when used) was added to the desired amount of water and mixed. Then the newsprint (hydropulped) was added, followed by mixing. Then the expanded perlite and mineral wool (when used) was added with continued mixing. Finally, the clay (when used) and starch was added, with continued mixing for about 3 minutes until a homogeneous slurry was formed, afterwhich the flocculant (when used) was added and mixing continued for another 15 seconds. In preparing the non-mineral wool ceiling tiles, the clay and mineral fiber were replaced with gypsum and newsprint.</p>
+<p id="p0077" num="0077">The mat was formed by pouring the slurry into a Tappi Box where it was gently mixed, and thereafter there was gravity drainage and vacuum was applied to the wet mat to remove excess water. Then, the mat was wet pressed to the desired thickness (about 5/8 inch) in a static press, also removing additional excess water. The wet mat was tested for wet lap strength prior to drying. The mats were dried with steam at 315.6°C (600°F) for 30 minutes, followed by drying at 177.7°C (350°F) for 90 minutes.</p>
+<p id="p0078" num="0078">It has been found that in the non-mineral wool formulation, the amount of paper fiber (newsprint) should be at least about 20% by weight for an acceptable mat formation. The formulation employing the co-calcined composite material did slightly<!-- EPO <DP n="31"> --> increase the drainage time, especially at higher paper fiber content. There was no significant effect on drainage using the mixture of gypsum and newsprint even at levels as high as 22%.</p>
+<p id="p0079" num="0079">The mat made with the hemihydrate composite material was easy to handle during processing and had wet lap strength comparable to the mineral fiber control, with both formulations containing 16% paper fiber. The composite material provided a mat in which the wet lap had good deflection during testing. After the testing, the wet lap break line was slightly hand pressed before drying, after which the wet lap line was completely healed. The mat made with a mixture of gypsum and newsprint generally had weaker wet lap strength, however, at a 20% newsprint level, it did have a wet lap strength comparable to the hemihydrate composite formulation at a 16% paper fiber content.</p>
+<p id="p0080" num="0080">The weight retention in the tiles made with the hemihydrate composite was generally superior to the tiles made with a mixture of gypsum and newsprint. This indicates that there may have been loss of gypsum, as well as perlite segregation, in the mat formation using the mixture. As previously noted, both types of experimental tiles were harder to cut than the mineral fiber tile.</p>
+<p id="p0081" num="0081">The densities of both types of experimental tiles were slightly higher than the control, due to the lower thickness of the mat. The lower thickness was the result of springback after pressing in the mineral fiber mat, whereas the gypsum/paper fiber mat did not spring back. The MOR strength of both types of experimental tiles was acceptable or better than the mineral fiber control tiles.</p>
+<heading id="h0008"><u>Example 7</u></heading>
+<p id="p0082" num="0082">The following formulations were used to evaluate the effect on cutability of hydropulped newsprint and gypsum (uncalcined) and the same newsprint and gypsum (calcined) as a complete replacement for mineral fiber:<!-- EPO <DP n="32"> -->
+<tables id="tabl0018" num="0018">
+<table frame="bottom">
+<title>TABLE 7A</title>
+<tgroup cols="9" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="16mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<thead>
+<row rowsep="0">
+<entry align="center" valign="top"/>
+<entry namest="col2" nameend="col3" align="center" valign="top">Perlite</entry>
+<entry namest="col4" nameend="col5" align="center" valign="top">Starch</entry>
+<entry namest="col6" nameend="col7" align="center" valign="top">Newsprint</entry>
+<entry namest="col8" nameend="col9" align="center" valign="top">Gypsum</entry></row>
+<row>
+<entry align="center" valign="top">Sample</entry>
+<entry align="center" valign="top">Grams</entry>
+<entry align="center" valign="top">Wt. %</entry>
+<entry align="center" valign="top">Grams</entry>
+<entry align="center" valign="top">Wt.%</entry>
+<entry align="center" valign="top">Grams</entry>
+<entry align="center" valign="top">Wt. %</entry>
+<entry align="center" valign="top">Grams</entry>
+<entry align="center" valign="top">Wt.%</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry align="right">1</entry>
+<entry align="center">165</entry>
+<entry align="center">44</entry>
+<entry align="center">22.5</entry>
+<entry align="right">6</entry>
+<entry align="center">67.5</entry>
+<entry align="center">18</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">2</entry>
+<entry align="center">135</entry>
+<entry align="center">36</entry>
+<entry align="center">52.5</entry>
+<entry align="right">14</entry>
+<entry align="center">67.5</entry>
+<entry align="center">18</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">3</entry>
+<entry align="center">165</entry>
+<entry align="center">44</entry>
+<entry align="center">37.5</entry>
+<entry align="right">10</entry>
+<entry align="center">52.5</entry>
+<entry align="center">14</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">4</entry>
+<entry align="center">135</entry>
+<entry align="center">36</entry>
+<entry align="center">37.5</entry>
+<entry align="right">10</entry>
+<entry align="center">82.5</entry>
+<entry align="center">22</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">5</entry>
+<entry align="center">150</entry>
+<entry align="center">40</entry>
+<entry align="center">52.5</entry>
+<entry align="right">14</entry>
+<entry align="center">52.5</entry>
+<entry align="center">14</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">6</entry>
+<entry align="center">150</entry>
+<entry align="center">40</entry>
+<entry align="center">22.5</entry>
+<entry align="right">6</entry>
+<entry align="center">82.5</entry>
+<entry align="center">22</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">7</entry>
+<entry align="center">157.5</entry>
+<entry align="center">42</entry>
+<entry align="center">33.8</entry>
+<entry align="right">9</entry>
+<entry align="center">63.8</entry>
+<entry align="center">17</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">8</entry>
+<entry align="center">142.5</entry>
+<entry align="center">38</entry>
+<entry align="center">41.3</entry>
+<entry align="right">11</entry>
+<entry align="center">71.3</entry>
+<entry align="center">19</entry>
+<entry align="center">12q</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">9</entry>
+<entry align="center">153.8</entry>
+<entry align="center">41</entry>
+<entry align="center">30</entry>
+<entry align="right">8</entry>
+<entry align="center">71.3</entry>
+<entry align="center">19</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">10</entry>
+<entry align="center">146.3</entry>
+<entry align="center">39</entry>
+<entry align="center">45</entry>
+<entry align="right">12</entry>
+<entry align="center">63.8</entry>
+<entry align="center">17</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">11</entry>
+<entry align="center">153.8</entry>
+<entry align="center">41</entry>
+<entry align="center">41.3</entry>
+<entry align="right">11</entry>
+<entry align="center">60</entry>
+<entry align="center">1.6</entry>
+<entry align="center">1.20</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">12</entry>
+<entry align="center">146.3</entry>
+<entry align="center">39</entry>
+<entry align="center">33.8</entry>
+<entry align="right">9</entry>
+<entry align="center">75</entry>
+<entry align="center">20</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row>
+<row rowsep="0">
+<entry align="right">13</entry>
+<entry align="center">150</entry>
+<entry align="center">40</entry>
+<entry align="center">37.5</entry>
+<entry align="right">10</entry>
+<entry align="center">67.5</entry>
+<entry align="center">18</entry>
+<entry align="center">120</entry>
+<entry align="center">32</entry></row></tbody></tgroup>
+<tgroup cols="9" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="16mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="15mm"/>
+<colspec colnum="7" colname="col7" colwidth="14mm"/>
+<colspec colnum="8" colname="col8" colwidth="15mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col9" align="justify">12 grams of gypsum was added to the slurry water to control gypsum solubility.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="33"> -->
+All of these formulations were formed into aqueous slurries having a 7% by weight solids content. In the case of the co-calcined gypsum/newsprint, the ratio of gypsum to newsprint was 35:15, and additional newsprint was added to provide the amount of newsprint set forth in the above formulation.</p>
+<p id="p0083" num="0083">In evaluating the 13 sample tiles, the following data was recorded:
+<tables id="tabl0019" num="0019">
+<table frame="none">
+<title><u>TABLE 7B</u></title>
+<tgroup cols="5" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="16mm"/>
+<colspec colnum="2" colname="col2" colwidth="18mm"/>
+<colspec colnum="3" colname="col3" colwidth="21mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<thead>
+<row>
+<entry rowsep="0" align="center" valign="top"/>
+<entry namest="col2" nameend="col3" rowsep="0" align="center" valign="top">Cutability Force</entry>
+<entry namest="col4" nameend="col5" rowsep="0" align="center" valign="top">Type of Cut</entry></row>
+<row>
+<entry align="center" valign="top">Sample</entry>
+<entry align="center" valign="top">Calcined</entry>
+<entry align="center" valign="top">Uncalcined</entry>
+<entry align="center" valign="top">Calcined</entry>
+<entry align="center" valign="top">Uncalcined</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry align="right">1</entry>
+<entry align="char" char=".">23.8</entry>
+<entry align="char" char="." charoff="18">19.8</entry>
+<entry align="center">Very Rough</entry>
+<entry align="center">Very Rough</entry></row>
+<row rowsep="0">
+<entry align="right">2</entry>
+<entry align="char" char=".">20.9</entry>
+<entry align="char" char="." charoff="18">12.7</entry>
+<entry align="center">Rough</entry>
+<entry align="center">Clean</entry></row>
+<row rowsep="0">
+<entry align="right">3</entry>
+<entry align="char" char=".">22.7</entry>
+<entry align="char" char="." charoff="18">16.0</entry>
+<entry align="center">Very Rough</entry>
+<entry align="center">Very Rough</entry></row>
+<row rowsep="0">
+<entry align="right">4</entry>
+<entry align="char" char=".">21.5</entry>
+<entry align="char" char="." charoff="18">21.1</entry>
+<entry align="center">Rough</entry>
+<entry align="center">Very Rough</entry></row>
+<row rowsep="0">
+<entry align="right">5</entry>
+<entry align="char" char=".">17.5</entry>
+<entry align="char" char="." charoff="18">13.2</entry>
+<entry align="center">Rough</entry>
+<entry align="center">Rough</entry></row>
+<row rowsep="0">
+<entry align="right">5</entry>
+<entry align="char" char=".">28.1</entry>
+<entry align="char" char="." charoff="18">21.3</entry>
+<entry align="center">Very Rough</entry>
+<entry align="center">Very Rough</entry></row>
+<row rowsep="0">
+<entry align="right">7</entry>
+<entry align="char" char=".">17.6</entry>
+<entry align="char" char="." charoff="18">14.3</entry>
+<entry align="center">Slightly Rough</entry>
+<entry align="center">Slightly Rough</entry></row>
+<row rowsep="0">
+<entry align="right">3</entry>
+<entry align="char" char=".">17.4</entry>
+<entry align="char" char="." charoff="18">20.0</entry>
+<entry align="center">Slightly Rough</entry>
+<entry align="center">Slightly Rough</entry></row>
+<row rowsep="0">
+<entry align="right">9</entry>
+<entry align="char" char=".">21.4</entry>
+<entry align="char" char="." charoff="18">18.7</entry>
+<entry align="center">Clean</entry>
+<entry align="center">Slightly Rough</entry></row>
+<row rowsep="0">
+<entry align="right">10</entry>
+<entry align="char" char=".">23.4</entry>
+<entry align="char" char="." charoff="18">16.8</entry>
+<entry align="center">Slightly Rough</entry>
+<entry align="center">Clean</entry></row>
+<row rowsep="0">
+<entry align="right">11</entry>
+<entry align="char" char=".">23.4</entry>
+<entry align="char" char="." charoff="18">16.7</entry>
+<entry align="center">Slightly Rough</entry>
+<entry align="center">Clean</entry></row>
+<row rowsep="0">
+<entry align="right">12</entry>
+<entry align="char" char=".">25.0</entry>
+<entry align="char" char="." charoff="18">19.7</entry>
+<entry align="center">Rough</entry>
+<entry align="center">Rough</entry></row>
+<row rowsep="0">
+<entry align="right">13</entry>
+<entry align="char" char=".">27.8</entry>
+<entry align="char" char="." charoff="18">16.0</entry>
+<entry align="center">Rough</entry>
+<entry align="center">Clean</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0084" num="0084">Cutability is a measure of two factors - how difficult it is to cut with a hand-held utility knife and the appearance of the cut. A two piece jig was designed to perform the cutability tests. One piece held a 7.62 cms (3 inch) by 10.6 cms (4 inch) ceiling tile sample in place and a standard utility blade was set at an angle of 30° relative to the sample in the other piece. The cutability tests were<!-- EPO <DP n="34"> --> performed on an Instron Universal Testing Machine with the unit operating in a tension mode and the crosshead speed set at 50.8 cms (20 inches) minute. This test approximates the action of cutting a tile with a hand-held utility knife. Results are reported as the force required to cut the sample and a description of the appearance of the cut.</p>
+<p id="p0085" num="0085">In comparison to the difficult to cut gypsum/newsprint formulations, all of the mineral fiber tiles had a clean cut sand required an average force of about 11. As a result of the<!-- EPO <DP n="35"> --> difficulty in cutting the tiles containing the co-calcined gypaum/newsprint composite or the physical mixture of gypsum and paper fiber (uncalcined), a tile formulation containing at least about 10% dry weight of mineral fiber has better cutting properties than the mineral wool-free tiles.</p>
+<heading id="h0009"><u>Example 8</u></heading>
+<p id="p0086" num="0086">A plant trial was performed using the following formulations, with the gypsum and hydropulped newsprint being physically mixed into the formulation without co-calcining
+<tables id="tabl0020" num="0020">
+<table frame="none">
+<title><u>TABLE 8A</u></title>
+<tgroup cols="3" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="43mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<thead>
+<row>
+<entry valign="top">Ingredients &amp; Other Factors</entry>
+<entry align="center" valign="top">Formulation A</entry>
+<entry align="center" valign="top">Formulation B</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="right">39%</entry>
+<entry align="right">41%</entry></row>
+<row rowsep="0">
+<entry>Newsprint (hydropulped)</entry>
+<entry align="right">22%</entry>
+<entry align="right">20%</entry></row>
+<row rowsep="0">
+<entry>Gypsum</entry>
+<entry align="right">32%</entry>
+<entry align="right">32%</entry></row>
+<row rowsep="0">
+<entry>Starch</entry>
+<entry align="right">7%</entry>
+<entry align="right">7%</entry></row>
+<row rowsep="0">
+<entry>Solids content</entry>
+<entry align="right">5.5%</entry>
+<entry align="right">5.5%</entry></row>
+<row rowsep="0">
+<entry>Line Speed (ft./min.)</entry>
+<entry align="right">30</entry>
+<entry align="right">30-34</entry></row></tbody></tgroup>
+</table>
+</tables>
+The starting line speed (Formulation A) was 9.14m (30 ft) min and this was increased to 10.36m (34 ft) min. during the latter part of the second trial (Formulation B). The wet mats were dried with the following dryer temperature ranges after startup:
+<tables id="tabl0021" num="0021">
+<table frame="none">
+<title><u>TABLE 8B</u></title>
+<tgroup cols="5" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="10mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="26mm"/>
+<colspec colnum="5" colname="col5" colwidth="26mm"/>
+<thead>
+<row>
+<entry valign="top"/>
+<entry valign="top">Dryer #1</entry>
+<entry valign="top">Dryer #2</entry>
+<entry valign="top">Dryer #3</entry>
+<entry valign="top">Dryer #4</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry namest="col1" nameend="col5" align="left">Formulation A</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="center">421.1-427.8°C</entry>
+<entry align="center">236.7-255.6°C</entry>
+<entry align="center">209.4-243.9°C</entry>
+<entry align="center">208.9-243.9°C</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="center">(790 - 802°F)</entry>
+<entry align="center">(458 - 492°F)</entry>
+<entry align="center">(409 - 471°F)</entry>
+<entry align="center">(408 - 471°F)</entry></row>
+<row rowsep="0">
+<entry namest="col1" nameend="col5" align="left">Formulation B</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="center">420 - 438°.3C</entry>
+<entry align="center">243.3 - 260°C</entry>
+<entry align="center">21 - 234.4°C</entry>
+<entry align="center">215 - 232.2°C</entry></row>
+<row rowsep="0">
+<entry/>
+<entry align="center">(788 - 821°F)</entry>
+<entry align="center">(470 - 500°F)</entry>
+<entry align="center">(419 - 454°F)</entry>
+<entry align="center">(419 9-450°F)</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="36"> -->
+The mats exhibited no warpage after drying, and all of the dry panels passed through the trimmers. Approximately 6039 sq. m (65,000 square feet) of panels were produced.</p>
+<p id="p0087" num="0087">The slurry consistency in both trials was about 5.5 weight % which appeared to be acceptable. The water did not separate from the stock when poured on a smooth surface (slump test). The slurry feed rate was maintained at approximately 1820 litres (400 gallons)/minute during both trials. The wet mat was pressed to a thickness of about 1.55 cms (0.610 inch) prior to drying which removed some of the excess water. The final density of the dried panels was about 209kg/M<sup>3</sup> (13 pounds/cubic foot).</p>
+<heading id="h0010"><u>Example 9</u></heading>
+<p id="p0088" num="0088">Another plant trial was performed in which 33% of the mineral fiber was replaced with gypsum and additional newsprint and a second formulation wherein all of the mineral fiber was replaced. The following formulations were used:
+<tables id="tabl0022" num="0022">
+<table frame="none">
+<title><u>TABLE 9A</u></title>
+<tgroup cols="3" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="39mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<thead>
+<row>
+<entry valign="top">Ingredient</entry>
+<entry align="center" valign="top">Formulation A</entry>
+<entry align="center" valign="top">Formulation B</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="center">35%</entry>
+<entry align="right">39%</entry></row>
+<row rowsep="0">
+<entry>Newsprint (hydropulped)</entry>
+<entry align="center">16%</entry>
+<entry align="right">22%</entry></row>
+<row rowsep="0">
+<entry>Gypsum</entry>
+<entry align="center">12%</entry>
+<entry align="right">32%</entry></row>
+<row rowsep="0">
+<entry>Starch</entry>
+<entry align="center">10%</entry>
+<entry align="right">7%</entry></row>
+<row rowsep="0">
+<entry>mineral Fiber</entry>
+<entry align="center">27%</entry>
+<entry align="right">0%</entry></row></tbody></tgroup>
+</table>
+</tables>
+In both trials, the starting line speed was 9.14m (30 ft)/minute, however, due to the use of additional dilution water, the line speed was reduced to 8.93m (28 ft)/min. (Formulation A) and 8.23m (27 ft)/min. (Formulation B). The following data was recorded.<!-- EPO <DP n="37"> -->
+<tables id="tabl0023" num="0023">
+<table frame="all">
+<title>TABLE 9B</title>
+<tgroup cols="5">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<thead>
+<row>
+<entry colsep="0">Sample No. *</entry>
+<entry colsep="0">No. of Samples</entry>
+<entry colsep="0">Thickness<br/>
+cms (inch)</entry>
+<entry colsep="0">Density<br/>
+Kg/m<sup>3</sup> (lb./ft<sup>3)</sup></entry>
+<entry colsep="0">MOR<br/>
+pa (psi)</entry></row></thead>
+<tbody>
+<row>
+<entry>1 &amp; 2</entry>
+<entry>6</entry>
+<entry>1.58 (0.622)</entry>
+<entry>176.78 (11.0)</entry>
+<entry>937687 (136)</entry></row>
+<row>
+<entry>3 &amp; 4</entry>
+<entry>6</entry>
+<entry>1.59 (0.626)</entry>
+<entry>225 (14.0)</entry>
+<entry>1537530 (223)</entry></row>
+<row>
+<entry>5 &amp; 6</entry>
+<entry>6</entry>
+<entry>1.62 (0.639)</entry>
+<entry>192.2 (12.0)</entry>
+<entry>115424 (167)</entry></row>
+<row>
+<entry>7, 8 &amp; 9</entry>
+<entry>9</entry>
+<entry>1.55 (0.614)</entry>
+<entry>196.07 (12.2)</entry>
+<entry>1234161 (179)</entry></row>
+<row>
+<entry>10</entry>
+<entry>3</entry>
+<entry>1.55 (0.612)</entry>
+<entry>184.82 (11.5)</entry>
+<entry>1096266 (159)</entry></row>
+<row>
+<entry namest="col1" nameend="col5" align="left"/></row>
+<row>
+<entry>24 &amp; 25</entry>
+<entry>6</entry>
+<entry>1.54 (0.607)</entry>
+<entry>220.18 (13.7)</entry>
+<entry>1365161 (198)</entry></row>
+<row>
+<entry>11</entry>
+<entry>3</entry>
+<entry>1.58 (0.623)</entry>
+<entry>237.86 (14.B)</entry>
+<entry>1785742 (259)</entry></row>
+<row>
+<entry>12</entry>
+<entry>3</entry>
+<entry>1.61 (0.636)</entry>
+<entry>229.82 (14.3)</entry>
+<entry>1703005 (247)</entry></row>
+<row>
+<entry>13, 14 &amp; 15</entry>
+<entry>9</entry>
+<entry>1.62 (0.637)</entry>
+<entry>215.3 (13.4)</entry>
+<entry>1537530 (223)</entry></row>
+<row>
+<entry>16, 17 &amp; 1B</entry>
+<entry>9</entry>
+<entry>1.61 (0,636)</entry>
+<entry>205.71 (12.B)</entry>
+<entry>1406530 (204)</entry></row>
+<row>
+<entry>19 &amp; 20</entry>
+<entry>6</entry>
+<entry>1.57 (0.618)</entry>
+<entry>210.54 (13.1)</entry>
+<entry>1503057 (218)</entry></row>
+<row>
+<entry>21 &amp; 22</entry>
+<entry>6</entry>
+<entry>1.63 (0.643)</entry>
+<entry>220.18 (13.7)</entry>
+<entry>160647B (233)</entry></row></tbody></tgroup>
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="23mm"/>
+<colspec colnum="2" colname="col2" colwidth="27mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="27mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col5" align="justify">* Samples 1-10 were 33% mineral fiber replacement and 11-25 were 100%.</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="38"> --></p>
+<p id="p0089" num="0089">The warpage in both trials was minimal and all panels passed through the slitters. There was also minimal calcinaton of the gypsum in the dryers.</p>
+<p id="p0090" num="0090">During the processing, the initial slurry consistency (33% replacement) was approximately 6.6% by weight of solids. Because of the high consistency, the slurry flow was not uniform and the wet mat cracked before vacuum dewatering. The slump test patty diameter was only 16.51cms (6.5 inches), indicating improper flow of the slurry. Addition of dilution water solved the slurry flow problem and reduced the slurry consistency to 5.4% solids. The slump test patty diameter was 24.13cms (9.5 inches) (normal). Later in the trial, additional dilution water lowered the consistency to 4.9% solids, with no adverse effect on the mat formation.</p>
+<p id="p0091" num="0091">In the 100% mineral fiber replacement trial, the initial slurry consistency was 6.3% solids This caused some cracking in the mat formation which was resolved by adding dilution water, lowering the consistency to 5.4% solids and providing a 24.13cms (9.5 inch) slump test patty diameter.</p>
+<heading id="h0011"><u>Example 10</u></heading>
+<p id="p0092" num="0092">A plant trial was run using the following formulation:
+<tables id="tabl0024" num="0024">
+<table frame="none">
+<title><u>TABLE 10A</u></title>
+<tgroup cols="2" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="37mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<thead>
+<row>
+<entry valign="top">Ingredient</entry>
+<entry align="center" valign="top">Amount (wt.%)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry>Expanded Perlite</entry>
+<entry align="right">43</entry></row>
+<row rowsep="0">
+<entry>Gypsum</entry>
+<entry align="right">32</entry></row>
+<row rowsep="0">
+<entry>Starch</entry>
+<entry align="right">5</entry></row>
+<row rowsep="0">
+<entry>Paper Fiber (newsprint)</entry>
+<entry align="right">20</entry></row></tbody></tgroup>
+</table>
+</tables>
+The formulation consistency was about 5.5% solids and the gypsum/paper fiber were physically mixed into the slurry (without co-calcining). The newsprint was added as a slurry containing about 3% solids. The line speed was about 9.14m (30 feet)/minute, and the wet mat thickness was carefully maintained at about 1.52cms (0.6 inches) using a combination of vacuum and pressing rolls.</p>
+<p id="p0093" num="0093">The following data was recorded:<!-- EPO <DP n="39"> -->
+<tables id="tabl0025" num="0025">
+<table frame="all">
+<title>TABLE 10B</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="21mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="25mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<thead>
+<row>
+<entry colsep="0">Sample No.</entry>
+<entry colsep="0">Thickness<br/>
+cms (inch)</entry>
+<entry colsep="0">Density<br/>
+Kg/M<sup>3</sup> (lb./ft<sup>3</sup>)</entry>
+<entry colsep="0">MOR<br/>
+pa (psi)</entry></row></thead>
+<tbody>
+<row>
+<entry>1-a</entry>
+<entry>1.56 (0.614)</entry>
+<entry>241 (15.0)</entry>
+<entry>1116950 (162)</entry></row>
+<row>
+<entry>1-b</entry>
+<entry>1.57 (0.617)</entry>
+<entry>239 (14.9)</entry>
+<entry>1103161 (160)</entry></row>
+<row>
+<entry>1-c</entry>
+<entry>1.55 (0.611)</entry>
+<entry>242 (15.1)</entry>
+<entry>1116950 (162)</entry></row>
+<row>
+<entry>2-a</entry>
+<entry>1.56 (0.614)</entry>
+<entry>210 (13.1)</entry>
+<entry>875634 (127)</entry></row>
+<row>
+<entry>2-b</entry>
+<entry>1.54 (0.608)</entry>
+<entry>212(13.2)</entry>
+<entry>910107(132)</entry></row>
+<row>
+<entry>2-c</entry>
+<entry>1.54 (0.607)</entry>
+<entry>212 (13.2)</entry>
+<entry>972160 (141)</entry></row>
+<row>
+<entry>3-a</entry>
+<entry>1.53 (0.602)</entry>
+<entry>220 (13.7)</entry>
+<entry>1006634 (146)</entry></row>
+<row>
+<entry>3-b</entry>
+<entry>1.53 (0.602)</entry>
+<entry>218 (13.6)</entry>
+<entry>999739 (145)</entry></row>
+<row>
+<entry>3-c</entry>
+<entry>1.53 (0.604)</entry>
+<entry>220 (13.7)</entry>
+<entry>1006634 (146)</entry></row>
+<row>
+<entry>4-a</entry>
+<entry>1.54 (0.607)</entry>
+<entry>207 (12.9)</entry>
+<entry>930792 (135)</entry></row>
+<row>
+<entry>4-b</entry>
+<entry>1.55 (0.609)</entry>
+<entry>207 (12.9)</entry>
+<entry>944581 (137)</entry></row>
+<row>
+<entry>4-c</entry>
+<entry>1.55 (0.610)</entry>
+<entry>207 (12.9)</entry>
+<entry>944581 (137)</entry></row>
+<row>
+<entry>5-a</entry>
+<entry>1.56 (0.615)</entry>
+<entry>210 (13.1)</entry>
+<entry>854949 (124)</entry></row>
+<row>
+<entry>5-b</entry>
+<entry>1.54 (0.605)</entry>
+<entry>212 (13.2)</entry>
+<entry>834265 (121)</entry></row>
+<row>
+<entry>5-c</entry>
+<entry>1.55 (0.611)</entry>
+<entry>212 (13.2)</entry>
+<entry>882528 (128)</entry></row>
+<row>
+<entry>6-a</entry>
+<entry>1.58 (0.623)</entry>
+<entry>199 (12.4)</entry>
+<entry>979055 (142)</entry></row>
+<row>
+<entry>6-b</entry>
+<entry>1.59 (0.624)</entry>
+<entry>196 (12.2)</entry>
+<entry>972160(141)</entry></row>
+<row>
+<entry>6-c</entry>
+<entry>1.59 (0.624)</entry>
+<entry>197 (12.3)</entry>
+<entry>979055 (142)</entry></row>
+<row>
+<entry>7-a</entry>
+<entry>1.59 (0.624)</entry>
+<entry>223 (13.9)</entry>
+<entry>1048003 (1.52)</entry></row>
+<row>
+<entry>7-b</entry>
+<entry>1.58 (0.621)</entry>
+<entry>223 (13.9)</entry>
+<entry>1096266 (159)</entry></row>
+<row>
+<entry>7-c</entry>
+<entry>1.58 (0.622)</entry>
+<entry>223 (13.9)</entry>
+<entry>1054897 (153)</entry></row>
+<row>
+<entry>8-a</entry>
+<entry>1.59 (0.626)</entry>
+<entry>223 (13.9)</entry>
+<entry>1110055 (161)</entry></row>
+<row>
+<entry>8-b</entry>
+<entry>1.59 (0.625)</entry>
+<entry>223 (13.9)</entry>
+<entry>1082476 (157)</entry></row>
+<row>
+<entry>8-c</entry>
+<entry>1.58 (0.623)</entry>
+<entry>225 (14.0)</entry>
+<entry>1116950 (162)</entry></row>
+<row>
+<entry>9-a</entry>
+<entry>1.60 (0.631)</entry>
+<entry>209 (13.0)</entry>
+<entry>965266 (140)</entry></row>
+<row>
+<entry>9-b</entry>
+<entry>1.59 (0.624)</entry>
+<entry>212 (13.2)</entry>
+<entry>1034213 (150)</entry></row>
+<row>
+<entry>9-c</entry>
+<entry>1.58 (0.622)</entry>
+<entry>212 (13.2)</entry>
+<entry>992845 (144)</entry></row>
+<row>
+<entry>10-a</entry>
+<entry>1.56 (0.616)</entry>
+<entry>209 (13.0)</entry>
+<entry>1006634 (146)</entry></row>
+<row>
+<entry>10-b</entry>
+<entry>1.57 (0.617)</entry>
+<entry>209 (13.0)</entry>
+<entry>999739 (145)</entry></row>
+<row>
+<entry>10-c</entry>
+<entry>1.58 (0.622)</entry>
+<entry>210 (13.1)</entry>
+<entry>992845 (144)</entry></row>
+<row>
+<entry>11-a</entry>
+<entry>1.57 (0.618)</entry>
+<entry>247 (15.4)</entry>
+<entry>1116950 (162)</entry></row>
+<row>
+<entry>11-b</entry>
+<entry>1.55 (0.612)</entry>
+<entry>250 (15.6)</entry>
+<entry>11779003 (171)</entry></row>
+<row>
+<entry>11-c</entry>
+<entry>1.56 (0.616)</entry>
+<entry>247 (15.4)</entry>
+<entry>1118319 (168)</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0094" num="0094">The tiles made with this formulation did not warp and readily passed through the slitters. The dried tiles had excellent hardness compared to mineral fiber based tiles.</p>
+</description><!-- EPO <DP n="40"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A wetted mineral-wool free composition suitable for making acoustical tiles, comprising calcium sulphate dihydrate particles, cellulosic fiber, a lightweight aggregate material and a binder, in which, on a dry basis, there is at least about 15% by weight of calcium sulphate dihydrate and at least about 13% by weight of cellulosic fiber.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A composition according to Claim 1, in which the binder is starch which is present, on a dry solids basis, in an amount ranging from about 3 to about 15% by weight.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A composition according to Claim 1 or Claim 2, in which the lightweight aggregate material is expanded perlite which is present, on a dry solids basis, in an amount of at least about 25% by weight.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A composition according to Claim 3, in which the cellulosic fiber is paper fiber which is present, on a dry solids basis, in an amount ranging from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A composition according to any preceding claim, in which the calcium sulphate dihydrate ranges from about 15 to about 45% by weight, the expanded perlite ranges from about 25 to about 60% by weight, and the cellulosic fiber is paper fiber ranging from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A wetted composition according to Claim 1, in which at least a portion of the calcium sulphate dihydrate particles and the cellulosic fiber are in the form of a composite material which has been produced by calcining under pressure a dilute slurry of calcium sulphate dihydrate and cellulosic fiber.<!-- EPO <DP n="41"> --></claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A composition according to Claim 6, in which the calcium sulphate dihydrate particles in the composite material are derived from calcium sulphate alpha hemihydrate which has been produced by co-calcining calcium sulphate dihydrate with the cellulosic fibers.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A composition according to Claim 6 or Claim 7, in which the cellulosic fibers are paper fibers.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A composition according to Claim 8, in which a portion of the cellulosic fibers is added to the composition as uncalcined fibers in addition to the calcined calcium sulphate dihydrate/cellulosic fiber composite material.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A composition according to Claim 8 or Claim 9, in which the calcium sulphate dihydrate ranges from about 15 to about 45% by weight and the cellulosic fiber ranges from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>A composition according to claim 10, in which the cellulosic fiber is paper and a portion of the paper fibers are added to the composition as uncalcined fibers in addition to the calcined calcium sulphate dihydrate/paper fiber composite material.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A wetted, composition according to any preceding claim, a substantial portion of the calcium sulphate dihydrate particles and a minor portion of the cellulosic fiber being in the form of ground gypsum wallboard.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>A composition according to Claim 12, in which there is at least 15% by weight of calcium sulphate dihydrate.<!-- EPO <DP n="42"> --></claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>A composition according to Claim 13, in which the calcium sulphate dihydrate ranges from about 15 to about 45% by weight and substantially all of the calcium sulphate dihydrate particles are in the form of ground gypsum wallboard.</claim-text></claim>
+<claim id="c-en-01-0015" num="0015">
+<claim-text>A composition according to any of Claims 11 to 14, in which the cellulosic fiber is paper and the major portion of the paper fiber is newsprint added to the composition to supplement the paper fiber in the ground gypsum wallboard.</claim-text></claim>
+<claim id="c-en-01-0016" num="0016">
+<claim-text>A wetted composition comprising mineral wool, gypsum, cellulosic fibre, a lightweight aggregate material and a binder, in which, on a dry solids basis, there is at least about 10% by weight of mineral wool and at least 13% by weight of cellulosic fibre.</claim-text></claim>
+<claim id="c-en-01-0017" num="0017">
+<claim-text>A composition according to Claim 16, in which the binder is starch which is present in an amount ranging from about 3 to about 15% by weight.</claim-text></claim>
+<claim id="c-en-01-0018" num="0018">
+<claim-text>A composition according to Claim 16 or Claim 17, in which the lightweight aggregate material is expanded perlite which is present in an amount of at least about 25% by weight.</claim-text></claim>
+<claim id="c-en-01-0019" num="0019">
+<claim-text>A composition according to any of Claims 16 to 18, in which the cellulosic fiber is paper fiber which is present in amount ranging from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0020" num="0020">
+<claim-text>A composition according to any of Claims 16 to 19, in which the amount of mineral wool ranges from about 10% to about 30% by weight.<!-- EPO <DP n="43"> --></claim-text></claim>
+<claim id="c-en-01-0021" num="0021">
+<claim-text>A composition according to any of Claims 16 to 20, in which there is calcium sulphate dihydrate which ranges from about 10% to about 25% by weight, the expanded perlite ranges from about 25 to 40% by weight, and the cellulosic fiber is paper fiber ranging from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0022" num="0022">
+<claim-text>A composition according to Claim 21, in which at least a portion of the calcium sulphate dihydrate particles and the cellulosic fiber are in the form of a composite material which has been produced by calcining under pressure a dilute slurry of calcium sulphate dihydrate and cellulosic fiber.</claim-text></claim>
+<claim id="c-en-01-0023" num="0023">
+<claim-text>A composition according to any of Claims 16 to 22, in which a substantial portion of the calcium sulphate dihydrate particles and a minor portion of the cellulosic fiber are in the form of ground gypsum wallboard.</claim-text></claim>
+<claim id="c-en-01-0024" num="0024">
+<claim-text>A dry acoustical tile made from a composition according to any preceding claim.</claim-text></claim>
+<claim id="c-en-01-0025" num="0025">
+<claim-text>An acoustical tile according to Claim 24, in which the binder is starch which is present in an amount ranging from about 3 to about 15% by weight.</claim-text></claim>
+<claim id="c-en-01-0026" num="0026">
+<claim-text>An acoustical tile according to Claim 25, in which the lightweight aggregate comprises expanded perlite in an amount of at least about 25% by weight.</claim-text></claim>
+<claim id="c-en-01-0027" num="0027">
+<claim-text>An acoustical tile according to Claim 24, in which the cellulosic fiber is paper fiber which is present in an amount ranging from about 13 to about 30% by weight.<!-- EPO <DP n="44"> --></claim-text></claim>
+<claim id="c-en-01-0028" num="0028">
+<claim-text>An acoustical tile according to Claim 27, in which the calcium sulphate dihydrate ranges from about 20 to about 40% by weight, the expanded perlite ranges from about 25 to about 50% by weight, and the cellulosic fiber is paper fiber ranging from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0029" num="0029">
+<claim-text>An acoustical tile according to Claim 28, in which the cellulosic fibers are paper fibers.</claim-text></claim>
+<claim id="c-en-01-0030" num="0030">
+<claim-text>An acoustical tile according to Claim 28 or Claim 29, in which a portion of the cellulosic fibers is uncalcined paper fibers in addition to the calcined calcium sulphate dihydrate/cellulose fiber composite material.</claim-text></claim>
+<claim id="c-en-01-0031" num="0031">
+<claim-text>An acoustical tile according to any of Claims 29 to 30, in which the calcium sulphate dihydrate ranges from about 15 to about 45% by weight and the cellulosic fiber ranges from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0032" num="0032">
+<claim-text>An acoustical tile according to any of Claims 24 - 31, in which there is at least about 15% by weight of calcium sulphate dihydrate and at least about 13% by weight of cellulosic fiber.</claim-text></claim>
+<claim id="c-en-01-0033" num="0033">
+<claim-text>An acoustical tile according to Claim 32, in which the binder is starch which is present in an amount ranging from about 3 to about 15% by weight.</claim-text></claim>
+<claim id="c-en-01-0034" num="0034">
+<claim-text>An acoustical tile according to Claim 32 or Claim 33, in which the lightweight aggregate material is expanded perlite which is present in an amount of at least about 25% by weight.</claim-text></claim>
+<claim id="c-en-01-0035" num="0035">
+<claim-text>An acoustical tile according to any of Claims 30 to 34, in which cellulosic fiber is paper fiber which is present in an amount ranging from about 13 to about 30% by weight.<!-- EPO <DP n="45"> --></claim-text></claim>
+<claim id="c-en-01-0036" num="0036">
+<claim-text>An acoustical tile according to any of Claims 32 to 35, in which the amount of mineral wool ranges from about 10% to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0037" num="0037">
+<claim-text>An acoustical tile according to any of Claims 32 to 36, in which the calcium sulphate dihydrate ranges from about 10% to about 25% by weight, the expanded perlite ranges from about 25 to about 40% by weight, and the cellulosic fiber is paper fiber ranging from about 13 to about 30% by weight.</claim-text></claim>
+<claim id="c-en-01-0038" num="0038">
+<claim-text>An acoustical tile according to Claim 37, in which at least a portion of the calcium sulphate dihydrate particles and the cellulosic fiber are in the form of a composite material which has been produced by calcining under pressure a dilute slurry of calcium sulphate dihydrate and cellulosic fiber.</claim-text></claim>
+</claims><!-- EPO <DP n="46"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Benetzte, von Mineralwolle freie Zusammensetzung, die für das Herstellen von Akustikplatten geeignet ist, umfassend Calciumsulfatdihydratteilchen, Cellulosefaser, ein Zuschlagstoffinaterial von leichtem Gewicht und ein Bindemittel, worin sich, auf Trockenbasis, mindestens etwa 15 Gew.-% Calciumsulfatdihydrat und mindestens etwa 13 Gew.-% Cellulosefaser befinden.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Zusammensetzung nach Anspruch 1, wobei das Bindemittel Stärke ist, die, auf Trockengewichtsbasis, in einer Menge im Bereich von etwa 3 bis etwa 15 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Zusammensetzung nach Anspruch 1 oder Anspruch 2, wobei das Zuschlagsstoffmaterial von leichtem Gewicht Blähperlit ist, der, auf Trockengewichtsbasis, in einer Menge von mindestens etwa 25 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Zusammensetzung nach Anspruch 3, wobei die Cellulosefaser Papierfaser ist, die, auf Trockengewichtsbasis, in einer Menge im Bereich von etwa 13 bis etwa 30 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Zusammensetzung nach einem der vorhergehenden Ansprüche, wobei das Calciumsulfatdihydrat im Bereich von etwa 15 bis etwa 45 Gew.-% liegt, der Blähperlit im Bereich von etwa 25 bis etwa 60 Gew.-% liegt und die Cellulosefaser Papierfaser ist, die im Bereich von etwa 13 bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Benetzte Zusammensetzung nach Anspruch 1, wobei mindestens ein Anteil der Calciumsulfatdihydratteilchen und der Cellulosefaser in Form eines Verbundstoffmaterials vorliegen, das durch Calcinieren unter Druck einer verdünnten Aufschlämmung von Calciumsulfatdihydrat und Cellulosefaser hergestellt worden ist.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Zusammensetzung nach Anspruch 6, wobei die Calciumsulfatdihydratteilchen in dem Verbundstoffmaterial von Calciumsulfat-Alpha-Hemihydrat derivatisiert sind, das durch Cocalcinieren von Calciumsulfatdihydrat mit den Cellulosefasern hergestellt worden ist.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Zusammensetzung nach Anspruch 6 oder Anspruch 7, wobei die Cellulosefasern Papierfasern sind.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Zusammensetzung nach Anspruch 8, wobei ein Anteil der Cellulosefasern der Zusammensetzung als uncalcinierte Fasern zusätzlich zu dem calcinierten Verbundstoffmaterial aus Calciumsulfatdihydrat/Cellulosefaser hinzugegeben wird.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Zusammensetzung nach Anspruch 8 oder Anspruch 9, wobei das Calciumsulfatdihydrat im Bereich von etwa 15 bis etwa 45 Gew.-% und die Cellulosefaser im Bereich von etwa 13 bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Zusammensetzung nach Anspruch 10, wobei die Cellulosefaser Papier ist und ein Anteil der Papierfasern der Zusammensetzung als uncalcinierte Fasern zusätzlich zu dem calciniertem Verbundstoffmaterial aus Calciumsulfatdihydrat/Papierfaser hinzugegeben werden.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Benetzte Zusammensetzung nach einem der vorhergehenden Ansprüche, wobei ein wesentlicher Anteil der Calciumsulfatdihydratteilchen und ein geringerer Anteil der Cellulosefaser in Form von gemahlener Gipswandschutzplatte vorliegt.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Zusammensetzung nach Anspruch 12, in der mindestens 15 Gew.-% Calciumsulfatdihydrat vorliegen.<!-- EPO <DP n="47"> --></claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Zusammensetzung nach Anspruch 13, wobei das Calciumsulfatdihydrat im Bereich von etwa 15 bis etwa 45 Gew.-% vorliegt und im Wesentlichen alle der Calciumsulfatdihydratteilchen in Form von gemahlener Gipswandschutzplatte vorliegen.</claim-text></claim>
+<claim id="c-de-01-0015" num="0015">
+<claim-text>Zusammensetzung nach einem der Ansprüche 11 bis 14, wobei die Cellulosefaser Papier ist und der Hauptanteil der Papierfaser Zeitungspapier ist, das der Zusammensetzung hinzugegeben wird, um die Papierfaser in der gemahlenen Gipswandschutzplatte zu ergänzen.</claim-text></claim>
+<claim id="c-de-01-0016" num="0016">
+<claim-text>Benetzte Zusammensetzung umfassend Mineralwolle, Gips, Cellulosefaser, Zuschlagstoffmaterial von leichtem Gewicht und ein Bindemittel, wobei, auf Trockenfeststoffbasis, mindestens etwa 10 Gew.-% Mineralwolle und mindestens 13 Gew.-% Cellulosefaser vorliegen.</claim-text></claim>
+<claim id="c-de-01-0017" num="0017">
+<claim-text>Zusammensetzung nach Anspruch 16, wobei das Bindemittel Stärke ist, die in einer Menge im Bereich von etwa 3 bis etwa 15 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0018" num="0018">
+<claim-text>Zusammensetzung nach Anspruch 16 oder Anspruch 17, wobei das Zuschlagstoffmaterial von leichtem Gewicht Blähperlit ist, der in einer Menge von mindestens etwa 25 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0019" num="0019">
+<claim-text>Zusammensetzung nach einem der Ansprüche 16 bis 18, wobei die Cellulosefaser Papierfaser ist, die in einer Menge im Bereich von etwa 13 bis etwa 30 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0020" num="0020">
+<claim-text>Zusammensetzung nach einem der Ansprüche 16 bis 19, wobei die Menge an Mineralwolle im Bereich von etwa 10 Gew.-% bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0021" num="0021">
+<claim-text>Zusammensetzung nach einem der Ansprüche 16 bis 20, wobei Calciumsulfatdihydrat vorliegt, das im Bereich von etwa 10 Gew.-% bis etwa 25 Gew.-% liegt, der Blähperlit im Bereich von etwa 25 bis 40 Gew.-% liegt und die Cellulosefaser Papierfaser ist, die im Bereich von etwa 13 bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0022" num="0022">
+<claim-text>Zusammensetzung nach Anspruch 21, wobei mindestens ein Anteil der Calciumsulfatdihydratteilchen und der Cellulosefaser in Form eines Verbundstoffmaterials vorliegen, das durch Calcinieren unter Druck einer verdünnten Aufschlämmung von Calciumsulfatdihydrat und Cellulosefaser hergestellt worden ist.</claim-text></claim>
+<claim id="c-de-01-0023" num="0023">
+<claim-text>Zusammensetzung nach einem der Ansprüche 16 bis 22, wobei ein wesentlicher Anteil der Calciumsulfatdihydratteilchen und ein geringerer Anteil der Cellulosefaser in Form von gemahlener Gipswandschutzplatte vorliegen.</claim-text></claim>
+<claim id="c-de-01-0024" num="0024">
+<claim-text>Trockene Akustikplatte, die aus einer Zusammensetzung nach einem der vorhergehenden Ansprüche hergestellt ist.</claim-text></claim>
+<claim id="c-de-01-0025" num="0025">
+<claim-text>Akustikplatte nach Anspruch 24, wobei das Bindemittel Stärke ist, die in einer Menge im Bereich von etwa 3 bis etwa 15 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0026" num="0026">
+<claim-text>Akustikplatte nach Anspruch 25, wobei der Zuschlagstoff von leichtem Gewicht Blähperlit in einer Menge von mindestens etwa 25 Gew.-% umfasst.</claim-text></claim>
+<claim id="c-de-01-0027" num="0027">
+<claim-text>Akustikplatte nach Anspruch 24, wobei die Cellulosefaser Papierfaser ist, die in einer Menge im Bereich von etwa 13 bis etwa 30 Gew.-% vorliegt.<!-- EPO <DP n="48"> --></claim-text></claim>
+<claim id="c-de-01-0028" num="0028">
+<claim-text>Akustikplatte nach Anspruch 27, wobei das Calciumsulfatdihydrat im Bereich von etwa 20 bis etwa 40 Gew.-% liegt, der Blähperlit im Bereich von etwa 25 bis etwa 50 Gew.-% liegt und die Cellulosefaser Papierfaser ist, die im Bereich von etwa 13 bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0029" num="0029">
+<claim-text>Akustikplatte nach Anspruch 28, wobei die Cellulosefasern Papierfasern sind.</claim-text></claim>
+<claim id="c-de-01-0030" num="0030">
+<claim-text>Akustikplatte nach Anspruch 28 oder Anspruch 29, wobei ein Anteil der Cellulosefasern aus uncalcinierten Papierfasern zusätzlich zu dem calcinierten Verbundstoffmaterial aus Calciumsulfatdihydrat/Cellulosefaser besteht.</claim-text></claim>
+<claim id="c-de-01-0031" num="0031">
+<claim-text>Akustikplatte nach einem der Ansprüche 29 bis 30, wobei das Calciumsulfatdihydrat im Bereich von etwa 15 bis etwa 45 Gew.-% liegt und die Cellulosefaser im Bereich von etwa 13 bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0032" num="0032">
+<claim-text>Akustikplatte nach einem der Ansprüche 24 - 31, wobei mindestens etwa 15 Gew.-% Calciumsulfatdihydrat und mindestens etwa 13 Gew.-% Cellulosefaser vorliegen.</claim-text></claim>
+<claim id="c-de-01-0033" num="0033">
+<claim-text>Akustikplatte nach Anspruch 32, wobei das Bindemittel Stärke ist, die in einer Menge im Bereich von etwa 3 bis etwa 15 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0034" num="0034">
+<claim-text>Akustikplatte nach Anspruch 32 oder Anspruch 33, wobei das Zuschlagstoffinaterial von leichtem Gewicht Blähperlit ist, der in einer Menge von mindestens etwa 25 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0035" num="0035">
+<claim-text>Akustikplatte nach einem der Ansprüche 30 bis 34, wobei die Cellulosefaser Papierfaser ist, die in einer Menge im Bereich von etwa 13 bis etwa 30 Gew.-% vorliegt.</claim-text></claim>
+<claim id="c-de-01-0036" num="0036">
+<claim-text>Akustikplatte nach einem der Ansprüche 32 bis 35, wobei die Menge an Mineralwolle im Bereich von etwa 10 Gew.-% bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0037" num="0037">
+<claim-text>Akustikplatte nach einem der Ansprüche 32 bis 36, wobei das Calciumsulfatdihydrat im Bereich von etwa 10 Gew.-% bis etwa 25 Gew.-% liegt, der Blähperlit im Bereich von etwa 25 bis etwa 40 Gew.-% liegt und die Cellulosefaser Papierfaser ist, die im Bereich von etwa 13 bis etwa 30 Gew.-% liegt.</claim-text></claim>
+<claim id="c-de-01-0038" num="0038">
+<claim-text>Akustikplatte nach Anspruch 37, wobei mindestens ein Anteil der Calciumsulfatdihydratteilchen und der Cellulosefaser in Form eines Verbundstoffmaterials vorliegen, das durch Calcinieren unter Druck einer verdünnten Aufschlämmung von Calciumsulfatdihydrat und Cellulosefaser hergestellt worden ist.</claim-text></claim>
+</claims><!-- EPO <DP n="49"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Composition humidifiée exempte de laine minérale appropriée pour fabriquer des dalles acoustiques, comprenant des particules de sulfate de calcium dihydraté, de la fibre cellulosique, un matériau type granulat de faible poids et un liant, dans laquelle, sur une base sèche, il existe au moins environ 15% en poids de sulfate de calcium dihydraté et au moins environ 13% en poids de fibre cellulosique.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Composition selon la revendication 1, dans laquelle le liant est l'amidon qui est présent, sur une base des matières solides sèches, en une quantité s'étendant en une plage d'environ 3 à environ 15% en poids.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Composition selon la revendication 1 ou la revendication 2, dans laquelle le matériau type granulat de faible poids est de la perlite expansée qui est présente, sur une base des matières solides sèches, en une quantité d'au moins environ 25% en poids.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Composition selon la revendication 3, dans laquelle la fibre cellulosique est une fibre de papier qui est présente, sur une base des matières solides sèches, en une quantité s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Composition selon l'une quelconque des revendications précédentes, dans laquelle le sulfate de calcium dihydraté s'étend en une plage d'environ 15 à environ 45% en poids, la perlite expansée s'étend en une plage d'environ 25 à environ 60% en poids, et la fibre cellulosique est une fibre de papier s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Composition humidifiée selon la revendication 1, dans laquelle au moins une portion des particules de sulfate de calcium dihydraté et la fibre cellulosique se trouvent sous la forme d'un matériau composite qui a été produit par calcination sous pression d'une suspension diluée de sulfate de calcium dihydraté et de fibre cellulosique.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Composition selon la revendication 6, dans laquelle les particules de sulfate de calcium dihydraté dans le matériau composite sont dérivées de sulfate de calcium alpha hémihydraté qui a été produit par co-calcination de sulfate de calcium dihydraté avec les fibres cellulosiques.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Composition selon la revendication 6 ou la revendication 7, dans laquelle les fibres cellulosiques sont des fibres de papier.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Composition selon la revendication 8, dans laquelle une portion des fibres cellulosiques est ajoutée à la composition sous la forme de fibres non calcinées en plus du matériau composite calciné de sulfate de calcium dihydraté/fibre cellulosique.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Composition selon la revendication 8 ou la revendication 9, dans laquelle le sulfate de calcium dihydraté s'étend en une plage d'environ 15 à environ 45% en poids et la fibre cellulosique s'étend en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Composition selon la revendication 10, dans laquelle la fibre cellulosique est du papier et une portion des fibres de papier sont ajoutées à la composition sous la forme de fibres non calcinées en plus du matériau composite calciné de sulfate de calcium dihydraté/fibre de papier.<!-- EPO <DP n="50"> --></claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Composition humidifiée, selon l'une quelconque des revendications précédentes, une portion substantielle des particules de sulfate de calcium dihydraté et une portion mineure de la fibre cellulosique se présentant sous la forme de panneau mural de gypse broyé.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Composition selon la revendication 12, dans laquelle il existe au moins 15% en poids de sulfate de calcium dihydraté.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Composition selon la revendication 13, dans laquelle le sulfate de calcium dihydraté s'étend en une plage d'environ 15 à environ 45% en poids et substantiellement toutes les particules de sulfate de calcium dihydraté se présentent sous la forme de panneau mural de gypse broyé.</claim-text></claim>
+<claim id="c-fr-01-0015" num="0015">
+<claim-text>Composition selon l'une quelconque des revendications 11 à 14, dans laquelle la fibre cellulosique est le papier et la portion majeure de la fibre de papier est du papier journal ajouté à la composition pour ajouter de la fibre de papier au panneau mural de gypse broyé.</claim-text></claim>
+<claim id="c-fr-01-0016" num="0016">
+<claim-text>Composition humidifiée comprenant de la laine minérale, du gypse, de la fibre cellulosique, un matériau type granulat de faible poids et un liant, dans laquelle, sur une base des matières solides sèches, il existe au moins environ 10% en poids de laine minérale et au moins 13% en poids de fibre cellulosique.</claim-text></claim>
+<claim id="c-fr-01-0017" num="0017">
+<claim-text>Composition selon la revendication 16, dans laquelle le liant est de l'amidon qui est présent en une quantité s'étendant en une plage d'environ 3 à environ 15% en poids.</claim-text></claim>
+<claim id="c-fr-01-0018" num="0018">
+<claim-text>Composition selon la revendication 16 ou la revendication 17, dans laquelle le matériau type granulat de faible poids est de la perlite expansée qui est présente en une quantité d'au moins environ 25% en poids.</claim-text></claim>
+<claim id="c-fr-01-0019" num="0019">
+<claim-text>Composition selon l'une quelconque des revendications 16 à 18, dans laquelle la fibre cellulosique est de la fibre de papier qui est présente en une quantité s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0020" num="0020">
+<claim-text>Composition selon l'une quelconque des revendications 16 à 19, dans laquelle la quantité de laine minérale s'étend en une plage d'environ 10% à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0021" num="0021">
+<claim-text>Composition selon l'une quelconque des revendications 16 à 20, dans laquelle il existe du sulfate de calcium dihydraté qui s'étend en une plage d'environ 10% à environ 25% en poids, la perlite expansée s'étend en une plage d'environ 25 à 40% en poids, et la fibre cellulosique est de la fibre de papier s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0022" num="0022">
+<claim-text>Composition selon la revendication 21, dans laquelle au moins une portion des particules de sulfate de calcium dihydraté et de la fibre cellulosique sont présentes sous la forme d'un matériau composite qui a été produit par calcination sous pression d'une suspension diluée de sulfate de calcium dihydraté et de fibre cellulosique.</claim-text></claim>
+<claim id="c-fr-01-0023" num="0023">
+<claim-text>Composition selon l'une quelconque des revendications 16 à 22, dans laquelle une portion substantielle des particules de sulfate de calcium dihydraté et une portion mineure de la fibre cellulosique se présentent sous la forme de panneau mural de gypse broyé.</claim-text></claim>
+<claim id="c-fr-01-0024" num="0024">
+<claim-text>Dalle acoustique sèche fabriquée à partir d'une composition selon l'une quelconque des revendications précédentes.<!-- EPO <DP n="51"> --></claim-text></claim>
+<claim id="c-fr-01-0025" num="0025">
+<claim-text>Dalle acoustique selon la revendication 24, dans laquelle le liant est l'amidon qui est présent en une quantité s'étendant en une plage d'environ 3 à environ 15% en poids.</claim-text></claim>
+<claim id="c-fr-01-0026" num="0026">
+<claim-text>Dalle acoustique selon la revendication 25, dans laquelle le granulat de faible poids comprend de la perlite expansée en une quantité d'au moins environ 25% en poids.</claim-text></claim>
+<claim id="c-fr-01-0027" num="0027">
+<claim-text>Dalle acoustique selon la revendication 24, dans laquelle la fibre cellulosique est de la fibre de papier qui est présente en une quantité s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0028" num="0028">
+<claim-text>Dalle acoustique selon la revendication 27, dans laquelle le sulfate de calcium dihydraté s'étend en une plage d'environ 20 à environ 40% en poids, la perlite expansée s'étend en une plage d'environ 25 à environ 50% en poids, et la fibre cellulosique est une fibre de papier s'étendant en une plage d'environ 13 à à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0029" num="0029">
+<claim-text>Dalle acoustique selon la revendication 28, dans laquelle les fibres cellulosiques sont des fibres de papier.</claim-text></claim>
+<claim id="c-fr-01-0030" num="0030">
+<claim-text>Dalle acoustique selon la revendication 28 ou la revendication 29, dans laquelle une portion des fibres cellulosiques est des fibres de papier non calcinées en plus du matériau composite calciné de sulfate de calcium dihydraté/fibre de cellulose.</claim-text></claim>
+<claim id="c-fr-01-0031" num="0031">
+<claim-text>Dalle acoustique selon l'une quelconque des revendications 29 à 30, dans laquelle le sulfate de calcium dihydraté s'étend en une plage d'environ 15 à environ 45% en poids et la fibre cellulosique s'étend en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0032" num="0032">
+<claim-text>Dalle acoustique selon l'une quelconque des revendications 24 à 31, dans laquelle il existe au moins environ 15% en poids de sulfate de calcium dihydraté et au moins environ 13% en poids de fibre cellulosique.</claim-text></claim>
+<claim id="c-fr-01-0033" num="0033">
+<claim-text>Dalle acoustique selon la revendication 32, dans laquelle le liant est l'amidon qui est présent en une quantité s'étendant en une plage d'environ 3 à environ 15% en poids.</claim-text></claim>
+<claim id="c-fr-01-0034" num="0034">
+<claim-text>Dalle acoustique selon la revendication 32 ou la revendication 33, dans laquelle le matériau type granulat de faible poids est de la perlite expansée qui est présente en une quantité d'au moins environ 25% en poids.</claim-text></claim>
+<claim id="c-fr-01-0035" num="0035">
+<claim-text>Dalle acoustique selon l'une quelconque des revendications 30 à 34, dans laquelle la fibre cellulosique est de la fibre de papier qui est présente en une quantité s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0036" num="0036">
+<claim-text>Dalle acoustique selon l'une quelconque des revendications 32 à 35, dans laquelle la quantité de laine minérale s'étend en une plage d'environ 10% à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0037" num="0037">
+<claim-text>Dalle acoustique selon l'une quelconque des revendications 32 à 36, dans laquelle le sulfate de calcium dihydraté s'étend en une plage d'environ 10% à environ 25% en poids, la perlite expansée s'étend en une plage d'environ 25 à environ 40% en poids, et la fibre cellulosique est de la fibre de papier s'étendant en une plage d'environ 13 à environ 30% en poids.</claim-text></claim>
+<claim id="c-fr-01-0038" num="0038">
+<claim-text>Dalle acoustique selon la revendication 37, dans laquelle au moins une portion des particules de sulfate de calcium dihydraté et de la fibre cellulosique sont présentes sous la forme d'un matériau<!-- EPO <DP n="52"> --> composite qui a été produit par calcination sous pression d'une suspension diluée de sulfate de calcium dihydraté et de fibre cellulosique.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US1769519A"><document-id><country>US</country><doc-number>1769519</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US5320677A"><document-id><country>US</country><doc-number>5320677</doc-number><kind>A</kind><date>19940614</date></document-id></patcit><crossref idref="pcit0002">[0004]</crossref><crossref idref="pcit0008">[0038]</crossref><crossref idref="pcit0010">[0049]</crossref><crossref idref="pcit0011">[0059]</crossref><crossref idref="pcit0012">[0068]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US3498404A"><document-id><country>US</country><doc-number>3498404</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0006]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US5013405A"><document-id><country>US</country><doc-number>5013405</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0006]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US5047120A"><document-id><country>US</country><doc-number>5047120</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0006]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US3988199A"><document-id><country>US</country><doc-number>3988199</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0007]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="EP0370703A"><document-id><country>EP</country><doc-number>0370703</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0008]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="US5250153A"><document-id><country>US</country><doc-number>5250153</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0009">[0043]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

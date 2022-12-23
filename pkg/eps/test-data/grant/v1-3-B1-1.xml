@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.3//EN" "ep-patent-document-v1-3.dtd">
+<ep-patent-document id="EP95937855B1" file="EP95937855NWB1.xml" lang="en" country="EP" doc-number="0791067" kind="B1" date-publ="20081217" status="n" dtd-version="ep-patent-document-v1-3">
+<SDOBI lang="en"><B000><eptags><B001EP>ATBECHDEDKESFRGBGRITLILUNLSEMCPTIE..............................................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>DIM360 Ver 2.15 (14 Jul 2008) -  2100000/0</B007EP></eptags></B000><B100><B110>0791067</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20081217</date></B140><B190>EP</B190></B100><B200><B210>95937855.5</B210><B220><date>19951030</date></B220><B240><B241><date>19970527</date></B241><B242><date>20040102</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>94117122</B310><B320><date>19941028</date></B320><B330><ctry>EP</ctry></B330></B300><B400><B405><date>20081217</date><bnum>200851</bnum></B405><B430><date>19970827</date><bnum>199735</bnum></B430><B450><date>20081217</date><bnum>200851</bnum></B450><B452EP><date>20070627</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12N  15/54        20060101AFI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>A61K  39/395       20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C12N   9/12        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="4"><text>A61K  38/46        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="5"><text>C07C 229/08        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="6"><text>A61K  38/16        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="7"><text>C07K   4/12        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="8"><text>C12Q   1/42        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="9"><text>C07K  16/40        20060101ALI19960619BHEP        </text></classification-ipcr><classification-ipcr sequence="10"><text>C12Q   1/48        20060101ALI19960619BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>PROTEINKINASE NPK-110</B542><B541>en</B541><B542>PROTEIN KINASE NPK-110</B542><B541>fr</B541><B542>PROTEINE KINASE NPK-110</B542></B540><B560><B561><text>EP-A- 0 544 942</text></B561><B562><text>NEURON (1993), 11(1), 153-63 CODEN: NERNET;ISSN: 0896-6273, 1993 BIERNAT, J. ET AL 'Phosphorylation of Ser262 strongly reduces binding of Tau to microtubules: Distinction between PHF-like immunoreactivity and microtubule binding' cited in the application</text></B562><B562><text>FEBS LETT. (1993), 336(3), 425-32 CODEN: FEBLAL;ISSN: 0014-5793, 1993 DREWES, G. ET AL 'Dephosphorylation of tau protein and Alzheimer paired helical filaments by calcineurin and phosphatase-2A'</text></B562><B562><text>FEBS LETT. (1992), 307(2), 199-205 CODEN: FEBLAL;ISSN: 0014-5793, 1992 GUSTKE, N. ET AL 'The Alzheimer-like phosphorylation of tau protein reduces microtubule binding and involves Ser-Pro and Thr-Pro motifs' cited in the application</text></B562><B562><text>EMBO J. (1992), 11(4), 1593-7 CODEN: EMJODG;ISSN: 0261-4189, 1992 BIERNAT, J. ET AL 'The switch of tau protein to an Alzheimer-like state includes the phosphorylation of two serine-proline motifs upstream of the microtubule binding region' cited in the application</text></B562><B562><text>JOURNAL OF BIOLOGICAL CHEMISTRY, vol. 267, no. 24, 25 August 1992 MD US, pages 17047-17054, MASATO HASEGAWA ET AL. 'Protein sequence and mass spectrometric analyses of Tau in the Alzheimer's disease brain' cited in the application</text></B562><B562><text>EUR. J. CELL BIOL. (1994), 64(1), 120-30 CODEN: EJCBDN;ISSN: 0171-9335, 1994 BERLING, BARBARA ET AL 'Phosphorylation of microtubule-associated proteins MAP2a,b and MAP2c at Ser136 by proline-directed kinases in vivo and in vitro'</text></B562><B562><text>JOURNAL OF BIOLOGICAL CHEMISTRY 270 (13). 1995. 7679-7688. ISSN: 0021-9258, DREWES G ET AL 'Microtubule-associated protein-microtubule affinity-regulating kinase (p110-mark): A novel protein kinase that regulates tau-microtubule interactions and dynamic instability by phosphorylation at the Alzheimer-specific site serine 262.'</text></B562><B562><text>NEUROBIOLOGY OF AGING 16 (3). 1995. 355-363. ISSN: 0197-4580, MANDELKOW E-M ET AL 'Tau domains, phosphorylation, and interactions with microtubules.'</text></B562><B562><text>INGLIS J. ET AL: 'Emk, a protein kinase with homologs in yeast maps to mouse chromosome 19' MAMMALIAN GENOME vol. 4, 1993, pages 401 - 403, XP000564041</text></B562></B560></B500><B700><B720><B721><snm>MANDELKOW, Eckhard</snm><adr><str>Baron-Voght-Strasse 212a</str><city>D-22607 Hamburg</city><ctry>DE</ctry></adr></B721><B721><snm>MANDELKOW, Eva-Maria</snm><adr><str>Baron-Voght-Strasse 212a</str><city>D-22607 Hamburg</city><ctry>DE</ctry></adr></B721><B721><snm>BIERNAT, Jacek</snm><adr><str>Zeughausstrasse 12</str><city>D-20459 Hamburg</city><ctry>DE</ctry></adr></B721><B721><snm>DREWES, Gerard</snm><adr><str>Rellingerstrasse 53</str><city>D-20257 Hamburg</city><ctry>DE</ctry></adr></B721></B720><B730><B731><snm>MAX-PLANCK-GESELLSCHAFT ZUR FÖRDERUNG DER 
+WISSENSCHAFTEN E.V.</snm><iid>00210796</iid><irf>L 638 EP</irf><adr><city>14195 Berlin</city><ctry>DE</ctry></adr></B731></B730><B740><B741><snm>Vossius &amp; Partner</snm><iid>00100311</iid><adr><str>P.O. Box 86 07 67</str><city>81634 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>AT</ctry><ctry>BE</ctry><ctry>CH</ctry><ctry>DE</ctry><ctry>DK</ctry><ctry>ES</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>GR</ctry><ctry>IE</ctry><ctry>IT</ctry><ctry>LI</ctry><ctry>LU</ctry><ctry>MC</ctry><ctry>NL</ctry><ctry>PT</ctry><ctry>SE</ctry></B840><B860><B861><dnum><anum>EP1995004258</anum></dnum><date>19951030</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO1996013592</pnum></dnum><date>19960509</date><bnum>199621</bnum></B871></B870></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<p id="p0001" num="0001">The present invention relates to a DNA sequence encoding a novel neuronal protein kinase (NPK) which phosphorylates tau proteins as well as other microtubule associated proteins (MAPs) in positions crucial for the binding to microtubules. The invention further relates to Serine or Threonine residues and epitopes comprising said residues phosphorylated by said NPK on said MAPs, to antibodies specifically binding to said protein kinase, pharmaceutical compositions comprising inhibitors to said protein kinase, in particular for the treatment of Alzheimer's disease and cancer, to diagnostic kits and to <u style="single">in vitro</u> diagnostic methods for the detection of Alzheimer's disease and cancer.</p>
+<p id="p0002" num="0002">Microtubule associated proteins (MAPs) regulate the extensive dynamics and rearrangement of the microtubule network which is thought to drive neurite outgrowth (reviewed recently by Hirokawa, 1994). Several lines of evidence suggest that the phosphorylation state of MAPs, balance by protein kinases and phosphatases in a hitherto unknown way, plays a pivotal role in the modulation of these events. Tau protein, a class of MAPs in mammalian brain (Cleveland et al., 1977), is phosphorylated on several sites in vivo (Butler &amp; Shelanski 1986; Watanabe et al., 1993) and is a substrate for many protein kinases in vitro (reviewed by Lee, 1993; Goedert, 1993; Mandelkow &amp; Mandelkow, 1993; Anderton, 1993). During neuronal degeneration in Alzheimer's disease, tau protein aggregates into paired helical filaments (PHFs), the principal fibrous component of the characteristic neurofibrillary lesions (reviewed by Lee &amp; Trojanowski, 1992). Tau isolated from these aggregates displays some biochemical alterations, of which<!-- EPO <DP n="2"> --> hyperphosphorylation is the most striking (Grundke-Iqbal et al., 1986; Brion et al., 1991; Ksiezak-Reding et al., 1992; Goedert et al., 1992). Most of the reported aberrant phosphorylation sites are Ser/Thr-Pro sequences (Lee et al., 1991; Biernat et al., 1992; Lichtenberg-Kraag et al., 1992; Gustke et al., 1992; Watanabe et al., 1993), suggesting a dysregulation of proline-directed kinases (Drewes et al., 1992; Mandelkow et al., 1992; Hanger et al., 1992; Vulliet et al., 1992; Baumann et al., 1993; Paudel et al., 1993, Kobayashi et al., 1993) or the corresponding phosphatases (Drewes et al., 1993; Gong et al., 1994). Phosphorylation-dependent antibodies, which discriminate between 'normal' tau and the hyperphosphorylated, 'pathological' forms, were prepared by several laboratories (Kondo et al., 1988; Lee et al., 1991; Mercken et al., 1992; Greenberg et al., 1992). All of these antibodies were shown to be directed against epitopes of the Ser/Thr-Pro type (Lee et al., 1991; Biernat et al., 1992; Lichtenberg-Kraag et al., 1992; Lang et al., 1992; Watanabe et al., 1993).</p>
+<p id="p0003" num="0003">The microtubule binding region of tau (<figref idref="f0001">Fig. 1</figref>) includes three or four pseudorepeats of 31 residues each depending on isoform type (Lee et al., 1989; Goedert et al., 1989; Himmler et al., 1989). This region probably forms the building block of the paired helical filaments (Kondo et al., 1988; Wischik et al., 1988; Ksiezak-Reding &amp; Yen, 1991; Wille et al., 1992). It does not contain any of the 14-16 Ser/Thr-Pro motifs, which accumulate in the regions flanking the repeats. However, it contains a conserved Serine residue (Ser262) within the sequence KIGS in the first repeat, which was found to be one of the predominant sites phosphorylated by a tissue extract from brain (Gustke et al., 1992). This site is also found to be phosphorylated in Alzheimer PHF-tau, but not in 'normal' tau or fetal tau (Hasegawa et al., 1992). So far, it is the only pathological phosphorylation site found within the repeat domain of tau.<!-- EPO <DP n="3"> --></p>
+<p id="p0004" num="0004">Recently, a site-directed mutagenesis approach was used to show that phosphorylation of tau at this site strongly decreases its microtubule binding capacity, whereas the phosphorylation on Ser/Thr-Pro motifs had only a minor effect (Biernat et al., 1993) . This initiated a search for protein kinases in neuronal tissue with the ability to phosphorylate tau at Ser262. The technical problem underlying the present invention was to provide a protein kinase which is causative for the onset of Alzheimer's disease by phosphorylating the crucial Serine 262 residue of human tau protein and a corresponding nucleotide sequence.</p>
+<p id="p0005" num="0005">The solution to this technical problem is achieved by providing the embodiments characterised in the claims.</p>
+<p id="p0006" num="0006">Thus, the present invention relates to a DNA sequence encoding a neuronal protein kinase (NPK) that is capable of phosphorylating a sequence motif of the type KXGS in tau, MAP4, MAP2 and MAP2c characterised by the following features:
+<ol id="ol0001" compact="compact" ol-style="">
+<li>(a) it encodes the amino acid sequence depicted as MARK-1 in Table 6; or</li>
+<li>(b) it encodes the amino acid sequence depicted as MARK-2 in Table 6.</li>
+</ol></p>
+<p id="p0007" num="0007">The term "DNA sequence" comprises any DNA sequence such as genomic or cDNA, semisynthetic or synthetic DNA.</p>
+<p id="p0008" num="0008">It was surprisingly found that none of the prior art kinases is mediating the phosphorylation of the four KXGS motifs in the repeat domain of tau to an extent that is sufficient to explain the biological and pathological effects associated with said phosphorylation. This is particularly true for Serine residue 262 which is indicative of the onset of Alzheimer's disease. Instead, the present invention provides a DNA sequence encoding a novel protein kinase with<!-- EPO <DP n="4"> --> the above identified features which is responsible for the phosphorylation of the amino acid residues crucial for the onset of Alzheimer's disease. Said protein kinase is, also termed NPK, MARK-1 or MARK-2 throughout this application. The numbering of amino acid residues referred to in this application ensues with regard to the sequence of htau 40, the longest of the human tau isoforms (441 residues, Goedert et al., 1989).</p>
+<p id="p0009" num="0009">The present invention further relates to a DNA sequence encoding a neuronal protein kinase (NPK) that is capable of phosphorylating a sequence motif of the type KXGS in tau, MAP4, MAP2 and MAP2c characterised by the following features:
+<ol id="ol0002" compact="compact" ol-style="">
+<li>(a) it has an apparent molecular weight of 110 kD as determined by SDS-PAGE;</li>
+<li>(b) it phosphorylates Serine residues 262, 293, 305, 324 and 356 of human tau protein; and</li>
+<li>(c) it comprises the following amino acid sequences
+<img id="ib0001" file="imgb0001.tif" wi="78" he="19" img-content="dna" img-format="tif"/></li>
+</ol></p>
+<p id="p0010" num="0010">In a preferred embodiment of the DNA sequence of the present invention, the NPK is further characterised by the following features:
+<br/>
+(d) it is deactivated by phosphatase PP-2A; and<br/>
+(e) it phosphorylates the following Serine or Threonine residues of tau related microtubule-associated proteins (MAPs) MAP2, MAP2c and MAP4
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2c:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables><br/>
+(f) it causes the dissociation of tau, MAP4, MAP2 and MAP2c from microtubules.<!-- EPO <DP n="5"> --></p>
+<p id="p0011" num="0011">Another surprising finding that was made in accordance with the present invention is that the NPK by phosphorylating microtubule-associated proteins other than tau causes dissociation of these proteins from microtubules. This in turn results in the destabilisation of said microtubules, an increased dynamic instability thereof, and the ensuing effects on cell proliferation, cell differentiation, or cell degeneration. The NPK of the invention thus has the capacity to regulate the dynamics and rearrangements of microtubules in brain via the phosphorylation of tau or other MAPs. The finding referred to above has important implications for the role in the kinase of the invention in the generation of cancer.</p>
+<p id="p0012" num="0012">This is because it is believed that cancer essentially is uncontrolled cell proliferation. Many anti-cancer drugs therefore interfere with cellular division and proliferation by poisoning the microtubules. On the other hand, "oncogenes" are often kinases, the cellular regulation of which is impaired. The deregulation of a kinase equal or homologous to the NPK of the invention could have serious effects on the stability of microtubules of various cell types. As microtubules play an important role in cell division, deregulation of said NPK can in turn lead to an uncontrolled cellular division and the transformation of normal cells to cancer cells. Alternatively, the deregulation of said NPK could provide postmitotic terminally differentiated cells such as neurons (which do not divide) with a stimulus to divide. This "unnormal" stimulus would lead the neurons directly into apoptosis (and thus, an Alzheimer's like state) because due to their differentiation status they are unable to divide.</p>
+<p id="p0013" num="0013">In a further preferred embodiment of the DNA sequence of the present invention, the NPK is obtainable from brain tissue by the following steps:<!-- EPO <DP n="6"> -->
+<ol id="ol0003" compact="compact" ol-style="">
+<li>(a) homogenisation of brain extract and subsequent centrifugation thereof;</li>
+<li>(b) chromatography of the supernatant obtained in step (a) on cellulosephosphate, wherein the NPK active fractions elute between 200 to 400 mM NaCl;</li>
+<li>(c) ammonium sulfate precipitation of active fractions obtained in step (b) and dialysis of the precipitate;</li>
+<li>(d) anion exchange chromatography of the .dialysate obtained in step (c) on Q-Sepharose<sup>®</sup> and elution of the NPK active fractions, wherein said NPK active fractions elute as a single peak at about 0.2 M NaCl, with subsequent dialysis of the active fractions;</li>
+<li>(e) cation exchange chromatography on Mono S<sup>®</sup> HR 10/10;</li>
+<li>(f) chromatography on Mono Q<sup>®</sup> HR 5/5, wherein the NPK active fractions elute at about 250 mM NaCl;</li>
+<li>(g) gel filtration chromatography on Superdex<sup>™</sup> G-200, wherein the NPK activity elutes with an apparent molecular weight of 100 kD; and</li>
+<li>(h) affinity chromatography on ATP-cellulose, wherein the NPK active fractions elute with an apparent molecular weight of about 110 kD as determined by SDS-PAGE;</li>
+</ol>
+wherein the NPK activity is measured by incubating a peptide comprising amino acid residues 255 to 267 of human adult tau in the presence of radioactively labelled ATP and determining the radioactivity incorporated into said peptide.</p>
+<p id="p0014" num="0014">Further details as to how this NPK of the invention which in one embodiment has an apparent molecular weight of 110 kD (NPK-110) can be isolated are provided in Example 1. However, the person skilled in the art would know from the technical teaching given above how to supplement said details.<!-- EPO <DP n="7"> --></p>
+<p id="p0015" num="0015">The NPK may be derived from any vertebrate brain. The NPK may be derived from a mammalian brain, such as human or porcine brain.</p>
+<p id="p0016" num="0016">The invention further relates to a polypeptide encoded by the DNA sequence. Said polypeptide may be posttranslationally or chemically modified. Throughout this specification the term NPK or, alternatively, MARK (1 or 2) may also refer to fragments or derivatives, even if this is not specifically indicated.</p>
+<p id="p0017" num="0017">The specification further describes the following Serine or Threonine residues phosphorylated by NPK-110 of tau related microtubule-asssociated proteins (MAPs) MAP2, MAP2c and MAP4:
+<tables id="tabl0002" num="0002">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2c:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables>
+and refers to epitopes comprising said phosphorylated Serine or Threonine residues.</p>
+<p id="p0018" num="0018">The invention relates further to an antibody specifically binding to the NPK of the invention.</p>
+<p id="p0019" num="0019">Said antibody may be a serum derived or a monoclonal antibody. The production of both monoclonal and polyclonal antibodies to a desired epitope is well known in the art (see, for example, <nplcit id="ncit0001" npl-type="b"><text>Harlow and Lane, Antibodies, A Laboratory Manual, Cold Spring Harbor Laboratory, Cold Spring Harbor, 1988</text></nplcit>). Furthermore, said antibody may be a natural or an<!-- EPO <DP n="8"> --> antibody derived by genetic engineering, such as a chimeric antibody derived by techniques which are well understood in the art. Moreover, the term antibody as used herein also refers to a fragment of an antibody which has retained its capacity to bind the specific epitope, such as a Fab, P(ab)<sub>2</sub> or an Fv fragment.</p>
+<p id="p0020" num="0020">Additionally, the present specification relates to an antibody specifically binding to epitopes comprising the phosphorylated Serine or Threonine residues of MAP2, MAP2c and MAP4:
+<tables id="tabl0003" num="0003">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2C:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0021" num="0021">Again, said antibody may be a polyclonal or a monoclonal antibody, or a fragment thereof retaining its binding specificity.</p>
+<p id="p0022" num="0022">In a preferred embodiment, the antibody of the invention is a monoclonal antibody</p>
+<p id="p0023" num="0023">In a further preferred embodiment of the invention, said antibody is a polyclonal antibody.<!-- EPO <DP n="9"> --></p>
+<p id="p0024" num="0024">As has been pointed out above, the deregulation of the NPK of the invention can lead a variety of cell types expressing microtubule associated proteins into a pathway that eventually results in the neoplastic transformation of said cells. Accordingly, a pharmaceutically effective amount of an NPK inhibitor will halt and/or reverse the transformation process.<!-- EPO <DP n="10"> --></p>
+<p id="p0025" num="0025">The terms "tau derived peptide comprising the Ser262 residue and a MAP2, 2c or MAP4 derived peptide comprising at least one of the Serine or Threonine residues of MAP2, MAP2c and MAP4:
+<tables id="tabl0004" num="0004">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="85mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2C:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073"</entry></row></tbody></tgroup>
+</table>
+</tables>
+as used herein refers to a peptide which in its three dimensional structure reconstitutes the natural conformation of the tau protein or the MAP2, 2c or 4 proteins with regard to the epitope comprising Serine residue 262 (tau) or the other residues referred to above (MAP) MAP2, MAP2c and MAP4. These peptides will mimic the natural substrate (i.e. tau or tau related MAPs) of the NPK of the invention, but will not display any NPK associated biological effect. The synthesis of said peptides which solely may consist of the epitopes, or may comprise additional flanking amino acids, is well known in the art.</p>
+<p id="p0026" num="0026">The present invention further relates to a diagnostic composition comprising:
+<ol id="ol0004" compact="compact" ol-style="">
+<li>(a) the NPK of the invention; or</li>
+<li>(b) the antibody of the invention.</li>
+</ol></p>
+<p id="p0027" num="0027">Said diagnostic composition may, for example, be used for the detection of Alzheimer's disease or cancer or the onset thereof. The antibody of the invention may be used to<!-- EPO <DP n="11"> --> detect abnormal, in particular higher concentrations or levels, of the NPK of the invention, a higher degree of activation of said NPK, which are indicative of said diseases. The NPK delivered with the composition could be used as an internal control. On the other hand, the above defined peptides may be used as substrates to detect an abnormal activity of the NPK of the invention. Again, the activity of the NPK comprised in the diagnostic composition may serve as an internal control.</p>
+<p id="p0028" num="0028">The antibody specifically binding to the phosphorylated Serine residues enumerated above and comprised in MAP4, MAP2 or MAP2c may be used to detect an abnormal phosphorylation status or pattern of these microtubule associated proteins which is indicative of cancer.</p>
+<p id="p0029" num="0029">An Alzheimer's or cancer correlated disease state of a sample may be detected by treating said sample with an antibody recognising one or more of the epitopes referred to above. The antibody-epitope (hapten) complex may be visualised using a second antibody directed to the antibody of the invention and being labelled according to methods known in the art (see, for example, Harlow and Lane, ibid.) The specification further describes a diagnostic composition consisting of an epitope referred to above and an antibody of the invention. Treatment of a sample with said antibody may give rise to conclusions with regard to the disease state of the corresponding patient, if the binding of said antibody to said sample is brought in relation to binding of said antibody to said epitope referred to above used as a reference sample.</p>
+<p id="p0030" num="0030">Such diagnostic composition may comprise an epitope referred to above, the NPK of the invention and an antibody of the invention. Kinase activity<!-- EPO <DP n="12"> --> may be monitored with respect to phosphorylation of the sample as compared to the phosphorylation of the epitope of the invention. From the quantitated NPK activity the phosporylation state of the tau protein or the MAP2, 2c or 4 contained in said sample and therefore the disease state of the patient may be deduced. The kinase activity may, for example, be deduced by including a substrate analog in the same reaction, which is visually detectable upon enzymatic conversion. Such substrate analogs are widely used in the art. Alternatively, the amount of a phosphorylated tau protein or MAP2, 2c or 4 in the sample may be detected after treatment with the kinase of the invention by employing an antibody of the invention directed to the phosphorylated epitope and using the amount of antibody-epitope complex provided by the diagnostic composition as an internal standard, or by determining the amount of phosphate incorporated into tau protein or MAP2, 2c or 4 by the NPK, for example, by radioactive tracer methods which are well known in the art.</p>
+<p id="p0031" num="0031">The person skilled in the art, being familiar with diagnostic principles, can easily combine the above mentioned compound in a different manner or supplement the composition with secondary or tertiary, labelled or unlabelled antibodies, or with enzymes and substrates.</p>
+<p id="p0032" num="0032">In an embodiment, the invention relates to a method for the <u style="single">in vitro</u> diagnosis and/or monitoring of Alzheimer's disease comprising assaying a cerebrospinal fluid isolate of a patient or a biopsy of nerve tissue (for example, olfactory epithilium) and testing said tissue for the presence of the NPK of the invention.</p>
+<p id="p0033" num="0033">The invention further relates to a method for the <u style="single">in vitro</u> diagnosis and/or monitoring of Alzheimer's disease<!-- EPO <DP n="13"> --> comprising assaying a cerebrospinal fluid isolate of a patient or a biopsy of nerve tissue and testing said tissue for the presence of abnormal amounts of the NPK of the invention, or for abnormal activity of said NPK.<br/>
+An example of a nerve tissue suitable for said biopsy is the olfactory epithelium.</p>
+<p id="p0034" num="0034">The method of the invention may, for example, be carried out by using the diagnostic composition of the invention, in particular the antibody directed to said NPK. Therefore, in a preferred embodiment of the invention, the NPK of the invention is detected by the antibody of the invention specifically binding to said NPK.</p>
+<p id="p0035" num="0035">Additionally, the invention relates to a method for the <u style="single">in vitro</u> diagnosis for cancer or the onset of cancer comprising assaying a suitable tissue or body fluid for the presence of abnormal amounts of the NPK of the invention.</p>
+<p id="p0036" num="0036">It is understood that the phosphorylation status of the Serine or Threonine residues described above has to be an unphysiological one. Methods for determining such a phosphorylation status have been described in detail in <patcit id="pcit0001" dnum="EP9202829W"><text>PCT/EP 92 02 829</text></patcit>.</p>
+<p id="p0037" num="0037">The assay for said phosphorylated Serine or Threonine residues may, for example, be carried out using an antibody specifically detecting said phosphorylated residues or the epitopes comprising said residues.<!-- EPO <DP n="14"> --></p>
+<p id="p0038" num="0038">The amount of the NPK in the sample may be measured by using antibodies specifically directed thereto or by measuring their activity using a suitable substrate, for example, a peptide comprising the above referenced Serine or Threonine in a non-phosphorylated state or any of MAP2, MAP2c and MAP4 in unphosphorylated state. Methods for measuring the phosphorylation status of proteins have been described in detail in <patcit id="pcit0002" dnum="EP9202829W"><text>PCT/EP 92 02 829</text></patcit>. The activity of the phosphatases, for example PP-2A, PPI or calcineurin may be tested by providing the substrate, NPK of the invention, for example, comprised in a diagnostic composition.</p>
+<p id="p0039" num="0039">A suitable tissue or body fluid for carrying out this <u style="single">in vitro</u> method of the invention is cerebrospinal fluid, blood, biopsies of tissue (for example, liver or skin).</p>
+<p id="p0040" num="0040">Still another object of the invention is to provide a method for the <u style="single">in vitro</u> conversion of normal MAP2, MAP2c or MAP4 by the treatment with the NPK of the invention into proteins phosphorylated at positions:
+<tables id="tabl0005" num="0005">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2c:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0041" num="0041">The conditions allowing the phosphorylation of said MAPs can be determined by following the general teachings provided by the present application. The phosphorylated MAPs can then be recognised by specific antibodies. The results of said <u style="single">in vitro</u> method may allow further insights into the generation of cancer.</p>
+<p id="p0042" num="0042">Moreover, inhibitors may be tested which prevent the conversion of normal to MAP protein phosphorylated in the positions indicated above. These "inhibitors" may be specific for the epitope to be phosphorylated by, for<!-- EPO <DP n="15"> --> example, blocking the epitope, or may be directed to various domains on the protein kinase of the invention, NPK, as long as they prevent or disturb its biological activity. Another type of inhibition is the antagonistic action of phosphatases on said MAPs or said NPK, or the inhibition of the activating kinase of said NPK. Furthermore, the MAP generated by the method of the present invention may be employed in binding studies to microtubule structures in vitro and in vivo, thus contributing to the elucidation of the molecular basis underlying cancer.</p>
+<p id="p0043" num="0043">The methods for obtaining antibodies are well known in the art; thus, the generation of polyclonal or monoclonal antibodies may be conducted using standard methods (see, for example, Harlow and Lane, ibid.). If an oligo- or polypeptide is used for the generation of antibodies, it is desirable to couple the peptide comprising the epitope to a suitable carrier molecule capable of inducing or enhancing the immune response to said epitope, such as bovine serum albumin or keyhole limpet hemocyanin. The methods of coupling hapten (comprising or being identical to the epitope) and carrier are also well known in the art (Harlow and Lane, ibid.). It is also to be understood that any animal suitable to generate the desired antibodies may be used therefor.</p>
+<p id="p0044" num="0044">THE FIGURES SHOW :
+<ul id="ul0001" list-style="none">
+<li><figref idref="f0001"><b>Fig. 1</b></figref><b>:</b> Bar diagram of tau (isoform htau40, the largest one in central nervous tissue, Goedert et al., 1989), construct K18 containing the four repeats, and several sites<!-- EPO <DP n="16"> --> phosphorylated by the kinase activity from brain (Gustke et al., 1992). The hatched boxes near the N-terminus are inserts which may be absent because of differential splicing, the boxes labelled 1-4 represent the four repeats, of which repeat 2 may be absent. Most phosphorylated sites are in Ser-Pro or Thr-Pro motifs outside the repeats, but the brain kinase activity also phosphorylates two sites within the repeats, Ser262 and Ser356.</li>
+<li><figref idref="f0002 f0003"><b>Fig. 2</b></figref><b>:</b> Isolation of NPK110 from porcine brain. (A) The tissue extract was loaded onto phosphocellulose and eluted stepwise with 0.15 - 1 M NaCl. The filled bars show the total protein concentration of the eluted material, open bars show the activity as measured with tau construct K18 as substrate. (B) The material eluted with 0.35 - 0.5 M NaCl was submitted to ammonium sulfate precipitation and the precipitate dialysed and loaded onto a Q-Sepharose column. The closed symbols show the protein concentration, open symbols the activity profile. The gradient composition is indicated on the right axis. (C) Fractions 8-15 from Q-Sepharose were dialysed and loaded onto a SP-Sepharose column. (D) Fractions 12-16 from SP-Sepharose were dialysed and loaded onto a Mono Q HR 5/5 column. (E) Fractions 9-11 from Mono Q were loaded onto a Superdex 200 gel filtration column. The elution positions of molecular weight markers are indicated on the right axis.</li>
+<li><figref idref="f0004"><b>Fig. 3</b></figref><b>:</b> Final purification of NPK110 by affinity chromatography on ATP-Sepharose (SDS PAGE, lanes 1-3) and characterisation by in-gel phosphorylation (autoradiography, lanes 4-6). The most active fractions from the gel filtration column (lane 1) were loaded onto an ATP affinity column. The kinase was eluted specifically with 5 mM ATP (lanes 2, 3). The silver stained gel shows a fuzzy band with an apparent molecular weight of approximately 110 kDal and a second, sharp band with 95 kDal. Lanes 4-6 show autoradiograms of the in-gel phosphorylation of the samples<!-- EPO <DP n="17"> --> in lanes 1-3. As a substrate, tau (5 µM) was polymerised into the gel matrix. After renaturation and incubation with g-<sup>32</sup>P ATP, it is clearly shown that only the 110 kDal band displays kinase activity towards tau.</li>
+<li><figref idref="f0005"><b>Fig. 4</b></figref><b>:</b> Phosphorylation of wild type tau and construct K18 (microtubule binding domain) by NPK110. Htau40 (10 µM, lanes 1, 2) and K18 (20 µM, lanes 3, 4) were phosphorylated with 5 µU/ml of NPK110 and 2 mM g-<sup>32</sup>P-ATP at 37°C for 2 hours. Aliquots were electrophoresed on a 7-20% SDS gradient gel: Lanes 1, 2, htau40 before and after phosphorylation, lanes 3, 4, K18 before and after phosphorylation. Note the small molecular weight shift upon phosphorylation in lanes 2 and 4. The right side shows an autoradiograph of the same gel; phosphorylated htau40 and K18 are seen in lanes 2 and 4.</li>
+<li><figref idref="f0006"><b>Fig. 5</b></figref><b>:</b> Tryptic phosphopeptide maps of wild type tau (htau40) and construct K18 phosphorylated with NPK110. 30 µg of tau were phosphorylated with 0.5 µU NPK110 for 2h at 37°C. (A) full length 4-repeat tau (htau40), (B) construct K18 (MT binding region, residues 244-372 of full length tau), (C) diagram of the more prominent spots: Spot 1 on upper left contains Ser262, spot 2 on upper right Ser356, spot 3 (below 1) Ser305, spot 4 (always part of an overlapping doublet) contained Ser324, spot 5 Ser293 (this tryptic peptide CGSK was not recovered from the HPLC column, presumably because of its small size, but the spot could be identified by site-directed mutagenesis). (D) Mixture of identical amounts of counts (10,000 cpm) derived from phosphopeptides shown in (A) and (B) . The identification of phosphorylation sites shown in (C) was performed by two dimensional analysis of the HPLC-purified and sequenced peptides (listed in Table 1). 10,000 cpm of the purified peptides each were analysed alone and in combination with a 5000 cpm aliquot of the phosphopeptides shown in (A) in order to allow unambiguous identification.<!-- EPO <DP n="18"> --></li>
+<li><figref idref="f0007"><b>Fig. 6</b></figref><b>:</b> Phosphorylation of Ser262 abolishes the binding of tau to microtubules. (A) Binding of tau to taxol-stabilised microtubules (30 µM) was measured in a cosedimentation assay as described below in Example 2. Full length wild-type tau ('wt', htau40) and a Ser262 to Ala mutant (A262) (10 µM) were previously phosphorylated with NPK110 (final concentration 8.5 µU/ml) for 2 hours at 37°C. Curves were obtained by non-linear regression (Biernat et al., 1993). The binding of wild-type tau is completely abolished by phosphorylation (closed circles), whereas the A262 mutant still binds, although with lower affinity (triangles). For comparison, the binding of unphosphorylated tau is also shown (open circles) .<br/>
+(B) Microtubule-bound tau comes off during phosphorylation by NPK110. htau 40 (10µM) was incubated with taxol-stabilised microtubules (30 µM). At t=0, NPK110 was added to a final concentration of 10 µU/ml, and aliquots were withdrawn at time intervals from one to 20 hours and pelleted. Tau was measured in the pellets and supernatants by densitometry of the SDS gels (closed circles). Incorporated phosphate was measured by Cerenkov counting of gel pieces (open circles) and is indicated on the right axis. Phosphate incorporation in tau without microtubules is shown to proceed faster (squares) .</li>
+<li><figref idref="f0008"><b>Fig. 7</b></figref><b>:</b> Dark field video microscopy of microtubules and effect of phosphorylation of Ser262 on tau. Microtubules (5 µM tubulin) were nucleated on sea urchin sperm axonemes in the presence of 2.5 µM tau (isoform htau40) and 10 µU/ml of NPK110. A, 20 min without ATP, B, with ATP. In A the microtubules grow continuously, in B Ser262 can be phosphorylated, leading to a destabilisation and shortening of microtubules. Bar = 10 µm.<!-- EPO <DP n="19"> --></li>
+<li><figref idref="f0009"><b>Fig. 8</b></figref><b>:</b> Effect of the unphosphorylated and NPK110-phosphorylated tau on the length of axoneme nucleated microtubules measured by darkfield microscopy. For each condition 500 to 600 microtubule plus ends were measured; the mean length was plotted against time. Tubulin concentration was 5 µM; note that without added tau, no microtubules are observed at this concentration. Tau was 2.5 µM in all cases. In control experiments, ATP was omitted ('- ATP') .
+<ul id="ul0002" list-style="none" compact="compact">
+<li>(A) Tau pre-phosphorylated by NPK110 does not promote microtubule growth (filled circles) but the pre-phosphorylated point mutant A262 does (triangles, in accordance with time resolved binding assay in <figref idref="f0007">Fig 6B</figref>).</li>
+<li>(B) Tubulin and tau were mixed at 4°C with 10 µU/ml of NPK110 (final concentration) in the presence (closed circles) or absence (open circles) of 2 mM Mg-ATP. At t=0, the temperature was raised to 37°C. With wild type tau and no ATP, microtubules grow continuously (open circles); the same result is obtained with the mutant Ser262-Ala (triangles). However, wild type tau plus ATP leads to initial growth but subsequent shrinkage (closed circles).</li>
+<li>(C-E) Microtubule length histograms at 5 min and 30 min of the corresponding curves in B. Each sample shows a pronounced peak around 20µm after 5 min (empty circles). If Mg-ATP was absent (C) or Ser262 was mutated into Ala (E) the distribution became broader and shifted to greater lengths at 30 min. By contrast, phosphorylation of tau successfully decreased the mean microtubule length within 30 min of incubation (D) .</li>
+</ul></li>
+<li><figref idref="f0010"><b>Fig. 9</b></figref>: Tryptic phosphopeptide maps of wild type tau (htau40) and construct K18 phosphorylated with (A) brain extract, (B) NPK110, (C) PKC, or (D) PKA, respectively. The numbering of the spots is analogous to <figref idref="f0006">Fig. 5</figref> (spot 1:Ser262, spot 2:Ser356, spot 3:Ser305, spot 4:Ser324, spot 5:Ser293). The panels on the right show the<!-- EPO <DP n="20"> --> corresponding two-dimensional phosphoamino acid analysis of full length tau for each kinase.</li>
+<li><figref idref="f0011"><b>Fig. 10</b></figref><b>:</b> Diagram representing the influence of different phosphorylation sites on tau-microtubule interactions. The majority of Ser/Thr-Pro motifs are in the flanking regions of the repeat domain, they have only a small influence on the binding of tau. The repeat domain contains several phosphorylatable non-Ser-Pro sites, especially the four KXGS motifs. Of these, Ser262 in the first KIGS motif has by far the greatest influence on microtubule binding.</li>
+<li><figref idref="f0012"><b>Fig. 11</b></figref><b>:</b> Phosphopeptide map of recombinant MAP2c phosphorylated by NPK-110. The peptides contain the following phosphorylated residues: I = Ser1707, II = Ser1676, III = Ser37 and Ser1536, IV = Ser1792, Ser1796 and Ser1799 (numbering of residues following Albala et al., 1993) .</li>
+<li><figref idref="f0013"><b>Fig. 12</b></figref><b>:</b> Phosphopeptide map of MAP4 fusion protein phosphorylated by NPK-110. The peptides contain the following phosphorylated residues: I = Thr829, II = Ser941, III = Ser928, IV = Thr873, Thr874 and Thr876, V = Ser899 and Ser903, VI = Ser1073, VII = Ser928 (numbering of residues following West et al., 1991).</li>
+<li><figref idref="f0014"><b>Fig. 13</b></figref><b>:</b> Effect of the unphosphorylated and NPK-110-phosphorylated MAP4, MAP2 and MAP2c on the length of axoneme nucleated microtubules measured by darkfield microscopy. For each condition 500 to 600 microtubule plus ends were measured; the mean length was plotted against time. Tubulin concentration was 5 µM; MAPs were 1 µM. Note that without added MAPs, no microtubules were observed at this concentration.
+<ol id="ol0005" compact="compact" ol-style="">
+<li>(a) Tubulin and MAP4 were mixed at 4°C with 10 µU/ml of NPK-110 (final concentration in the presence (closed<!-- EPO <DP n="21"> --> circles) or absence (open circles) of 2 mM Mg-ATP. At t=0, the temperature was raised to 37°C. With MAP4 and no ATP, microtubules grow continuously (open circles). However, MAP4 plus ATP leads to initial growth but subsequent shrinkage (closed circles) because MAP4 becomes phosphorylated, detaches from microtubules, and microtubules are destabilised.</li>
+<li>(b) Same experiment as in (a) but using MAP2, with similar results.</li>
+<li>(c) Same experiment as in (a) but using MAP2c, with similar results.</li>
+</ol></li>
+<li><figref idref="f0015"><b>Fig. 14</b></figref><b>:</b> Northern Blot of adult and fetal human tissues with a MARK cDNA probe.
+<ul id="ul0003" list-style="none">
+<li>left: adult tissue<br/>
+lane 1: Pancreas (Pa)<br/>
+lane 2: Kidney (Ki)<br/>
+lane 3: Muscle (Mu)<br/>
+lane 4: Liver (Li)<br/>
+lane 5: Lung (Lu)<br/>
+lane 6: Placenta (Pl)<br/>
+lane 7: Brain (Br)<br/>
+lane 8: Heart (H)</li>
+<li>Right: fetal tissue<br/>
+lane 9: Kidney (Ki)<br/>
+lane 10: Liver (Li)<br/>
+lane 11: Lung (Lu)<br/>
+lane 12: Brain (Br)</li>
+</ul></li>
+<li><figref idref="f0016"><b>Fig. 15</b></figref><b>:</b> Binding of recombinant wild type MAP2c and MAP2c point mutants to taxol stabilized microtubules (30 µM tubulin dimers) under the influence of phosphorylation by p110MARK. Open circles: wild-type MAP2c, non-phosphorylated. The binding is tight (Kd about 0.25 µM) and saturates around 17 µM ligand, or about 1 MAP2c molecule per<!-- EPO <DP n="22"> --> 2 tubulin dimers. Closed circles: wild-type MAP2c, phosphorylated previously with p110MARK (2.5 milliUnits/ml; 1 Unit corresponds to 1 µmol of phosphate transferred to MAP2c per minute at 30 °C) for 2 h. Note that there is essentially no binding. Closed and open squares: MAP2cA319 and MAP2cA350, phosphorylated previously with p110MARK (2.5 milliUnits/ml) for 2 h. In these mutants the serines 319 or 350 in the KXGS motifs in the first or second repeat were point mutated to alanines. The affinity to microtubules decreases markedly (Kd ≈7 µM) although the stoichiometry remains similar to the wildtype MAP2c. Triangles: MAP2cA319/A350, phosphorylated previously with p110mark (2.5 milliUnits/ml) for 2 h. In this mutant both serines 319 and 350 are mutated to alanines. The binding is similar to the unphosphorylated protein, showing that the sensitivity to phosphorylation has disappeared because the two KXGS motifs are no longer phosphorylatable.</li>
+<li><figref idref="f0017"><b>Fig. 16</b></figref><b>:</b> Effects of unphosphorylated and p110MARK-phosphorylated MAP4 (A), MAP2 (B), MAP2c (C) and MAP2c point mutants (D) on the length of self- nucleated microtubules measured by darkfield microscopy. For each condition 500-800 microtubules were analyzed, and the mean length were plotted against time. Tubulin concentration was 10 µM in all cases, the concentration of MAP4 and MAP2 was 1 µM, that of MAP2c 2 µM. In control experiments, ATP was omitted (' - ATP').</li>
+</ul></p>
+<p id="p0045" num="0045">Open circles in A, B and C: The MAPs were preincubated for 30 min with 2.5 mUnits/ml p110MARK (final concentration), but without ATP. By adding 10 µM tubulin, microtubules were nucleated and the mean microtubule length increased up to about 20 µm within 30 min. By contrast, if ATP was present no self-nucleation occurred, showing that the phosphorylation of the MAPs prevented microtubule formation. Short microtubules of about 2 um length could only be<!-- EPO <DP n="23"> --> observed by adding axonemes (10-100 fM) to promote seeded nucleation (open triangles in A, B, C).</p>
+<p id="p0046" num="0046">Closed circles in A, B, and C: Tubulin and MAP were mixed at 4 °C with 2.5 mUnits/ml of p110MARK (final concentration), and the temperature was shifted immediately to 37 °C (so that initially the MAPs were unphosphorylated). Microtubule growth was promoted in all three cases, but the final mean microtubule length was only about half of that observed for the unphosphorylated MAPs (compare open circles).</p>
+<p id="p0047" num="0047">D: The effect of phosphorylation site point mutations of MAP2c. All proteins were phosporylated as described above (with 30 min preincubation). Triangles; wildtype MAP2c, closed circles; MAP2cA319 (KXGS in first repeat mutated to KXGA), squares; MAP2cA350 (KXGS in second repeat mutated to KXGA), closed squares; MAP2cA319/A350 (KXGS in both repeats mutated to KXGA) .</p>
+<p id="p0048" num="0048">The Examples illustrate the invention.</p>
+<p id="p0049" num="0049">Regarding the tau proteins described in the examples, only recombinant human tau proteins expressed in E. coli were used. cDNA clones were prepared as described by M. Goedert (Goedert et al., 1989) and were expressed using variants of the pET expression vector (Studier et al., 1990). The proteins were purified making use of the heat stability of tau and Mono S FPLC (Hagestedt et al., 1989). Construct K18 is derived from the 4-repeat tau isoform and comprises the microtubule binding region, residues 244 to 372 (Biernat et al., 1993). Mutant 'A262' is based on the longest human isoform. A single residue, Ser262, was changed into alanine using conventional technology. Phosphocellulose-purified tubulin (PC-tubulin) was prepared from porcine brain following Mandelkow et al., 1985. Protein kinase A catalytic subunit (isolated from bovine heart, activity 27<!-- EPO <DP n="24"> --> catalytic subunit (isolated from bovine heart, activity 27 nU/µl based on kemptide, 100 pU/µl based on casein) was obtained from Promega, Protein kinase C (isolated from rat brain, activity 80 pU/µl based on histone H1) was from Boehringer Mannheim.</p>
+<heading id="h0001"><b>EXAMPLE 1:</b></heading>
+<heading id="h0002">Purification and characterisation of the protein kinase NPK110.</heading>
+<p id="p0050" num="0050">All operations were performed at 4°C. Fresh porcine brains (approx. 1 kg) were obtained at the local slaughterhouse and homogenised into 1 litre of buffer A (50 mM Tris, pH 8.5, containing 5 mM EGTA, 100 mM NaF, 1 mM PMSF, 1 mM benzamidine, 1 mM Na<sub>3</sub>VO<sub>4</sub>, 1 mM DTT, 0.1% Brij-35). The homogenate was transported to the laboratory on ice and centrifuged at 30,000 g for 1 h. The supernatant was cleared by ultracentrifugation (50,000 g, 30 min), the pH adjusted to 6.8 and loaded onto a Buchner funnel containing 150 ml Whatman P11 equilibrated with buffer B (50 mM MES pH 6.8, 2 mM EGTA, 50 mM NaF, 1 mM PMSF, 1 mM benzamidine, 1 mM Na<sub>3</sub>VO<sub>4</sub>, 1 mM DTT, 0.1 % Brij-35), by applying a slight vacuum. The phosphocellulose was washed with 500 ml of buffer B and eluted stepwise with 150 ml each of buffer B containing 0.15 M - 1 M NaCl (<figref idref="f0002">Fig.2A</figref>). Fractions were screened for activity by phosphorylation of a tau construct (K18) consisting of the four microtubule binding repeats, essentially as described (Drewes et al., 1992). Active fractions were fractionated by ammonium sulfate precipitation. The precipitate obtained between 30 and 50 % saturation was dialysed against buffer A overnight on ice. The dialysate (approx. 50 ml) was cleared by ultracentrifugation and loaded onto an anion exchange column (Q-Sepharose HR, Pharmacia, 80 x 16 mm) using a Superloop (Pharmacia). After washing the column with 100 ml of buffer A and elution with a stepwise gradient from 0-0.5 M NaCl<!-- EPO <DP n="25"> --> (<figref idref="f0002">Fig. 2B</figref>, flow rate 5 ml/min, fraction size 7 ml), active fractions (approx. 40 ml) were dialysed against buffer B and loaded onto a cation exchange column (SP-Sepharose HR, Pharmacia, 60 x 16 mm) (<figref idref="f0003">Fig. 2C</figref>, flow rate 4 ml/min, fraction size 7 ml). After elution with 0-0.5 M NaCl, active fractions (approx 40 ml) were pooled, the buffer was changed for buffer A on a Sephadex G25 column (300 X 26mm) and loaded onto a Mono Q HR 5/5 column (Pharmacia) and eluted with a steep NaCl gradient (<figref idref="f0003">Fig.2D</figref>, flow rate 0.5 ml/min, fraction size 1 ml) . Active fractions (2-3 ml) were concentrated twofold in a Centricon 30 microconcentrator (Amicon) and loaded onto a gel filtration column (Superdex 200, Pharmacia, 300 x 16 mm) equilibrated and eluted with buffer A (pH 7.8, containing 150 mM NaCl and 10 % glycerol). The flow rate was 0.2 ml/min, fraction size was 2 ml. The column had previously been calibrated with a marker protein kit (Pharmacia). Active fractions were pooled, and the buffer was changed to buffer C (40 mM β-glycerophosphate, 10 mM MgCl<sub>2</sub>, 2 mM EGTA, 1 mM Benzamidine, 0.2 mM DTT, 0.1 % Brij-35) on a Sephadex G25 column ( 100 X 16mm). The protein pool from the G25 column (10-15 ml) was loaded at 0.1 ml/min onto an ATP-Sepharose column (Upstate Biotechnology Inc., Lake Placid, USA, 15 X 5 mm). The column was washed with 5 ml of buffer C and eluted with 2 ml of buffer C containing 5 mM MgATP. The eluate was concentrated and freed from ATP and buffer substances on a Mono Q PC 1.6/5 column ('Smart' system, Pharmacia), eluted with 25 mM Tris-HCl, pH 7.4, containing 250 mM NaCl, 1 mM EGTA, 0.2mM DTT, 1 mM benzamidine and 0.03% Brij-35. Active fractions were mixed with 50% (v/v) glycerol and stored at - 20°C. Under these conditions, activity was preserved for at least one month.</p>
+<p id="p0051" num="0051">With these six chromatographic steps used a ≈10,000 fold purification of a Ser262-phosphorylating activity from a porcine brain tissue extract was achieved. As shown in detail in <figref idref="f0002 f0003">Fig.2</figref>, phosphocellulose (AA), ion exchange<!-- EPO <DP n="26"> --> chromatography on Q- and SP-Sepharose and Mono Q (B,C,D), gel filtration (E) and, finally, affinity chromatography using immobilised ATP were employed. The activity of this kinase in the tissue extract was ≈0.2 mU/mg, the activity of the affinity-purified kinase ≈2 U/mg (1 unit transfers 1 µmol of phosphate per minute). The molecular weight of the enzyme was around 90-100 kDal by gel filtration, but the activity peak was broad and often showed pronounced tailing (<figref idref="f0003">Fig. 2E</figref>). On SDS gels, the apparent molecular weight was ≈110 kDal (<figref idref="f0004">Fig. 3</figref>). The enzyme could be renatured in the gel; if tau was polymerised into the gel matrix as a substrate and the gel was incubated with γ-<sup>32</sup>P-ATP, the 110 kDal band became prominent upon autoradiography (<figref idref="f0004">Fig. 3</figref>, lane 4-6), whereas some minor contaminations observed in the silver stained gel had no detectable activity. After phosphorylation with NPK-110, both whole tau and construct K18 showed small but distinct mobility change in SDS PAGE (<figref idref="f0005">Fig. 4</figref>, lanes 1-4). The final amount of incorporated phosphate is ≈1.8 - 2.5 mol per mole of tau, depending somewhat on enzyme concentration and activity; this level of phosphorylation could be achieved after ≈2 hours. Phosphorylation reactions were carried out as follows:</p>
+<p id="p0052" num="0052">Phosphorylation reactions were carried out in 40 mM Hepes, pH 7.2, containing 2 mM ATP, 5 mM MgCl<sub>2</sub>, 2 mM EGTA; 1 mM DTT, 0.1 mM PMSF, 0.03% Brij-35. When extracts or crude fractions of kinase preparations were screened, 50 mM NaF or 1 µM okadaic acid (LC Services, Woburn, MA, USA) was included. Reactions were terminated by heating to 95°C. Phosphorylation was assayed in SDS gels (Steiner et al., 1990) or on phosphocellulose paper discs (Gibco) (Casnellie, 1991). In-gel phosphorylation assays were performed according to the method of Geahlen et al., 1986.</p>
+<p id="p0053" num="0053">The specificity of NPK110 for tau was examined by tryptic digestion of phosphorylated protein and subsequent two-dimensional thin layer electrophoresis and chromatography<!-- EPO <DP n="27"> --> (<figref idref="f0006">Fig. 5</figref>). If one compares the phosphorylation patterns obtained from recombinant full-length 4-repeat tau (<figref idref="f0006">Fig. 5A</figref>) and the 4-repeat fragment K18 (<figref idref="f0006">Fig. 5B</figref>), it is apparent that most phosphorylated peptides are generated from the repeat domain. This was confirmed by analysis of a mixture of both samples (<figref idref="f0006">Fig. 5D</figref>). In a second approach, the tryptic digest was resolved by HPLC (not shown). In more detail, these approaches were carried out as follows:</p>
+<p id="p0054" num="0054">Following phosphorylation reactions, the kinases were removed by boiling of the samples in 0.5 M NaCl/10 mM DTT and centrifugation. Tau protein remains in the supernatant and was precipitated by 15% TCA. Cysteine residues were modified by performic acid treatment (Hirs, 1967). The protein was digested overnight with trypsin (Promega, sequencing grade) in the presence of 0.1 mM CaCl<sub>2</sub>, using two additions of the enzyme in a ratio of 1:10 - 1:20 (w/w). Two-dimensional phosphopeptide mapping on thin layer cellulose plates (Macherey &amp; Nagel, Düren, FRG) was performed according to Boyle et al., 1991. In brief, first dimension electrophoresis was carried out at pH 1.9 in formic acid (88%)/acetic acid/water (50/156/1794), second dimension chromatography in n-butanol/pyridine/acetic acid/water (150/100/30/120). For the mapping of phosphorylation sites by sequencing, recombinant human tau (200µg, clone htau 40) was phosphorylated with NPK110 and <sup>32</sup>P-ATP (100 Ci/mol) for 2 hours. The phosphorylation was terminated by a brief heat treatment. The protein was incubated with 6 M urea and 2 mM DTT, and cysteines were blocked with vinylpyridine (Tarr et al., 1983) or performic acid treatment. After dialysis against 10 mM ammonium bicarbonate, the protein was lyophilised and digested with trypsin (1:20) in the presence of 0.1 mM CaCl<sub>2</sub>. Separation of peptides was performed by two successive HPLC runs on a µRPC C2/C18 SC 2.1/10 column ('Smart' system, Pharmacia) . The digest was acidified with acetic acid (5% v/v) and fractionated by HPLC using a gradient of acetonitrile in 10<!-- EPO <DP n="28"> --> mM ammoniumacetate (flow rate 0.1 ml/min, 0-25% in 120 min, 25-50% in 20 min). Peptides were detected by UV absorption at 214, 254 and 280 nm and incorporated phosphate was measured as Cerenkov radiation in a scintillation counter (Hewlett-Packard TriCarb 1900 CA). Flowthrough fractions and radioactive peaks from this gradient were further purified using a gradient of acetonitrile in TFA (flow rate 0.1 ml/min, 0% acetonitrile/0.075% TFA to 66% acetonitrile/0.05% TFA in 60 min). Sequence analysis of peptides was performed using a 477A pulsed liquid phase sequencer and a 120A online PTH amino acid analyser (Applied Biosystems). Phosphoserines were identified as the dithiothreitol adduct of dehydroalanine by gas phase sequencing (Meyer et al., 1991).</p>
+<p id="p0055" num="0055">This yielded several labelled peptides which were analysed by direct phosphopeptide sequencing and by phosphoamino acid analysis. Phosphoamino acid analysis: Aliquots of digestion samples were partially hydrolysed in 6N HCl (110°C, 60 min) and analysed by two dimensional electrophoresis at pH 1.9 and pH 3.5 (Boyle et al., 1991). The results of the phosphopeptide sequencing are compiled in Table 1.</p>
+<heading id="h0003"><b><u style="single">TABLE 1</u>:</b></heading>
+<p id="p0056" num="0056">Tryptic phosphopeptides from htau40 phosphorylated with NPK110, obtained by HPLC. The sequences are those of the main radioactive peaks. Listed are the number of counts obtained after the second purification run, the amount of material, the sequence with the phosphorylated residue (identified as S-ethylcysteine) starred, the phosphorylation site (numbering according to htau40). Note that the tryptic phosphopeptide CGSK from the second repeat was not detected by HPLC (presumably because of its small size and hydrophilicity) and thus had to be identified by phosphopeptide mapping and site-directed mutagenesis.<!-- EPO <DP n="29"> -->
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="25mm"/>
+<colspec colnum="3" colname="col3" colwidth="43mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<thead>
+<row valign="middle">
+<entry align="center"><b>cpm in peptide</b></entry>
+<entry align="center"><b>pmoles found</b></entry>
+<entry align="center"><b>Sequence found</b></entry>
+<entry align="center"><b>Phosph. sites</b></entry></row></thead>
+<tbody>
+<row valign="middle">
+<entry align="center">400.00</entry>
+<entry align="right">1000</entry>
+<entry>IGS*TENLK</entry>
+<entry align="center">Ser-262</entry></row>
+<row valign="middle">
+<entry align="center">150.000</entry>
+<entry align="right">350</entry>
+<entry>IGS*LDNIPHVPG GGNHK</entry>
+<entry align="center">Ser-356</entry></row>
+<row valign="middle">
+<entry align="center">150.000</entry>
+<entry align="right">300</entry>
+<entry>CGS*LGNIHHK</entry>
+<entry align="center">Ser-324</entry></row>
+<row valign="middle">
+<entry align="center">60,000</entry>
+<entry align="right">200</entry>
+<entry>HVPGGGS*VQIVYK</entry>
+<entry align="center">Ser-305</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0057" num="0057">Most of the radioactivity was found in a peptide containing phosphorylated Ser262. Ser356 (in the KIGS motif of the fourth repeat) and Ser324 (from the KCGS motif of the third repeat) were also found radioactively labelled. Two dimensional analysis of these purified peptides lead to the identification of spots shown in <figref idref="f0006">Fig. 5C</figref>. This clearly shows that Ser262 (spot 1) is the main target site of NPK110 on tau, followed by Ser356 (spot 2). Spot 3 was identified as the peptide containing Ser305, spot 4 as Ser324 (in the KCGS motif of the third repeat), spot 5 as Ser293 (in the KCGS motif of the second repeat). The corresponding tryptic peptide (<sup>291</sup>CGSK) could not be isolated directly by reverse phase HPLC chromatography, presumably because of its shortness and hydrophilicity. It was therefore identified by site directed mutagenesis, using point mutants of K18 where the serines in all four KXGS motifs (Ser262, 293, 324, 356) were converted into alanines. After phosphorylation with NPK110 only spot 3 (Ser305) was visible, while spots 1, 2, 4 and 5 were gone, thus identifying spot 5 with Ser293 (data not shown).</p>
+<heading id="h0004"><b>EXAMPLE 2:</b></heading>
+<heading id="h0005">Tau-microtubule binding and dynamic instability.</heading>
+<p id="p0058" num="0058">Previously it was shown that the phosphorylation of Ser262 strongly decreased the interaction between tau and microtubules; that is, not only the dissociation constant<!-- EPO <DP n="30"> --> increased but also the stoichiometry decreased. Confirming these observations, a similar result was obtained after phosphorylation of tau by NPK110. In fact, <figref idref="f0007">Fig. 6A</figref> shows that the reduction in binding is even more pronounced: NPK110 completely abolishes microtubule binding within the concentration range accessible. Because the binding became so weak it was also no longer possible to estimate values for the dissociation constant and the stoichiometry. In other words, NPK110 efficiently causes the loss of binding of tau to microtubules. Binding studies were carried out as follows:</p>
+<p id="p0059" num="0059">Binding studies were performed by measuring co-sedimentation of taxol-stabilised microtubules (30 µM) and tau by ultracentrifugation (Beckman TL 100) of 30 µl-samples. Aliquots of the pellet and supernatant were assayed using SDS-PAGE and Coomassie blue staining. Scanner densitometry of dried gels was used for quantification of protein (for details see Gustke et al., 1992).</p>
+<p id="p0060" num="0060">In order to verify this result a point mutation (Ser262 to Ala) was introduced into tau so that this site could no longer be phosphorylated. In this case, incubation of the mutant with NPK110 left the microtubule binding capacity largely intact, although there was some decrease in affinity and stoichiometry (≈25%, <figref idref="f0007">Fig. 6A</figref>). This confirms two points of prior art studies, (i) phosphorylation of Ser262 is the major switch controlling tau's affinity for microtubules, (ii) the other sites phosphorylated by the kinase have a small but measurable effect on the binding (i.e. mainly the equivalent serines in the KXGS motifs of repeats 2, 3, and 4) .</p>
+<p id="p0061" num="0061">The next question was: Do microtubules protect tau from being phosphorylated by NPK110? If this were the case, then tau - once bound to microtubules - might retain its high affinity for microtubules. To answer this point, taxol-stabilised<!-- EPO <DP n="31"> --> microtubules were first saturated with tau, and then incubated with NPK110. As illustrated in <figref idref="f0007">Fig. 6B</figref>, tau gradually dissociates from microtubules, concomitant with phosphorylation. Thus microtubules retard phosphorylation of tau by the kinase but cannot prevent it.</p>
+<p id="p0062" num="0062">One important function of tau is to stabilise microtubules and suppress their dynamic instability (Drechsel et al., 1992). Thus, if tau loses its binding to microtubules one would expect stable microtubules to become dynamic. This effect can be illustrated by video dark field microscopy of individual microtubules seeded onto flagellar axonemes (<figref idref="f0008">Fig. 7</figref>) . The experiment was carried out as follows:</p>
+<p id="p0063" num="0063">Video microscopy of microtubules nucleated on axonemes was done essentially as described (Trinczek et al., 1993). Briefly, 5 µM PC-tubulin, 2.5 µM tau (unphosphorylated or phosphorylated) and low amounts of sea urchin sperm axonemes (10-100 fM) were mixed in 50 m M Na-Pipes, pH 6.9, containing 3 mM MgCl<sub>2</sub>, 2 mM EGTA, 1 mM GTP and 1 mM DTT. 1.0 µl of the samples was put on a slide, covered with 18 x 18 mm coverslips, sealed, and warmed up to 37°C in a temperature-controlled air flow within 5 s. A constant temperature of 37°C was maintained by the air flow. The axoneme nucleated microtubules were recorded at time 2.5, 5, 10, 15, 20, 25, and 30 min after the temperature shift. For each condition and time three to five axonemes of a sample and 10-20 experiments were analysed, and the lengths of 500-600 microtubule plus ends were measured. Only those microtubules which were clearly located within the focal plane were taken into account. The depth of solution was 3-4 µm, and the focal depth was 1-2 µm.</p>
+<p id="p0064" num="0064">In the experiment of <figref idref="f0009">Fig. 8A</figref> the concentration of tubulin (5µM) was chosen such that microtubules would not assemble by themselves but would grow upon addition of (unphosphorylated) tau. Tau phosphorylated with NPK110 did<!-- EPO <DP n="32"> --> not support growth whereas the mutant Ser262-Ala did. In other words, tau phosphorylated at Ser262 behaved as "no tau" because it did not interact with microtubules, in contrast to the mutant which did. Even more dramatic is the conversion of microtubules from undynamic to dynamic behaviour under the influence of the kinase. In the experiment of <figref idref="f0009">Fig. 8B</figref> microtubules were allowed to grow off axonemes in the presence of tau and their mean length which increased to ≈50µm over 20 min was recorded. In a parallel experiment NPK110 with ATP was added (or without ATP as a control). In the control experiment (without ATP) microtubules were able to grow continuously and showed little dynamic instability (<figref idref="f0009">Fig. 8B</figref>, open circles). With ATP added, the mean length increased only to 20µm and then dropped again, due to the gradual phosphorylation of tau and concomitant increase in microtubule dynamics (filled circles). When the mutant Ser262-Ala was used, microtubules grew normally even when the kinase and ATP were present (triangles). These results are summarised in the length histograms of <figref idref="f0009">Fig. 8C-D</figref>. At early times after initiation of assembly microtubules are short and rather homogeneous in length (peaks of open circles at 5 min), at later times of uninterrupted growth the microtubules become long and show a broad length distribution (filled circles in <figref idref="f0009">Fig. 8C and 8E</figref>). However, when the kinase is allowed to phosphorylate Ser262 (i.e. the kinase, ATP, and wild type tau with Ser262 are present), microtubules remain short (open circles in <figref idref="f0009">Fig. 8D</figref>) .</p>
+<heading id="h0006"><b>EXAMPLE 3:</b></heading>
+<heading id="h0007">Other kinases phosphorylating the repeat domain of tau.</heading>
+<p id="p0065" num="0065">Tau can be phosphorylated in vitro by many kinases which can be classified by several criteria, depending on function, targets, or others. Certain proline-directed kinases that are of diagnostic interest for Alzheimer's disease (because<!-- EPO <DP n="33"> --> of the antibody reactions induced by them) phosphorylate the regions flanking the repeats but appear to have little influence on tau-microtubule binding. Conversely, one would expect that kinases phosphorylating the repeat region have an influence on microtubule binding because the repeats of tau are thought to be involved in this function, and this is in fact borne out by the results with NPK110 described so far. The question therefore arises how this kinase compares with other kinases phosphorylating tau in the repeat domain. Several of these have been reported so far (Table 2) .</p>
+<heading id="h0008"><b><u style="single">TABLE 2:</u></b></heading>
+<p id="p0066" num="0066">Summary of phosphorylation sites and kinases affecting the repeats and nearby regions of tau (only non-proline directed kinases and sites are listed). Major sites are denoted by X, minor ones by (x). Note that the results were obtained by different methods: (1) phosphorylation of tau followed by proteolytic digestion, separation of peptides, and phosphopeptide sequencing (Steiner et al., 1990, Steiner, 1993, Gustke et al., 1992; Scott et al., 1993). (2) Mass spectrometry of phosphopeptides combined with sequencing (Hasegawa et al., 1992; Watanabe et al., 1993). (3) Phosphorylation of a synthetic peptide (Correas et al., 1992). (4) 2D mapping of phosphopeptides combined with sequencing (this report). Since these data are derived from the repeat domain K18 they do not contain information on possible phosphorylation sites outside the repeats.<!-- EPO <DP n="34"> -->
+<tables id="tabl0007" num="0007">
+<table frame="bottom">
+<tgroup cols="10" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="10mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<colspec colnum="4" colname="col4" colwidth="21mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="23mm"/>
+<colspec colnum="7" colname="col7" colwidth="22mm"/>
+<colspec colnum="8" colname="col8" colwidth="13mm"/>
+<colspec colnum="9" colname="col9" colwidth="13mm"/>
+<colspec colnum="10" colname="col10" colwidth="13mm"/>
+<thead>
+<row>
+<entry rowsep="1" valign="top">kinase or reference S214 activity</entry>
+<entry rowsep="1" valign="top"/>
+<entry rowsep="1" valign="top">S262 KIGS</entry>
+<entry rowsep="1" valign="top">S293 KCGS</entry>
+<entry rowsep="1" valign="top">S305</entry>
+<entry rowsep="1" valign="top">S324 KCGS</entry>
+<entry rowsep="1" valign="top">S356 KIGS</entry>
+<entry rowsep="1" valign="top">S377</entry>
+<entry rowsep="1" valign="top">S409</entry>
+<entry rowsep="1" valign="top">S416</entry></row></thead>
+<tbody>
+<row>
+<entry>PKA Scott et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1993</entry>
+<entry>(x)</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry/>
+<entry>x</entry>
+<entry>x</entry></row>
+<row>
+<entry>PKA Steiner, 1993</entry>
+<entry>X</entry>
+<entry/>
+<entry>(x)</entry>
+<entry/>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry/>
+<entry>X</entry>
+<entry>X</entry></row>
+<row>
+<entry>PKA this report</entry>
+<entry>ND</entry>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry>X</entry>
+<entry>X</entry>
+<entry/>
+<entry>ND</entry>
+<entry>ND</entry></row>
+<row>
+<entry>PKC Correas et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1992</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>PKC Steiner, 1993</entry>
+<entry>X</entry>
+<entry>(x)</entry>
+<entry/>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/></row>
+<row>
+<entry>PKC this report</entry>
+<entry>ND</entry>
+<entry/>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry/>
+<entry>ND</entry>
+<entry/>
+<entry/></row>
+<row>
+<entry>CaMK Steiner et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1990</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry>X</entry></row>
+<row>
+<entry>brain ex. Gustke et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1992</entry>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>brain ex. this report</entry>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>PK 35/41 Biernat et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1993</entry>
+<entry/>
+<entry>X</entry>
+<entry>(x)</entry>
+<entry/>
+<entry>(x)</entry>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>NPK110 this report</entry>
+<entry/>
+<entry>X</entry>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry>(x)</entry>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>brain in vivo:</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Alzheimer: Hasegawa et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1992</entry>
+<entry/>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>adult: Watanabe et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1993</entry>
+<entry/>
+<entry/>
+<entry>---</entry>
+<entry namest="col5" nameend="col8" align="center">no sites in repeat region</entry>
+<entry>---</entry>
+<entry/></row>
+<row>
+<entry>fetal: Watanabe et al.,</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>1993</entry>
+<entry/>
+<entry/>
+<entry>---</entry>
+<entry namest="col5" nameend="col8" align="center">no sites in repeat region</entry>
+<entry>---</entry>
+<entry/></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0067" num="0067">For example, PKA phosphorylates mainly Ser214, Ser409 and Ser416 outside the repeats, but minor sites include Ser324 and Ser356 within the repeats (Scott et al., 1993; Steiner,<!-- EPO <DP n="35"> --> 1993). Since Ser262 is not one of the sites one would not expect a major effect on microtule binding, in agreement with our observations. PKC sites include the KCGS motif in repeat 3 (Correas et al., 1992; Steiner, 1993), again with no major effect on microtubule binding in our hands. The partially purified kinase activity described previously (Biernat et al., 1993) phosphorylated all four KXGS motifs, and finally, the kinase activities from brain extract phosphorylated both the Ser/Thr-Pro motifs as well as Ser262 and Ser356 (Gustke et al., 1992), with the reported strong effects on microtubule binding due to Ser262. The strategy employed in these studies was to generate proteolytic fragments from phosphorylated tau which were then separated by HPLC and identified by sequencing. This usually generates a multitude of peptides whose recovery is not always linear, making it difficult to judge the relative amount of phosphorylation at different sites.</p>
+<p id="p0068" num="0068">Because of these uncertainties it was decided to reinvestigate the phosphorylation sites by a different approach. The phosphopeptides were analysed not only by HPLC and sequencing, but also by two-dimensional mapping on thin layer cellulose plates which gives a clearer representation of the relative contributions. Full length 4-repeat tau and the repeat domain (K18) were phosphorylated with brain extract, NPK110, PKC, and PKA. This enabled the comparison of the phosphorylation sites in the repeat domain of tau and showed the extent of this phosphorylation in htau40 by each of the kinases. The results are shown in <figref idref="f0010">Fig. 9</figref> where the phosphopeptides derived from K18 are labelled according to <figref idref="f0006">Fig. 5</figref>. Phosphopeptide spots generated by the other kinases were identified by running each sample along with the K18 sample phosphorylated with NPK110 (data not shown).</p>
+<p id="p0069" num="0069">The patterns shown in <figref idref="f0010">Fig. 9A</figref> were obtained by phosphorylating full length tau and K18 with brain extract.<!-- EPO <DP n="36"> --></p>
+<p id="p0070" num="0070">With full length tau only spot 1 (Ser262) is clearly seen, spot 2 (Ser356) is barely visible. This is even more prominent in the phosphorylation pattern of K18.</p>
+<p id="p0071" num="0071">When the phosphorylation of K18 by NPK110 were examined, a peptide pattern similar to that of the brain extract (compare <figref idref="f0010">Fig. 9A and 9B</figref>) is formed; the most prominent spots are 1 and 2, containing Ser262 and Ser356, while Ser 305 (spot 3), Ser324 (spot 4), and Ser293 (spot 5) represent minor components. This confirms the role of NPK110 as the major Ser262 kinase. By contrast, re-investigation of the earlier kinase activity (Biernat et al., 1993) has so far yielded inhomogeneous results. Although it phosphorylates the same serines as NPK110 the weighting is different, and the activity of the kinase in brain extract is at least 10-fold lower. This explains why even long incubations of tau with this kinase activity lead to only partial suppression of tau's binding to microtubules, as described earlier.</p>
+<p id="p0072" num="0072">As seen in <figref idref="f0010">Fig. 9C</figref>, PKC only phosphorylated Ser305 (spot 3), Ser324 (spot 4) and Ser293 (spot 5) to a significant extent in K18. The smear and the outermost spot to the left (arrow) are not phosphopeptides derived from tau since they also occurred in control experiments where no tau construct had been added (not shown). The remaining two spots could not be identified; the spot on the upper right (starred) did not colocalise with either Ser262 (spot 1) or Ser356 (spot 2). Comparison of this pattern with the one obtained from full length tau revealed that the major phosphorylation sites of PKC are outside the repeat domain. Only Ser305 (spot 3) was faintly visible in this pattern (note that the spot on the upper right does not correspond to the upper right spot from K18 (starred), as confirmed by control experiments (not shown)).</p>
+<p id="p0073" num="0073">When using purified PKA to phosphorylate full length tau and construct K18 (<figref idref="f0010">Fig. 9D</figref>) mainly Ser356 (spot 2), Ser305 (spot<!-- EPO <DP n="37"> --> 3), Ser 324 (spot 4) and Ser293 (spot 5) are found. Ser262 (spot 1) is only a minor phosphorylation site. Phosphorylation of full length tau (<figref idref="f0010">Fig. 9D</figref>, left panel) yielded similar spots, plus additional sites outside the repeat region of tau. These result are in general agreement with earlier data (Scott et al., 1993; Steiner, 1993). Some of these sites had also been seen with the "35/41 kDal" kinase activity described previously (Biernat et al., 1993). In subsequent experiments it was determined that the 41 kD component is the catalytic subunit of PKA (using an antibody against PKA obtained from H. Hilz, Hamburg, data not shown); this explains in part the overlap in the data. PKC phosphorylates mainly Ser305, Ser293 and Ser324 (the latter in agreement with Correas et al., 1992), but not Ser262 (<figref idref="f0010">Fig. 9C</figref>).</p>
+<heading id="h0009"><b>EXAMPLE 4:</b></heading>
+<heading id="h0010">Sites of MAP2 and MAP4 phosphorylated by the kinase NPK110.</heading>
+<p id="p0074" num="0074">MAP2 and MAP4 are two microtubule-associated proteins which belong to the same MAP-family as tau because they show high homology in the region of the 3 or 4 internal repeats where the proteins bind to microtubules (for review see Chapin &amp; Bulinski, 1992). MAP2 occurs preferentially in brain, mostly in the somatodendritic compartment of neurons. Like tau, MAP2 can be expressed in different forms due to alternative splicing (Kindler et al., 1990): The second repeat may be absent (this is the "classical" MAP2); in addition the region of residues 152-1514 (i.e. 1363 out of 1830 residues) may be absent (generating a protein with 467 residues; this form is commonly called MAP2c). The phosphorylation experiments described here have been performed with recombinant MAP2c expressed in E. coli (Table 3).<!-- EPO <DP n="38"> -->
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<title>TABLE 3</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="40mm"/>
+<colspec colnum="6" colname="col6" colwidth="41mm"/>
+<thead>
+<row valign="middle">
+<entry align="center"><b>Peaks from second col.</b></entry>
+<entry align="center"><b>Peptide no. (</b><figref idref="f0012"><b>Fig. 11</b></figref><b>)</b></entry>
+<entry align="center"><b>cpm</b></entry>
+<entry align="center"><b>extinction (214nm)</b></entry>
+<entry align="center"><b>peptide sequence</b></entry>
+<entry align="center"><b>phosphor. residue</b></entry></row></thead>
+<tbody>
+<row valign="bottom">
+<entry align="center">1</entry>
+<entry align="center">I</entry>
+<entry align="char" char="," charoff="33">300,000</entry>
+<entry align="center">0.05</entry>
+<entry>1705.CGS*LK<br/>
+(in 2nd repeat)</entry>
+<entry align="center">Ser1707</entry></row>
+<row valign="bottom">
+<entry align="center">2</entry>
+<entry align="center">II</entry>
+<entry align="char" char="," charoff="33">200,000</entry>
+<entry align="center">0.3</entry>
+<entry>1674:IGS*<br/>
+TDNIK<br/>
+(in 1st repeat)</entry>
+<entry align="center">Ser1676</entry></row>
+<row valign="bottom">
+<entry align="center">3</entry>
+<entry align="center">III</entry>
+<entry align="char" char="," charoff="33">100,000</entry>
+<entry align="center">0.8</entry>
+<entry>33:DQGGS*<br/>
+GEGLSR<br/>
+1535:SS*LPP</entry>
+<entry align="center">Ser 37<br/>
+Ser1536</entry></row>
+<row valign="bottom">
+<entry align="center">4</entry>
+<entry align="center">IV</entry>
+<entry align="char" char="," charoff="33">100,000</entry>
+<entry align="center">0.6</entry>
+<entry>1791:LS*NVSS* SGS*IN</entry>
+<entry align="center">Ser1792<br/>
+Ser1796<br/>
+Ser1799</entry></row></tbody></tgroup>
+<tgroup cols="6" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="24mm"/>
+<colspec colnum="5" colname="col5" colwidth="40mm"/>
+<colspec colnum="6" colname="col6" colwidth="41mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col6" align="justify">Note: Asterisks follow the phosphorylated residue. The numbering of residues follows that of Albala et al., 1993.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0075" num="0075">MAP4 is a ubiquitous MAP which is probably involved in mitosis, it also occurs as several splicing isoforms (West et al., 1991). The phosphorylation experiments have been done with a recombinant MAP4 construct comprising the C-terminal 496 residues (including the repeat domain) and expressed in E. coli (Table 4).<!-- EPO <DP n="39"> -->
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<title>TABLE 4</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="29mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="29mm"/>
+<colspec colnum="5" colname="col5" colwidth="28mm"/>
+<colspec colnum="6" colname="col6" colwidth="36mm"/>
+<thead>
+<row valign="middle">
+<entry align="center"><b>Peaks from second col.</b></entry>
+<entry align="center"><b>Peptide no. (</b><figref idref="f0013"><b>Fig. 12</b></figref><b>)</b></entry>
+<entry align="center"><b>cpm</b></entry>
+<entry align="center"><b>extinction (214 nm)</b></entry>
+<entry align="center"><b>peptide sequence</b></entry>
+<entry align="center"><b>phosphor. residue</b></entry></row></thead>
+<tbody>
+<row valign="bottom">
+<entry align="center">1</entry>
+<entry align="center">I</entry>
+<entry align="char" char="," charoff="33">135,000</entry>
+<entry align="center">0.8</entry>
+<entry>825:SPATT*LP</entry>
+<entry align="center">Thr829</entry></row>
+<row valign="bottom">
+<entry align="center">2</entry>
+<entry align="center">II</entry>
+<entry align="char" char="," charoff="33">150,000</entry>
+<entry align="center">0.35</entry>
+<entry>939:VGS*<br/>
+TENIK<br/>
+(in 1st repeat)</entry>
+<entry align="center">Ser941</entry></row>
+<row valign="bottom">
+<entry align="center">3</entry>
+<entry align="center">III</entry>
+<entry align="char" char="," charoff="33">120,000</entry>
+<entry align="center">0.35</entry>
+<entry>923:LATTVS* APDLK</entry>
+<entry align="center">Ser928</entry></row>
+<row valign="bottom">
+<entry align="center">4</entry>
+<entry align="center">IV</entry>
+<entry align="char" char="," charoff="33">100,000</entry>
+<entry align="center">0.8</entry>
+<entry>872:NT*T*PT* GAAPP</entry>
+<entry align="center">Thr873<br/>
+Thr874<br/>
+Thr876</entry></row>
+<row valign="bottom">
+<entry align="center">5</entry>
+<entry align="center">V</entry>
+<entry align="char" char="," charoff="33">55,000</entry>
+<entry align="center">0.3</entry>
+<entry>898:SS*GALS* VDK</entry>
+<entry align="center">Ser899<br/>
+Ser903</entry></row>
+<row valign="bottom">
+<entry align="center">6</entry>
+<entry align="center">VI</entry>
+<entry align="char" char="," charoff="33">100,000</entry>
+<entry align="center">0 . 8</entry>
+<entry>1071:VGS*LD (in 4th repeat)</entry>
+<entry align="center">Ser1073</entry></row>
+<row valign="bottom">
+<entry align="center">7</entry>
+<entry align="center">VII</entry>
+<entry align="char" char="," charoff="33">33,000</entry>
+<entry align="center">0.04</entry>
+<entry>923:LATTVS* APDLK</entry>
+<entry align="center">Ser928</entry></row></tbody></tgroup>
+<tgroup cols="6" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="29mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="17mm"/>
+<colspec colnum="4" colname="col4" colwidth="29mm"/>
+<colspec colnum="5" colname="col5" colwidth="28mm"/>
+<colspec colnum="6" colname="col6" colwidth="36mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col6" align="justify">Note: Asterisks follow the phosphorylated residue. The numbering of residues follows that of West et al., 1991.</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0076" num="0076">The phosphorylation methods are identical to the ones described in Example 2. MAP2 and MAP4 were phosphorylated with NPK110 using radioactive ATP, the phosphorylated protein was digested with trypsin and analysed by two-dimensional phosphopeptide mapping (<figref idref="f0012">Fig. 11</figref> for MAP2c, <figref idref="f0013">Fig. 12</figref> for MAP4 construct). The peptides were then purified by two HPLC gradient columns. The purified radioactive peptides were sequenced (for identification of the phosphorylated residues) and identified by two-dimensional phosphopeptide mapping.</p>
+<heading id="h0011">Effects of phosphorylation on interactions with microtubules:</heading><!-- EPO <DP n="40"> -->
+<p id="p0077" num="0077">The effects of phosphorylation of MAP2 and MAP4 by NPK110 were the same as for tau, that is, the affinity to microtubules decreased several-fold, and the dynamic instability of microtubules became much greater. This can be demonstrated, for example, by the decrease in the mean length of microtubules in the presence of the MAP in question, the kinase NPK110, and ATP (required for phosphorylation). <figref idref="f0014">Fig. 13</figref> shows examples for the cases of MAP4, MAP2, and MAP2c. Microtubule assembly starts at time 0. Hollow circles show the increase of mean length in the absence of ATP (no phosphorylation). Filled circles show that in the presence of ATP (and therefore with phosphorylated MAPs) the mean length is only about half of the control.</p>
+<p id="p0078" num="0078">The biological significance of the novel NPK-110 can be summarised as followed:</p>
+<p id="p0079" num="0079">NPK-110 is an efficient kinase for the repeat domain of tau, MAP2, MAP2c and MAP4. It phosphorylates all four KXGS motifs in tau, the first and fourth (Ser262 and Ser356) being the most pronounced sites. In this regard the kinase reproduces earlier observations with the kinase activity from the brain extract (Gustke et al., 1992, and see <figref idref="f0010">Fig. 9</figref>). The most dramatic effects of the kinase are that it virtually eliminates tau's binding to microtubules (<figref idref="f0007">Fig. 6B</figref>), it causes the release of tau from microtubules, and it turns stable microtubules into dynamically unstable ones, as seen by video microscopy. These effects are mainly dependent on the phosphorylation of Ser262, as shown by the point mutant Ser262-Ala. These features make NPK110 a candidate enzyme for controlling the state of assembly of microtubules in neurons. They are also consistent with the "Tau Hypothesis of Alzheimer's Disease" which assumes that tau's failure to bind to and stabilise microtubules leads to their breakdown and cessation of axonal transport. This<!-- EPO <DP n="41"> --> could occur either by the detachment of tau from microtubules, or by the inhibition of newly synthesised tau to bind to microtubules, in both cases resulting from phosphorylation. According to this scheme, an intervention that would slow down NPK110 or turn off its potential activating cascade would be suitable for a treatment of Alzheimer's disease.</p>
+<p id="p0080" num="0080">It is furthermore noted that the motif KXGS is conserved not only within the tau repeats, but also within other MAPs such as the neuronal MAP2 and the ubiquitous MAP4 (for review see Chapin &amp; Bulinski, 1992). It is therefore possible that NPK-110 has a more general role, affecting different MAPs and perhaps other proteins. One role which might be envisaged is the involvement of NPK-110 in the generation of cancer.</p>
+<heading id="h0012"><b>EXAMPLE 5:</b></heading>
+<heading id="h0013"><b>Further Characterization of the NPK of the Invention</b></heading>
+<heading id="h0014"><b><u style="single">Description of the cDNA clones:</u></b></heading>
+<p id="p0081" num="0081">A screening of a rat brain cDNA library with degenerate oligonucleotides derived from the brain-p110MARK peptide sequences yielded nine clones which were sequenced. They code for at least two different kinases from at least two different genes, with a 70% mutual homology. The peptide sequences fit completely with the larger clone, termed MARK-1 (corresponding to NPK-110), whose 5'-prime end is missing (mol. wt. of the encoded protein approx. 90 kDal). The smaller cDNA MARK-2 encodes a protein of 81 kDal. Peptides suitable for the design of oligonucleotides for screening said cDNA libraries is provided in Table 5. The amino acid sequences of the identified clones are provided in Table 6.<!-- EPO <DP n="42"> --></p>
+<heading id="h0015"><u style="single">Homologies</u></heading>
+<p id="p0082" num="0082">A database search for homologous sequences obtained two related but no identical sequences:
+<ul id="ul0004" list-style="none">
+<li>MMKEM (X70764), a mouse cDNA encoding a putative protein kinase of unknown function (Inglis et al., 1993), shows 73% homology to MARK-1 and 96% homology to MARK2.</li>
+<li>HUMP78A (M80359), an unpublished human cDNA sequence, shows 73% homology to MARK-1 and 69% homology to MARK-2. All kinases show a low homology (about 25%) to the KIN1 and KIN2 proteins from Saccharomyces cerevisiae (Levin et al., 1987, 1990).</li>
+</ul></p>
+<heading id="h0016"><u style="single">Tissue distribution</u></heading>
+<p id="p0083" num="0083">As judged by Northern blotting (<figref idref="f0015">Fig. 14</figref>), MARK-1 and MARK-2 mRNAs are ubiquitously expressed in fetal and adult tissues. Expression is highest in muscle, brain and fetal (but not adult) kidney.</p>
+<heading id="h0017"><u style="single">Activation</u></heading>
+<p id="p0084" num="0084">p110/MARK prepared from brain is at least 100-fold more active than MARK expressed in E. Coli. The activity is dependent on phosporylation of MARK itself on Ser and/or Thr residues, since, after dephosphorylation with phosphatase 2A, all activity is lost.</p>
+<p id="p0085" num="0085">The phosphorylation of p110/MARK reveals an apparent molecular weight of 110kD on SDS gels, whereas the predicted molecular weight from cDNA sequencing is 90 kD. This shift in apparent molecular weight is often observed with phosphoproteins.<!-- EPO <DP n="43"> --></p>
+<heading id="h0018"><u style="single">Targets</u></heading>
+<p id="p0086" num="0086">p110MARK phosphorylates not only tau protein, but also related MAPs such as MAP2 or MAP2c (neuronal MAPs largely confined to the somatodendritic compartment) and MAP4 (a ubiquitous MAP), indicating a widespread function of the enzyme. The major phosphorylation sites are similar in these MAPs, namely the serines in the KXGS motifs in the repeat domain. The effect of phosphorylation is also comparable, namely a strong reduction in the microtubule-binding capacity of the MAPs, and hence a loss of microtubule stability (see <figref idref="f0016">Fig. 15</figref>, <figref idref="f0017">16</figref> for examples).</p>
+<heading id="h0019"><b><u style="single">Table 5</u></b></heading>
+<p id="p0087" num="0087">Peptide sequences obtained from a porcine brain MARK preparation by lysC digestion.
+<tables id="tabl0010" num="0010">
+<table frame="none">
+<tgroup cols="21" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="15mm"/>
+<colspec colnum="2" colname="col2" colwidth="7mm"/>
+<colspec colnum="3" colname="col3" colwidth="7mm"/>
+<colspec colnum="4" colname="col4" colwidth="7mm"/>
+<colspec colnum="5" colname="col5" colwidth="7mm"/>
+<colspec colnum="6" colname="col6" colwidth="7mm"/>
+<colspec colnum="7" colname="col7" colwidth="7mm"/>
+<colspec colnum="8" colname="col8" colwidth="7mm"/>
+<colspec colnum="9" colname="col9" colwidth="7mm"/>
+<colspec colnum="10" colname="col10" colwidth="8mm"/>
+<colspec colnum="11" colname="col11" colwidth="9mm"/>
+<colspec colnum="12" colname="col12" colwidth="9mm"/>
+<colspec colnum="13" colname="col13" colwidth="9mm"/>
+<colspec colnum="14" colname="col14" colwidth="9mm"/>
+<colspec colnum="15" colname="col15" colwidth="9mm"/>
+<colspec colnum="16" colname="col16" colwidth="9mm"/>
+<colspec colnum="17" colname="col17" colwidth="9mm"/>
+<colspec colnum="18" colname="col18" colwidth="9mm"/>
+<colspec colnum="19" colname="col19" colwidth="9mm"/>
+<colspec colnum="20" colname="col20" colwidth="9mm"/>
+<colspec colnum="21" colname="col21" colwidth="9mm"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col21" align="left" valign="top"><b>Fraction Sequence:</b></entry></row>
+<row>
+<entry valign="top"/>
+<entry valign="top">1</entry>
+<entry valign="top">2</entry>
+<entry valign="top">3</entry>
+<entry valign="top">4</entry>
+<entry valign="top">5</entry>
+<entry valign="top">6</entry>
+<entry valign="top">7</entry>
+<entry valign="top">8</entry>
+<entry valign="top">9</entry>
+<entry valign="top">10</entry>
+<entry valign="top">11</entry>
+<entry valign="top">12</entry>
+<entry valign="top">13</entry>
+<entry valign="top">14</entry>
+<entry valign="top">15</entry>
+<entry valign="top">16</entry>
+<entry valign="top">17</entry>
+<entry valign="top">18</entry>
+<entry valign="top">19</entry>
+<entry>20</entry></row></thead>
+<tbody>
+<row>
+<entry>21</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>33-12*</entry>
+<entry>D</entry>
+<entry>R</entry>
+<entry>W</entry>
+<entry>M</entry>
+<entry>N</entry>
+<entry>V</entry>
+<entry>G</entry>
+<entry>H</entry>
+<entry>E</entry>
+<entry>E</entry>
+<entry>E</entry>
+<entry>E</entry>
+<entry>L</entry>
+<entry>K</entry>
+<entry>P</entry>
+<entry>Y</entry>
+<entry>A</entry>
+<entry>E</entry>
+<entry>P</entry>
+<entry>E</entry></row>
+<row>
+<entry>P</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>41</entry>
+<entry>I</entry>
+<entry>A</entry>
+<entry>N</entry>
+<entry/>
+<entry>E</entry>
+<entry>L</entry>
+<entry>K</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>47-16</entry>
+<entry>A</entry>
+<entry>E</entry>
+<entry>N</entry>
+<entry>L</entry>
+<entry>L</entry>
+<entry>L</entry>
+<entry>D</entry>
+<entry>A</entry>
+<entry>D</entry>
+<entry>M</entry>
+<entry>N</entry>
+<entry>I</entry>
+<entry>K</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>71-09*</entry>
+<entry>X</entry>
+<entry>S</entry>
+<entry>S</entry>
+<entry>R</entry>
+<entry>Q</entry>
+<entry>N</entry>
+<entry>I</entry>
+<entry>P</entry>
+<entry>R</entry>
+<entry>C</entry>
+<entry>R</entry>
+<entry>N</entry>
+<entry>N</entry>
+<entry>I</entry>
+<entry>I</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>85</entry>
+<entry>I</entry>
+<entry>L</entry>
+<entry>N</entry>
+<entry>H</entry>
+<entry>P</entry>
+<entry>N</entry>
+<entry>I</entry>
+<entry>V</entry>
+<entry>K</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>87-24*</entry>
+<entry>L</entry>
+<entry>D</entry>
+<entry>T</entry>
+<entry>F</entry>
+<entry>C</entry>
+<entry>G</entry>
+<entry>S</entry>
+<entry>P</entry>
+<entry/>
+<entry>P K</entry>
+<entry>Y</entry>
+<entry>A</entry>
+<entry>A</entry>
+<entry>P</entry>
+<entry>E</entry>
+<entry>L</entry>
+<entry>F</entry>
+<entry>Q</entry>
+<entry>G</entry>
+<entry>K</entry></row>
+<row>
+<entry>120</entry>
+<entry>L</entry>
+<entry>F</entry>
+<entry>V</entry>
+<entry>L</entry>
+<entry>N</entry>
+<entry>P</entry>
+<entry>I</entry>
+<entry>K</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>121</entry>
+<entry>L</entry>
+<entry>F</entry>
+<entry>R</entry>
+<entry>E</entry>
+<entry>V</entry>
+<entry>R</entry>
+<entry>I</entry>
+<entry>X</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>130-13</entry>
+<entry>Y</entry>
+<entry>R</entry>
+<entry>I</entry>
+<entry>P</entry>
+<entry>F</entry>
+<entry>Y</entry>
+<entry>M</entry>
+<entry>S</entry>
+<entry>T</entry>
+<entry>D</entry>
+<entry>C</entry>
+<entry>E</entry>
+<entry>N</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row><!-- EPO <DP n="44"> -->
+<row>
+<entry>140-9</entry>
+<entry>F</entry>
+<entry>R</entry>
+<entry>Q</entry>
+<entry>I</entry>
+<entry>V</entry>
+<entry>S</entry>
+<entry>A</entry>
+<entry>V</entry>
+<entry>Q</entry>
+<entry>Y</entry>
+<entry>C</entry>
+<entry>H</entry>
+<entry>Q</entry>
+<entry>K</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>140-20</entry>
+<entry>R</entry>
+<entry>I</entry>
+<entry>E</entry>
+<entry>I</entry>
+<entry>M</entry>
+<entry>V</entry>
+<entry>T</entry>
+<entry>M</entry>
+<entry>G</entry>
+<entry>F</entry>
+<entry>L</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0011" num="0011"><img id="ib0002" file="imgb0002.tif" wi="165" he="210" img-content="table" img-format="tif"/>
+</tables><!-- EPO <DP n="45"> -->
+<tables id="tabl0012" num="0012"><img id="ib0003" file="imgb0003.tif" wi="160" he="220" img-content="table" img-format="tif"/>
+</tables><!-- EPO <DP n="46"> --></p>
+<heading id="h0020"><b>REFERENCES:</b></heading>
+<p id="p0088" num="0088">
+<ul id="ul0005" list-style="none">
+<li><nplcit id="ncit0002" npl-type="s"><text>Albala, J.S., Kalcheva, N., Schafit-Zagardo, B. (1993). Characterisation of the transcripts encoding 2 isoforms of human microtubule-associated protein-2 (MAP-2). Gene 136, 377-378</text></nplcit>.</li>
+<li><nplcit id="ncit0003" npl-type="s"><text>Anderton, B.H. (1993). Expression and processing of pathological proteins in Alzheimer's disease. Hippocampus 3, 227-237</text></nplcit>.</li>
+<li><nplcit id="ncit0004" npl-type="s"><text>Baas, P.W., Pienkowski, T.P., and Kosik, K.S. (1991). Processes induced by tau expression in Sf9-cells have an axon-like microtubule organisation. J. Cell Biol. 115, 1333-1344</text></nplcit>.</li>
+<li><nplcit id="ncit0005" npl-type="s"><text>Baumann,K., Mandelkow,E.-M., Biernat,J., Piwnica-Worms,H., Mandelkow,E.(1993). Abnormal Alzheimer-like phosphorylation of tau protein by cyclin-dependent kinases cdk2 and cdk5. FEBS Lett. 336, 417-424</text></nplcit>.</li>
+<li><nplcit id="ncit0006" npl-type="s"><text>Berling,B., Wille,H., Röll,B., Mandelkow,E.-M., Garner,C., Mandelkow,E.(1994). Phosphorylation of microtubule-associated proteins MAP2a,b and MAP2c at serine 136 by proline-directed kinases in vivo and in vitro. Eur. J. Cell Biol. 64, 120-130</text></nplcit>.</li>
+<li><nplcit id="ncit0007" npl-type="s"><text>Biernat,J., Mandelkow,E.-M., Schröter,C., Lichtenberg-Kraag,B., Steiner,B., Berling,B., Meyer,H.E., Mercken,M., Vandermeeren,A., Goedert,M., Mandelkow,E. (1992). The switch of tau protein to an Alzheimer-like state includes the phosphorylation of two serine-proline motifs upstream of the microtubule binding region. EMBO J. 11, 1593-1597</text></nplcit>.</li>
+<li><nplcit id="ncit0008" npl-type="s"><text>Biernat,J., Gustke,N., Drewes,G., Mandelkow,E.-M., Mandelkow, E. (1993). Phosphorylation of serine 262 strongly reduces the binding of tau protein to microtubules: Distinction between PHF-like immunoreactivity and microtubule binding. Neuron 11, 153-163</text></nplcit>.</li>
+<li><nplcit id="ncit0009" npl-type="s"><text>Boyle, W.J., van der Geer, P. and Hunter, T. (1991). Phosphopeptide mapping and phosphoamino acid analysis by two-dimensional separation on thin layer cellulose plates. Methods Enzymol. 201, 110-149</text></nplcit>.</li>
+<li><nplcit id="ncit0010" npl-type="s"><text>Bramblett, G.T., Goedert, M., Jakes, R., Merrick, S.E., Trojanowski,J.Q., and Lee, V.M.Y. (1993). Abnormal tau phosphorylation at Ser(396) in Alzheimer's disease recapitulates development and contributes to reduced microtubule binding. Neuron 10, 1089-1099</text></nplcit>.<!-- EPO <DP n="47"> --></li>
+<li><nplcit id="ncit0011" npl-type="s"><text>Brandt, R. and Lee, G. (1993). Functional organisation of microtubule-associated protein tau: Identification of regions which affect microtubule growth, nucleation, and bundle formation in vitro. J. Biol. Chem. 268, 3414-3419</text></nplcit>.</li>
+<li><nplcit id="ncit0012" npl-type="s"><text>Brion, J.P., Hanger, D.P., Couck, A.M., and Anderton, B.H. (1991). A68 proteins in Alzheimers-disease are composed of several tau isoforms in a phosphorylated state which affects their electrophoretic mobilities. Biochem. J. 279, 831-836</text></nplcit>.</li>
+<li><nplcit id="ncit0013" npl-type="s"><text>Brugg, B., and Matus, A. (1991). Phosphorylation determines the binding of microtubule-associated protein-2 (MAP2) to microtubules in living cells. J. Cell Biol. 114, 735-743</text></nplcit>.</li>
+<li><nplcit id="ncit0014" npl-type="s"><text>Butler, M. and Shelanski, M.L. (1986). Microheterogeneity of microtubule-associated tau-proteins is due to differences in phosphorylation. J. Neurochem. 47, 1517-1522</text></nplcit>.</li>
+<li><nplcit id="ncit0015" npl-type="s"><text>Butner, K.A., and Kirschner, M.W. (1991). Tau-protein binds to microtubules through a flexible array of distributed weak sites. J. Cell Biol. 115, 717-730</text></nplcit>.</li>
+<li><nplcit id="ncit0016" npl-type="s"><text>Casnelli, J.E. (1991). Assay of protein kinases using peptides with basic residues for phosphocellulose binding. Meth. Enzymology 200, 115-120</text></nplcit>.</li>
+<li><nplcit id="ncit0017" npl-type="s"><text>Chapin, S.J. and Bulinski, J.C. (1991). Non-neuronal 210 kD Mn microtubule-associated protein (MAP4) contains a domain homologous to the microtubule-binding domains of neuronal MAP2 and tau. J. Cell Sci. 98, 27-36</text></nplcit>.</li>
+<li><nplcit id="ncit0018" npl-type="s"><text>Chapin, S.J. and Bulinski, J.C. (1992). Microtubule stabilisation by assembly-promoting microtubule-associated proteins: A repeat performance. Cell Mot. Cytoskel. 23, 236-243</text></nplcit>.</li>
+<li><nplcit id="ncit0019" npl-type="s"><text>Chen, J., Kanai, Y., Cowan, N., Hirokawa, N. (1992). Projection domains of MAP2 and tau determine spacings between microtubules in dendrites and axons. Nature 360, 674-677</text></nplcit>.</li>
+<li><nplcit id="ncit0020" npl-type="s"><text>Cleveland, D.W., Hwo, S.-Y. and Kirschner, M.W. (1977). Purification of tau, a microtubule-associated protein that induces assembly of microtubules from purified tubulin. J. Mol. Biol. 116, 207-225</text></nplcit>.</li>
+<li><nplcit id="ncit0021" npl-type="s"><text>Correas, I., Diaznido, J., and Avila, J. (1992). Microtubule associated protein tau is phosphorylated by protein kinase C on its tubulin binding domain. J. Biol. Chem. 267, 15721-15728</text></nplcit>.</li>
+<li><nplcit id="ncit0022" npl-type="s"><text>Drechsel, D.N., Hyman, A.A., Cobb, M.H., and Kirschner, M.W. (1992). Modulation of the dynamic instability of tubulin assembly by the microtubule-associated protein tau. Mol. Biol. Cell 3, 1141-1154</text></nplcit>.<!-- EPO <DP n="48"> --></li>
+<li><nplcit id="ncit0023" npl-type="s"><text>Drewes,G., Lichtenberg-Kraag,B., Döring,F., Mandelkow,E.-M., Biernat,J., Goris,J., Doree,M. and Mandelkow,E. (1992). Mitogen-activated protein (MAP) kinase transforms tau protein into an Alzheimer like state. EMBO J. 11, 2131-2138</text></nplcit>.</li>
+<li><nplcit id="ncit0024" npl-type="s"><text>Drewes,G., Mandelkow,E.-M., Baumann,K., Goris,J., Merlevede,W., Mandelkow,E.(1993). Dephosphorylation of tau protein and Alzheimer paired helical filaments by calcineurin and phosphatase-2A. FEBS Lett. 336, 425-432</text></nplcit>.</li>
+<li><nplcit id="ncit0025" npl-type="s"><text>Drubin, D. and Kirschner, M. (1986). Tau protein function in living cells. J. Cell Biol. 103, 2739-2746</text></nplcit>.</li>
+<li><nplcit id="ncit0026" npl-type="s"><text>Ennulat,D.J., Liem,R.K.H., Hashim,G.A. and Shelanski,M.L. (1989). Two separate 18-amino acid domains of tau promote the polymerisation of tubulin. J. Biol. Chem. 264 5327-5330</text></nplcit>.</li>
+<li><nplcit id="ncit0027" npl-type="s"><text>Geahlen,R.L., Anostario,M., Low,P.S., and Harrison,M.L. (1986). Detection of protein kinase activity in sodium dodedyl sulfate-polyacrylamide gels. Anal. Biochem. 153, 151-158</text></nplcit>.</li>
+<li><nplcit id="ncit0028" npl-type="s"><text>Goedert,M., Spillantini,M., Jakes,R., Rutherford,D., and Crowther,R.A. (1989). Multiple isoforms of human microtubule-associated protein-tau: Sequences and localisation in neurofibrillary tangles of Alzheimers-disease. Neuron 3, 519-526</text></nplcit>.</li>
+<li><nplcit id="ncit0029" npl-type="s"><text>Goedert, M., Spillantini, G., Cairns, N.J. and Crowther, R.A. (1992). Tau proteins of Alzheimer paired helical filaments: Abnormal phosphorylation of all six brain isoforms. Neuron 8, 159-168</text></nplcit>.</li>
+<li><nplcit id="ncit0030" npl-type="s"><text>Goedert, M. (1993). Tau protein and the neurofibrillary pathology of Alzheimer's disease. Trends in Neurosci. 16, 460-465</text></nplcit>.</li>
+<li><nplcit id="ncit0031" npl-type="s"><text>Gong, C.X., Singh, T.J., Grundke-Iqbal, I., Iqbal, K. (1994). Alzheimer's disease abnormally phosphorylated tau is dephosphorylated by protein phosphatase-2b (calcineurin). J. Neurochem. 62, 803-806</text></nplcit>.</li>
+<li><nplcit id="ncit0032" npl-type="s"><text>Goode, B.L. and Feinstein, S.C. (1994). Identification of a novel microtubule binding and assembly domain in the developmentally regulated inter-repeat region of tau. J. Cell Biol. 124, 769-782</text></nplcit>.</li>
+<li><nplcit id="ncit0033" npl-type="s"><text>Greenberg, S.G., Davies, P., Schein, J.D., Binder, L.I. (1992). Hydrofluoric acid-treated tau-PHF proteins display the same biochemical properties as normal tau. J. Biol. Chem. 267, 564-569</text></nplcit>.<!-- EPO <DP n="49"> --></li>
+<li><nplcit id="ncit0034" npl-type="s"><text>Grundke-Iqbal,I., Iqbal,K., Tung,Y., Quinlan,M., Wisniewski,H., Binder,L.(1986). Abnormal phosphorylation of the microtubule-associated protein tau in Alzheimer cytoskeletal pathology. Proc. Natl. Acad. Sci. U.S.A. 83, 4913-4917</text></nplcit>.</li>
+<li><nplcit id="ncit0035" npl-type="s"><text>Gustke,N., Steiner,B., Mandelkow,E.-M., Biernat,J., Meyer,H.E., Goedert,M., Mandelkow,E. (1992). The Alzheimer-like phosphorylation of tau protein reduces microtubule binding and involves Ser-Pro and Thr-Pro motifs. FEBS Letters 307, 199-205</text></nplcit>.</li>
+<li><nplcit id="ncit0036" npl-type="s"><text>Gustke,N., Trinczek,B., Biernat,J., Mandelkow,E.-M., Mandelkow, E. (1994). Domains of Tau Protein and Interactions with Microtubules. Biochemistry 33, 9511-9522</text></nplcit>.</li>
+<li><nplcit id="ncit0037" npl-type="s"><text>Hagestedt,T., Lichtenberg,B., Wille,H., Mandelkow,E.-M. and Mandelkow,E. (1989). Tau protein becomes long and stiff upon phosphorylation: Correlation between paracrystalline structure and degree of phosphorylation. J. Cell Biol. 109, 1643-1651</text></nplcit>.</li>
+<li><nplcit id="ncit0038" npl-type="s"><text>Hanger, D., Hughes, K., Woodgett, J., Brion, J., Anderton, B. (1992). Glycogen-synthase kinase-3 induces Alzheimer's disease-like phosphorylation of tau: Generation of paired helical filament epitopes and neuronal localisation of the kinase. Neurosci. Lett. 147, 58-62</text></nplcit>.</li>
+<li><nplcit id="ncit0039" npl-type="s"><text>Hanks, S.K., and Quinn, A.M. (1991). Protein-kinase catalytic domain sequence database: Identification of conserved features of primary structure and classification of family members. Meth. Enzymol. 200, 38-62</text></nplcit>.</li>
+<li><nplcit id="ncit0040" npl-type="s"><text>Hasegawa,M., Morishima-Kawashima,M., Takio,K., Suzuki,M., Titani,K., Ihara,Y.(1992). Protein sequence and mass spectrometric analyses of tau in the Alzheimer's disease brain. J. Biol. Chem. 26, 17047-17054</text></nplcit>.</li>
+<li><nplcit id="ncit0041" npl-type="s"><text>Himmler, A., Drechsel,D., Kirschner, M. and Martin, D. (1989). Tau consists of a set of proteins with repeated C-terminal microtubule-binding domains and variable N-terminal domains. Molec. Cell. Biol. 9, 1381-1388</text></nplcit>.</li>
+<li><nplcit id="ncit0042" npl-type="s"><text>Hirokawa, N. (1994). Microtubule organisation and dynamics dependent on microtubule-associated proteins. Curr. Opinion Cell Biol. 6, 74-81</text></nplcit>.</li>
+<li><nplcit id="ncit0043" npl-type="s"><text>Hirs, C.H.W. (1967). Modification of cysteine residues. Methods Enzymol. 11, 325-329</text></nplcit>.</li>
+<li><nplcit id="ncit0044" npl-type="s"><text>Inglis, J.D., Lee, M., Hill, R.E. (1993).
+Emk, a protein-kinase with homologs in yeast maps to mouse chromosome-19.
+Mamm. Genome 4, 401-403</text></nplcit>.<!-- EPO <DP n="50"> --></li>
+<li><nplcit id="ncit0045" npl-type="s"><text>Ishiguro,K., Omori,A., Sato,K., Tomizawa,K., Imahori,K., and Uchida,T. (1991). A serine threonine proline kinase-activity is included in the tau-protein kinase fraction forming a paired helical filament epitope. Neurosci. Lett. 128, 195-198</text></nplcit>.</li>
+<li><nplcit id="ncit0046" npl-type="s"><text>Joly, J.C., and Purich, D.L. (1990). Peptides corresponding to the 2nd repeated sequence in map-2 inhibit binding of microtubule-associated proteins to microtubules. Biochemistry 29, 8916-8920</text></nplcit>.</li>
+<li><nplcit id="ncit0047" npl-type="s"><text>Kanemaru, K., Takio, K., Miura, R., Titani, K., and Ihara, Y. (1992). Fetal-type phosphorylation of the tau in paired helical filaments. J. Neurochem. 58, 1667-1675</text></nplcit>.</li>
+<li><nplcit id="ncit0048" npl-type="s"><text>Kemp, B.E. and Pearson, R.B. (1990). Protein kinase recognition sequence motifs. TIBS 15, 342-346</text></nplcit>.</li>
+<li><nplcit id="ncit0049" npl-type="s"><text>Kindler, S., Schwanke, B., Schulz, B. and Garner, C.C. (1990). Complete cDNA sequence encoding rat high and low molecular weight MAP2. Nucl. Acids Res. 18, 2822</text></nplcit>.</li>
+<li><nplcit id="ncit0050" npl-type="s"><text>Kobayashi, S., Ishiguro, K., Omori, A., Takamatsu, M., Arioka, M., Imahori, K., Uchida, T. (1993). A cdc2-related kinase pssalre/cdk5 is homologous with the 30 kDa subunit of tau protein kinase-ii, a proline-directed protein-kinase associated with microtubule. FEBS Letters 335, 171-175</text></nplcit>.</li>
+<li><nplcit id="ncit0051" npl-type="s"><text>Kondo,J., Honda,T., Mori,H., Hamada,Y., Miura,R., Ogawara,M. and Ihara,Y.(1988). The carboxyl third of tau is tightly bound to paired helical filaments. Neuron 1, 827-834</text></nplcit>.</li>
+<li><nplcit id="ncit0052" npl-type="s"><text>Ksiezak-Reding, H., and Yen, S.H. (1991). Structural stability of paired helical filaments requires microtubule-binding domains of tau: A model for self-association. Neuron 6, 717-728</text></nplcit>.</li>
+<li><nplcit id="ncit0053" npl-type="s"><text>Ksiezak-Reding, H., Liu, W.K., and Yen, S.H. (1992). Phosphate analysis and dephosphorylation of modified tau associated with paired helical filaments. Brain Res. 597, 209-219</text></nplcit>.</li>
+<li><nplcit id="ncit0054" npl-type="s"><text>Lang, E., Szendrei, G.I., Lee, V.M.Y. and Otvos, L. (1992). Immunological and conformation characterisation of a phosphorylated immunodominant epitope on the paired helical filaments found in Alzheimer's disease. Biochem. Biophys. Res. Comm. 187, 783-790</text></nplcit>.</li>
+<li><nplcit id="ncit0055" npl-type="s"><text>Lee, G., Neve, R.L., and Kosik, K.S. (1989). The microtubule binding domain of tau-protein. Neuron 2, 1615-1624</text></nplcit>.</li>
+<li><nplcit id="ncit0056" npl-type="s"><text>Lee, V.M.Y., Balin, B.J., Otvos, L., and Trojanowski, J.Q. (1991). A68 - a major subunit of paired helical filaments and derivatised forms of normal tau. Science (Wash.) 251, 675-678</text></nplcit>.<!-- EPO <DP n="51"> --></li>
+<li><nplcit id="ncit0057" npl-type="s"><text>Lee, V.M.Y. and Trojanowski, J.Q. (1992). The disordered neuronal cytoskeleton in Alzheimer's disease. Curr. Opin. Neurobiol. 2, 653-656</text></nplcit>.</li>
+<li><nplcit id="ncit0058" npl-type="s"><text>Lee, G. and Rook, S. (1992). Expression of tau protein in non-neuronal cells: microtubule binding and stabilisation. J. Cell Sci. 102, 227-237</text></nplcit>.</li>
+<li><nplcit id="ncit0059" npl-type="s"><text>Lee, G. (1993). Non-motor microtubule-associated proteins. Curr. Opin. Cell Biol. 5, 88-94</text></nplcit>.</li>
+<li><nplcit id="ncit0060" npl-type="s"><text>Levin, D.E., Bishop, J.M. (1990).
+A putative protein-kinase gene (kin1+) is important for growth polarity in Schizosaccharomyces pombe.
+Proc. Natl. Acad. Sci. USA 87, 8272-8276</text></nplcit>.</li>
+<li><nplcit id="ncit0061" npl-type="s"><text>Levin, D.E., Hammond, C.I., Ralston, R.O., Bishop, J.M. (1987).
+Two yeast genes that encode unusual protein kinases.
+Proc. Natl. Acad. Sci. USA 84, 6035-6039</text></nplcit>.</li>
+<li><nplcit id="ncit0062" npl-type="s"><text>Lichtenberg-Kraag,B., Mandelkow,E.-M., Biernat,J., Steiner,B., Schröter,C., Gustke,N., Meyer,H.E., Mandelkow,E. (1992). Phosphorylation dependent interaction of neurofilament antibodies with tau protein: Epitopes, phosphorylation sites, and relationship with Alzheimer tau. Proc. Natl. Acad. Sci. U.S.A. 89, 5384-5388</text></nplcit>.</li>
+<li><nplcit id="ncit0063" npl-type="s"><text>Mandelkow, E.-M., Herrmann, M. and Rühl, U. (1985). Tubulin domains probed by subunit-specific antibodies and limited proteolysis. J. Mol. Biol. 185, 311-327</text></nplcit>.</li>
+<li><nplcit id="ncit0064" npl-type="s"><text>Mandelkow,E.-M., Drewes,G., Biernat,J., Gustke,N., Van Lint,J., Vandenheede,J.R. and Mandelkow,E. (1992). Glycogen synthase kinase-3 and the Alzheimer-like state of microtubule-associated protein tau. FEBS Lett. 314, 315-321</text></nplcit>.</li>
+<li><nplcit id="ncit0065" npl-type="s"><text>Mandelkow, E.-M. and Mandelkow, E. (1993). Tau as a marker for Alzheimer's disease. TIBS 18, 480-483</text></nplcit>.</li>
+<li><nplcit id="ncit0066" npl-type="s"><text>Mercken, M., Vandermeeren, M., Lübke, U., Six, J., Boons, J., Van de Voorde, A., Martin, J.-J. and Gheuens, J. (1992). Monoclonal antibodies with selective specificity for Alzheimer tau are directed against phosphatase-sensitive epitopes. Acta Neuropathol. 84, 265-272</text></nplcit>.</li>
+<li><nplcit id="ncit0067" npl-type="s"><text>Meyer, H.E., Hoffmann-Posorske, E. and Heilmeyer, L.M.G. (1991). Determination and location of phosphoserine in proteins and peptides by conversion to S-ethyl-cysteine. Meth. Enzymol. 201, 169-185</text></nplcit>.<!-- EPO <DP n="52"> --></li>
+<li><nplcit id="ncit0068" npl-type="s"><text>Paudel, H., Lew, J., Ali, Z., Wang, J. (1993). Brain proline-directed protein kinase phosphorylates tau on sites that are abnormally phosphorylated in tau associated with Alzheimer's paired helical filaments. J. Biol. Chem. 268, 23512-23518</text></nplcit>.</li>
+<li><nplcit id="ncit0069" npl-type="s"><text>Schweers, O., Schönbrunn-Hanebeck, E., Marx, A., Mandelkow, E. (1994). Structural studies of tau protein and Alzheimer paired helical filaments show no evidence for β structure. J. Biol. Chem. 269, 24290-24297</text></nplcit>.</li>
+<li><nplcit id="ncit0070" npl-type="s"><text>Scott,C., Spreen,R., Herman,J., Chow,F., Davison,M., Young,J., Caputo,C. (1993). Phosphorylation of recombinant tau by cAMP-dependent protein kinase: Identification of phosphorylation sites and effect on microtubule assembly. J. Biol. Chem. 268, 1166-1173</text></nplcit>.</li>
+<li><nplcit id="ncit0071" npl-type="s"><text>Steiner,B., Mandelkow,E.-M., Biernat,J., Gustke,N., Meyer,H.E., Schmidt,B., Mieskes,G., Söling,H,D., Drechsel,D., Kirschner,M.W., Goedert,M. and Mandelkow,E. (1990). Phosphorylation of microtubule-associated protein tau: Identification of the site for Ca++-calmodulin dependent kinase and relationship with tau phosphorylation in Alzheimer tangles. EMBO J. 9, 3539-3544</text></nplcit>.</li>
+<li><nplcit id="ncit0072" npl-type="s"><text>Steiner, B. (1993). Phosphorylation of microtubule-associated protein tau and role in Alzheimer's disease. PhD Thesis, University of Hamburg</text></nplcit>.</li>
+<li><nplcit id="ncit0073" npl-type="s"><text>Studier, W.F., Rosenberg, A.H., Dunn, J.J. and Dubendorff, J.W. (1990). Use of T7 RNA polymerase to direct the expression of cloned genes. Meth. Enzym. 185, 60-89</text></nplcit>.</li>
+<li><nplcit id="ncit0074" npl-type="s"><text>Tarr, G.E., Black, S.D., Fujita, V.S. and Coon, M.J. (1983). Complete amino acid sequence and predicted membrane topology of phenobarbital-induced cytochrome P-450 isoenzyme 2 from rabbit liver microsomes. Proc. Natl. Acad. Sci. USA 80, 6552-6556</text></nplcit>.</li>
+<li><nplcit id="ncit0075" npl-type="s"><text>Trinczek, B., Marx,A., Mandelkow,E.-M., Murphy, D.B. and Mandelkow, E. (1993). Dynamics of microtubules from erythrocyte marginal bands. Molec. Biol. Cell 4, 323-335</text></nplcit>.</li>
+<li><nplcit id="ncit0076" npl-type="s"><text>Vulliet, R., Halloran, S., Braun, R., Smith, A., and Lee, G. (1992). Proline-directed phosphorylation of human tau protein. J. Biol. Chem. 267, 22570-22574</text></nplcit>.</li>
+<li><nplcit id="ncit0077" npl-type="s"><text>Watanabe, A., Hasegawa, M., Suzuki, M., Takio, K., Morishima-Kawashima, M., Titani, K., Arai, T., Kosik, K.S., and Ihara, Y. (1993). In-vivo phosphorylation sites in fetal and adult rat tau. J. Biol. Chem. 268, 25712-25717</text></nplcit>.<!-- EPO <DP n="53"> --></li>
+<li><nplcit id="ncit0078" npl-type="s"><text>West, R.R., Tenbarge, K.M., and Olmsted, J.B. (1991). A model for microtubule-associated protein-4 structure: Domains defined by comparisons of human, mouse, and bovine sequences. J. Biol. Chem. 266, 21886-21896</text></nplcit>.</li>
+<li><nplcit id="ncit0079" npl-type="s"><text>Wille,H., Drewes,G., Biernat,J., Mandelkow,E.-M., Mandelkow, E. (1992). Alzheimer-like paired helical filaments and antiparallel dimers formed from microtubule-associated protein tau in vitro. J. Cell Biol. 118, 573-584</text></nplcit>.</li>
+<li><nplcit id="ncit0080" npl-type="s"><text>Wischik, C., Novak, M., Thogersen, H., Edwards, P., Runswick, M., Jakes, R., Walker, J., Milstein, C, Roth, M. and Klug, A. (1988). Isolation of a fragment of tau derived from the core of the paired helical filament of Alzheimer disease. Proc. Natl. Acad. Sci. U.S.A. 85, 4506-4510</text></nplcit>.</li>
+</ul></p>
+</description><!-- EPO <DP n="54"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A DNA sequence encoding a neuronal protein kinase (NPK) that is capable of phosphorylating a sequence motif of the type KXGS in tau, MAP4, MAP2 and MAP2c <b>characterised by</b> the following features:
+<claim-text>(a) it encodes the amino acid sequence depicted as MARK-1 in Table 6; or</claim-text>
+<claim-text>(b) it encodes the amino acid sequence depicted as MARK-2 in Table 6.</claim-text></claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A DNA sequence encoding a neuronal protein kinase (NPK) that is capable of phosphorylating a sequence motif of the type KXGS in tau, MAP4, MAP2 and MAP2c <b>characterised by</b> the following features:
+<claim-text>(a) it has an apparent molecular weight of 110 kD as determined by SDS-PAGE;</claim-text>
+<claim-text>(b) it phosphorylates Serine residues 262, 293, 305, 324 and 356 of human tau protein; and</claim-text>
+<claim-text>(c) it comprises the following amino acid sequences
+<img id="ib0004" file="imgb0004.tif" wi="75" he="21" img-content="dna" img-format="tif"/></claim-text></claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The DNA sequence according to claim 1 or 2, wherein the NPK is further <b>characterised by</b> the following features:
+<claim-text>(d) it is deactivated by phosphatases PP-2A; and</claim-text>
+<claim-text>(e) it phosphorylates the following Serine or Threonine residues of tau related microtubule associated proteins (MAPs) MAP2, MAP2c and MAP4
+<tables id="tabl0013" num="0013">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2c:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S 1707, S 1792, S 1796, S 1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text>
+<claim-text>(f) it causes the dissociation of tau, MAP4, MAP2 and MAP2c from microtubules.</claim-text><!-- EPO <DP n="55"> --></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The DNA sequence according to any one of claims 1 to 3, wherein the NPK is obtainable from brain tissue by the following steps:
+<claim-text>(a) homogenisation of brain extract and subsequent centrifugation thereof;</claim-text>
+<claim-text>(b) chromatography of the supernatant obtained in step (a) on cellulosephosphate wherein the NPK active fractions elute between 200 to 400 mM NaCl;</claim-text>
+<claim-text>(c) ammonium sulphate precipitation of active fractions obtained in step (b) and dialyses of the precipitate;</claim-text>
+<claim-text>(d) anion exchange chromatography of the dialysate obtained in step (c) on Q-Sepharose<sup>®</sup> and elution of the NPK active fractions wherein said NPK active fractions elute as a single peak at about 0.2 M NaCl, with subsequent dialyses of the active fractions;</claim-text>
+<claim-text>(e) cation exchange chromatography on Mono S<sup>®</sup> HR 10/10;</claim-text>
+<claim-text>(f) chromatography on Mono Q<sup>®</sup> HR 5/5, wherein the NPK active fractions elute at about 250 mM NaCl;</claim-text>
+<claim-text>(g) gel filtration chromatography on Superdex<sup>™</sup> G-200, wherein the NPK activity elutes with an apparent molecular weight of 100 kD; and</claim-text>
+<claim-text>(h) affinity chromatography on ATP-cellulose, wherein the NPK active fractions elute with an apparent molecular weight of about 110 kD as determined by SDS-PAGE;</claim-text>
+wherein the NPK activity is measured by incubating a peptide comprising amino acid residues 255 to 267 of human adult tau in the presence of radioactively labelled ATP and determining the radioactivity incorporated into said peptide.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A polypeptide encoded by the DNA sequence of any one of claims 1 to 4.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>An antibody specifically binding to the polypeptide according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>The antibody according to claim 6, which is a monoclonal antibody.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>The antibody according to claim 6, which is a polyclonal antibody.<!-- EPO <DP n="56"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A diagnostic composition comprising:
+<claim-text>(a) the polypeptide according to claim 5; or</claim-text>
+<claim-text>(b) the antibody according to any one of claims 7 or 8.</claim-text></claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A method for the in vitro diagnosis and/or monitoring of Alzheimer's disease comprising assaying a cerebrospinal fluid isolate of a patient or a biopsy of nerve tissue (for example, olfactory epithelium) and testing said tissue for the presence of the polypeptide according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>The method of claim 10 for testing for the presence of abnormal amounts or activity of the polypeptide according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>The method according to claim 10 or 11, wherein the NPK is detected by the antibody according to any one of claims 6, 7 or 8.</claim-text></claim>
+<claim id="c-en-01-0013" num="0013">
+<claim-text>A method for the in vitro diagnosis for cancer or the onset of cancer comprising assaying a suitable tissue or body fluid for the presence of abnormal amounts of the polypeptide of claim 5.</claim-text></claim>
+<claim id="c-en-01-0014" num="0014">
+<claim-text>A method for the in vitro conversion of normal MAP2, MAP2c or MAP4 by the treatment with the polypeptide of claim 5 into proteins phosphorylated at positions:
+<tables id="tabl0014" num="0014">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry>MAP2/MAP2c:</entry>
+<entry>S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry>MAP4:</entry>
+<entry>T829, T873, T874, T876, S899, S903, S928, S941, S1073.</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text></claim>
+</claims><!-- EPO <DP n="57"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>DNA-Sequenz, die eine neuronale Proteinkinase (NPK) codiert, die imstande ist, ein Sequenzmotiv des Typs KXGS in Tau, MAP4, MAP2 und MAP2c zu phosphorylieren, <b>gekennzeichnet durch</b> die folgenden Eigenschaften:
+<claim-text>(a) sie codiert die als MARK-1 in Tabelle 6 dargestellte Aminosäuresequenz; oder</claim-text>
+<claim-text>(b) sie codiert die als MARK-2 in Tabelle 6 dargestellte Aminosäuresequenz.</claim-text></claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>DNA-Sequenz, die eine neuronale Proteinkinase (NPK) codiert, die imstande ist, ein Sequenzmotiv des Typs KXGS in Tau, MAP4, MAP2 und MAP2c zu phosphorylieren, <b>gekennzeichnet durch</b> die folgenden Eigenschaften:
+<claim-text>(a) sie hat ein offensichtliches Molekulargewicht von 110 kD, bestimmt <b>durch</b> SDS-Gelelektrophorese;</claim-text>
+<claim-text>(b) sie phosphoryliert Serinreste 262, 293, 305, 324 und 356 des menschlichen Tau-Proteins; und</claim-text>
+<claim-text>(c) sie umfasst die folgenden Aminosäuresequenzen
+<img id="ib0005" file="imgb0005.tif" wi="72" he="25" img-content="dna" img-format="tif"/></claim-text></claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>DNA-Sequenz nach Anspruch 1 oder 2, wobei die NPK weiter <b>gekennzeichnet ist durch</b> die folgenden Eigenschaften:
+<claim-text>(d) sie wird deaktiviert <b>durch</b> die Phosphatasen PP-2A; und</claim-text>
+<claim-text>(e) sie phosphoryliert die folgenden Serin- oder Threoninreste von Tau-verwandten Mikrotubuli-assoziierten Proteinen (MAPs) MAP2, MAP2c und MAP4<!-- EPO <DP n="58"> -->
+<tables id="tabl0015" num="0015">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2c:</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4:</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876; S899; S903; S928; S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text>
+<claim-text>(f) sie verursacht die Dissoziation von Tau, MAP4, MAP2 und MAP2c von Mikrotubuli.</claim-text></claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>DNA-Sequenz nach einem der Ansprüche 1 bis 3, wobei die NPK erhältlich ist aus Himgewebe durch die folgenden Schritte:
+<claim-text>(a) Homogenisieren von Hirnextrakt und nachfolgende Zentrifugation desselben;</claim-text>
+<claim-text>(b) Chromatographie des in Schritt (a) erhaltenen Überstandes an Cellulosephosphat, wobei die NPK-aktiven Fraktionen zwischen 200 und 400mM NaCl eluieren;</claim-text>
+<claim-text>(c) Ammoniumsulfat-Präzipitation der in Schritt (b) erhaltenen aktiven Fraktionen und Dialysen des Präzipitats;</claim-text>
+<claim-text>(d) Anionaustausch-Chromatographie des in Schritt (c) erhaltenen Dialysats an Q-Sepharose<sup>®</sup> und Elution der NPK-aktiven Fraktionen, wobei die NPK-aktiven Fraktionen als Einzelpeak bei etwa 0,2 M NaCl eluieren, mit nachfolgenden Dialysen der aktiven Fraktionen;</claim-text>
+<claim-text>(e) Kationenaustausch-Chromatographie an Mono S<sup>®</sup> HR10/10;</claim-text>
+<claim-text>(f) Chromatographie an Mono Q<sup>®</sup> HR 5/5, wobei die NPK-aktiven Fraktionen bei etwa 250 mM NaCl eluieren;</claim-text>
+<claim-text>(g) Gelfiltrations-Chromatographie an Superdex<sup>™</sup> G-200, wobei die NPK-Aktivität mit einem offensichtlichen Molekulargewicht von 100 kD eluiert; und</claim-text>
+<claim-text>(h) Affinitäts-Chromatographie an ATP-Cellulose, wobei die NPK-aktiven Fraktionen mit einem offensichtlichen Molekulargewicht von etwa 110 kD eluieren, bestimmt durch SDS- Gelelektrophorese;</claim-text>
+wobei die NPK-Aktivität gemessen wird durch Inkubieren eines Peptids, das die Aminosäurereste 255 bis 267 von menschlichem, adultem Tau umfasst, in Gegenwart von radioaktivmarkiertem ATP und Bestimmen der in das Peptid eingebauten Radioaktivität.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Polypeptid, codiert durch die DNA-Sequenz nach einem der Ansprüche 1 bis 4.<!-- EPO <DP n="59"> --></claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Antikörper, der spezifisch an ein Polypeptid gemäß Anspruch 5 bindet.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Antikörper nach Anspruch 6, der ein monoclonaler Antikörper ist.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Antikörper nach Anspruch 6, der ein polyclonaler Antikörper ist.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Diagnostische Zusammensetzung, umfassend:
+<claim-text>(a) das Polypeptid nach Anspruch 5; oder</claim-text>
+<claim-text>(b) den Antikörper nach einem der Ansprüche 7 oder 8.</claim-text></claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren für die in vitro-Diagnose und/oder Verlaufsverfolgung der Alzheimer-Erkrankung, umfassend die Untersuchung eines cerebrospinalen Flüssigkeitisolats eines Patienten oder einer Biopsie von Nervengewebe (z. B. olfaktorisches Epithelium) und die Untersuchung dieses Gewebes auf das Vorliegen des Polypeptids nach Anspruch 5.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren nach Anspruch 10 zum Testen auf das Vorliegen von abnormalen Mengen oder Aktivität des Polypeptids nach Anspruch 5.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach Anspruch 10 oder 11, wobei die NPK nachgewiesen wird durch den Antikörper nach einem der Ansprüche 6, 7 oder 8.</claim-text></claim>
+<claim id="c-de-01-0013" num="0013">
+<claim-text>Verfahren für die in vitro-Diagnose auf Krebs oder den Ausbruch von Krebs, umfassend die Untersuchung eines geeigneten Gewebes oder geeigneter Körperflüssigkeit auf das Vorliegen von abnormalen Mengen des Polypeptids nach Anspruch 5.</claim-text></claim>
+<claim id="c-de-01-0014" num="0014">
+<claim-text>Verfahren für die in vitro-Umwandlung von normalem MAP2, MAP2c oder MAP4 durch die Behandlung mit dem Polypeptid nach Anspruch 5 in Proteine, die phosphoryliert sind an den Positionen:
+<tables id="tabl0016" num="0016">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="26mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry>MAP2/MAP2c:</entry>
+<entry>S37, S1536; S1676; S1707; S1792; S1796; S1799</entry></row>
+<row>
+<entry>MAP4:</entry>
+<entry>T829, T873, T874, T876, S899, S903, S928, S941, S1073.</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text></claim>
+</claims><!-- EPO <DP n="60"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Séquence d'ADN codant pour une protéine kinase neuronale (NPK) qui est capable de phosphoryler un motif de séquence du type KXGS dans les protéines tau, MAP4, MAP2 et MAP2c, <b>caractérisée par</b> les caractéristiques suivantes :
+<claim-text>(a) elle code pour la séquence d'acides aminés indiquée MARK-1 dans le tableau 6 ; ou</claim-text>
+<claim-text>(b) elle code pour la séquence d'acides aminés indiquée MARK-2 dans le tableau 6.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Séquence d'ADN codant pour une protéine kinase neuronale (NPK) qui est capable de phosphoryler un motif de séquence du type KXGS dans les protéines tau, MAP4, MAP2 et MAP2c, <b>caractérisée par</b> les caractéristiques suivantes :
+<claim-text>(a) elle a un poids moléculaire apparent de 110 kD déterminé par SDS-PAGE ;</claim-text>
+<claim-text>(b) elle phosphoryle les résidus de sérine 262, 293, 305, 324 et 356 de la protéine tau humaine ; et</claim-text>
+<claim-text>(c) elle comprend les séquences d'acides aminés suivantes
+<img id="ib0006" file="imgb0006.tif" wi="66" he="20" img-content="dna" img-format="tif"/></claim-text></claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Séquence d'ADN selon la revendication 1 ou 2, où la NPK est en outre <b>caractérisée par</b> les caractéristiques suivantes :
+<claim-text>(d) elle est désactivée par les phosphatases PP-2A ; et</claim-text>
+<claim-text>(e) elle phosphoryle les résidus de sérine ou de thréonine suivants des protéines associées aux microtubules (MAPs) apparentées à tau, MAP2, MAP2c et MAP4
+<tables id="tabl0017" num="0017">
+<table frame="none">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry colsep="0" rowsep="0">MAP2/MAP2c :</entry>
+<entry colsep="0" rowsep="0">S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry colsep="0" rowsep="0">MAP4 :</entry>
+<entry colsep="0" rowsep="0">T829, T873, T874, T876, S899, S903, S928, S941, S1073</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text>
+<claim-text>(f) elle provoque la dissociation de tau, MAP4, MAP2 et MAP2c des microtubules.</claim-text><!-- EPO <DP n="61"> --></claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Séquence d'ADN selon l'une quelconque des revendications 1 à 3, où la NPK peut être obtenue à partir de tissu cérébral par les étapes suivantes :
+<claim-text>(a) homogénéisation d'extrait cérébral et ensuite centrifugation de celui-ci ;</claim-text>
+<claim-text>(b) chromatographie du surnageant obtenu dans l'étape (a) sur phosphate de cellulose où les fractions actives de NPK s'éluent entre 200 et 400 mM de NaCl ;</claim-text>
+<claim-text>(c) précipitation au sulfate d'ammonium des fractions actives obtenues dans l'étape (b) et dialyse du précipité ;</claim-text>
+<claim-text>(d) chromatographie par échange d'anions du dialysat obtenu dans l'étape (c) sur Q-Sepharose® et élution des fractions actives de NPK où lesdites fractions actives de NPK s'éluent sous la forme d'un pic unique à environ 0,2 M de NaCl, avec ensuite une dialyse des fractions actives ;</claim-text>
+<claim-text>(e) chromatographie par échange de cations sur Mono S® HR 10/10 ;</claim-text>
+<claim-text>(f) chromatographie sur Mono Q® HR 5/5, où les fractions actives de NPK s'éluent à environ 250 mM de NaCl ;</claim-text>
+<claim-text>(g) chromatographie par filtration sur gel sur Superdex<sup>™</sup> G-200, où l'activité NPK s'élue avec un poids moléculaire apparent de 100 kD ; et</claim-text>
+<claim-text>(h) chromatographie d'affinité sur ATP-cellulose, où les fractions actives de NPK s'éluent avec un poids moléculaire apparent d'environ 110 kD déterminé par SDS-PAGE ;</claim-text>
+où l'activité NPK est mesurée en incubant un peptide comprenant les résidus d'acides aminés 255 à 267 de la protéine tau adulte humaine en présence d'ATP marqué de manière radioactive et en déterminant la radioactivité incorporée dans ledit peptide.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Polypeptide codé par la séquence d'ADN selon l'une quelconque des revendications 1 à 4.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Anticorps se liant spécifiquement au polypeptide selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Anticorps selon la revendication 6, qui est un anticorps monoclonal.<!-- EPO <DP n="62"> --></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Anticorps selon la revendication 6, qui est un anticorps polyclonal.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Composition diagnostique comprenant :
+<claim-text>(a) le polypeptide selon la revendication 5 ; ou</claim-text>
+<claim-text>(b) l'anticorps selon l'une quelconque des revendications 7 ou 8.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé de diagnostic in vitro et/ou de contrôle de la maladie d'Alzheimer comprenant l'analyse d'un isolat de liquide céphalorachidien d'un patient ou d'une biopsie de tissu nerveux (par exemple, épithélium olfactif) et le test dudit tissu à la recherche de la présence du polypeptide selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé selon la revendication 10 pour tester la présence de quantités ou d'une activité anormales du polypeptide selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé selon la revendication 10 ou 11, où la NPK est détectée par l'anticorps selon l'une quelconque des revendications 6, 7 ou 8.</claim-text></claim>
+<claim id="c-fr-01-0013" num="0013">
+<claim-text>Procédé de diagnostic in vitro de cancer ou du déclenchement d'un cancer comprenant l'analyse d'un tissu ou d'un liquide corporel approprié pour la présence de quantités anormales du polypeptide selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0014" num="0014">
+<claim-text>Procédé de conversion in vitro de MAP2, MAP2c ou MAP4 normale par le traitement avec le polypeptide selon la revendication 5 en protéines phosphorylées aux positions :
+<tables id="tabl0018" num="0018">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="27mm"/>
+<colspec colnum="2" colname="col2" colwidth="84mm"/>
+<tbody>
+<row>
+<entry>MAP2/MAP2c :</entry>
+<entry>S37, S1536, S1676, S1707, S1792, S1796, S1799</entry></row>
+<row>
+<entry>MAP4 :</entry>
+<entry>T829, T873, T874, T876, S899, S903, S928, S941, S1073.</entry></row></tbody></tgroup>
+</table>
+</tables></claim-text></claim>
+</claims><!-- EPO <DP n="63"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num="1"><img id="if0001" file="imgf0001.tif" wi="165" he="169" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="64"> -->
+<figure id="f0002" num="2A,2B"><img id="if0002" file="imgf0002.tif" wi="157" he="231" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="65"> -->
+<figure id="f0003" num="2C,2D,2E"><img id="if0003" file="imgf0003.tif" wi="165" he="198" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="66"> -->
+<figure id="f0004" num="3"><img id="if0004" file="imgf0004.tif" wi="129" he="183" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="67"> -->
+<figure id="f0005" num="4"><img id="if0005" file="imgf0005.tif" wi="163" he="146" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="68"> -->
+<figure id="f0006" num="5A,5B,5C,5D"><img id="if0006" file="imgf0006.tif" wi="165" he="184" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="69"> -->
+<figure id="f0007" num="6A,6B"><img id="if0007" file="imgf0007.tif" wi="125" he="191" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="70"> -->
+<figure id="f0008" num="7a),7b)"><img id="if0008" file="imgf0008.tif" wi="137" he="194" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="71"> -->
+<figure id="f0009" num="8A,8B,8C,8D,8E"><img id="if0009" file="imgf0009.tif" wi="155" he="202" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="72"> -->
+<figure id="f0010" num="9A,9B,9C,9D,"><img id="if0010" file="imgf0010.tif" wi="165" he="218" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="73"> -->
+<figure id="f0011" num="10A,10B"><img id="if0011" file="imgf0011.tif" wi="160" he="233" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="74"> -->
+<figure id="f0012" num="11"><img id="if0012" file="imgf0012.tif" wi="118" he="165" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="75"> -->
+<figure id="f0013" num="12"><img id="if0013" file="imgf0013.tif" wi="144" he="166" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="76"> -->
+<figure id="f0014" num="13A,13B,13C"><img id="if0014" file="imgf0014.tif" wi="118" he="231" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="77"> -->
+<figure id="f0015" num="14"><img id="if0015" file="imgf0015.tif" wi="159" he="149" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="78"> -->
+<figure id="f0016" num="15"><img id="if0016" file="imgf0016.tif" wi="133" he="146" img-content="drawing" img-format="tif"/></figure><!-- EPO <DP n="79"> -->
+<figure id="f0017" num="16A,16B,16C,16D"><img id="if0017" file="imgf0017.tif" wi="154" he="188" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="EP9202829W"><document-id><country>EP</country><doc-number>9202829</doc-number><kind>W</kind></document-id></patcit><crossref idref="pcit0001">[0036]</crossref><crossref idref="pcit0002">[0038]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Non-patent literature cited in the description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="b"><article><atl/><book><author><name>HARLOW</name></author><author><name>LANE</name></author><book-title>Antibodies, A Laboratory Manual</book-title><imprint><name>Cold Spring Harbor Laboratory</name><pubdate>19880000</pubdate></imprint></book></article></nplcit><crossref idref="ncit0001">[0019]</crossref></li>
+<li><nplcit id="ref-ncit0002" npl-type="s"><article><author><name>ALBALA, J.S.</name></author><author><name>KALCHEVA, N.</name></author><author><name>SCHAFIT-ZAGARDO, B.</name></author><atl>Characterisation of the transcripts encoding 2 isoforms of human microtubule-associated protein-2 (MAP-2</atl><serial><sertitle>Gene</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>136</vid></serial><location><pp><ppf>377</ppf><ppl>378</ppl></pp></location></article></nplcit><crossref idref="ncit0002">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0003" npl-type="s"><article><author><name>ANDERTON, B.H.</name></author><atl>Expression and processing of pathological proteins in Alzheimer's disease</atl><serial><sertitle>Hippocampus</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>3</vid></serial><location><pp><ppf>227</ppf><ppl>237</ppl></pp></location></article></nplcit><crossref idref="ncit0003">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0004" npl-type="s"><article><author><name>BAAS, P.W.</name></author><author><name>PIENKOWSKI, T.P.</name></author><author><name>KOSIK, K.S.</name></author><atl>Processes induced by tau expression in Sf9-cells have an axon-like microtubule organisation</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>115</vid></serial><location><pp><ppf>1333</ppf><ppl>1344</ppl></pp></location></article></nplcit><crossref idref="ncit0004">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0005" npl-type="s"><article><author><name>BAUMANN,K.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>BIERNAT,J.</name></author><author><name>PIWNICA-WORMS,H.</name></author><author><name>MANDELKOW,E.</name></author><atl>Abnormal Alzheimer-like phosphorylation of tau protein by cyclin-dependent kinases cdk2 and cdk5</atl><serial><sertitle>FEBS Lett.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>336</vid></serial><location><pp><ppf>417</ppf><ppl>424</ppl></pp></location></article></nplcit><crossref idref="ncit0005">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0006" npl-type="s"><article><author><name>BERLING,B.</name></author><author><name>WILLE,H.</name></author><author><name>RÖLL,B.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>GARNER,C.</name></author><author><name>MANDELKOW,E.</name></author><atl>Phosphorylation of microtubule-associated proteins MAP2a,b and MAP2c at serine 136 by proline-directed kinases in vivo and in vitro</atl><serial><sertitle>Eur. J. Cell Biol.</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>64</vid></serial><location><pp><ppf>120</ppf><ppl>130</ppl></pp></location></article></nplcit><crossref idref="ncit0006">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0007" npl-type="s"><article><author><name>BIERNAT,J.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>SCHRÖTER,C.</name></author><author><name>LICHTENBERG-KRAAG,B.</name></author><author><name>STEINER,B.</name></author><author><name>BERLING,B.</name></author><author><name>MEYER,H.E.</name></author><author><name>MERCKEN,M.</name></author><author><name>VANDERMEEREN,A.</name></author><author><name>GOEDERT,M.</name></author><atl>The switch of tau protein to an Alzheimer-like state includes the phosphorylation of two serine-proline motifs upstream of the microtubule binding region</atl><serial><sertitle>EMBO J.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>11</vid></serial><location><pp><ppf>1593</ppf><ppl>1597</ppl></pp></location></article></nplcit><crossref idref="ncit0007">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0008" npl-type="s"><article><author><name>BIERNAT,J.</name></author><author><name>GUSTKE,N.</name></author><author><name>DREWES,G.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>MANDELKOW, E.</name></author><atl>Phosphorylation of serine 262 strongly reduces the binding of tau protein to microtubules: Distinction between PHF-like immunoreactivity and microtubule binding</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>11</vid></serial><location><pp><ppf>153</ppf><ppl>163</ppl></pp></location></article></nplcit><crossref idref="ncit0008">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0009" npl-type="s"><article><author><name>BOYLE, W.J.</name></author><author><name>VAN DER GEER, P.</name></author><author><name>HUNTER, T.</name></author><atl>Phosphopeptide mapping and phosphoamino acid analysis by two-dimensional separation on thin layer cellulose plates</atl><serial><sertitle>Methods Enzymol.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>201</vid></serial><location><pp><ppf>110</ppf><ppl>149</ppl></pp></location></article></nplcit><crossref idref="ncit0009">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0010" npl-type="s"><article><author><name>BRAMBLETT, G.T.</name></author><author><name>GOEDERT, M.</name></author><author><name>JAKES, R.</name></author><author><name>MERRICK, S.E.</name></author><author><name>TROJANOWSKI,J.Q.</name></author><author><name>LEE, V.M.Y.</name></author><atl>Abnormal tau phosphorylation at Ser(396) in Alzheimer's disease recapitulates development and contributes to reduced microtubule binding</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>10</vid></serial><location><pp><ppf>1089</ppf><ppl>1099</ppl></pp></location></article></nplcit><crossref idref="ncit0010">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0011" npl-type="s"><article><author><name>BRANDT, R.</name></author><author><name>LEE, G.</name></author><atl>Functional organisation of microtubule-associated protein tau: Identification of regions which affect microtubule growth, nucleation, and bundle formation in vitro</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>268</vid></serial><location><pp><ppf>3414</ppf><ppl>3419</ppl></pp></location></article></nplcit><crossref idref="ncit0011">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0012" npl-type="s"><article><author><name>BRION, J.P.</name></author><author><name>HANGER, D.P.</name></author><author><name>COUCK, A.M.</name></author><author><name>ANDERTON, B.H.</name></author><atl>A68 proteins in Alzheimers-disease are composed of several tau isoforms in a phosphorylated state which affects their electrophoretic mobilities</atl><serial><sertitle>Biochem. J.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>279</vid></serial><location><pp><ppf>831</ppf><ppl>836</ppl></pp></location></article></nplcit><crossref idref="ncit0012">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0013" npl-type="s"><article><author><name>BRUGG, B.</name></author><author><name>MATUS, A.</name></author><atl>Phosphorylation determines the binding of microtubule-associated protein-2 (MAP2) to microtubules in living cells</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>114</vid></serial><location><pp><ppf>735</ppf><ppl>743</ppl></pp></location></article></nplcit><crossref idref="ncit0013">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0014" npl-type="s"><article><author><name>BUTLER, M.</name></author><author><name>SHELANSKI, M.L.</name></author><atl>Microheterogeneity of microtubule-associated tau-proteins is due to differences in phosphorylation</atl><serial><sertitle>J. Neurochem.</sertitle><pubdate><sdate>19860000</sdate><edate/></pubdate><vid>47</vid></serial><location><pp><ppf>1517</ppf><ppl>1522</ppl></pp></location></article></nplcit><crossref idref="ncit0014">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0015" npl-type="s"><article><author><name>BUTNER, K.A.</name></author><author><name>KIRSCHNER, M.W.</name></author><atl>Tau-protein binds to microtubules through a flexible array of distributed weak sites</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>115</vid></serial><location><pp><ppf>717</ppf><ppl>730</ppl></pp></location></article></nplcit><crossref idref="ncit0015">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0016" npl-type="s"><article><author><name>CASNELLI, J.E.</name></author><atl>Assay of protein kinases using peptides with basic residues for phosphocellulose binding</atl><serial><sertitle>Meth. Enzymology</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>200</vid></serial><location><pp><ppf>115</ppf><ppl>120</ppl></pp></location></article></nplcit><crossref idref="ncit0016">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0017" npl-type="s"><article><author><name>CHAPIN, S.J.</name></author><author><name>BULINSKI, J.C.</name></author><atl>Non-neuronal 210 kD Mn microtubule-associated protein (MAP4) contains a domain homologous to the microtubule-binding domains of neuronal MAP2 and tau</atl><serial><sertitle>J. Cell Sci.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>98</vid></serial><location><pp><ppf>27</ppf><ppl>36</ppl></pp></location></article></nplcit><crossref idref="ncit0017">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0018" npl-type="s"><article><author><name>CHAPIN, S.J.</name></author><author><name>BULINSKI, J.C.</name></author><atl>Microtubule stabilisation by assembly-promoting microtubule-associated proteins: A repeat performance</atl><serial><sertitle>Cell Mot. Cytoskel.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>23</vid></serial><location><pp><ppf>236</ppf><ppl>243</ppl></pp></location></article></nplcit><crossref idref="ncit0018">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0019" npl-type="s"><article><author><name>CHEN, J.</name></author><author><name>KANAI, Y.</name></author><author><name>COWAN, N.</name></author><author><name>HIROKAWA, N.</name></author><atl>Projection domains of MAP2 and tau determine spacings between microtubules in dendrites and axons.</atl><serial><sertitle>Nature</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>360</vid></serial><location><pp><ppf>674</ppf><ppl>677</ppl></pp></location></article></nplcit><crossref idref="ncit0019">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0020" npl-type="s"><article><author><name>CLEVELAND, D.W.</name></author><author><name>HWO, S.-Y.</name></author><author><name>KIRSCHNER, M.W.</name></author><atl>Purification of tau, a microtubule-associated protein that induces assembly of microtubules from purified tubulin</atl><serial><sertitle>J. Mol. Biol.</sertitle><pubdate><sdate>19770000</sdate><edate/></pubdate><vid>116</vid></serial><location><pp><ppf>207</ppf><ppl>225</ppl></pp></location></article></nplcit><crossref idref="ncit0020">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0021" npl-type="s"><article><author><name>CORREAS, I.</name></author><author><name>DIAZNIDO, J.</name></author><author><name>AVILA, J.</name></author><atl>Microtubule associated protein tau is phosphorylated by protein kinase C on its tubulin binding domain</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>267</vid></serial><location><pp><ppf>15721</ppf><ppl>15728</ppl></pp></location></article></nplcit><crossref idref="ncit0021">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0022" npl-type="s"><article><author><name>DRECHSEL, D.N.</name></author><author><name>HYMAN, A.A.</name></author><author><name>COBB, M.H.</name></author><author><name>KIRSCHNER, M.W.</name></author><atl>Modulation of the dynamic instability of tubulin assembly by the microtubule-associated protein tau</atl><serial><sertitle>Mol. Biol. Cell</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>3</vid></serial><location><pp><ppf>1141</ppf><ppl>1154</ppl></pp></location></article></nplcit><crossref idref="ncit0022">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0023" npl-type="s"><article><author><name>DREWES,G.</name></author><author><name>LICHTENBERG-KRAAG,B.</name></author><author><name>DÖRING,F.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>BIERNAT,J.</name></author><author><name>GORIS,J.</name></author><author><name>DOREE,M.</name></author><author><name>MANDELKOW,E.</name></author><atl>Mitogen-activated protein (MAP) kinase transforms tau protein into an Alzheimer like state</atl><serial><sertitle>EMBO J.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>11</vid></serial><location><pp><ppf>2131</ppf><ppl>2138</ppl></pp></location></article></nplcit><crossref idref="ncit0023">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0024" npl-type="s"><article><author><name>DREWES,G.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>BAUMANN,K.</name></author><author><name>GORIS,J.</name></author><author><name>MERLEVEDE,W.</name></author><author><name>MANDELKOW,E.</name></author><atl>Dephosphorylation of tau protein and Alzheimer paired helical filaments by calcineurin and phosphatase-2A</atl><serial><sertitle>FEBS Lett.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>336</vid></serial><location><pp><ppf>425</ppf><ppl>432</ppl></pp></location></article></nplcit><crossref idref="ncit0024">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0025" npl-type="s"><article><author><name>DRUBIN, D.</name></author><author><name>KIRSCHNER, M.</name></author><atl>Tau protein function in living cells</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19860000</sdate><edate/></pubdate><vid>103</vid></serial><location><pp><ppf>2739</ppf><ppl>2746</ppl></pp></location></article></nplcit><crossref idref="ncit0025">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0026" npl-type="s"><article><author><name>ENNULAT,D.J.</name></author><author><name>LIEM,R.K.H.</name></author><author><name>HASHIM,G.A.</name></author><author><name>SHELANSKI,M.L.</name></author><atl>Two separate 18-amino acid domains of tau promote the polymerisation of tubulin</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>264</vid></serial><location><pp><ppf>5327</ppf><ppl>5330</ppl></pp></location></article></nplcit><crossref idref="ncit0026">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0027" npl-type="s"><article><author><name>GEAHLEN,R.L.</name></author><author><name>ANOSTARIO,M.</name></author><author><name>LOW,P.S.</name></author><author><name>HARRISON,M.L.</name></author><atl>Detection of protein kinase activity in sodium dodedyl sulfate-polyacrylamide gels</atl><serial><sertitle>Anal. Biochem.</sertitle><pubdate><sdate>19860000</sdate><edate/></pubdate><vid>153</vid></serial><location><pp><ppf>151</ppf><ppl>158</ppl></pp></location></article></nplcit><crossref idref="ncit0027">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0028" npl-type="s"><article><author><name>GOEDERT,M.</name></author><author><name>SPILLANTINI,M.</name></author><author><name>JAKES,R.</name></author><author><name>RUTHERFORD,D.</name></author><author><name>CROWTHER,R.A.</name></author><atl>Multiple isoforms of human microtubule-associated protein-tau: Sequences and localisation in neurofibrillary tangles of Alzheimers-disease</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>3</vid></serial><location><pp><ppf>519</ppf><ppl>526</ppl></pp></location></article></nplcit><crossref idref="ncit0028">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0029" npl-type="s"><article><author><name>GOEDERT, M.</name></author><author><name>SPILLANTINI, G.</name></author><author><name>CAIRNS, N.J.</name></author><author><name>CROWTHER, R.A.</name></author><atl>Tau proteins of Alzheimer paired helical filaments: Abnormal phosphorylation of all six brain isoforms</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>8</vid></serial><location><pp><ppf>159</ppf><ppl>168</ppl></pp></location></article></nplcit><crossref idref="ncit0029">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0030" npl-type="s"><article><author><name>GOEDERT, M.</name></author><atl>Tau protein and the neurofibrillary pathology of Alzheimer's disease</atl><serial><sertitle>Trends in Neurosci.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>16</vid></serial><location><pp><ppf>460</ppf><ppl>465</ppl></pp></location></article></nplcit><crossref idref="ncit0030">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0031" npl-type="s"><article><author><name>GONG, C.X.</name></author><author><name>SINGH, T.J.</name></author><author><name>GRUNDKE-IQBAL, I.</name></author><author><name>IQBAL, K.</name></author><atl>Alzheimer's disease abnormally phosphorylated tau is dephosphorylated by protein phosphatase-2b (calcineurin</atl><serial><sertitle>J. Neurochem.</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>62</vid></serial><location><pp><ppf>803</ppf><ppl>806</ppl></pp></location></article></nplcit><crossref idref="ncit0031">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0032" npl-type="s"><article><author><name>GOODE, B.L.</name></author><author><name>FEINSTEIN, S.C.</name></author><atl>Identification of a novel microtubule binding and assembly domain in the developmentally regulated inter-repeat region of tau.</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>124</vid></serial><location><pp><ppf>769</ppf><ppl>782</ppl></pp></location></article></nplcit><crossref idref="ncit0032">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0033" npl-type="s"><article><author><name>GREENBERG, S.G.</name></author><author><name>DAVIES, P.</name></author><author><name>SCHEIN, J.D.</name></author><author><name>BINDER, L.I.</name></author><atl>Hydrofluoric acid-treated tau-PHF proteins display the same biochemical properties as normal tau</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>267</vid></serial><location><pp><ppf>564</ppf><ppl>569</ppl></pp></location></article></nplcit><crossref idref="ncit0033">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0034" npl-type="s"><article><author><name>GRUNDKE-IQBAL,I.</name></author><author><name>IQBAL,K.</name></author><author><name>TUNG,Y.</name></author><author><name>QUINLAN,M.</name></author><author><name>WISNIEWSKI,H.</name></author><author><name>BINDER,L.</name></author><atl>Abnormal phosphorylation of the microtubule-associated protein tau in Alzheimer cytoskeletal pathology</atl><serial><sertitle>Proc. Natl. Acad. Sci. U.S.A.</sertitle><pubdate><sdate>19860000</sdate><edate/></pubdate><vid>83</vid></serial><location><pp><ppf>4913</ppf><ppl>4917</ppl></pp></location></article></nplcit><crossref idref="ncit0034">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0035" npl-type="s"><article><author><name>GUSTKE,N.</name></author><author><name>STEINER,B.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>BIERNAT,J.</name></author><author><name>MEYER,H.E.</name></author><author><name>GOEDERT,M.</name></author><author><name>MANDELKOW,E.</name></author><atl>The Alzheimer-like phosphorylation of tau protein reduces microtubule binding and involves Ser-Pro and Thr-Pro motifs</atl><serial><sertitle>FEBS Letters</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>307</vid></serial><location><pp><ppf>199</ppf><ppl>205</ppl></pp></location></article></nplcit><crossref idref="ncit0035">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0036" npl-type="s"><article><author><name>GUSTKE,N.</name></author><author><name>TRINCZEK,B.</name></author><author><name>BIERNAT,J.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>MANDELKOW, E.</name></author><atl>Domains of Tau Protein and Interactions with Microtubules</atl><serial><sertitle>Biochemistry</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>33</vid></serial><location><pp><ppf>9511</ppf><ppl>9522</ppl></pp></location></article></nplcit><crossref idref="ncit0036">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0037" npl-type="s"><article><author><name>HAGESTEDT,T.</name></author><author><name>LICHTENBERG,B.</name></author><author><name>WILLE,H.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>MANDELKOW,E.</name></author><atl>Tau protein becomes long and stiff upon phosphorylation: Correlation between paracrystalline structure and degree of phosphorylation</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>109</vid></serial><location><pp><ppf>1643</ppf><ppl>1651</ppl></pp></location></article></nplcit><crossref idref="ncit0037">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0038" npl-type="s"><article><author><name>HANGER, D.</name></author><author><name>HUGHES, K.</name></author><author><name>WOODGETT, J.</name></author><author><name>BRION, J.</name></author><author><name>ANDERTON, B.</name></author><atl>Glycogen-synthase kinase-3 induces Alzheimer's disease-like phosphorylation of tau: Generation of paired helical filament epitopes and neuronal localisation of the kinase</atl><serial><sertitle>Neurosci. Lett.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>147</vid></serial><location><pp><ppf>58</ppf><ppl>62</ppl></pp></location></article></nplcit><crossref idref="ncit0038">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0039" npl-type="s"><article><author><name>HANKS, S.K.</name></author><author><name>QUINN, A.M.</name></author><atl>Protein-kinase catalytic domain sequence database: Identification of conserved features of primary structure and classification of family members</atl><serial><sertitle>Meth. Enzymol.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>200</vid></serial><location><pp><ppf>38</ppf><ppl>62</ppl></pp></location></article></nplcit><crossref idref="ncit0039">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0040" npl-type="s"><article><author><name>HASEGAWA,M.</name></author><author><name>MORISHIMA-KAWASHIMA,M.</name></author><author><name>TAKIO,K.</name></author><author><name>SUZUKI,M.</name></author><author><name>TITANI,K.</name></author><author><name>IHARA,Y.</name></author><atl>Protein sequence and mass spectrometric analyses of tau in the Alzheimer's disease brain</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>26</vid></serial><location><pp><ppf>17047</ppf><ppl>17054</ppl></pp></location></article></nplcit><crossref idref="ncit0040">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0041" npl-type="s"><article><author><name>HIMMLER, A.</name></author><author><name>DRECHSEL,D.</name></author><author><name>KIRSCHNER, M.</name></author><author><name>MARTIN, D.</name></author><atl>Tau consists of a set of proteins with repeated C-terminal microtubule-binding domains and variable N-terminal domains</atl><serial><sertitle>Molec. Cell. Biol.</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>9</vid></serial><location><pp><ppf>1381</ppf><ppl>1388</ppl></pp></location></article></nplcit><crossref idref="ncit0041">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0042" npl-type="s"><article><author><name>HIROKAWA, N.</name></author><atl>Microtubule organisation and dynamics dependent on microtubule-associated proteins</atl><serial><sertitle>Curr. Opinion Cell Biol.</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>6</vid></serial><location><pp><ppf>74</ppf><ppl>81</ppl></pp></location></article></nplcit><crossref idref="ncit0042">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0043" npl-type="s"><article><author><name>HIRS, C.H.W.</name></author><atl>Modification of cysteine residues.</atl><serial><sertitle>Methods Enzymol.</sertitle><pubdate><sdate>19670000</sdate><edate/></pubdate><vid>11</vid></serial><location><pp><ppf>325</ppf><ppl>329</ppl></pp></location></article></nplcit><crossref idref="ncit0043">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0044" npl-type="s"><article><author><name>INGLIS, J.D.</name></author><author><name>LEE, M.</name></author><author><name>HILL, R.E.</name></author><atl>Emk, a protein-kinase with homologs in yeast maps to mouse chromosome-19. Mamm</atl><serial><sertitle>Genome</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>4</vid></serial><location><pp><ppf>401</ppf><ppl>403</ppl></pp></location></article></nplcit><crossref idref="ncit0044">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0045" npl-type="s"><article><author><name>ISHIGURO,K.</name></author><author><name>OMORI,A.</name></author><author><name>SATO,K.</name></author><author><name>TOMIZAWA,K.</name></author><author><name>IMAHORI,K.</name></author><author><name>UCHIDA,T.</name></author><atl>A serine threonine proline kinase-activity is included in the tau-protein kinase fraction forming a paired helical filament epitope</atl><serial><sertitle>Neurosci. Lett.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>128</vid></serial><location><pp><ppf>195</ppf><ppl>198</ppl></pp></location></article></nplcit><crossref idref="ncit0045">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0046" npl-type="s"><article><author><name>JOLY, J.C.</name></author><author><name>PURICH, D.L.</name></author><atl>Peptides corresponding to the 2nd repeated sequence in map-2 inhibit binding of microtubule-associated proteins to microtubules</atl><serial><sertitle>Biochemistry</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>29</vid></serial><location><pp><ppf>8916</ppf><ppl>8920</ppl></pp></location></article></nplcit><crossref idref="ncit0046">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0047" npl-type="s"><article><author><name>KANEMARU, K.</name></author><author><name>TAKIO, K.</name></author><author><name>MIURA, R.</name></author><author><name>TITANI, K.</name></author><author><name>IHARA, Y.</name></author><atl>Fetal-type phosphorylation of the tau in paired helical filaments</atl><serial><sertitle>J. Neurochem.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>58</vid></serial><location><pp><ppf>1667</ppf><ppl>1675</ppl></pp></location></article></nplcit><crossref idref="ncit0047">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0048" npl-type="s"><article><author><name>KEMP, B.E.</name></author><author><name>PEARSON, R.B.</name></author><atl>Protein kinase recognition sequence motifs</atl><serial><sertitle>TIBS</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>15</vid></serial><location><pp><ppf>342</ppf><ppl>346</ppl></pp></location></article></nplcit><crossref idref="ncit0048">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0049" npl-type="s"><article><author><name>KINDLER, S.</name></author><author><name>SCHWANKE, B.</name></author><author><name>SCHULZ, B.</name></author><author><name>GARNER, C.C.</name></author><atl>Complete cDNA sequence encoding rat high and low molecular weight MAP2</atl><serial><sertitle>Nucl. Acids Res.</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>18</vid></serial><location><pp><ppf>2822</ppf><ppl/></pp></location></article></nplcit><crossref idref="ncit0049">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0050" npl-type="s"><article><author><name>KOBAYASHI, S.</name></author><author><name>ISHIGURO, K.</name></author><author><name>OMORI, A.</name></author><author><name>TAKAMATSU, M.</name></author><author><name>ARIOKA, M.</name></author><author><name>IMAHORI, K.</name></author><author><name>UCHIDA, T.</name></author><atl>A cdc2-related kinase pssalre/cdk5 is homologous with the 30 kDa subunit of tau protein kinase-ii, a proline-directed protein-kinase associated with microtubule</atl><serial><sertitle>FEBS Letters</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>335</vid></serial><location><pp><ppf>171</ppf><ppl>175</ppl></pp></location></article></nplcit><crossref idref="ncit0050">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0051" npl-type="s"><article><author><name>KONDO,J.</name></author><author><name>HONDA,T.</name></author><author><name>MORI,H.</name></author><author><name>HAMADA,Y.</name></author><author><name>MIURA,R.</name></author><author><name>OGAWARA,M.</name></author><author><name>IHARA,Y.</name></author><atl>The carboxyl third of tau is tightly bound to paired helical filaments</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>1</vid></serial><location><pp><ppf>827</ppf><ppl>834</ppl></pp></location></article></nplcit><crossref idref="ncit0051">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0052" npl-type="s"><article><author><name>KSIEZAK-REDING, H.</name></author><author><name>YEN, S.H.</name></author><atl>Structural stability of paired helical filaments requires microtubule-binding domains of tau: A model for self-association</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>6</vid></serial><location><pp><ppf>717</ppf><ppl>728</ppl></pp></location></article></nplcit><crossref idref="ncit0052">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0053" npl-type="s"><article><author><name>KSIEZAK-REDING, H.</name></author><author><name>LIU, W.K.</name></author><author><name>YEN, S.H.</name></author><atl>Phosphate analysis and dephosphorylation of modified tau associated with paired helical filaments</atl><serial><sertitle>Brain Res.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>597</vid></serial><location><pp><ppf>209</ppf><ppl>219</ppl></pp></location></article></nplcit><crossref idref="ncit0053">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0054" npl-type="s"><article><author><name>LANG, E.</name></author><author><name>SZENDREI, G.I.</name></author><author><name>LEE, V.M.Y.</name></author><author><name>OTVOS, L.</name></author><atl>Immunological and conformation characterisation of a phosphorylated immunodominant epitope on the paired helical filaments found in Alzheimer's disease</atl><serial><sertitle>Biochem. Biophys. Res. Comm.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>187</vid></serial><location><pp><ppf>783</ppf><ppl>790</ppl></pp></location></article></nplcit><crossref idref="ncit0054">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0055" npl-type="s"><article><author><name>LEE, G.</name></author><author><name>NEVE, R.L.</name></author><author><name>KOSIK, K.S.</name></author><atl>The microtubule binding domain of tau-protein</atl><serial><sertitle>Neuron</sertitle><pubdate><sdate>19890000</sdate><edate/></pubdate><vid>2</vid></serial><location><pp><ppf>1615</ppf><ppl>1624</ppl></pp></location></article></nplcit><crossref idref="ncit0055">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0056" npl-type="s"><article><author><name>LEE, V.M.Y.</name></author><author><name>BALIN, B.J.</name></author><author><name>OTVOS, L.</name></author><author><name>TROJANOWSKI, J.Q.</name></author><atl>A68 - a major subunit of paired helical filaments and derivatised forms of normal tau</atl><serial><sertitle>Science (Wash.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>251</vid></serial><location><pp><ppf>675</ppf><ppl>678</ppl></pp></location></article></nplcit><crossref idref="ncit0056">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0057" npl-type="s"><article><author><name>LEE, V.M.Y.</name></author><author><name>TROJANOWSKI, J.Q.</name></author><atl>The disordered neuronal cytoskeleton in Alzheimer's disease</atl><serial><sertitle>Curr. Opin. Neurobiol.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>2</vid></serial><location><pp><ppf>653</ppf><ppl>656</ppl></pp></location></article></nplcit><crossref idref="ncit0057">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0058" npl-type="s"><article><author><name>LEE, G.</name></author><author><name>ROOK, S.</name></author><atl>Expression of tau protein in non-neuronal cells: microtubule binding and stabilisation</atl><serial><sertitle>J. Cell Sci.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>102</vid></serial><location><pp><ppf>227</ppf><ppl>237</ppl></pp></location></article></nplcit><crossref idref="ncit0058">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0059" npl-type="s"><article><author><name>LEE, G.</name></author><atl>Non-motor microtubule-associated proteins</atl><serial><sertitle>Curr. Opin. Cell Biol.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>5</vid></serial><location><pp><ppf>88</ppf><ppl>94</ppl></pp></location></article></nplcit><crossref idref="ncit0059">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0060" npl-type="s"><article><author><name>LEVIN, D.E.</name></author><author><name>BISHOP, J.M.</name></author><atl>A putative protein-kinase gene (kin1+) is important for growth polarity in Schizosaccharomyces pombe</atl><serial><sertitle>Proc. Natl. Acad. Sci. USA</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>87</vid></serial><location><pp><ppf>8272</ppf><ppl>8276</ppl></pp></location></article></nplcit><crossref idref="ncit0060">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0061" npl-type="s"><article><author><name>LEVIN, D.E.</name></author><author><name>HAMMOND, C.I.</name></author><author><name>RALSTON, R.O.</name></author><author><name>BISHOP, J.M.</name></author><atl>Two yeast genes that encode unusual protein kinases</atl><serial><sertitle>Proc. Natl. Acad. Sci. USA</sertitle><pubdate><sdate>19870000</sdate><edate/></pubdate><vid>84</vid></serial><location><pp><ppf>6035</ppf><ppl>6039</ppl></pp></location></article></nplcit><crossref idref="ncit0061">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0062" npl-type="s"><article><author><name>LICHTENBERG-KRAAG,B.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>BIERNAT,J.</name></author><author><name>STEINER,B.</name></author><author><name>SCHRÖTER,C.</name></author><author><name>GUSTKE,N.</name></author><author><name>MEYER,H.E.</name></author><author><name>MANDELKOW,E.</name></author><atl>Phosphorylation dependent interaction of neurofilament antibodies with tau protein: Epitopes, phosphorylation sites, and relationship with Alzheimer tau</atl><serial><sertitle>Proc. Natl. Acad. Sci. U.S.A.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>89</vid></serial><location><pp><ppf>5384</ppf><ppl>5388</ppl></pp></location></article></nplcit><crossref idref="ncit0062">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0063" npl-type="s"><article><author><name>MANDELKOW, E.-M.</name></author><author><name>HERRMANN, M.</name></author><author><name>RÜHL, U.</name></author><atl>Tubulin domains probed by subunit-specific antibodies and limited proteolysis</atl><serial><sertitle>J. Mol. Biol.</sertitle><pubdate><sdate>19850000</sdate><edate/></pubdate><vid>185</vid></serial><location><pp><ppf>311</ppf><ppl>327</ppl></pp></location></article></nplcit><crossref idref="ncit0063">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0064" npl-type="s"><article><author><name>MANDELKOW,E.-M.</name></author><author><name>DREWES,G.</name></author><author><name>BIERNAT,J.</name></author><author><name>GUSTKE,N.</name></author><author><name>VAN LINT,J.</name></author><author><name>VANDENHEEDE,J.R.</name></author><author><name>MANDELKOW,E.</name></author><atl>Glycogen synthase kinase-3 and the Alzheimer-like state of microtubule-associated protein tau</atl><serial><sertitle>FEBS Lett.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>314</vid></serial><location><pp><ppf>315</ppf><ppl>321</ppl></pp></location></article></nplcit><crossref idref="ncit0064">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0065" npl-type="s"><article><author><name>MANDELKOW, E.-M.</name></author><author><name>MANDELKOW, E.</name></author><atl>Tau as a marker for Alzheimer's disease</atl><serial><sertitle>TIBS</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>18</vid></serial><location><pp><ppf>480</ppf><ppl>483</ppl></pp></location></article></nplcit><crossref idref="ncit0065">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0066" npl-type="s"><article><author><name>MERCKEN, M.</name></author><author><name>VANDERMEEREN, M.</name></author><author><name>LÜBKE, U.</name></author><author><name>SIX, J.</name></author><author><name>BOONS, J.</name></author><author><name>VAN DE VOORDE, A.</name></author><author><name>MARTIN, J.-J.</name></author><author><name>GHEUENS, J.</name></author><atl>Monoclonal antibodies with selective specificity for Alzheimer tau are directed against phosphatase-sensitive epitopes</atl><serial><sertitle>Acta Neuropathol.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>84</vid></serial><location><pp><ppf>265</ppf><ppl>272</ppl></pp></location></article></nplcit><crossref idref="ncit0066">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0067" npl-type="s"><article><author><name>MEYER, H.E.</name></author><author><name>HOFFMANN-POSORSKE, E.</name></author><author><name>HEILMEYER, L.M.G.</name></author><atl>Determination and location of phosphoserine in proteins and peptides by conversion to S-ethyl-cysteine</atl><serial><sertitle>Meth. Enzymol.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>201</vid></serial><location><pp><ppf>169</ppf><ppl>185</ppl></pp></location></article></nplcit><crossref idref="ncit0067">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0068" npl-type="s"><article><author><name>PAUDEL, H.</name></author><author><name>LEW, J.</name></author><author><name>ALI, Z.</name></author><author><name>WANG, J.</name></author><atl>Brain proline-directed protein kinase phosphorylates tau on sites that are abnormally phosphorylated in tau associated with Alzheimer's paired helical filaments</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>268</vid></serial><location><pp><ppf>23512</ppf><ppl>23518</ppl></pp></location></article></nplcit><crossref idref="ncit0068">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0069" npl-type="s"><article><author><name>SCHWEERS, O.</name></author><author><name>SCHÖNBRUNN-HANEBECK, E.</name></author><author><name>MARX, A.</name></author><author><name>MANDELKOW, E.</name></author><atl>Structural studies of tau protein and Alzheimer paired helical filaments show no evidence for β structure</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19940000</sdate><edate/></pubdate><vid>269</vid></serial><location><pp><ppf>24290</ppf><ppl>24297</ppl></pp></location></article></nplcit><crossref idref="ncit0069">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0070" npl-type="s"><article><author><name>SCOTT,C.</name></author><author><name>SPREEN,R.</name></author><author><name>HERMAN,J.</name></author><author><name>CHOW,F.</name></author><author><name>DAVISON,M.</name></author><author><name>YOUNG,J.</name></author><author><name>CAPUTO,C.</name></author><atl>Phosphorylation of recombinant tau by cAMP-dependent protein kinase: Identification of phosphorylation sites and effect on microtubule assembly</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>268</vid></serial><location><pp><ppf>1166</ppf><ppl>1173</ppl></pp></location></article></nplcit><crossref idref="ncit0070">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0071" npl-type="s"><article><author><name>STEINER,B.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>BIERNAT,J.</name></author><author><name>GUSTKE,N.</name></author><author><name>MEYER,H.E.</name></author><author><name>SCHMIDT,B.</name></author><author><name>MIESKES,G.</name></author><author><name>SÖLING,H,D.</name></author><author><name>DRECHSEL,D.</name></author><author><name>KIRSCHNER,M.W.</name></author><atl>Phosphorylation of microtubule-associated protein tau: Identification of the site for Ca++-calmodulin dependent kinase and relationship with tau phosphorylation in Alzheimer tangles</atl><serial><sertitle>EMBO J.</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>9</vid></serial><location><pp><ppf>3539</ppf><ppl>3544</ppl></pp></location></article></nplcit><crossref idref="ncit0071">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0072" npl-type="s"><article><author><name>STEINER, B.</name></author><atl>Phosphorylation of microtubule-associated protein tau and role in Alzheimer's disease</atl><serial><sertitle>PhD Thesis</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate></serial></article></nplcit><crossref idref="ncit0072">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0073" npl-type="s"><article><author><name>STUDIER, W.F.</name></author><author><name>ROSENBERG, A.H.</name></author><author><name>DUNN, J.J.</name></author><author><name>DUBENDORFF, J.W.</name></author><atl>Use of T7 RNA polymerase to direct the expression of cloned genes</atl><serial><sertitle>Meth. Enzym.</sertitle><pubdate><sdate>19900000</sdate><edate/></pubdate><vid>185</vid></serial><location><pp><ppf>60</ppf><ppl>89</ppl></pp></location></article></nplcit><crossref idref="ncit0073">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0074" npl-type="s"><article><author><name>TARR, G.E.</name></author><author><name>BLACK, S.D.</name></author><author><name>FUJITA, V.S.</name></author><author><name>COON, M.J.</name></author><atl>Complete amino acid sequence and predicted membrane topology of phenobarbital-induced cytochrome P-450 isoenzyme 2 from rabbit liver microsomes</atl><serial><sertitle>Proc. Natl. Acad. Sci. USA</sertitle><pubdate><sdate>19830000</sdate><edate/></pubdate><vid>80</vid></serial><location><pp><ppf>6552</ppf><ppl>6556</ppl></pp></location></article></nplcit><crossref idref="ncit0074">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0075" npl-type="s"><article><author><name>TRINCZEK, B.</name></author><author><name>MARX,A.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>MURPHY, D.B.</name></author><author><name>MANDELKOW, E.</name></author><atl>Dynamics of microtubules from erythrocyte marginal bands. Molec</atl><serial><sertitle>Biol. Cell</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>4</vid></serial><location><pp><ppf>323</ppf><ppl>335</ppl></pp></location></article></nplcit><crossref idref="ncit0075">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0076" npl-type="s"><article><author><name>VULLIET, R.</name></author><author><name>HALLORAN, S.</name></author><author><name>BRAUN, R.</name></author><author><name>SMITH, A.</name></author><author><name>LEE, G.</name></author><atl>Proline-directed phosphorylation of human tau protein</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>267</vid></serial><location><pp><ppf>22570</ppf><ppl>22574</ppl></pp></location></article></nplcit><crossref idref="ncit0076">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0077" npl-type="s"><article><author><name>WATANABE, A.</name></author><author><name>HASEGAWA, M.</name></author><author><name>SUZUKI, M.</name></author><author><name>TAKIO, K.</name></author><author><name>MORISHIMA-KAWASHIMA, M.</name></author><author><name>TITANI, K.</name></author><author><name>ARAI, T.</name></author><author><name>KOSIK, K.S.</name></author><author><name>IHARA, Y.</name></author><atl>In-vivo phosphorylation sites in fetal and adult rat tau</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19930000</sdate><edate/></pubdate><vid>268</vid></serial><location><pp><ppf>25712</ppf><ppl>25717</ppl></pp></location></article></nplcit><crossref idref="ncit0077">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0078" npl-type="s"><article><author><name>WEST, R.R.</name></author><author><name>TENBARGE, K.M.</name></author><author><name>OLMSTED, J.B.</name></author><atl>A model for microtubule-associated protein-4 structure: Domains defined by comparisons of human, mouse, and bovine sequences</atl><serial><sertitle>J. Biol. Chem.</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>266</vid></serial><location><pp><ppf>21886</ppf><ppl>21896</ppl></pp></location></article></nplcit><crossref idref="ncit0078">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0079" npl-type="s"><article><author><name>WILLE,H.</name></author><author><name>DREWES,G.</name></author><author><name>BIERNAT,J.</name></author><author><name>MANDELKOW,E.-M.</name></author><author><name>MANDELKOW, E.</name></author><atl>Alzheimer-like paired helical filaments and antiparallel dimers formed from microtubule-associated protein tau in vitro</atl><serial><sertitle>J. Cell Biol.</sertitle><pubdate><sdate>19920000</sdate><edate/></pubdate><vid>118</vid></serial><location><pp><ppf>573</ppf><ppl>584</ppl></pp></location></article></nplcit><crossref idref="ncit0079">[0088]</crossref></li>
+<li><nplcit id="ref-ncit0080" npl-type="s"><article><author><name>WISCHIK, C.</name></author><author><name>NOVAK, M.</name></author><author><name>THOGERSEN, H.</name></author><author><name>EDWARDS, P.</name></author><author><name>RUNSWICK, M.</name></author><author><name>JAKES, R.</name></author><author><name>WALKER, J.</name></author><author><name>MILSTEIN, C</name></author><author><name>ROTH, M.</name></author><author><name>KLUG, A</name></author><atl>Isolation of a fragment of tau derived from the core of the paired helical filament of Alzheimer disease</atl><serial><sertitle>Proc. Natl. Acad. Sci. U.S.A.</sertitle><pubdate><sdate>19880000</sdate><edate/></pubdate><vid>85</vid></serial><location><pp><ppf>4506</ppf><ppl>4510</ppl></pp></location></article></nplcit><crossref idref="ncit0080">[0088]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

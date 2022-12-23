@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.0//EN" "ep-patent-document-v1-0.dtd">
+<ep-patent-document id="EP94113456B1" file="94113456.xml" lang="en" country="EP" doc-number="0640886" kind="B1" date-publ="20060426" status="n" dtd-version="ep-patent-document-v1-0">
+<SDOBI lang="en"><B000><eptags><B001EP>......DE....FRGB..IT............................................................</B001EP><B005EP>J</B005EP><B007EP>DIM360 (Ver 1.5  21 Nov 2005) -  2100000/0</B007EP></eptags></B000><B100><B110>0640886</B110><B120><B121>EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B1</B130><B140><date>20060426</date></B140><B190>EP</B190></B100><B200><B210>94113456.1</B210><B220><date>19940829</date></B220><B240><B241><date>19950718</date></B241><B242><date>19950808</date></B242></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>23589493</B310><B320><date>19930830</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20060426</date><bnum>200617</bnum></B405><B430><date>19950301</date><bnum>199509</bnum></B430><B450><date>20060426</date><bnum>200617</bnum></B450><B452EP><date>20050914</date></B452EP></B400><B500><B510EP><classification-ipcr sequence="1"><text>G03G  15/08        20060101AFI19941209BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>G03G   5/147       20060101ALI19941209BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>Elektrophotografisches Gerät und Prozesseinheit</B542><B541>en</B541><B542>Electrophotographic apparatus and process cartridge</B542><B541>fr</B541><B542>Appareil électrophotographique et unité de traitement</B542></B540><B560><B561><text>EP-A- 0 294 097</text></B561><B561><text>EP-A- 0 300 426</text></B561><B561><text>EP-A- 0 501 497</text></B561><B561><text>GB-A- 2 167 199</text></B561><B562><text>PATENT ABSTRACTS OF JAPAN vol. 016, no. 555 (P-1454) 25 November 1992 &amp; JP-A-04 212 184 (MINOLTA CAMERA CO LTD) 3 August 1992</text></B562><B562><text>PATENT ABSTRACTS OF JAPAN vol. 016, no. 481 (P-1431) 6 October 1992 &amp; JP-A-04 170 560 (CANON INC) 18 June 1992</text></B562></B560><B590><B598>1</B598></B590></B500><B700><B720><B721><snm>Yoshihara, Toshiyuki,
+c/o Canon Kabushiki Kaisha</snm><adr><str>30-2, 3-chome, Shimomaruko,
+Ohta-ku</str><city>Tokyo 146</city><ctry>JP</ctry></adr></B721><B721><snm>Anayama, Hideki,
+c/o Canon Kabushiki Kaisha</snm><adr><str>30-2, 3-chome, Shimomaruko,
+Ohta-ku</str><city>Tokyo 146</city><ctry>JP</ctry></adr></B721><B721><snm>Yamazaki, Itaru,
+c/o Canon Kabushiki Kaisha</snm><adr><str>30-2, 3-chome, Shimomaruko,
+Ohta-ku</str><city>Tokyo 146</city><ctry>JP</ctry></adr></B721><B721><snm>Ainoya, Hideyuki,
+c/o Canon Kabushiki Kaisha</snm><adr><str>30-2, 3-chome, Shimomaruko,
+Ohta-ku</str><city>Tokyo 146</city><ctry>JP</ctry></adr></B721><B721><snm>Hirano, Hidetoshi,
+c/o Canon Kabushiki Kaisha</snm><adr><str>30-2, 3-chome, Shimomaruko,
+Ohta-ku</str><city>Tokyo 146</city><ctry>JP</ctry></adr></B721><B721><snm>Kimura, Mayumi,
+c/o Canon Kabushiki Kaisha</snm><adr><str>30-2, 3-chome, Shimomaruko,
+Ohta-ku</str><city>Tokyo 146</city><ctry>JP</ctry></adr></B721></B720><B730><B731><snm>CANON KABUSHIKI KAISHA</snm><iid>00542361</iid><irf>EP 15720</irf><adr><str>30-2, 3-chome, Shimomaruko, 
+Ohta-ku</str><city>Tokyo</city><ctry>JP</ctry></adr></B731></B730><B740><B741><snm>TBK-Patent</snm><iid>00102381</iid><adr><str>Bavariaring 4-6</str><city>80336 München</city><ctry>DE</ctry></adr></B741></B740></B700><B800><B840><ctry>DE</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>IT</ctry></B840></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001"><u style="single">Field of the Invention</u></heading>
+<p id="p0001" num="0001">This invention relates to an electrophotographic apparatus, and more particularly to an electrophotographic apparatus in which a spacer member of a toner feed member is brought into contact with the surface of an electrophotographic photosensitive member so that the electrophotographic photosensitive member and the toner feed member can be positionally adjusted to each other. This invention also relates to a process cartridge that can be detachably mounted on the electrophotographic apparatus.</p>
+<heading id="h0002"><u style="single">Related Background Art</u></heading>
+<p id="p0002" num="0002">Electrophotographic apparatuses such as copying machines and printers comprise an electrophotographic photosensitive member around which a charging means, an exposure means, a developing means, a transfer means, a cleaning means and so forth are provided. In particular, in the step of development where toner particles are made to adhere to the photosensitive member in accordance with electrostatically charged images formed on its surface, the gap between the toner feed member having toner particles and the<!-- EPO <DP n="2"> --> photosensitive member has a very great influence on the images. This gap must be of an appropriate extent and also be uniform. If this gap is too wide, the toner adheres to the photosensitive member with difficulty to cause a decrease in image density. If on the other hand it is too narrow, the toner adheres to the photosensitive member with ease to make fine-line images thick or the toner adheres to areas that should not undergo development, to cause fog.</p>
+<p id="p0003" num="0003">In particular, in the case of what is called jumping development, the gap between the surface of the photosensitive member and the surface of the toner feed member must be kept more uniform since any variations of the gap between them has a great influence, as disclosed in Japanese Patent Application Laid-open No. 54-42141 and No. 55-18659.</p>
+<p id="p0004" num="0004">As a method for positionally adjusting the toner feed member and the photosensitive member, there is a method in which a toner feed member is provided with, for example, spacer rolls made of resin e.g. disclosed in US-A-4,827,305, serving as a spacer member, and the spacer member is brought into contact with the surface of the photosensitive member.</p>
+<p id="p0005" num="0005">In this method, however, the spacer member tends to damage a surface layer of the photosensitive member to cause separation of its photosensitive layer<!-- EPO <DP n="3"> --> from its support. This tends to more remarkably occur when the peripheral speed of the toner feed member is set higher than the peripheral speed of the photosensitive member in order to increase toner density.</p>
+<p id="p0006" num="0006">Of course, the spacer member may be so designed as to be brought into contact with areas outside the area in which the photosensitive layer is formed. In such an instance, however, it becomes necessary as a matter of course to make the support of the photosensitive member longer. This undersirably makes the whole apparatus larger in size. In addition, the toner tends to adhere to the portion where the spacer member is brought into contact and also it is difficult to clean such a portion, tending to cause faulty images.</p>
+<p id="p0007" num="0007">As image quality has been made increasingly higher in recent years, it is on studies to make toners have a smaller particle diameter, to make drive systems have a smaller pitch non-uniformity and also, in printers to which images are inputted according to digital signals, to make picture element density higher. In such electrophotographic apparatus, images are more remarkably affected unless the gap between the toner feed member and the photosensitive member is uniform.<!-- EPO <DP n="4"> --></p>
+<p id="p0008" num="0008">EP-A-0 294 097 discloses a developing device for use in electrophotography, wherein the circumferential surfaces of spacer rollers contact the ends of the circumferential surfaces of the photosensitive drum to control the space between these two members in the development area.</p>
+<p id="p0009" num="0009">GB-A-2,167,199 discloses an electrophotographic photosensitive member, wherein the surface layer of this electrophotographic photosensitive member contains particles of a fluorine-containing resin. This electrophotographic photosensitive member is used in an apparatus providing the toner feed without contact between a toner feed member and the electrophotographic photosensitive member. The fluorine-containing resin particles reduce the friction between the cleaning blade and the photosensitive member when removing toner from the surface of the photosensitive member.</p>
+<p id="p0010" num="0010">JP-A-4-63866 discloses a resin composition for a roller serving as a space member for holding a gap between a photoreceptor drum of a developer of an electrophotographic apparatus and its magnetic roll. The resin composition may comprise polyphenylene sulfide resin, an organic reinforcement agent such as aramide fiber or an inorganic reinforcement agent such as mica or potassium titanate fiber and a lubricant such as polytetrafluoroethylene, molybdenum sulfide or ultrahigh-molecular-weight polyethylene.</p>
+<p id="p0011" num="0011">EP-A-0 300 426 discloses an electrophotographic photosensitive member comprising in its surface layer a lubricating resin powder and a silicone type graft polymer containing silicone in the side chain. As the lubricating resin powder fluorine-type resin powders can be used.<!-- EPO <DP n="5"> --></p>
+<heading id="h0003"><u style="single">SUMMARY OF THE INVENTION</u></heading>
+<p id="p0012" num="0012">An object of the present invention is to provide an electrophotographic apparatus which has an electrophotographic photosensitive member having a surface layer not tending to be damaged and not tending to cause separation of its photosensitive layer, and can stably obtain good images.</p>
+<p id="p0013" num="0013">Another object of the present invention is to provide a process cartridge that can be detachably mounted on the above electrophotographic apparatus.</p>
+<p id="p0014" num="0014">The present invention provides an electrophotographic apparatus according to claim 1 and a process cartridge according to claim 6.<!-- EPO <DP n="6"> --></p>
+<heading id="h0004"><u style="single">BRIEF DESCRIPTION OF THE DRAWINGS</u></heading>
+<p id="p0015" num="0015">
+<ul id="ul0001" list-style="none" compact="compact">
+<li>Figs. 1 and 2 illustrate an example of the disposition of the electrophotographic photosensitive member and the toner feed member in the present invention.</li>
+<li>Fig. 3 schematically illustrates an example of the constitution of the electrophotographic photosensitive apparatus according to the present invention.</li>
+</ul></p>
+<heading id="h0005"><u style="single">DESCRIPTION OF THE PREFERRED EMBODIMENTS</u></heading>
+<p id="p0016" num="0016">The electrophotographic apparatus of the present invention comprises an electrophotographic photosensitive member having a surface layer which is a photosensitive layer or a protective layer containing a lubricative fluorine-containing resin powder, and a developing means having a toner feed member having a spacer member coming into contact with the surface layer of the electrophotographic photosensitive member, the spacer member containing a resin selected from polyacetal, polyethylene and polypropylene.</p>
+<p id="p0017" num="0017">Figs. 1 and 2 illustrate an example of the disposition of the electrophotographic photosensitive member and the toner feed member in the present invention. Reference numeral 1 denotes a toner feed member with a cylindrical form; 2, a spacer roll (a spacer member) provided on each end of the toner feedmember; 3, an electrophotographic photosensitive<!-- EPO <DP n="7"> --> member; 4, a photosensitive layer; and 5, a gap between the toner feed member and the photosensitive member.</p>
+<p id="p0018" num="0018">The toner feed member may preferably have a cylindrical form, and may preferably be made of a metal or alloy such as aluminum, an aluminum alloy or stainless steel.</p>
+<p id="p0019" num="0019">The spacer member 2 is brought into contact with the surface of the photosensitive member preferably in a width (contact width) of from about 2 mm to about 5 mm at each end thereof, and is made of resin selected from polyacetal, polyethylene or polypropylene. In order to assure a stable gap precision, the spacer member may preferably be brought into contact with the surface of the photosensitive member at a load of from about 100 g to about 1,000 g.</p>
+<p id="p0020" num="0020">The ratio of a toner feed member peripheral speed to a photosensitive member peripheral speed should be set optimum taking account of various factors concerned with development, and may preferably be 1.1 to 3.</p>
+<p id="p0021" num="0021">The electrophotographic photosensitive member has a photosensitive layer on a conductive support.</p>
+<p id="p0022" num="0022">The photosensitive layer of the present invention may be either of what is called a double layer type, having a charge generation layer<!-- EPO <DP n="8"> --> containing a charge-generating material and a charge transport layer containing a charge-transporting material, or what is called a single layer type, containing a charge-generating material and a charge-transporting material in the same layer, so long as the surface layer contains a lubricative resin powder in either case. In the present invention, in view of potential characteristics and durability, the photosensitive member may particularly preferably be an electrophotographic photosensitive member having the charge generation layer on the conductive support and having the charge transport layer on the charge generation layer.</p>
+<p id="p0023" num="0023">The lubricative resin powder used in the present invention is a fluorine-containing resin powder which provides excellent lubricity, wear resistance, water repellency and so forth.</p>
+<p id="p0024" num="0024">The charge-generating material may include pyrylium dyes, thiopyrylium dyes, phthalocyanine pigments, anthanthrone pigments, quinone pigments, pyrathrone pigments and azo pigments. The charge generation layer can be formed by coating a dispersion prepared by dispersing any of these charge-generating<!-- EPO <DP n="9"> --> materials in 0.5- to 4-fold amount of a binder resin using a solvent, followed by drying.</p>
+<p id="p0025" num="0025">Such a binder resin may include polyvinyl acetals, polycarbonates, phenoxy resins and acrylic resins. In view of adhesion to other layers, polyvinyl acetals are particularly preferred, and polyvinyl butyral and polyvinyl benzal are more preferred.</p>
+<p id="p0026" num="0026">The charge transport layer can be formed by coating a solution prepared by dissolving a charge-transporting material in a solvent together with a binder resin, followed by drying. The charge-transporting material can be exemplified by hydrazone compounds, stilbene compounds, pyrazoline compounds, oxazole compounds and triarylamine compounds.</p>
+<p id="p0027" num="0027">The binder resin of the charge transport layer may be selected from a relatively wide range of insulating resins or organic photoconductive polymers. For example, the insulating resins include polycarbonates, polyallylates, polyesters, polyacrylates and polyurethanes. The organic photoconductive polymers include polyvinyl carbazole, polyvinyl anthracene and polyvinyl pyrene.</p>
+<p id="p0028" num="0028">The electrophotographic photosensitive member having the photosensitive layer of a single layer type can be formed by coating on the conductive support a<!-- EPO <DP n="10"> --> solution prepared by dispersing and dissolving the above charge-generating material and charge-transporting material in a binder resin solution, followed by drying.</p>
+<p id="p0029" num="0029">The conductive support used in the present invention can be exemplified by those made of aluminum, an aluminum alloy, copper, zinc, stainless steel, vanadium, molybdenum, chromium, titanium, nickel, indium, gold and platinum. It is also possible to use supports comprised of plastics (as exemplified by polyethylene, polypropylene, polyvinyl chloride, polyethylene terephthalate and acrylic resins) having a film formed by vacuum deposition of any of these metals or alloys, supports comprising any of the above plastics, metals or alloys covered thereon with conductive particles (as exemplified by carbon black and silver particles) together with a suitable binder resin, and supports comprising plastics or paper impregnated with the conductive particles. The conductive support may have the form of a drum, a sheet or a belt, and may preferably have a form most suited for the electrophotographic apparatus to be used.</p>
+<p id="p0030" num="0030">In the present invention, a subbing layer having a barrier function and an adhesion function may be provided between the conductive support and the<!-- EPO <DP n="11"> --> photosensitive layer. The subbing layer may preferably have a layer thickness of not more than 5 µm, preferably from 0.1 µm to 3 µm. The subbing layer can be formed using casein, polyvinyl alcohol, nitrocellulose, polyamides such as nylon 6, nylon 66, nylon 610, copolymer nylon and alkoxymethylated nylon, polyurethanes, aluminum oxide or the like.</p>
+<p id="p0031" num="0031">In the present invention, in order to protect the photosensitive layer from external mechanical and chemical ill influences, the photosensitive layer may also be provided thereon with a protective layer comprised of a resin layer or a resin layer containing conductive particles or a charge-transporting material. In this instance, the lubricative resin powder previously described is contained at least in this protective layer.</p>
+<p id="p0032" num="0032">The electrophotographic photosensitive member of the present invention can be not only used in electrophotographic copying machines, but also widely used in the fields to which electrophotography is applied, e.g., laser beam printers, CRT printers, LED printers, liquid-crystal printers, laser lithography and facsimile machines.</p>
+<p id="p0033" num="0033">Fig. 3 schematically illustrates the construction of an electrophotographic apparatus of the present invention.<!-- EPO <DP n="12"> --></p>
+<p id="p0034" num="0034">In Fig. 3, reference numeral 3 denotes an electrophotographic photosensitive member according to the present invention, which is rotated around a shaft 3a at a given peripheral speed in the direction shown by an arrow. In the course of rotation, the photosensitive member 3 is uniformly charged on its periphery, with positive or negative given potential by the operation of a charging means 6, and then photoimagewise exposed to light L by slit exposure or laser beam scanning exposure at an exposure zone 7 by the operation of an imagewise exposure means (not shown). As a result, electrostatic latent images corresponding to the exposed images are successively formed on the periphery of the photosensitive member.</p>
+<p id="p0035" num="0035">The electrostatic latent images thus formed are subsequently developed by toner by the operation of a developing means 8 provided with a toner feed member 1 having a spacer member 2. The resulting toner-developed images are then successively transferred by the operation of a transfer means 9, to the surface of a transfer medium P fed from a paper feed section (not shown) to the part between the photosensitive member 3 and the transfer means 9 in the manner synchronized with the rotation of the photosensitive member 3.</p>
+<p id="p0036" num="0036">The transfer medium P on which the images have<!-- EPO <DP n="13"> --> been transferred is separated from the surface of the photosensitive member and led through an image-fixing means 12, where the images are fixed and then delivered to the outside as a transcript (a copy).</p>
+<p id="p0037" num="0037">The surface of the photosensitive member 3 from which images have been transferred is brought to removal of the toner remaining after the transfer, using a cleaning means 10. Thus the photosensitive member is cleaned on its surface. Further, the charges remaining thereon are eliminated by the operation of a pro-exposure means 11. The photosensitive member is then repeatedly used for the formation of images.</p>
+<p id="p0038" num="0038">In the present invention, the apparatus may be constituted of a combination of plural components joined as a process cartridge from among the constituents such as the above photosensitive member 3, charging member 6, developing means 8 and cleaning means 10 so that the process cartridge can be freely mounted on or detached from the body of the electrophotographic apparatus such as a copying machine or a laser beam printer. For example, at least one of the charging member 6, the developing means 8 and the cleaning means 10 may be held into one cartridge together with the photosensitive member so that the process cartridge can be freely mounted on or<!-- EPO <DP n="14"> --> detached from the body using a guide means such as rails provided in the body of the apparatus.</p>
+<p id="p0039" num="0039">The present invention will be further described below by giving Examples.</p>
+<heading id="h0006"><u style="single">Example 1</u></heading>
+<p id="p0040" num="0040">To an aluminum cylinder of 30 mm diameter and 260 mm long, a coating composition composed of the following materials was applied by dip coating, followed by heat curing at 140°C for 30 minutes to form a conductive layer with a thickness of 20 µm.
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="103mm" colsep="0"/>
+<colspec colnum="2" colname="col2" colwidth="19mm" colsep="0"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Conductive pigment: titanium oxide coated with tin oxide-antimony oxide</entry>
+<entry namest="col2" nameend="col2" align="left" valign="top">10 parts*</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">(*parts by weight; the same applies hereinafter)</entry>
+<entry namest="col2" nameend="col2" align="left" valign="top"/></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Resistance modifier pigment: titanium oxide</entry>
+<entry namest="col2" nameend="col2" align="left" valign="top">10 parts</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Binder resin: phenol resin</entry>
+<entry namest="col2" nameend="col2" align="left" valign="top">10 parts</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Leveling agent: silicone oil</entry>
+<entry namest="col2" nameend="col2" align="left" valign="top">0.001 part</entry></row>
+<row>
+<entry namest="col1" nameend="col1" align="left" valign="top">Solvent: methanol/methyl cellosolve in 1/1 weight ratio</entry>
+<entry namest="col2" nameend="col2" align="left" valign="top">20 parts</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0041" num="0041">Next, a solution prepared by dissolving 3 parts of N-methoxymethylated nylon and 1 part of copolymer nylon in a mixed solvent of 40 parts of methanol and 20 parts of n-butanol was applied to the surface of the conductive layer by dipping, followed by drying to form a subbing layer with a layer<!-- EPO <DP n="15"> --> thickness of 0.8 µm.</p>
+<p id="p0042" num="0042">Next, 4 parts of an azo pigment represented by the formula:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="145" he="56" img-content="chem" img-format="tif"/></chemistry>
+2 parts of polyvinyl butyral and 80 parts of cyclohexanone were dispersed for 50 hours by means of a sand mill grinder making use of glass beads of 1 mm diameter. Thereafter, to the resulting dispersion, 100 parts of tetrahydrofuran was added to obtain a charge generation layer coating dispersion. This coating dispersion was applied to the surface of the subbing layer by dipping, followed by drying to form a charge generation layer with a thickness of 0.2 µm.</p>
+<p id="p0043" num="0043">Next, 7 parts of a charge-transporting material represented by the formula:
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="96" he="41" img-content="chem" img-format="tif"/></chemistry><!-- EPO <DP n="16"> -->
+ 3 parts of a charge-transporting material represented by the formula:
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="76" he="32" img-content="chem" img-format="tif"/></chemistry>
+and 10 parts of polycarbonate-Z resin were dissolved in a mixed solvent of 50 parts of monochlorobenzene and 10 parts of dichloromethane. In the resulting solution, 1 part of polytetrafluoroethylene powder was added and dispersed, and the resulting dispersion was applied to the surface of the above charge generation layer by dipping, followed by drying to form a charge transport layer with a layer thickness of 25 µm.</p>
+<p id="p0044" num="0044">The respective layers were so provided as to cover the support over the area up to 1 mm inward from its both ends.</p>
+<p id="p0045" num="0045">This photosensitive member was fitted to a modified machine of a laser beam printer LBP-NX, manufactured by Canon Inc.</p>
+<p id="p0046" num="0046">Its toner feed member was formed of a cylinder made of aluminum, and was provided with spacer members at its both ends in the manner that the gap between the toner feed member and the photosensitive member was kept at 300 µm. The spacer members each came in contact with the photosensitive member at a position<!-- EPO <DP n="17"> --> covering 6 mm to 10 mm inward from each end of the photosensitive member. Each spacer member was in a contact width of 4 mm, and was made of polyoxymethylene. The peripheral speed of the toner feed member was set twice the peripheral speed of the photosensitive member.</p>
+<p id="p0047" num="0047">The laser exposure was in a dot density of 600 dpi.</p>
+<p id="p0048" num="0048">Using such an electrophotographic apparatus, a 20,000 sheet intermittent printing test was made. As a result, no damage was seen on the photosensitive layer at its areas coming into contact with the spacer members, and it was possible to stably obtain images free of uneveness.</p>
+<heading id="h0007"><u style="single">Comparative Example 1</u></heading>
+<p id="p0049" num="0049">A photosensitive member was produced in the same manner as in Example 1 except that no polytetrafluoroethylene powder was added to the charge transport layer. Evaluation was made similarly.</p>
+<p id="p0050" num="0050">As a result, the photosensitive layer separated upon printing on 3,000 sheets to cause conspicuous uneveness on halftone images.</p>
+<heading id="h0008"><u style="single">Example 2</u></heading>
+<p id="p0051" num="0051">On an aluminum cylinder of 30 mm diameter and 346 mm long, a conductive layer and a subbing layer were formed in the same manner as in Example 1. Next,<!-- EPO <DP n="18"> --> 4 parts of an azo pigment represented by the formula:
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="157" he="35" img-content="chem" img-format="tif"/></chemistry>
+2 parts of polyvinyl (p-fluoro)benzal and 80 parts of cyclohexanone were dispersed for 30 hours by means of a sand mill grinder making use of glass beads of 1 mm diameter. Thereafter, to the resulting dispersion, 100 parts of tetrahydrofuran was added to obtain a charge generation layer coating dispersion. This coating dispersion was applied to the surface of the subbing layer by dipping, followed by drying to form a charge generation layer with a thickness of 0.2 µm.</p>
+<p id="p0052" num="0052">Next, 10 parts of a charge-transporting material represented by the formula:
+<chemistry id="chem0005" num="0005"><img id="ib0005" file="imgb0005.tif" wi="113" he="32" img-content="chem" img-format="tif"/></chemistry>
+and 10 parts of polycarbonate-Z resin were dissolved in a mixed solvent of 50 parts of monochlorobenzene and 10 parts of dichloromethane. In the resulting solution, 2 parts of polytetrafluoroethylene powder was added and dispersed, and the resulting dispersion was applied to the surface of the above charge<!-- EPO <DP n="19"> --> generation layer by dipping, followed by drying to form a charge transport layer with a layer thickness of 25 µm.</p>
+<p id="p0053" num="0053">The respective layers were so provided as to cover the support over the area up to 1 mm inward from its both ends.</p>
+<p id="p0054" num="0054">This photosensitive member was fitted to a modified machine of a plain-paper copying machine NP-2020, manufactured by Canon Inc. Its toner feed member was formed of a cylinder made of aluminum, and was provided with spacer members at its both ends in the manner that the gap between the toner feed member and the photosensitive member was kept at 300 µm. The spacer members each came in contact with the photosensitive member at a position covering 5 mm to 9 mm inward from each end of the photosensitive member. Each spacer member was in a contact width of 4 mm, and was made of high density polyethylene. The peripheral speed of the toner feed member was set 1.5 times the peripheral speed of the photosensitive member.</p>
+<p id="p0055" num="0055">Using such an electrophotographic apparatus, a 40,000 sheet intermittent copying test was made. As a result, no damage was seen on the photosensitive layer at its areas coming into contact with the spacer members, and it was possible to stably obtain images free of uneveness.<!-- EPO <DP n="20"> --></p>
+<heading id="h0009"><u style="single">Example 3</u></heading>
+<p id="p0056" num="0056">A photosensitive member was produced in the same manner as in Example 1 except that the polytetrafluoroethylene powder was replaced with a polyvinylidene fluoride powder. Evaluation was made similarly.</p>
+<p id="p0057" num="0057">As a result, in the 20,000 sheet intermittent printing, no damage was seen on the photosensitive layer at its areas coming into contact with the spacer members, and it was possible to stably obtain images free of uneveness.</p>
+<heading id="h0010"><u style="single">Example 4</u></heading>
+<p id="p0058" num="0058">A photosensitive member was produced in the same manner as in Example 1 except that as the binder resin of the charge generation layer the polyvinyl butyral was replaced with polymethyl methacrylate. Evaluation was also made similarly.</p>
+<p id="p0059" num="0059">As a result, the photosensitive layer slightly separated upon printing on 15,000 sheets to cause slight uneveness on halftone images.</p>
+</description><!-- EPO <DP n="21"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>An electrophotographic apparatus comprising:
+<claim-text>an electrophotographic photosensitive member (3),</claim-text>
+<claim-text>a charging means (6),</claim-text>
+<claim-text>an imagewise exposure means,</claim-text>
+<claim-text>a developing means (8) having a toner feed member (1),</claim-text>
+<claim-text>a transfer means (9), and</claim-text>
+<claim-text>a cleaning means (10), wherein</claim-text>
+<claim-text>said toner feed member (1) comprising a spacer member (2) coming into contact with the surface layer (4) of said electrophotographic photosensitive member (3), and</claim-text>
+<claim-text>the peripheral speed of said toner feed member (1) is higher than the peripheral speed of said electrophotographic photosensitive member (3)</claim-text>
+<b>characterized in that</b><br/>
+said electrophotographic photosensitive member (3) comprises a surface layer (4) which is a photosensitive layer or a protective layer containing a lubricative fluorine-containing resin powder, and<br/>
+the spacer member contains a resin selected from the group of polyacetal, polyethylene and polypropylene.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>An electrophotographic apparatus according to claim 1, <b>characterized in that</b> the peripheral speed of the toner feed member (1) is 1.1 times to 3 times the peripheral speed of the electrophotographic photosensitive member (3).</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>An electrophotographic apparatus according to claim 1, <b>characterized in that</b> the electrophotographic photosensitive member (3) has a charge generation layer on a conductive support and has a charge transport layer on the charge generation layer.<!-- EPO <DP n="22"> --></claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>An electrophotographic apparatus according to claim 3, <b>characterized in that</b> said charge generation layer comprises a polyvinyl acetal.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>An electrophotographic apparatus according to claim 4, <b>characterized in that</b> said polyvinyl acetal is selected from polyvinyl butyral and polyvinyl benzal.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A process cartridge comprising:
+<claim-text>an electrophotographic photosensitive member (3) and a developing means (8) having a toner feed member (1) in combination, and further comprising a means selected from the group consisting of a charging means (6) and a cleaning means (10), forming a unit, wherein</claim-text>
+<claim-text>said toner feed member (1) comprising a spacer member (2) coming into contact with the surface layer (4) of said electrophotographic photosensitive member (3) at the time the process cartridge is mounted on the body of a electrophotographic apparatus, and</claim-text>
+<claim-text>the peripheral speed of said toner feed member (1) is higher than the peripheral speed of said electrophotographic photosensitive member (3)</claim-text>
+<b>characterized in that</b><br/>
+said electrophotographic photosensitive member (3) comprises a surface layer (4) which is a photosensitive layer or a protective layer containing a lubricative fluorine-containing resin powder,<br/>
+the spacer member contains a resin selected from the group of polyacetal, polyethylene and polypropylene, and<br/>
+said unit can be freely mounted on or detached from the body of said electrophotographic apparatus.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A process cartridge according to claim 6, <b>characterized in that</b> the peripheral speed of the toner feed member (1) is 1.1 times to 3 times the peripheral speed of the electrophotographic photosensitive member (3).</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A process cartridge according to claim 6, <b>characterized in that</b> the electrophotographic photosensitive member (3) has a charge generation layer on a conductive support and has a charge transport layer on the charge generation layer.<!-- EPO <DP n="23"> --></claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A process cartridge according to claim 8, <b>characterized in that</b> said charge generation layer comprises a polyvinyl acetal.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A process cartridge according to claim 9, <b>characterized in that</b> said polyvinyl acetal is selected from polyvinyl butyral and polyvinyl benzal.</claim-text></claim>
+</claims><!-- EPO <DP n="24"> -->
+<claims id="claims02" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Appareil électrophotographique comprenant :
+<claim-text>un élément photosensible électrophotographique (3),</claim-text>
+<claim-text>un moyen de charge (6),</claim-text>
+<claim-text>un moyen d'exposition selon une image,</claim-text>
+<claim-text>un moyen de développement (8) ayant un élément distributeur de toner (1),</claim-text>
+<claim-text>un moyen de transfert (9), et</claim-text>
+<claim-text>un moyen de nettoyage (10), dans lequel</claim-text>
+ledit élément distributeur de toner (1) comprend un élément d'écartement (2) entrant en contact avec la couche de surface (4) dudit élément photosensible électrophotographique (3), et la vitesse périphérique dudit élément distributeur de toner (1) est supérieure à la vitesse périphérique dudit élément photosensible électrophotographique (3)<br/>
+<b>caractérisé en ce que</b><br/>
+ledit élément photosensible électrophotographique (3) comprend une couche de surface (4) qui est une couche photosensible ou une couche protectrice contenant une poudre de résine fluorée lubrifiante, et<br/>
+l'élément d'écartement contient une résine choisie dans le groupe formé par le polyacétal, le polyéthylène et le polypropylène.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Appareil électrophotographique selon la revendication 1, <b>caractérisé en ce que</b> la vitesse périphérique de l'élément distributeur de toner (1) est de 1,1 à 3 fois la vitesse périphérique de l'élément photosensible électrophotographique (3).</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Appareil électrophotographique selon la revendication 1, <b>caractérisé en ce que</b> l'élément photosensible électrophotographique (3) comporte une couche de génération de charges sur un substrat conducteur et comporte une couche de transport de charges sur la couche de génération de charges.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Appareil électrophotographique selon la<!-- EPO <DP n="25"> --> revendication 3, <b>caractérisé en ce que</b> ladite couche de génération de charges comprend un polyvinylacétal.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Appareil électrophotographique selon la revendication 4, <b>caractérisé en ce que</b> ledit polyvinylacétal est choisi parmi le polyvinylbutyral et le polyvinylbenzal.</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Cartouche de traitement comprenant:
+<claim-text>un élément photosensible électrophotographique (3) et un moyen de développement (8) ayant un élément distributeur de toner (1) en association, et comprenant de plus un moyen choisi dans le groupe formé par un moyen de charge (6) et un moyen de nettoyage (10), formant une unité, dans laquelle</claim-text>
+<claim-text>ledit élément distributeur de toner (1) comprend un élément d'écartement (2) entrant en contact avec la couche de surface (4) dudit élément photosensible électrophotographique (3) au moment où la cartouche de traitement est montée sur le corps d'un appareil électrophotographique, et la vitesse périphérique dudit élément distributeur de toner (1) est supérieure à la vitesse périphérique dudit élément photosensible électrophotographique (3)</claim-text>
+<b>caractérisée en ce que</b><br/>
+ledit élément photosensible électrophotographique (3) comprend une couche de surface (4) qui est une couche photosensible ou une couche protectrice contenant une poudre de résine fluorée lubrifiante,<br/>
+l'élément d'écartement contient une résine choisie dans le groupe formé par le polyacétal, le polyéthylène et le polypropylène, et<br/>
+ladite unité peut être librement montée sur le corps dudit appareil électrophotographique ou en être détachée.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Cartouche de traitement selon la revendication 6, <b>caractérisée en ce que</b> la vitesse périphérique de l'élément distributeur de toner (1) est de 1,1 à 3 fois la vitesse périphérique de l'élément photosensible électrophotographique (3).<!-- EPO <DP n="26"> --></claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Cartouche de traitement selon la revendication 6, <b>caractérisée en ce que</b> l'élément photosensible électrophotographique (3) comporte une couche de génération de charges sur un substrat conducteur et comporte une couche de transport de charges sur la couche de génération de charges.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Cartouche de traitement selon la revendication 8, <b>caractérisée en ce que</b> ladite couche de génération de charges comprend un polyvinylacétal.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Cartouche de traitement selon la revendication 9, <b>caractérisée en ce que</b> ledit polyvinylacétal est choisi parmi le polyvinylbutyral et le polyvinylbenzal.</claim-text></claim>
+</claims><!-- EPO <DP n="27"> -->
+<claims id="claims03" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Elektrophotographische Vorrichtung, umfassend:
+<claim-text>ein elektrophotographisches photoempfindliches Element (3),</claim-text>
+<claim-text>eine aufladende Einrichtung (6),</claim-text>
+<claim-text>eine bildweise arbeitende Belichtungseinrichtung,</claim-text>
+<claim-text>eine entwickelnde Einrichtung (8) mit einem Tonerzuführungselement (1),</claim-text>
+<claim-text>eine Übertragungseinrichtung (9), und</claim-text>
+<claim-text>eine reinigende Einrichtung (10), wobei</claim-text>
+<claim-text>das Tonerzuführungselement (1) ein Abstandselement (2), das mit der Oberflächenschicht (4) des elektrophotographischen photoempfindlichen Elements (3) in Kontakt kommt, umfasst, und die Umfangsgeschwindigkeit des Tonerzuführungselements (1) höher als die Umfangsgeschwindigkeit des elektrophotographischen photoempfindlichen Elements (3) ist,</claim-text>
+<b>dadurch gekennzeichnet, dass</b><br/>
+das elektrophotographische photoempfindliche Element (3) umfasst eine Oberflächenschicht (4), die eine photoempfindliche Schicht oder eine ein schmierendes, fluorhaltiges Harzpulver enthaltende Schutzschicht ist, und<br/>
+das Abstandselement enthält ein Harz, gewählt aus der Gruppe aus Polyacetal, Polyethylen und Polypropylen.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Elektrophotographische Vorrichtung nach Anspruch 1,<br/>
+<!-- EPO <DP n="28"> --><b>dadurch gekennzeichnet, dass</b><br/>
+die Umfangsgeschwindigkeit des Tonerzuführungselements (1) 1,1-mal bis 3-mal die Umfangsgeschwindigkeit des elektrophotographischen photoempfindlichen Elements (3) ist.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Elektrophotographische Vorrichtung nach Anspruch 1,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+das elektrophotographische photoempfindliche Element (3) eine Ladungserzeugungsschicht auf einem leitfähigen Träger und eine Ladungstransportschicht auf der Ladungserzeugungsschicht hat.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Elektrophotographische Vorrichtung nach Anspruch 3,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+die Ladungserzeugungsschicht ein Polyvinylacetal umfasst.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Elektrophotographische Vorrichtung nach Anspruch 4,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+das Polyvinylacetal gewählt ist aus Polyvinylbutyral und Polyvinylbenzal.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Prozesskartusche, umfassend:
+<claim-text>ein elektrophotographisches photoempfindliches Element (3) und eine entwickelnde Einrichtung (8) mit einem Tonerzuführungselement (1) in Kombination, und weiter umfassend eine Einrichtung, gewählt aus der Gruppe bestehend aus einer aufladenden Einrichtung (6) und einer reinigenden Einrichtung (10), die eine Einheit bilden, wobei</claim-text>
+<claim-text>das Tonerzuführungselement (1) umfasst ein Abstandselement (2), das mit der Oberflächenschicht (4) des elektrophotographischen photoempfindlichen Elements (3) zu der Zeit in Kontakt kommt, bei der die<!-- EPO <DP n="29"> --> Prozesskartusche am Körper einer elektrophotographischen Vorrichtung angebracht wird, und</claim-text>
+<claim-text>die Umfangsgeschwindigkeit des Tonerzuführungselements (1) höher als die Umfangsgeschwindigkeit des elektrophotographischen photoempfindlichen Elements (3) ist,</claim-text>
+<b>dadurch gekennzeichnet, dass</b><br/>
+das elektrophotographische photoempfindliche Element (3) umfasst eine Oberflächenschicht (4), die eine photoempfindliche Schicht oder eine ein schmierendes, fluorhaltiges Harzpulver enthaltende Schutzschicht ist,<br/>
+das Abstandselement enthält ein Harz, gewählt aus der Gruppe aus Polyacetal, Polyethylen und Polypropylen, und<br/>
+die Einheit frei am Körper der elektrophotagraphischen Vorrichtung angebracht oder vom Körper der elektrophotagraphischen Vorrichtung abgenommen werden kann.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Prozesskartusche nach Anspruch 6,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+die Umfangsgeschwindigkeit des Tonerzuführungselements (1) 1,1-mal bis 3-mal die Umfangsgeschwindigkeit des elektrophotographischen photoempfindlichen Elements (3) ist.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Prozesskartusche nach Anspruch 6,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+das elektrophotographische photoempfindliche Element (3) eine Ladungserzeugungsschicht auf einem leitfähigen Träger hat und eine Ladungstransportschicht auf der Ladungserzeugungsschicht hat.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Prozesskartusche nach Anspruch 8,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+<!-- EPO <DP n="30"> -->die Ladungserzeugungsschicht ein Polyvinylacetal umfasst.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Prozesskartusche nach Anspruch 9,<br/>
+<b>dadurch gekennzeichnet, dass</b><br/>
+das Polyvinylacetal aus Polyvinylbutyral und Polyvinylbenzal gewählt ist.</claim-text></claim>
+</claims><!-- EPO <DP n="31"> -->
+<drawings id="draw" lang="en">
+<figure id="f0001" num=""><img id="if0001" file="imgf0001.tif" wi="153" he="233" img-content="drawing" img-format="tif"/></figure>
+</drawings>
+</ep-patent-document>

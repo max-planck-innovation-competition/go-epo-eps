@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.2//EN" "ep-patent-document-v1-2.dtd">
+<ep-patent-document id="EP96308101B2" file="EP96308101NWB2.xml" lang="en" country="EP" doc-number="0773297" kind="B2" date-publ="20080423" status="n" dtd-version="ep-patent-document-v1-2">
+<SDOBI lang="en"><B000><eptags><B001EP>......DE....FRGB................................................................</B001EP><B005EP>J</B005EP><B007EP>DIM360 Ver 2.4  (29 Nov 2007) -  2720000/0</B007EP></eptags></B000><B100><B110>0773297</B110><B120><B121>NEW EUROPEAN PATENT SPECIFICATION</B121></B120><B130>B2</B130><B140><date>20080423</date></B140><B190>EP</B190></B100><B200><B210>96308101.3</B210><B220><date>19961108</date></B220><B240><B241><date>19980911</date></B241><B242><date>20000606</date></B242><B243><date>20080423</date></B243></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>31580695</B310><B320><date>19951110</date></B320><B330><ctry>JP</ctry></B330><B310>31580795</B310><B320><date>19951110</date></B320><B330><ctry>JP</ctry></B330></B300><B400><B405><date>20080423</date><bnum>200817</bnum></B405><B430><date>19970514</date><bnum>199720</bnum></B430><B450><date>20020424</date><bnum>200217</bnum></B450><B451EP><date>20010629</date></B451EP><B452EP><date>20010927</date></B452EP><B477><date>20080423</date><bnum>200817</bnum></B477></B400><B500><B510EP><classification-ipcr sequence="1"><text>C12P   7/42        20060101AFI19970220BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C12P  13/02        20060101ALI19970220BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>Verfahren zur Herstellung einer alpha-Hydroxy-säure oder eines alpha-Hydroxy-amids mittels Mikroorganismen</B542><B541>en</B541><B542>Process for producing alpha-hydroxy acid or alpha-hydroxyamide by microorganism</B542><B541>fr</B541><B542>Procédé pour la préparation d'un acide alpha-hydroxy ou d'un amide alpha-hydroxy en utilisant des microorganismes</B542></B540><B560><B561><text>EP-A- 0 486 289</text></B561><B561><text>EP-A- 0 666 320</text></B561><B561><text>US-A- 5 326 702</text></B561><B561><text>US-A- 5 508 181</text></B561></B560></B500><B700><B720><B721><snm>Yamaguchi, Yasumasa, 
+Nitto Chem. Ind. Co., Ltd.</snm><adr><str>10-1 Daikoku-cho,
+Tsurumi-ku</str><city>Yokohama-shi, Kanagawa</city><ctry>JP</ctry></adr></B721><B721><snm>Ushigome, Masahiro ,
+Nitto Chem. Ind. Co., Ltd.</snm><adr><str>10-1 Daikoku-cho,
+Tsurumi-ku</str><city>Yokohama-shi,
+Kanagawa</city><ctry>JP</ctry></adr></B721><B721><snm>Kato, Takeshi,
+Nitto Chem. Ind. Co., Ltd.</snm><adr><str>10-1 Daikoku-cho,
+Tsurumi-ku</str><city>Yokohama-shi,
+Kanagawa</city><ctry>JP</ctry></adr></B721></B720><B730><B731><snm>MITSUBISHI RAYON CO., LTD.</snm><iid>00223389</iid><irf>Q036087PEP</irf><adr><str>6-41, Konan 1-chome</str><city>Minato-ku,
+Tokyo 108-8506</city><ctry>JP</ctry></adr></B731></B730><B740><B741><snm>Pearce, Anthony Richmond</snm><iid>00034741</iid><adr><str>MARKS &amp; CLERK, 
+Alpha Tower, 
+Suffolk Street Queensway</str><city>Birmingham B1 1TT</city><ctry>GB</ctry></adr></B741></B740><B780><B781><dnum><text>01</text></dnum><date>20021128</date><kind>1</kind><snm>BASF Aktiengesellschaft</snm><iid>00000171</iid><adr><city>D-67056 Ludwigshafen</city><ctry>DE</ctry></adr><B784><snm>Schweiger, Georg</snm><iid>00076743</iid><adr><str>Patentanwälte 
+Reitstötter, Kinzebach &amp; Partner 
+Sternwartstrasse 4</str><city>81679 München</city><ctry>DE</ctry></adr></B784></B781></B780></B700><B800><B840><ctry>DE</ctry><ctry>FR</ctry><ctry>GB</ctry></B840><B880><date>19980401</date><bnum>199814</bnum></B880></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001"><u style="single">FIELD OF THE INVENTION</u></heading>
+<p id="p0001" num="0001">This invention relates to a process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism. In particular, optically active α-hydroxyamides and α-hydroxy acids are industrially valuable as starting materials for synthesizing various drugs, agricultural chemicals, etc.</p>
+<heading id="h0002"><u style="single">BACKGROUND OF THE INVENTION</u></heading>
+<p id="p0002" num="0002">Examples of known processes for producing α-hydroxy acids by microorganisms include those which use microorganisms belonging to the genera <i>Alcaligenes, Pseudomonas, Rhodopseudomonas, Corynebacterium, Acinetobacter, Bacillus, Mycobacterium, Rhodococcus, Candida, Nocardia,</i> etc. (<patcit id="pcit0001" dnum="JP2084198A"><text>JP-A-2-84198</text></patcit>, <patcit id="pcit0002" dnum="JP3224496A"><text>JP-A-3-224496</text></patcit>, <patcit id="pcit0003" dnum="JP3277292A"><text>JP-A-3-277292</text></patcit>, etc.; the term "JP-A" as used herein means an "unexamined published Japanese patent application") and those which use microorganisms belonging to the genera <i>Nocardia, Bacillus, Brevibacterium, Aureobacterium, Pseudomonas, Caseobacter, Alcaligenes, Acinetobacter, Enterobacter, Arthrobacter, Escherichia, Micrococcu</i>s, <i>Streptomyces, Flavobacterium, Aeromonas, Mycoplana, Cellulomonas, Erwinia, Candida, Bacteridium, Aspergillus, Penicillium</i>, <i>Cochliobolus, Fusarium, Rhodopseudomonas, Rhodococcus, Corynebacterium, Microbacterium, Obsumbacterium, Gordona,</i> etc. (<patcit id="pcit0004" dnum="JP4099495A"><text>JP-A-4-99495</text></patcit>, <patcit id="pcit0005" dnum="JP4099496A"><text>JP-A-4-99496</text></patcit> and <patcit id="pcit0006" dnum="JP4218385A"><text>JP-A-4-218385</text></patcit> corresponding to <patcit id="pcit0007" dnum="US5223416A"><text>U.S. Patent 5,223,416</text></patcit>; <patcit id="pcit0008" dnum="JP4099497A"><text>JP-A-4-99497</text></patcit> corresponding to <patcit id="pcit0009" dnum="US5234826A"><text>U.S. Patent 5,234,826</text></patcit>; <patcit id="pcit0010" dnum="JP5095795A"><text>JP-A-5-95795</text></patcit> corresponding to <patcit id="pcit0011" dnum="US5296373A"><text>U.S. Patent 5,296,373</text></patcit>; <patcit id="pcit0012" dnum="JP5021987A"><text>JP-A-5-21987</text></patcit>; <patcit id="pcit0013" dnum="JP5192189A"><text>JP-A-5-192189</text></patcit> corresponding to <patcit id="pcit0014" dnum="US5326702A"><text>U.S. Patent 5,326,702</text></patcit>; <patcit id="pcit0015" dnum="JP6237789A"><text>JP-A-6-237789</text></patcit> corresponding to <patcit id="pcit0016" dnum="EP0610048A"><text>EP-A-0610048</text></patcit>; <patcit id="pcit0017" dnum="JP6284899A"><text>JP-A-6-284899</text></patcit> corresponding to <patcit id="pcit0018" dnum="EP0610049A"><text>EP-A-0610049</text></patcit>; <patcit id="pcit0019" dnum="JP7213296A"><text>JP-A-7-213296</text></patcit> corresponding to <patcit id="pcit0020" dnum="US5508181A"><text>U.S. Patent 5,508,181</text></patcit>; etc.).</p>
+<p id="p0003" num="0003">On the other hand, examples of known processes for producing α-hydroxyamides by microorganisms include those which use microorganisms belonging to the genera <i>Rhodococcus, Corynebacterium, Pseudomonas, Arthrobacter, Alcaligenes, Bacillus, Bacteridium, Micrococcus, Brevibacterium, Nocardia,</i> etc. (<patcit id="pcit0021" dnum="JP4222591A"><text>JP-A-4-222591</text></patcit>; <patcit id="pcit0022" dnum="JP5192189A"><text>JP-A-5-192189</text></patcit> corresponding to <patcit id="pcit0023" dnum="US5326702A"><text>U.S. Patent 5,326,702</text></patcit>; <patcit id="pcit0024" dnum="JP7213296A"><text>JP-A-7-213296</text></patcit> corresponding to <patcit id="pcit0025" dnum="US5508181A"><text>U.S. Patent 5,508,181</text></patcit>; etc.).</p>
+<p id="p0004" num="0004">When an α-hydroxynitrile is enzymatically hydrolyzed or hydrated using nitrilase or nitrile hydratase to produce an α-hydroxy acid or an α-hydroxyamide, a problem occurs in that the enzyme is inactivated within a short period of time. It is therefore difficult to obtain the α-hydroxy acid or α-hydroxyamide in high concentration and high yield.</p>
+<p id="p0005" num="0005">When an aldehyde and prussic acid, which are economically preferred to α-hydroxynitrile, are employed as the starting materials, another problem occurs in that the reaction rate is lowered with an increase in the concentration of the α-hydroxy acid or α-hydroxyamide product in the reaction mixture. As a result, the reaction does not proceed to completion.</p>
+<p id="p0006" num="0006">The present inventors have conducted extensive studies in order to solve these problems. As a result, the present inventors discovered that enzyme inactivation can be suppressed when an α-hydroxy acid or α-hydroxyamide represented by the following formula (3) is produced from a corresponding aldehyde represented by the following formula (1) and prussic acid by measuring the aldehyde concentration in the reaction mixture and by maintaining the aldehyde concentration in the reaction system within a predetermined range. Thus, α-hydroxy acid or α-hydroxyamide in high concentration can be produced in high yield.</p>
+<heading id="h0003"><u style="single">SUMMARY OF THE INVENTION</u></heading>
+<p id="p0007" num="0007">Accordingly, the present invention provides a process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism or processed product thereof selected from one of a ground cell, a crude enzyme, a purified enzyme, an immobilised cell and an immobilised enzyme having nitrilase or nitrile hydratase activity, which comprises the steps of (i) treating an aldehyde represented by the following formula (1) and prussic acid with the microorganism or the processed product in an aqueous medium to thereby provide a reaction mixture containing the corresponding α-hydroxy acid or α-hydroxyamide represented by the following formula (3), (ii) measuring the aldehyde concentration in said reaction mixture and (iii) continuously and/or intermittently supplying the aldehyde and prussic acid or an aqueous cyanide salt solution to the reaction mixture in such manner so as to maintain the aldehyde concentration in the<!-- EPO <DP n="2"> --> reaction mixture within a predetermined range of from 0.01 to 1,000 mM:
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="74" he="40" img-content="chem" img-format="tif"/></chemistry>
+wherein R represents a substituted or unsubstituted alkyl group, a substituted or unsubstituted alkenyl group, a substituted or unsubstituted cycloalkyl group, a substituted or unsubstituted aryl group, or a substituted or unsubstituted, saturated or unsaturated heterocyclic group; and X represents an amido group or a carboxyl group.</p>
+<heading id="h0004"><u style="single">DETAILED DESCRIPTION OF THE INVENTION</u></heading>
+<p id="p0008" num="0008">In the present invention, the aldehyde, prussic acid, and sulfite ion, which sulfite ion is added if needed, are in an equilibrium state and react with each other in the reaction mixture. Thus it is difficult to determine the actual concentrations of these substances. Accordingly, the apparent concentration(s) of the aldehyde in the reaction mixture is determined. More particularly, the reaction mixture during the course of the reaction is sampled and, if necessary, diluted and subjected to solid-liquid separation followed by an analysis of the solution thus obtained. Although it is preferable to employ liquid chromatography for this analysis, gas chromatography can also be used. The aldehyde is supplied to the reaction mixture in such manner so as to regulate (control) the aldehyde concentration in the reaction mixture within a concentration range of from 0.01 to 1,000 mM, preferably from 0.05 to 200 mM, and still more preferably from 1 to 50 mM. In the last step of the reaction, the supply of the aldehyde is discontinued to thereby lower the aldehyde concentration in the reaction mixture.</p>
+<p id="p0009" num="0009">It is also possible to measure the cyan ion concentration in addition to the aldehyde concentration. The concentration of cyanogen in the reaction mixture can be determined using a cyan ion sensor, an infrared gas analyzer, a semiconductor gas sensor, etc. In the present invention, the expression "cyanogen concentration in the reaction mixture" means the sum of the concentrations of prussic acid and cyan ion contained<!-- EPO <DP n="3"> --> therein. Furthermore, the aldehyde is supplied to the reaction mixture at a ratio of from 0.98 to 1.05 mol, preferably from 0.99 to 1.03 mol, per mol of prussic acid. In the last step of the reaction, the supply of the aldehyde is discontinued, and prussic acid is supplied alone if necessary so as to lower the concentration of the aldehyde in the reaction mixture.</p>
+<p id="p0010" num="0010">As used and claimed herein, it is to be understood that "supplying prussic acid to the reaction mixture" includes supplying a cyanide salt or solution thereof to the reactor such as a sodium cyanide solution.</p>
+<p id="p0011" num="0011">When the cyanogen concentration in the reaction mixture is determined using a cyan ion sensor, the short life of the cyanogen sensor can be prolonged by diluting the reaction mixture with an aqueous medium. When an infrared gas analyzer or a semiconductor gas sensor is employed therefor, this measurement can be carried out by determining the prussic acid gas concentration in the gas which contacts the reaction mixture.</p>
+<p id="p0012" num="0012">In general, aldehydes bind to proteins and thus inactivate enzymes. Therefore, the present inventors expect that the method of regulating the effect of inhibiting an enzyme, which comprises measuring the aldehyde concentration and optionally the cyanogen concentration in the reaction mixture and controlling the aldehyde concentration in the reaction mixture to within a predetermined range, is applicable as a rule to all microbial reactions in which aldehydes participate. Therefore, the microorganism for use in the process of the present invention for producing an acid or an amide from an aldehyde and prussic acid is not particularly limited, so long as it is capable of forming the acid or amide (i.e., having nitrilase or nitrile hydratase activity).</p>
+<p id="p0013" num="0013">Examples of microorganisms which are useful in the present invention include those belonging to the genera <i>Pseudomonas, Alcaligenes, Acinetobacter, Caseobacter, Corynebacterium, Brevibacterium, Nocardia, Rhodococcus, Gordona, Arthrobacter, Bacillus, Aureobacterium, Enterobacter, Escherichia, Micrcoccus, Streptomyces, Flavobacterium, Aeromonas, Mycoplana, Cellulomonas, Erwinia, Candida, Bacteridium, Aspergillus, Penicillium, Cochliobolus, Fusarium, Rhodopseudomonas,</i> etc.</p>
+<p id="p0014" num="0014">More particularly, for example, the following microorganisms are useful in the present invention, wherein FERM denotes the Fermentation Research Institute, Pseudomonas sp. BC13-2 (FERM BP-3319), BC15-2 (FERM BP-3320), SK13 (FERM BP-3325), SK31 (FERM P-11310) and SK87 (FERM P-11311), <i>Pseudomonas synxanta</i> IAM 12356, <i>Alcaligenes</i> sp. BC12-2 (FERM P-11263), BC20 (FERM P-11264) and BC35-2 (FERM BP-3318), <i>Acinetobacter</i> sp. BC9-2 (FERM BP-3317), <i>Caseobacter</i> sp. BC4 (FERM BP-3316) and BC23 (FERM P-11261), <i>Corynebacterium nitrilophilus</i> ATCC 21419, <i>Brevibacterium acetylicum</i> IAM 1790, <i>Brevibacterium helvolum</i> ATCC 11822, <i>Nocardia</i> sp. N-775 (FERM P-4447), <i>Nocardia asteroides</i> IFO 3384, <i>Nocardia calcarea</i> KCCA 0191, <i>Nocardia polychromogenes</i> IFM 19, <i>Rhodococcus sp.</i> SK70 (FERM P-11304), SK92 (FERM BP-3324) and HR11 (FERM P-11306), <i>Rhodococcus rhodochrous</i> ATCC 12674, ATCC 19140 and ATCC 33258, <i>Rhodococcus erythropolis</i> IFM 155, IFO 12320, IFO 12538 and IFO 12540, <i>Gordona terrae,</i> MA-1 (FERM BP-4535), <i>Arthrobacter</i> sp. SK103 (FERM P-11300), HR1 (FERM BP-3323) and HR4 (FERM P-11302), <i>Arthrobacter oxydans</i> IFO 12138, <i>Bacillus subtilis</i> ATCC 21697, <i>Bacillus licheniformis</i> IFO 12197, <i>Bacillus megaterium</i> ATCC 25833, <i>Aureobacterium testaceum</i> IAM 1561, <i>Enterobacter</i> sp. SK12 (FERM BP-3322), <i>Escherichia coli</i> IFO 3301, <i>Micrococcus luteus</i> ATCC 383, <i>Micrcoccus varians</i> IAM 1099, <i>Micrococcus roseus</i> IFO 3768, <i>Streptomyces griseus</i> IFO 3355, <i>Flavobacterium</i> sp. SK150 (FERM P-11645), <i>Flavobacterium flavescens</i> ATCC 8315, <i>Aeromonas punctata</i> IFO 13288, <i>Mycoplana dimorpha</i> ATCC 4297, <i>Cellulomonas fimi</i> IAM 12107, <i>Erwinia herbicola</i> IFO 12686 and <i>Candida guilliermondii</i> IFO 0566.</p>
+<p id="p0015" num="0015">These microorganisms are respectively described in the above-cited patent publications.</p>
+<p id="p0016" num="0016">On the other hand, examples of useful microorganisms in the present invention having nitrile hydratase activity include those belonging to the genera <i>Rhodococcus, Corynebacterium, Pseudomonas, Arthrobacter, Alcaligenes, Bacillus, Bacteridium, Micrococcus, Brevibacterium</i> and <i>Nocardia.</i></p>
+<p id="p0017" num="0017">More particularly, for example, the following microorganisms are useful in the present invention.</p>
+<p id="p0018" num="0018"><i>Rhodococcus</i> sp. HT40-6 (FERM BP-5231), <i>Rhodococcus rhodochrous</i> ATCC 33278, <i>Rhodococcus erythropolis</i> IFO 12320, <i>Corynebacterium nitrilophilus</i> ATCC 21419, <i>Pseudomonas</i> sp. SK87 (FERM P-11311), <i>Arthrobacter</i> sp. HR1 (FERM BP-3323) and <i>Alcaligenes</i> sp. BC16-2 (FERM BP-3321).</p>
+<p id="p0019" num="0019">These microorganisms are respectively described in the above-cited patent publications.</p>
+<p id="p0020" num="0020">The aldehyde represented by formula (1) for use in the present invention are those wherein R represents a substituted or unsubstituted alkyl (e.g., C<sub>1</sub>-C<sub>6</sub> alkyl) group, a substituted or unsubstituted alkenyl (e.g., C<sub>2</sub>-C<sub>3</sub> alkenyl) group, a substituted or unsubstituted cycloalkyl (e.g., cyclohexyl) group, a substituted or unsubstituted aryl group (e.g., phenyl), or a substituted or unsubstituted, saturated or unsaturated heterocyclic (e.g., one ring) group. In the reaction mixture, the aldehyde and prussic acid are in a dissociated equilibrium state.</p>
+<p id="p0021" num="0021">Useful heterocyclic groups represented by R contain at least one heteroatom selected from among nitrogen, oxygen and sulfur atoms.</p>
+<p id="p0022" num="0022">Examples of useful substituents for the substituted group represented by R include alkyl, alkoxy, acyl, aryl and aryloxy groups, halogen atoms such as chlorine and bromine atoms and hydroxyl, amino, nitro and thiol groups.</p>
+<p id="p0023" num="0023">Particular examples of the aldehyde include acetaldehyde, propionaldehyde, n-butylaldehyde, n-pentylaldehyde, n-hexylaldehyde, n-heptylaldehyde, β-hydroxy-α,α-dimethylpropionaldehyde, acrolein, 3-phenylacrolein, methacrylaldehyde, 2-chloroacetaldehyde, 3-methylthiopropionaldehyde and 2-phenylaldehyde which are optionally substituted. Furthermore, aromatic aldehydes and those having heterocyclic rings can also be used such as benzaldehyde, 2-thiophenaldehyde, 2-pyridinaldehyde, 2-pyrrolaldehyde and 2-furaldehyde which are optionally<!-- EPO <DP n="4"> --> substituted. As for the prussic acid, a cyanide such as sodium cyanide or potassium cyanide can be used.</p>
+<p id="p0024" num="0024">Enzyme inhibition by the aldehyde is effectively suppressed by adding sulfite ion such as a sulfurous acid salt or an acidic sulfurous acid salt. Examples of the salt include sodium, potassium and ammonium salts. The salt may be added in an amount of from 1 to 1,000 mM to the reaction mixture.</p>
+<p id="p0025" num="0025">When a microorganism having a stereospecific nitrilase or nitrile hydratase or a processed product thereof (e.g., enzyme, immobilized enzyme, immobilized cell) is employed in the reaction, it is possible to convert at least 50% of the aldehyde (i.e., at least 50% of the starting material) into one of the optically active substances. Thus, an optically active α-hydroxy acid or α-hydroxyamide can be advantageously obtained without having to optically resolve the product.</p>
+<heading id="h0005"><u style="single">DESCRIPTION OF THE PREFERRED EMBODIMENTS</u></heading>
+<p id="p0026" num="0026">The hydrolysis or hydration is performed by contacting a mixture of the aldehyde represented by formula (1) and prussic acid with a microorganism or a processed product thereof (e.g., ground cell,-crude enzyme, purified enzyme, immobilized cell, immobilized enzyme) in an aqueous medium such as water or a buffer.</p>
+<p id="p0027" num="0027">In the present invention, the aldehyde concentration and optionally the cyanogen concentration in the reaction mixture are measured in this step, and the aldehyde and prussic acid are continuously and/or intermittently added thereto so as to maintain the concentration of the aldehyde within a predetermined range.</p>
+<p id="p0028" num="0028">The aldehyde concentration in the reaction mixture is as defined above. The microorganism is employed in an amount of from 0.001 to 5.0% by weight on a dry basis based on the substrate. The reaction temperature generally ranges from the freezing point to 50°C, preferably from 5 to 30°C.</p>
+<p id="p0029" num="0029">When the aldehyde has an extremely low solubility in the aqueous medium, the reaction can be efficiently carried out by adding 0.1 to 5.0% by weight of a surfactant (Triton X-100 [RTM], Tween 60 [RTM], etc.), methanol, ethanol, dimethyl sulfoxide, etc.</p>
+<p id="p0030" num="0030">The α-hydroxy acid thus obtained may be isolated by treating the reaction mixture, from which insoluble matter including the cells has been removed, by procedures well known to those of ordinary skill such as concentration, ion exchange, electrodialysis, extraction, crystallization, etc.</p>
+<p id="p0031" num="0031">To further illustrate the present invention in greater detail, and not by way of limitation, the following Examples are given below.</p>
+<heading id="h0006"><u style="single">EXAMPLE 1</u></heading>
+<p id="p0032" num="0032">A 50 mM phosphate buffer (pH 8.0) containing 1,000 mM of sodium sulfite was charged into a reactor and the temperature was adjusted to 30°C. Then <i>Gordona terrae</i> MA-1 strain was suspended in this solution so as to obtain an OD<sub>630</sub> of 4.2. Then, an aqueous solution of sodium cyanide and benzaldehyde as starting materials were supplied to the reactor while controlling the molar ratio thereof to 1.0 : 1.0. The cyan ion concentration in the reaction mixture was measured with a cyan ion detector, and the supply rate of the aqueous solution of sodium cyanide was controlled so as to adjust the output of the cyan ion detector to within -220 to -224 mV. In the course of the reaction, the reaction mixture was sampled and filtered. The filtrate was diluted 10-fold with water and the benzaldehyde concentration was measured by liquid chromatography. Thus, the supply rates of the aqueous solution of sodium cyanide and benzaldehyde were regulated to maintain the benzaldehyde concentration in the reaction mixture within the range of from 10 to 15 mM.</p>
+<p id="p0033" num="0033">After carrying out the reaction for 22 hours, the reacted mixture contained R-mandelic acid in a concentration of 10.5% and an optical purity of 99.0% ee. The R-mandelic acid concentration and optical purity were determined by liquid chromatography. The yield of the R-mandelic acid based on the benzaldehyde supplied to the reactor was 97.0%.</p>
+<heading id="h0007"><u style="single">EXAMPLE 2</u></heading>
+<p id="p0034" num="0034">The procedure of Example 1 was repeated except for substituting the aqueous solution of sodium cyanide by prussic acid. After carrying out the reaction for 22 hours, the reacted mixture contained R-mandelic acid in a concentration of 14.2% and an optical purity of 99.0% ee. The yield of the R-mandelic acid based on the benzaldehyde supplied to the reactor was 97.0%.</p>
+<heading id="h0008"><u style="single">EXAMPLE 3</u></heading>
+<p id="p0035" num="0035">A 20 mM phosphate buffer (pH 8.5) was charged to a reactor and the temperature was adjusted to 10°C.<!-- EPO <DP n="5"> --> Then, <i>Rhodococcus</i> sp. HT40-6 strain was suspended in this solution so to provide an OD<sub>630</sub> of 4.2.</p>
+<p id="p0036" num="0036">After adding benzaldehyde to the reactor and dissolving the same to provide a concentration of 30 mM, benzaldehyde and prussic acid as starting materials were supplied to the reactor in a molar ratio thereof to 1.0 : 1.0. The cyan ion concentration in the reaction mixture was measured with a cyan ion detector, and the supply rate of the aqueous solution of sodium cyanide was controlled so as to adjust the output of the cyan ion detector to within -145 to -150 mV. During the course of the reaction, the reaction mixture was sampled and filtered. The filtrate was diluted 10-fold with water and the benzaldehyde concentration was measured by liquid chromatography. Thus, the supply rates of the aqueous solution of sodium cyanide and benzaldehyde were regulated to thereby maintain the benzaldehyde concentration in the reaction mixture within the range of from 35 to 40 mM.</p>
+<p id="p0037" num="0037">After carrying out the reaction for 66 hours, the reacted mixture contained mandelamide in a concentration of 32% and an optical purity (S-mandelamide) of 77% ee. The yield of the mandelamide based on the benzaldehyde supplied to the reactor was 95%. Mandelamide was crystallized from the reacted mixture.</p>
+<heading id="h0009"><u style="single">COMPARATIVE EXAMPLE 1</u></heading>
+<p id="p0038" num="0038">A 50 mM phosphate buffer (pH 8.0) containing 100 mM of sodium sulfite was charged to a reactor and the temperature was adjusted to 30°C. Then <i>Gordona terrae</i> MA-1 strain was suspended in this solution so as to provide an OD<sub>630</sub> of 4.2. Then, an aqueous solution of sodium cyanide and benzaldehyde as starting materials were supplied in a molar ratio of 1.0 : 1.0. The cyan ion concentration in the reaction mixture was measured with a cyan ion detector, and the supply rate of the aqueous solution of sodium cyanide was controlled so as to adjust the output of the cyan ion detector to within -220 to -224 mV.</p>
+<p id="p0039" num="0039">After carrying out the reaction for 22 hours, the reacted mixture contained R-mandelic acid in a concentration of 5.0% and an optical purity of 97% ee. The yield of the R-mandelic acid based on the benzaldehyde supplied to the reactor was 93%.</p>
+<heading id="h0010"><u style="single">COMPARATIVE EXAMPLE 2</u></heading>
+<p id="p0040" num="0040">A 50 mM phosphate buffer (pH 8.0) containing 100 mM of sodium sulfite <i>was</i> charged to a reactor and the temperature was adjusted to 30°C. Then, <i>Gordona terrae</i> MA-1 strain was suspended in this solution so as to provide an OD<sub>630</sub> of 4.2. Then, an aqueous solution of sodium cyanide and benzaldehyde employed as starting materials were supplied in a molar ratio of 1.0 : 0.98. The cyan ion concentration in the reaction mixture was measured with a cyan ion detector, and the supply rate of the aqueous solution of sodium cyanide was controlled so as to adjust the output of the cyan ion detector to within -220 to -224 mV. In this case, the cyanogen concentration in the reaction mixture was regulated within the range of from 20 to 22 mM.</p>
+<p id="p0041" num="0041">After carrying out the reaction for 22 hours, the supply of benzaldehyde was discontinued while the supply of the aqueous solution of sodium cyanide was continued. Table 1 shows the results of the reaction performed for 30 hours.</p>
+<heading id="h0011"><u style="single">COMPARATIVE EXAMPLES 3 TO 7</u></heading>
+<p id="p0042" num="0042">The procedure of Comparative Example 2 was repeated except for controlling the molar ratio of the aqueous solution of sodium cyanide and benzaldehyde starting materials as specified in Table 1. Table 1 shows the results of the reaction performed for 30 hours.</p>
+<heading id="h0012"><u style="single">COMPARATIVE EXAMPLE 8</u></heading>
+<p id="p0043" num="0043">The procedure of Comparative Example 2 was repeated except for substituting prussic acid for the aqueous solution of sodium cyanide acid and controlling the molar ratio of prussic acid to benzaldehyde to 1.00 : 1.00. After carrying out the reaction for 30 hours, the reacted mixture contained R-mandelic acid in a concentration of 14.5% and an optical purity of 99.0% ee. The yield of the R-mandelic acid based on the benzaldehyde supplied to the reactor was 97.8%.</p>
+<heading id="h0013"><u style="single">COMPARATIVE EXAMPLE 9</u></heading>
+<p id="p0044" num="0044">A 20 mM phosphate buffer (pH 8.5) was charged to a reactor and the temperature was adjusted to 10°C. Then, <i>Rhodococcus</i> sp. HT40-6 strain was suspended in this solution so as to provide an OD<sub>630</sub> of 4.2.</p>
+<p id="p0045" num="0045">After adding benzaldehyde thereto and dissolving the same so as to provide a concentration of 30 mM, prussic acid and benzaldehyde starting materials were supplied to the reactor while controlling the molar ratio thereof to 1.0 : 1.02. The cyan ion concentration in the reaction mixture was measured with a cyan ion detector, and the supply rate of the aqueous solution of sodium cyanide was controlled so as to adjust the output of the cyan ion detector to within<!-- EPO <DP n="6"> --> -145 to -150 mV. In this case, the cyanogen concentration in the reaction mixture was controlled to within the range of from 18 to 20 mM. After carrying out the reaction for 66 hours, the reacted mixture contained mandelamide in a concentration of 33% and an optical purity (S-mandelamide) of 77% ee. The yield of the mandelamide based on the benzaldehyde supplied to the reactor was 95%. Mandelamide was crystallized from the reacted mixture.</p>
+<heading id="h0014"><u style="single">COMPARATIVE EXAMPLE 10</u></heading>
+<p id="p0046" num="0046">A 50 mM phosphate buffer (pH 8.0) containing 100 mM of sodium sulfite was charged to a reactor and the temperature was adjusted to 30°C. Then <i>Gordona terrae</i> MA-1 strain was suspended in this solution so as to provide an OD<sub>630</sub> of 4.2. Then, an aqueous solution of sodium cyanide and benzaldehyde starting materials were supplied in a molar ratio thereof to 1.0 : 0.97. The cyan ion concentration in the reaction mixture was measured with a cyan ion detector, and the supply rate of the aqueous solution of sodium cyanide was controlled so as to adjust the output of the cyan ion detector to within -220 to -224 mV. After carrying out the reaction for 22 hours, the supply of the benzaldehyde was discontinued while the supply of the aqueous solution of sodium cyanide was continued. Table 1 shows the results of the reaction performed for 30 hours.</p>
+<heading id="h0015"><u style="single">COMPARATIVE EXAMPLE 11</u></heading>
+<p id="p0047" num="0047">The procedure of Comparative Example 10 was repeated, except for controlling the molar ratio of the aqueous solution of sodium cyanide and benzaldehyde employed as starting materials to 1.00 : 1.06. Table 1 shows the results of the reaction performed for 30 hours.<!-- EPO <DP n="7"> -->
+<tables id="tabl0001" num="0001">
+<table frame="bottom">
+<title><u style="single">TABLE 1</u></title>
+<tgroup cols="7" colsep="0">
+<colspec colnum="1" colname="col1" colwidth="17mm"/>
+<colspec colnum="2" colname="col2" colwidth="26mm"/>
+<colspec colnum="3" colname="col3" colwidth="26mm"/>
+<colspec colnum="4" colname="col4" colwidth="25mm"/>
+<colspec colnum="5" colname="col5" colwidth="24mm"/>
+<colspec colnum="6" colname="col6" colwidth="25mm"/>
+<colspec colnum="7" colname="col7" colwidth="26mm"/>
+<thead>
+<row>
+<entry align="center">Ex. No.</entry>
+<entry align="center">Sodium Cyanide</entry>
+<entry align="center">Benzaldehyde</entry>
+<entry align="center">Accumulated Concentration</entry>
+<entry align="center">Optical Purity</entry>
+<entry align="center">Mandelic Acid Yield</entry>
+<entry align="center">R-mandelic Acid Yield</entry></row>
+<row rowsep="0">
+<entry align="center" valign="top"/>
+<entry align="center" valign="top">(mol. ratio)</entry>
+<entry align="center" valign="top">(mol. ratio)</entry>
+<entry align="center" valign="top">(%)</entry>
+<entry align="center" valign="top">(%)</entry>
+<entry align="center" valign="top">(%)</entry>
+<entry align="center" valign="top">(%)</entry></row></thead>
+<tbody>
+<row rowsep="0">
+<entry align="right">C. Ex. 2</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">0.98</entry>
+<entry align="char" char=".">9.5</entry>
+<entry align="char" char="." charoff="15">94.8</entry>
+<entry align="char" char=".">99.9</entry>
+<entry align="char" char=".">94.7</entry></row>
+<row rowsep="0">
+<entry align="right">C. Ex. 3</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">0.99</entry>
+<entry align="char" char=".">10.2</entry>
+<entry align="char" char="." charoff="15">95.9</entry>
+<entry align="char" char=".">99.7</entry>
+<entry align="char" char=".">95.6</entry></row>
+<row rowsep="0">
+<entry align="right">C. Ex. 4</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">1.00</entry>
+<entry align="char" char=".">10.6</entry>
+<entry align="char" char="." charoff="15">96.5</entry>
+<entry align="char" char=".">97.7</entry>
+<entry align="char" char=".">94.3</entry></row>
+<row rowsep="0">
+<entry align="right">C. Ex. 5</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">1.02</entry>
+<entry align="char" char=".">10.1</entry>
+<entry align="char" char="." charoff="15">98.3</entry>
+<entry align="char" char=".">96.7</entry>
+<entry align="char" char=".">94.3</entry></row>
+<row rowsep="0">
+<entry align="right">C. Ex. 6</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">1.04</entry>
+<entry align="char" char=".">9.9</entry>
+<entry align="char" char="." charoff="15">98.5</entry>
+<entry align="char" char=".">94.6</entry>
+<entry align="char" char=".">93.2</entry></row>
+<row>
+<entry align="right">C. Ex. 7</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">1.05</entry>
+<entry align="char" char=".">9.7</entry>
+<entry align="char" char="." charoff="15">98.5</entry>
+<entry align="char" char=".">93.7</entry>
+<entry align="char" char=".">92.3</entry></row>
+<row rowsep="0">
+<entry align="right">C.Ex. 10</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">0.97</entry>
+<entry align="char" char=".">6.0</entry>
+<entry align="char" char="." charoff="15">93.0</entry>
+<entry align="char" char=".">99.9</entry>
+<entry align="char" char=".">93.9</entry></row>
+<row>
+<entry align="right">C.Ex. 11</entry>
+<entry align="char" char=".">1.00</entry>
+<entry align="char" char="." charoff="8">1.06</entry>
+<entry align="char" char=".">9.3</entry>
+<entry align="char" char="." charoff="15">98.7</entry>
+<entry align="char" char=".">91.0</entry>
+<entry align="char" char=".">89.8</entry></row></tbody></tgroup>
+</table>
+</tables><!-- EPO <DP n="8"> --></p>
+<p id="p0048" num="0048">In accordance with the present invention, an α-hydroxynitrile can be hydrolyzed or hydrated while maintaining the aldehyde concentration, which is one of the factors inhibiting the enzyme, at a continuously low level during the reaction. Thus, the enzymatic activity can be sustained in a stable state for a prolonged period of time. This makes it possible to accumulate the acid or amide product in a high concentration.</p>
+<p id="p0049" num="0049">While the invention has been described in detail and with reference to specific embodiments thereof, it will be apparent to one skilled in the art that various changes and modifications can be made therein without departing from the scope thereof.</p>
+</description><!-- EPO <DP n="9"> -->
+<claims id="claims01" lang="en">
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism or processed product thereof selected from one of a ground cell, a crude enzyme, a purified enzyme, an immobilised cell and an immobilised enzyme having nitrilase or nitrile hydratase activity, which comprises the steps of (i) treating an aldehyde represented by the following formula (1) and prussic acid with the microorganism or the processed product in an aqueous medium to thereby provide a reaction mixture containing the corresponding α-hydroxy acid or α-hydroxyamide represented by the following formula (3), (ii) measuring the aldehyde concentration in said reaction mixture and (iii) continuously and/or intermittently supplying the aldehyde and prussic acid or an aqueous cyanide salt solution to the reaction mixture in such manner so as to maintain the aldehyde concentration in the reaction mixture within a predetermined range of from 0.01 to 1,000 mM:
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="63" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein R represents a substituted or unsubstituted alkyl group, a substituted or unsubstituted alkenyl group, a substituted or unsubstituted cycloalkyl group, a substituted or unsubstituted aryl group, or a substituted or unsubstituted, saturated or unsaturated heterocyclic group; and X represents an amido group or a carboxyl group.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>The process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism as claimed in claim 1, wherein said supplying step comprises supplying an aqueous cyanide salt solution to the reaction mixture and regulating the supply rates of the aldehyde and the aqueous cyanide salt<!-- EPO <DP n="10"> --> solution to the reaction mixture so as to maintain the aldehyde concentration within the predetermined range.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>The process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism as claimed in claim 1, which comprises maintaining the aldehyde concentration in the reaction mixture within a range of from 0.05 to 200 mM.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>The process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism as claimed in claim 1, which comprises maintaining the aldehyde concentration in the reaction mixture within a range of from 1 to 50 mM.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>The process for producing an α-hydroxy acid or an α-hydroxyamide by a microorganism as claimed in claim 1, wherein the reaction mixture contains sulfite ion.</claim-text></claim>
+</claims><!-- EPO <DP n="11"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Verfahren zur Herstellung einer α-Hydroxysäure oder eines α-Hydroxyamids durch einen Mikroorganismus oder ein verarbeitetes Produkt daraus, ausgewählt aus einem von einer gemahlenen Zelle, einem rohen Enzym, einem gereinigten Enzym, einer immobilisierten Zelle und einem immobilisierten Enzym mit Nitrilase- oder Nitrilhydrataseaktivität, welches die Schritte umfaßt, (i) ein Aldehyd, dargestellt durch die folgende Formel (1), und Blausäure mit dem Mikroorganismus oder dem verarbeiteten Produkt in einem wässerigen Medium zu behandeln, um dadurch ein Reaktionsgemisch, enthaltend die entsprechende α-Hydroxysäure oder das α-Hydroxyamid, dargestellt durch die folgende Formel (3), bereitzustellen, (ii) die Aldehydkonzentration in dem Reaktionsgemisch zu messen und (iii) kontinuierlich und/oder intermittierend das Aldehyd und die Blausäure oder eine wässerige Cyanidsalzlösung dem Reaktionsgemisch in einer derartigen Weise zuzuführen, um die Aldehydkonzentration in dem Reaktionsgemisch innerhalb eines vorherbestimmten Bereichs von 0,01 bis 1000 mM zu erhalten:
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="74" he="34" img-content="chem" img-format="tif"/></chemistry>
+wobei R eine substituierte oder unsubstituierte Alkylgruppe, eine substituierte oder unsubstituierte Alkenylgruppe, eine substituierte oder unsubstituierte Cycloalkylgruppe, eine substituierte oder unsubstituierte Arylgruppe oder eine substituierte oder unsubstituierte, gesättigte oder ungesättigte heterocyclische Gruppe darstellt; und X eine Amidogruppe oder eine Carboxylgruppe darstellt.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Verfahren zur Herstellung einer α-Hydroxysäure oder eines α-Hydroxyamids durch einen Mikroorganismus nach Anspruch 1, wobei der Zuführungsschritt das Zuführen einer wässerigen Cyanidsalzlösung zu dem Reaktionsgemisch und Regulieren der Zuführungsgeschwindigkeiten des Aldehyds und der wässerigen Cyanidsalzlösung zu dem Reaktionsgemisch, um die Aldehydkonzentration innerhalb des vorherbestimmten Bereichs zu erhalten, umfaßt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Verfahren zur Herstellung einer α-Hydroxysäure oder eines α-Hydroxyamids durch einen Mikroorganismus nach Anspruch 1, welches umfaßt, die Aldehydkonzentration in dem Reaktionsgemisch innerhalb eines Bereiches von 0,05 bis 200 mM zu erhalten.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Verfahren zur Herstellung einer α-Hydroxysäure oder eines α-Hydroxyamids durch einen Mikroorganismus nach Anspruch 1, welches umfaßt, die Aldehydkonzentration in dem Reaktionsgemisch innerhalb eines Bereiches von 1 bis 50 mM zu erhalten.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren zur Herstellung einer α-Hydroxysäure oder eines α-Hydroxyamids durch einen Mikroorganismus nach Anspruch 1, wobei das Reaktionsgemisch Sulfition enthält.</claim-text></claim>
+</claims><!-- EPO <DP n="12"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Procédé pour préparer un α-hydroxyacide ou un α-hydroxyamide par un micro-organisme ou un produit transformé de celui-ci choisi parmi une cellule broyée, une enzyme brute, une enzyme purifiée, une cellule immobilisée et une enzyme immobilisée ayant l'activité de la nitrilase ou de la nitrile hydratase, qui comprend les étapes consistant (i) à traiter un aldéhyde représenté par la formule (1) suivante et de l'acide prussique avec le micro-organisme ou le produit transformé, dans un milieu aqueux pour fournir ainsi un mélange réactionnel contenant le α-hydroxyacide ou α-hydroxyamide correspondant représenté par la formule (3) suivante, (ii) à mesurer la concentration d'aldéhyde dans ledit mélange réactionnel et (iii) à fournir en continu et/ou par intermittence l'aldéhyde et l'acide prussique ou une solution aqueuse de sel cyanure au mélange réactionnel de manière à maintenir la concentration d'aldéhyde dans le mélange réactionnel dans une gamme prédéterminée de 0,01 à 1000 mM:
+<chemistry id="chem0004" num="0004"><img id="ib0004" file="imgb0004.tif" wi="78" he="35" img-content="chem" img-format="tif"/></chemistry>
+où R représente un groupe alkyle substitué ou non substitué, un groupe alcényle substitué ou non substitué, un groupe cycloalkyle substitué ou non substitué, un groupe aryle substitué ou non substitué, ou un groupe hétérocyclique substitué ou non substitué, saturé ou insaturé; et X représente un groupe amido ou un groupe carboxyle.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Procédé pour produire un α-hydroxyacide ou un α-hydroxyamide par un micro-organisme selon la revendication 1, dans lequel ladite étape de fourniture comprend la fourniture d'une solution aqueuse de sel cyanure au mélange réactionnel et la régulation des vitesses d'alimentation en aldéhyde et solution aqueuse de sel cyanure au mélange réactionnel de façon à maintenir la concentration d'aldéhyde dans la gamme prédéterminée.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Procédé pour produire un α-hydroxyacide ou un α-hydroxyamide par un micro-organisme selon la revendication 1, qui comprend le maintien de la concentration d'aldéhyde dans le mélange réactionnel dans la gamme de 0,05 à 200 mM.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Procédé pour produire un α-hydroxyacide ou un α-hydroxyamide par un micro-organisme selon la revendication 1, qui comprend le maintien de la concentration d'aldéhyde dans le mélange réactionnel dans la gamme de 1 à 50 mM.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé pour produire un α-hydroxyacide ou un α-hydroxyamide par un micro-organisme selon la revendication 1, dans lequel le mélange réactionnel contient l'ion sulfite.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP2084198A"><document-id><country>JP</country><doc-number>2084198</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0002]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="JP3224496A"><document-id><country>JP</country><doc-number>3224496</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0002]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="JP3277292A"><document-id><country>JP</country><doc-number>3277292</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0002]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="JP4099495A"><document-id><country>JP</country><doc-number>4099495</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0002]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="JP4099496A"><document-id><country>JP</country><doc-number>4099496</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0002]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="JP4218385A"><document-id><country>JP</country><doc-number>4218385</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0002]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="US5223416A"><document-id><country>US</country><doc-number>5223416</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0002]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="JP4099497A"><document-id><country>JP</country><doc-number>4099497</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0008">[0002]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="US5234826A"><document-id><country>US</country><doc-number>5234826</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0009">[0002]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="JP5095795A"><document-id><country>JP</country><doc-number>5095795</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0010">[0002]</crossref></li>
+<li><patcit id="ref-pcit0011" dnum="US5296373A"><document-id><country>US</country><doc-number>5296373</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0011">[0002]</crossref></li>
+<li><patcit id="ref-pcit0012" dnum="JP5021987A"><document-id><country>JP</country><doc-number>5021987</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0012">[0002]</crossref></li>
+<li><patcit id="ref-pcit0013" dnum="JP5192189A"><document-id><country>JP</country><doc-number>5192189</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0013">[0002]</crossref><crossref idref="pcit0022">[0003]</crossref></li>
+<li><patcit id="ref-pcit0014" dnum="US5326702A"><document-id><country>US</country><doc-number>5326702</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0014">[0002]</crossref><crossref idref="pcit0023">[0003]</crossref></li>
+<li><patcit id="ref-pcit0015" dnum="JP6237789A"><document-id><country>JP</country><doc-number>6237789</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0015">[0002]</crossref></li>
+<li><patcit id="ref-pcit0016" dnum="EP0610048A"><document-id><country>EP</country><doc-number>0610048</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0016">[0002]</crossref></li>
+<li><patcit id="ref-pcit0017" dnum="JP6284899A"><document-id><country>JP</country><doc-number>6284899</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0017">[0002]</crossref></li>
+<li><patcit id="ref-pcit0018" dnum="EP0610049A"><document-id><country>EP</country><doc-number>0610049</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0018">[0002]</crossref></li>
+<li><patcit id="ref-pcit0019" dnum="JP7213296A"><document-id><country>JP</country><doc-number>7213296</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0019">[0002]</crossref><crossref idref="pcit0024">[0003]</crossref></li>
+<li><patcit id="ref-pcit0020" dnum="US5508181A"><document-id><country>US</country><doc-number>5508181</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0020">[0002]</crossref><crossref idref="pcit0025">[0003]</crossref></li>
+<li><patcit id="ref-pcit0021" dnum="JP4222591A"><document-id><country>JP</country><doc-number>4222591</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0021">[0003]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

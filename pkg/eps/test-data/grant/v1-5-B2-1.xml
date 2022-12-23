@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.5//EN" "ep-patent-document-v1-5.dtd">
+<!-- This XML data has been generated under the supervision of the European Patent Office -->
+<ep-patent-document id="EP98942751B2" file="EP98942751NWB2.xml" lang="fr" country="EP" doc-number="1011858" kind="B2" date-publ="20201216" status="n" dtd-version="ep-patent-document-v1-5">
+<SDOBI lang="fr"><B000><eptags><B001EP>......DE..ESFRGB..IT..........PT....................................................................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>BDM Ver 1.7.2 (20 November 2019) -  2720000/0</B007EP></eptags></B000><B100><B110>1011858</B110><B120><B121>NOUVEAU FASCICULE DE BREVET EUROPEEN</B121><B121EP>Après la procédure d'opposition</B121EP></B120><B130>B2</B130><B140><date>20201216</date></B140><B190>EP</B190></B100><B200><B210>98942751.3</B210><B220><date>19980818</date></B220><B240><B241><date>20000210</date></B241><B242><date>20010404</date></B242><B243><date>20201216</date></B243></B240><B250>fr</B250><B251EP>fr</B251EP><B260>fr</B260></B200><B300><B310>9710535</B310><B320><date>19970821</date></B320><B330><ctry>FR</ctry></B330></B300><B400><B405><date>20201216</date><bnum>202051</bnum></B405><B430><date>20000628</date><bnum>200026</bnum></B430><B450><date>20110316</date><bnum>201111</bnum></B450><B452EP><date>20101005</date></B452EP><B472><B475><date>20180817</date><ctry>GB</ctry><date>20181003</date><ctry>PT</ctry></B475></B472><B477><date>20201216</date><bnum>202051</bnum></B477></B400><B500><B510EP><classification-ipcr sequence="1"><text>B01J  20/18        20060101AFI19990331BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C07C  15/08        20060101ALI19990331BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C07C   7/13        20060101ALI19990331BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>AGGLOMERIERTE ZEOLITISCHE ADSORPTIONSMITTEL,  VERFAHREN ZU IHRER HERSTELLUNG UND IHRE VERWENDUNG BEI DER ADSORPTION VON PARA-XYLOL AUS C8 AROMATISCHEN KOHLENWASSERSTOFFSCHNITTEN</B542><B541>en</B541><B542>AGGLOMERATED ZEOLITE ADSORBENTS, METHOD FOR OBTAINING THEM AND USE FOR ADSORBING PARAXYLENE FROM AROMATIC C8 CUT FRACTIONS</B542><B541>fr</B541><B542>ADSORBANTS ZEOLITIQUES AGGLOMERES LEUR PROCEDE D'OBTENTION ET LEUR UTILISATION POUR L'ADSORPTION DE PARAXYLENE A PARTIR DE COUPES DE C8 AROMATIQUES</B542></B540><B560><B561><text>EP-A- 0 531 191</text></B561><B561><text>EP-B1- 0 196 043</text></B561><B561><text>WO-A1-99/10096</text></B561><B561><text>US-A- 2 882 243</text></B561><B561><text>US-A- 2 882 244</text></B561><B561><text>US-A- 2 882 244</text></B561><B561><text>US-A- 2 985 589</text></B561><B561><text>US-A- 3 130 007</text></B561><B561><text>US-A- 3 558 730</text></B561><B561><text>US-A- 3 558 732</text></B561><B561><text>US-A- 3 663 638</text></B561><B561><text>US-A- 3 734 974</text></B561><B561><text>US-A- 3 878 127</text></B561><B562><text>C. G. Coe; S. M. Kuznicki; R. Srinivasan; R. J. Jenkins: "Molecularly Engineered, High-Performance Adsorbent", ACS Symposium Series, American Chemical Society/Oxford University Press, US, 1 January 1988 (1988-01-01), pages 478-491, US ISSN: 0097-6156</text></B562><B562><text>Dyer, A.: "An Introduction to zeolite molecular sieves", 1988 pages 38-51,</text></B562><B562><text>Breck, Donald: "Zeolite Molecular Sieves -Structure, chemistry and use", 1974 pages 344,353,368-369,529-565,</text></B562></B560></B500><B600><B620EP><parent><cdoc><dnum><anum>07102072.1</anum></dnum><date>20070209</date></cdoc></parent></B620EP></B600><B700><B720><B721><snm>PLEE, Dominique</snm><adr><str>3, allée du Martin-Pêcheur</str><city>F-64140 Lons</city><ctry>FR</ctry></adr></B721><B721><snm>METHIVIER, Alain</snm><adr><str>25, boulevard Coteaux</str><city>F-92500 Rueil-Malmaison</city><ctry>FR</ctry></adr></B721></B720><B730><B731><snm>ARKEMA FRANCE</snm><iid>101665400</iid><irf>ARK.01173.OP1</irf><adr><str>420 rue d'Estienne d'Orves</str><city>92700 Colombes</city><ctry>FR</ctry></adr></B731><B731><snm>IFP Energies nouvelles</snm><iid>101695219</iid><irf>ARK.01173.OP1</irf><adr><str>1 &amp; 4 avenue de Bois-Préau</str><city>92500 Rueil-Malmaison</city><ctry>FR</ctry></adr></B731></B730><B740><B741><snm>Bandpay &amp; Greuter</snm><iid>101457544</iid><adr><str>30, rue Notre-Dame des Victoires</str><city>75002 Paris</city><ctry>FR</ctry></adr></B741></B740><B780><B781><dnum><text>01</text></dnum><date>20111216</date><kind>1</kind><snm>Clariant Produkte (Deutschland) GmbH</snm><iid>100823745</iid><adr><str>Brüningstrasse 50</str><city>65929 Frankfurt am Main</city><ctry>DE</ctry></adr><B784><snm>Dannenberger, Oliver Andre</snm><sfx>et al</sfx><iid>101093618</iid><adr><str>Abitz &amp; Partner 
+Patentanwälte mbB 
+Postfach 86 01 09</str><city>81628 München</city><ctry>DE</ctry></adr></B784></B781></B780></B700><B800><B840><ctry>DE</ctry><ctry>ES</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>IT</ctry><ctry>PT</ctry></B840><B860><B861><dnum><anum>FR1998001818</anum></dnum><date>19980818</date></B861><B862>fr</B862></B860><B870><B871><dnum><pnum>WO1999010096</pnum></dnum><date>19990304</date><bnum>199909</bnum></B871></B870></B800></SDOBI>
+<description id="desc" lang="fr"><!-- EPO <DP n="1"> -->
+<heading id="h0001">DOMAINE TECHNIQUE</heading>
+<p id="p0001" num="0001">Le domaine de l'invention est celui des adsorbants zéolitiques pour la séparation des xylènes, en particulier en vue de la production industrielle de paraxylène.</p>
+<heading id="h0002">TECHNIQUE ANTERIEURE</heading>
+<p id="p0002" num="0002">L'industrie réclame du paraxylène de haute pureté, entre autres pour sa transformation en acide téréphtalique destiné à la fabrication du PET.</p>
+<p id="p0003" num="0003">L'art antérieur a reconnu que les adsorbants constitués de zéolites X ou Y échangées au moyen d'ions tels que le baryum, le potassium ou le strontium, seuls ou en mélange, sont efficaces pour adsorber sélectivement le paraxylène dans un mélange contenant au moins un autre isomère aromatique en C<sub>8</sub>. Les brevets <patcit id="pcit0001" dnum="US3558730A"><text>US 3.558.730</text></patcit>, <patcit id="pcit0002" dnum="US3558732A"><text>US 3.558.732</text></patcit>, <patcit id="pcit0003" dnum="US3626020A"><text>US 3.626.020</text></patcit> et <patcit id="pcit0004" dnum="US3663638A"><text>US 3.663.638</text></patcit> divulguent des adsorbants comprenant des aluminosilicates échangés par du baryum et du potassium qui séparent efficacement le paraxylène d'un mélange d'isomères aromatiques en C<sub>8</sub>. Ces adsorbants sont utilisés comme agents d'adsorption dans les procédés en phase liquide, de préférence de type contre-courant simulé similaires à ceux décrits dans <patcit id="pcit0005" dnum="US2985589A"><text>US 2,985,589</text></patcit>, qui s'appliquent entre autres aux coupes de C<sub>8</sub> aromatiques issues, par exemple, des procédés de dialkylation du benzène, dans les procédés en phase gazeuse.</p>
+<p id="p0004" num="0004">Les performances du procédé industriel de séparation du paraxylène dépendent pour une bonne part de l'adsorbant, de sa capacité d'adsorption et de la sélectivité qu'il montre pour le paraxylène dans un milieu constitué d'aromatiques en C<sub>8</sub>, typiquement de paraxylène lui-même (PX), de métaxylène (MX), d'orthoxylène (OX), d'éthylbenzène (EB), ainsi que de l'aptitude des désorbants, tels le toluène et le paradiéthylbenzène, à en désorber le paraxylène adsorbé.</p>
+<p id="p0005" num="0005">On définit la sélectivité Sél(B/A) de l'adsorbant pour un composé (B) par rapport à un composé (A) comme le rapport des concentrations des composés dans la phase adsorbée divisé par le rapport des concentrations des composés dans la phase non adsorbée à l'équilibre.</p>
+<p id="p0006" num="0006">L'équation de la sélectivité est la suivante : <maths id="math0001" num=""><math display="block"><mi>Sél</mi><mfenced separators=""><mi mathvariant="normal">B</mi><mo>/</mo><mi mathvariant="normal">A</mi></mfenced><mo>=</mo><mfrac><mrow><mfenced><mi mathvariant="normal">B</mi></mfenced><mi mathvariant="normal">z</mi><mo>/</mo><mi mathvariant="normal">A</mi><mfenced><mi mathvariant="normal">z</mi></mfenced></mrow><mrow><mfenced><mi mathvariant="normal">B</mi></mfenced><mi mathvariant="normal">s</mi><mo>/</mo><mfenced><mi mathvariant="normal">A</mi></mfenced><mi mathvariant="normal">s</mi></mrow></mfrac></math><img id="ib0001" file="imgb0001.tif" wi="54" he="15" img-content="math" img-format="tif"/></maths><br/>
+où (B)z et (B)s représentent les concentrations de B respectivement dans la zéolite et dans la solution,<br/>
+où (A)z et (A)s représentent les concentrations de A dans la zéolite et la solution. La méthode d'appréciation de ces grandeurs est exposée plus loin.</p>
+<p id="p0007" num="0007">Les zéolites qu'on rencontre dans l'art antérieur pour la séparation des xylènes appartiennent au type structural de la faujasite, tout d'abord décrites dans <patcit id="pcit0006" dnum="US2882244A"><text>US 2.882.244</text></patcit> et <patcit id="pcit0007" dnum="US3130007A"><text>US 3.130.007</text></patcit>, qui sont des silico-aluminates cristallisés possédant des cages de taille parfaitement déterminée connectées dans les trois dimensions. Les faujasites répondent à la formule générale :
+<ul id="ul0001" list-style="none" compact="compact">
+<li>(1 ± 0,1) M<sub>2</sub>/<sub>n</sub>O : Al<sub>2</sub>O<sub>3</sub> ; W SiO<sub>2</sub> ; Y H<sub>2</sub>O</li>
+</ul>
+dans laquelle
+<ul id="ul0002" list-style="none" compact="compact">
+<li>M représente au moins un cation alcalin ou alcalino-terreux de valence n,</li>
+<li>Y est inférieur ou égal à 8 selon la nature de M et le degré d'hydratation du cristal,</li>
+<li>W est le facteur qui permet de faire une distinction entre les faujasites riches en silice (faujasites Y) et les faujasites riches en alumine (faujasites X). On convient de situer les faujasites X dans le domaine W ≤ 3, et les faujasites Y dans le domaine W &gt; 3, ce qu'on interprète plutôt selon le rapport atomique Si/Alde part et d'autre de 1,5. Au sens de la présente invention, on introduit une distinction supplémentaire commode avec les faujasites à faible teneur en silice (qu'on dira LSX, abréviation dans laquelle l'homme du métier lit Low Silica X), pour W &lt; 2,3 (Si/Al ≤ 1,15).</li>
+</ul></p>
+<p id="p0008" num="0008">L'art antérieur n'a reconnu, comme adsorbant pour la séparation des xylènes, de faujasites échangées au baryum qu'avec des rapports atomiques Si/Al entre 1,2 et 2,6. En la matière, l'homme du métier ne semble pas disposer de critère simple et suffisamment fiable pour prévoir leur comportement. Aussi la quête d'adsorbants toujours améliorés procède-t-elle plus ou moins de recherches aléatoires, comme par exemple le résultat qu'expose et revendique <patcit id="pcit0008" dnum="US3878127A"><text>US 3.878.127</text></patcit> avec un échange baryum proprement dit de zéolite X préalablement traitée avec une solution de soude. La<!-- EPO <DP n="2"> --> demanderesse propose des adsorbants offrant des sélectivités paraxylène/métaxylène ou paraxylène/orthoxylène d'au moins 2,0 et avantageusement d'au moins 2,5 mesurées selon le test décrit dans les exemples. L'invention atteint ce résultat, avec quelques avantages qui apparaîtront dans la description.</p>
+<heading id="h0003">EXPOSE DE L'INVENTION</heading>
+<p id="p0009" num="0009">La présente invention a pour objet des adsorbants zéolitiques agglomérés avec un liant zéolitisable, qui est une argile de la famille du kaolin, comprenant au moins 70 % et de préférence au moins 80 % de faujasite de rapport atomique Si/Al tel que 1 ≤ Si/Al ≤ 1,15, dont les sites échangeables sont occupés au moins à 70% par des ions baryum et éventuellement jusqu'à 30 % par du potassium</p>
+<p id="p0010" num="0010">(le complément éventuel étant généralement assuré par des ions alcalins ou alcalino-terreux autres que le baryum et le potassium) et au plus 30%, de préférence au plus de 20% de liant zéolitisable, qui est une argile de la famille du kaolin, les faujasites préférées étant celles dont le taux global d'échange en baryum seul ou en baryum+potassium est supérieur ou égal à 90 %.</p>
+<p id="p0011" num="0011">Un procédé de préparation des adsorbants zéolitiques agglomérés selon l'invention consiste à d'abord agglomérer de la poudre de zéolite de rapport Si/Al tel que 1 ≤ Si/Al ≤ 1,15 avec un liant zéolitisable, qui est une argile de la famille du kaolin.</p>
+<p id="p0012" num="0012">Par agglomération, on entend l'obtention de particules solides à partir d'un mélange de zéolite(s) et de liant(s) au moyen de toutes techniques connues de l'homme de l'art, telles que extrusion, granulation, compactage, atomisation. La teneur pratique en liant de l'aggloméré ne dépasse généralement pas 30 %, et de préférence 20 %, de la masse totale de l'adsorbant. On améliore substantiellement l'efficacité de ces adsorbants en retenant comme liant d'agglomération une argile de la famille du kaolin, en pratique la kaolinite ou l'halloysite, et en soumettant les granulés à zéolitisation.</p>
+<p id="p0013" num="0013">La zéolitisation du liant est pratiquée par immersion de l'aggloméré dans une liqueur alcaline, soudé ou mélange de soude et de potasse dont la concentration est de préférence au moins 0,5 M, après que les grains aient été calcinés, cette première calcination ayant pour premier résultat de durcir le grain, mais aussi d'activer l'argile en la transformant en métakaolin. La zéolitisation se fait de préférence à chaud, un travail à plus haute température améliorant la cinétique du processus et réduisant les durées d'immersion. On obtient ainsi aisément des zéolitisations d'au moins 50% du liant, c'est-à-dire que l'adsorbant résultant est généralement constitué d'au moins 85 % et de préférence d'au moins 90 % de zéolite de type faujasite active et d'au plus 15 %, de préférence d'au plus 10 %, de matière inactive pour l'adsorption.</p>
+<p id="p0014" num="0014">L'échange au baryum est pratiqué de façon tout à fait conventionnelle, de préférence par échanges successifs de façon à atteindre un taux d'échange visé minimum d'au moins 70 % et de préférence d'au moins 90%.</p>
+<p id="p0015" num="0015">L'échange au potassium peut être pratiqué avant ou après l'échange au baryum mais il est également possible d'agglomérer de la poudre de faujasite LSX contenant déjà des ions potassium.</p>
+<p id="p0016" num="0016">L'activation est la dernière étape de l'obtention des adsorbants de l'invention. Elle a pour but de fixer la teneur en eau, plus simplement la perte au feu de l'adsorbant dans des limites optimales. On procède de la façon la plus pratique par activation thermique qu'on exécute préférentiellement entre 180 et 250°C.</p>
+<p id="p0017" num="0017">L'invention consiste également en un perfectionnement de procédé de récupération de paraxylène à partir de coupes d'isomères C<sub>8</sub> aromatiques consistant à utiliser comme agent d'adsorption un adsorbant zéolitique à base de faujasite de rapport Si/Al tel que 1 ≤ Si/Al ≤ 1,15, dont les sites échangeables sont occupés au moins à 70% par des ions baryum (le complément étant assuré par des ions alcalins ou alcalino-terreux autres que le baryum) agglomérée avec un liant zéolitisable, qui est une argile de la famille du kaolin. Les adsorbants zéolitiques agglomérés selon l'invention conviennent lorsqu'ils sont mis en œuvre dans des procédés en phase liquide ou en phase gazeuse.</p>
+<p id="p0018" num="0018">On peut ainsi séparer le produit désiré par chromatographie liquide d'adsorption préparative (en batch), avantageusement en lit mobile simulé, c'est-à-dire à contre-courant simulé ou à co-courant simulé, et plus particulièrement à contre-courant simulé.</p>
+<p id="p0019" num="0019">Les conditions opératoires d'une unité industrielle d'adsorption de type contre-courant simulé sont en général les suivantes :
+<tables id="tabl0001" num="0001">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="67mm"/>
+<colspec colnum="2" colname="col2" colwidth="60mm"/>
+<tbody>
+<row>
+<entry>nombre de lits</entry>
+<entry>6 à 30</entry></row>
+<row>
+<entry>nombre de zones</entry>
+<entry>au moins 4</entry></row>
+<row>
+<entry>température</entry>
+<entry>100 à 250°C, de préférence 150 à 190 °C</entry></row>
+<row>
+<entry>pression</entry>
+<entry>0,2 à 3 MPa</entry></row>
+<row>
+<entry>rapport des débits désorbant sur charge</entry>
+<entry>1 à 2,5</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="left">   (par exemple 1,4 à 1,8 pour une unité d'adsorption seule (stand alone)</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="left">   et 1,1 à 1,4 pour une unité d'adsorption combinée à une unité de</entry></row>
+<row>
+<entry namest="col1" nameend="col2" align="left">   cristallisation)</entry></row>
+<row>
+<entry>taux de recyclage</entry>
+<entry>3,5 à 12, de préférence 4 à 6</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0020" num="0020">On pourra se référer aux brevets <patcit id="pcit0009" dnum="US2985589A"><text>US 2.985.589</text></patcit>, <patcit id="pcit0010" dnum="US5284992A"><text>US 5.284.992</text></patcit> et <patcit id="pcit0011" dnum="US5629467A"><text>US 5.629.467</text></patcit>.<!-- EPO <DP n="3"> --><!-- EPO <DP n="4"> --></p>
+<p id="p0021" num="0021">Les conditions opératoires d'une unité industrielle d'adsorption à co-courant simulé sont en général les mêmes que celles fonctionnant à contre-courant simulé à l'exception du taux de recyclage qui est en général compris entre 0,8 et 7. On pourra se référer aux brevets <patcit id="pcit0012" dnum="US4402832A"><text>US 4.402.832</text></patcit> et <patcit id="pcit0013" dnum="US4498991A"><text>US 4.498.991</text></patcit>.</p>
+<p id="p0022" num="0022">Le solvant de désorption peut être un désorbant dont le point d'ébullition est inférieur à celui de la charge, tel que le toluène mais aussi un désorbant dont le point d'ébullition est supérieur à celui de la charge, tel que le paradiéthylbenzène (PDEB)</p>
+<p id="p0023" num="0023">On préfère ici les faujasites de rapport Si/Al sensiblement égal à 1, que l'on prépare selon le mode d'obtention décrit dans le brevet européen <patcit id="pcit0014" dnum="EP486384A"><text>EP 486.384</text></patcit> ou le brevet <patcit id="pcit0015" dnum="US5173462A"><text>US 5.173.462</text></patcit>. La sélectivité des adsorbants selon l'invention pour l'adsorption du p-xylène contenu dans des coupes aromatiques en C<sub>8</sub> est optimale lorsque leur perte au feu mesurée à 900 °C est comprise en général entre 4,0 et 7,7 %, et de préférence entre 5,2 et 7,7 %. De l'eau et un peu de dioxyde de carbone rentrent dans la perte au feu.</p>
+<p id="p0024" num="0024">Les exemples qui suivent, non limitatifs, feront mieux comprendre l'invention.</p>
+<heading id="h0004"><u>EXEMPLES</u></heading>
+<p id="p0025" num="0025">Ces exemples font appel à la mesure ou l'appréciation de certaines grandeurs caractéristiques des adsorbants de l'invention.</p>
+<p id="p0026" num="0026">Pour apprécier la sélectivité qu'offre l'adsorbant d'un procédé de séparation du paraxylène, on lui applique un test qui permet la mesure de son pouvoir séparateur entre le paraxylène (PX) et ses isomères C<sub>8</sub> aromatiques (MX, OX), mais aussi entre paraxylène et éthylbenzène (EB), ce qui est important parce que certaines coupes peuvent être riches en éthylbenzène et ne pas l'être en autres isomères C<sub>8</sub>, et également entre le paraxylène et le désorbant, parce qu'il est tout aussi important de disposer d'une sélectivité faible PX / désorbant, condition pour que la désorption soit efficace.</p>
+<p id="p0027" num="0027">Le test consiste à immerger un adsorbant (17 grammes) préalablement activé thermiquement et refroidi à l'abri de l'air, dans 80 g d'un mélange d'aromatiques dissous dans du 2,2,4=triméthylpentane.</p>
+<p id="p0028" num="0028">La composition exacte du mélange est la suivante :
+<tables id="tabl0002" num="0002">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="62mm"/>
+<colspec colnum="2" colname="col2" colwidth="16mm"/>
+<tbody>
+<row>
+<entry>PX</entry>
+<entry>2 %</entry></row>
+<row>
+<entry>MX</entry>
+<entry>2 %</entry></row>
+<row>
+<entry>OX</entry>
+<entry>2 %</entry></row>
+<row>
+<entry>EB</entry>
+<entry>2 %</entry></row>
+<row>
+<entry>désorbant (toluène ou p-diéthylbenzène)</entry>
+<entry>2 %</entry></row>
+<row>
+<entry>2,2,4-triméthylpentane</entry>
+<entry>le reste</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0029" num="0029">On procède à l'autoclave à 150°C, pendant 4 heures, durée suffisante pour assurer l'équilibre d'adsorption. Une partie du liquide est alors prélevée, condensée à -30°C et analysée par chromatographie en phase gazeuse. Il est alors possible de remonter aux concentrations dans la phase adsorbée et dans la phase non adsorbée et d'exprimer la quantité de paraxylène adsorbée et les sélectivités en paraxylène par rapport aux autres aromatiques et au désorbant. Le 2,2,4-triméthylpentane ne perturbe pas ces résultats, étant très peu adsorbé.</p>
+<p id="p0030" num="0030">Pour les exemples 1 à 9, le désorbant mis en oeuvre est le toluène et le paradiéthylbenzène pour l'exemple 10.</p>
+<heading id="h0005"><u>EXEMPLE 1</u> : préparation d'un adsorbant témoin</heading>
+<p id="p0031" num="0031">On agglomère une zéolite NaX industrielle, de rapport Si/Al = 1,25 et de rapport Na/Al = 1, en mélangeant intimement 850 grammes de poudre de zéolite X, (exprimés en équivalent calciné), 150 grammes de kaolinite des Charentes (exprimés en équivalent calciné) et 6 grammes de carboxyméthylcellulose, (adjuvant de rétention destiné à retenir l'eau lors de l'opération d'extrusion) avec la quantité d'eau adéquate pour l'extrusion. L'extrudé est séché, concassé de manière à récupérer des grains dont le diamètre équivalent est égal à 0,7 mm, puis calciné à 550°C sous courant d'azote pendant 2 heures. Sa capacité d'adsorption de toluène, déterminée à 25°C et sous une pression partielle de 0,5, est de 20,2 % ; on l'interprète en volume microporeux de 20,2/0,86 =0,235 cm<sup>3</sup>/g (dans le calcul du volume poreux, on considère que la densité de la phase liquide est identique à la densité du toluène adsorbé, c'est-à-dire 0,86). Ce granulé est échangé au moyen d'une solution de chlorure de baryum 0,5 M à 95°C en 4 étapes. A chaque étape, le rapport volume de solution sur masse de solide est de 20 ml/g et l'échange est poursuivi pendant 4 heures à chaque fois. Entre chaque échange, le solide est lavé plusieurs fois de manière à le débarrasser des excédents de sel. Il est ensuite activé à une température de 250°C pendant 2 heures sous courant d'azote. Sa capacité d'adsorption de toluène est de 14,8 %, assimilée à un volume microporeux de 0,17 cm<sup>3</sup>/g. On mesure également la perte au feu, grandeur importante car elle donne une estimation de l'eau résiduelle présente sur l'adsorbant : on relève ici une perte au feu de<!-- EPO <DP n="5"> --> 4,5 %.</p>
+<p id="p0032" num="0032">L'application du test de sélectivité conduit aux résultats suivants :
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Isomères</entry>
+<entry align="center" valign="top">Sélectivité</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PX/OX</entry>
+<entry align="center">2,25</entry></row>
+<row>
+<entry align="center">PX/MX</entry>
+<entry align="center">2,12</entry></row>
+<row>
+<entry align="center">PX/EB</entry>
+<entry align="center">1,77</entry></row>
+<row>
+<entry align="center">PX/Tol</entry>
+<entry align="center">1,52</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0033" num="0033">La quantité de paraxylène adsorbé est égale à 0,054 cm<sup>3</sup>/g.</p>
+<p id="p0034" num="0034">Le taux effectif de zéolite contenue dans cet adsorbant est proche de 85 %.</p>
+<heading id="h0006"><u>EXEMPLE 2 :</u> préparation d'un adsorbant selon l'invention</heading>
+<p id="p0035" num="0035">On agglomère 950 grammes (équivalent calciné) d'une zéolite X de rapport Si/Al = 1,01 obtenue selon le processus décrit dans le brevet européen <patcit id="pcit0016" dnum="EP0486384A"><text>EP 0486.384</text></patcit> ou le brevet <patcit id="pcit0017" dnum="US5173462A"><text>US 5.173.462</text></patcit>, avec 170 grammes (équivalent calciné) de kaolinite des Charentes, 6 grammes de carboxyméthylcellulose et la quantité d'eau adéquate pour pouvoir extruder correctement la pâte obtenue. Les extrudés sont ensuite séchés puis calcinés à une température de 600°C pendant 2 heures sous courant d'azote sec. On procède alors à un concassage de manière à ramener le diamètre équivalent des particules à 0,7 mm.</p>
+<p id="p0036" num="0036">Les concassés ainsi obtenus sont soumis au traitement d'échange baryum déjà décrit dans l'exemple 1 et activés thermiquement à une température de 220°C. Le produit ainsi obtenu a une perte au feu de 5 % et une capacité d'adsorption de toluène de 13 % (volume microporeux 0,15 cm<sup>3</sup>/g).</p>
+<p id="p0037" num="0037">L'adsorbant répond au test de sélectivité avec les valeurs suivantes :
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Isomères</entry>
+<entry align="center" valign="top">Sélectivité</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PX/OX</entry>
+<entry align="center">2,60</entry></row>
+<row>
+<entry align="center">PX/MX</entry>
+<entry align="center">2,55</entry></row>
+<row>
+<entry align="center">PX/EB</entry>
+<entry align="center">2,80</entry></row>
+<row>
+<entry align="center">PX/Tol</entry>
+<entry align="center">2,00</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0038" num="0038">La quantité de paraxylène adsorbé pendant le test est de 0,057 cm<sup>3</sup>/g, soit la même que celle mesurée sur l'adsorbant de l'exemple 1 malgré la différence de volume microporeux. On note aussi une meilleure sélectivité vis-à-vis de l'éthylbenzène, ce qui peut être intéressant lorsqu'il faut traiter des charges riches en cet isomère. Le chiffre de la sélectivité du paraxylène vis à vis du toluène est tout à fait favorable à une désorption du paraxylène moyennant une consommation raisonnable en désorbant.</p>
+<heading id="h0007"><u>EXEMPLE 3</u> : préparation d'un adsorbant selon l'invention</heading>
+<p id="p0039" num="0039">Comme précédemment, on agglomère 950 grammes d'une zéolite X de rapport Si/Al = 1,01 avec 170 grammes de kaolinite des Charentes, 6 grammes de carboxyméthylcellulose et la quantité d'eau adéquate. On extrude. Les extrudés sont séchés, calcinés à une température de 600°C pendant 2 heures sous courant d'azote sec, puis concassés de manière à ramener leur diamètre équivalent à 0,7 mm.</p>
+<p id="p0040" num="0040">On immerge maintenant 10 grammes de ces agglomérés dans 17 ml d'une solution de soude à 220 g/l pendant 3 heures à 95°C. On lave successivement quatre fois à l'eau.</p>
+<p id="p0041" num="0041">Pour estimer l'efficacité de la zéolitisation, une petite partie du produit est portée à 550°C sous courant d'azote sec et l'on détermine une capacité d'adsorption de toluène de 21,6 %. La teneur globale en zéolite active est estimée à 95 %, c'est à dire supérieure à sa teneur initiale dans l'adsorbant aggloméré.</p>
+<p id="p0042" num="0042">Le solide est ensuite échangé au baryum dans les mêmes conditions que celles exposées dans l'exemple 1. On mesure après activation sous azote sec à 220°C pendant 2 heures une capacité d'adsorption de toluène de 15 % (volume microporeux : 0,175 cm<sup>3</sup>/g) et une perte au feu de 5,2 %.</p>
+<p id="p0043" num="0043">L'adsorbant ainsi préparé est évalué selon le test de sélectivité.<!-- EPO <DP n="6"> --></p>
+<p id="p0044" num="0044">On obtient :
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Isomères</entry>
+<entry align="center" valign="top">Sélectivité</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PX/OX</entry>
+<entry align="center">2,64</entry></row>
+<row>
+<entry align="center">PX/MX</entry>
+<entry align="center">2,60</entry></row>
+<row>
+<entry align="center">PX/EB</entry>
+<entry align="center">2,75</entry></row>
+<row>
+<entry align="center">PX/Tol</entry>
+<entry align="center">1,94</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0045" num="0045">La quantité de paraxylène adsorbée pendant le test est égale à 0,066 cm<sup>3</sup>/g. Les sélectivités vis à vis des différents isomères se comparent bien à celle de l'adsorbant de l'exemple 2, ce qui traduit que l'élément actif des deux produit est une zéolite LSX. Le gain substantiel de paraxylène adsorbé est la conséquence de la richesse en LSX du fait de la zéolitisation du liant</p>
+<heading id="h0008"><u>EXEMPLES 4 A 7</u> : préparation et test d'adsorbants selon l'invention ayant subi diverses activations finales</heading>
+<p id="p0046" num="0046">On répète la préparation d'échantillon comme dans l'exemple 3, à la seule différence que l'on a fait varier la température d'activation entre 180° et 300°C : 180°C pour l'exemple 4, 200°C, pour l'exemple 5, 220°C (repris à l'exemple 3), 250°C pour l'exemple 6, 300°C pour l'exemple 7.</p>
+<p id="p0047" num="0047">Les caractéristiques comparées de ces produits sont portées au tableau ci-dessous.
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<tgroup cols="6">
+<colspec colnum="1" colname="col1" colwidth="47mm"/>
+<colspec colnum="2" colname="col2" colwidth="15mm"/>
+<colspec colnum="3" colname="col3" colwidth="14mm"/>
+<colspec colnum="4" colname="col4" colwidth="14mm"/>
+<colspec colnum="5" colname="col5" colwidth="14mm"/>
+<colspec colnum="6" colname="col6" colwidth="14mm"/>
+<thead>
+<row>
+<entry valign="top">Exemples</entry>
+<entry align="center" valign="top">4</entry>
+<entry align="center" valign="top">5</entry>
+<entry align="center" valign="top">3</entry>
+<entry align="center" valign="top">6</entry>
+<entry align="center" valign="top">7</entry></row></thead>
+<tbody>
+<row>
+<entry>Température d'activation (°C)</entry>
+<entry align="center">180</entry>
+<entry align="center">200</entry>
+<entry align="center">220</entry>
+<entry align="center">250</entry>
+<entry align="center">300</entry></row>
+<row>
+<entry>Micro-porosité.</entry>
+<entry align="center">0,132</entry>
+<entry align="center">0,17</entry>
+<entry align="center">0,175</entry>
+<entry align="center">0,178</entry>
+<entry align="center">0,185</entry></row>
+<row>
+<entry>Paraxylène adsorbé</entry>
+<entry align="center">0,0506</entry>
+<entry align="center">0,065</entry>
+<entry align="center">0,066</entry>
+<entry align="center">0,062</entry>
+<entry align="center">0,051</entry></row>
+<row>
+<entry>PX/OX</entry>
+<entry align="center">2,91</entry>
+<entry align="center">4,21</entry>
+<entry align="center">2,64</entry>
+<entry align="center">2,17</entry>
+<entry align="center">1,45</entry></row>
+<row>
+<entry>PX/MX</entry>
+<entry align="center">3,06</entry>
+<entry align="center">3,11</entry>
+<entry align="center">2,60</entry>
+<entry align="center">2,01</entry>
+<entry align="center">1,55</entry></row>
+<row>
+<entry>PX/EB</entry>
+<entry align="center">2,00</entry>
+<entry align="center">2,37</entry>
+<entry align="center">2,75</entry>
+<entry align="center">2,76</entry>
+<entry align="center">2,34</entry></row>
+<row>
+<entry>PX/Tol</entry>
+<entry align="center">2,28</entry>
+<entry align="center">1,55</entry>
+<entry align="center">1,94</entry>
+<entry align="center">1,90</entry>
+<entry align="center">1,19</entry></row>
+<row>
+<entry>Perte au feu (%)</entry>
+<entry align="center">7,7</entry>
+<entry align="center">6,6</entry>
+<entry align="center">5,2</entry>
+<entry align="center">4,4</entry>
+<entry align="center">2,4</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0048" num="0048">L'objectif préféré de sélectivité PX/OX et PX/MX d'au moins 2,5 est satisfait pour ces zéolites lorsque la perte au feu (en gros, la teneur en eau) mesurée après l'étape d'activation du produit échangé est de 5,2 à 7,7 %, ce qu'on atteint pratiquement par activation thermique à une température située entre 180 et 220°C.</p>
+<p id="p0049" num="0049">L'objectif préféré de sélectivité PX/EB d'au moins 2,5 est satisfait pour ces zéolites lorsque la perte au feu (en gros, la teneur en eau) est de 4,4 à 5,2 %, ce qu'on atteint pratiquement par activation thermique à une température située entre 220 et 250°C.</p>
+<p id="p0050" num="0050">L'activation à 250°C altère quelque peu ces performances, le produit restant néanmoins intéressant pour traiter des coupes plutôt riches en éthylbenzène.</p>
+<heading id="h0009"><u>EXEMPLE 8</u></heading>
+<p id="p0051" num="0051">On prépare des échantillons d'agglomérés comme indiqué à l'exemple 3 que l'on échange au potassium puis selon le mode opératoire ci-dessous :<br/>
+Sur un aggloméré dont le liant a été zéolitisé, on opère un échange poussé au potassium au moyen d'une solution de KCI 1 M à 25 °C en 4 étapes successives. A chaque étape, le rapport volume de solution sur masse de solide est de 20 ml/g et l'échange est poursuivi pendant 4 heures à chaque fois. Entre chaque échange, le solide est lavé plusieurs fois de manière à le débarrasser des excédents de sel. Le produit obtenu présente un taux d'échange en potassium de 97,5 %. On lui fait alors subir 2 opérations d'échange au baryum identiques à celles décrites à l'exemple 1. Après toutes ces opérations, le solide est enfin activé à une température de 200°C pendant 2 heures sous courant d'azote. Il présente les caractéristiques suivantes :<!-- EPO <DP n="7"> -->
+<tables id="tabl0007" num="0007">
+<table frame="none">
+<tgroup cols="2" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="50mm"/>
+<colspec colnum="2" colname="col2" colwidth="23mm"/>
+<tbody>
+<row>
+<entry>taux d'échange en baryum</entry>
+<entry>74,3 %</entry></row>
+<row>
+<entry>taux d'échange en potassium</entry>
+<entry>24 %</entry></row>
+<row>
+<entry>capacité d'adsorption en toluène</entry>
+<entry>15 %</entry></row>
+<row>
+<entry>volume microporeux</entry>
+<entry>0,174 cm<sup>3</sup>/g</entry></row>
+<row>
+<entry>perte au feu à 900 °C</entry>
+<entry>6,4 %</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0052" num="0052">L'adsorbant ainsi préparé répond au test de sélectivité avec les valeurs suivantes :
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Isomères</entry>
+<entry align="center" valign="top">Sélectivité</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PX/OX</entry>
+<entry align="center">3,82</entry></row>
+<row>
+<entry align="center">PX/MX</entry>
+<entry align="center">3,01</entry></row>
+<row>
+<entry align="center">PX/EB</entry>
+<entry align="center">2,42</entry></row>
+<row>
+<entry align="center">PX/Tol</entry>
+<entry align="center">1,72</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0053" num="0053">La quantité de paraxylène adsorbé pendant le test est de 0,06 cm<sup>3</sup>/g.</p>
+<heading id="h0010"><u>EXEMPLE 9</u></heading>
+<p id="p0054" num="0054">On agglomère 950 grammes (équivalent calciné) d'une zéolite X de rapport Si/Al = 1,12 dont la synthèse est inspirée de "<nplcit id="ncit0001" npl-type="s"><text>Investigation on the crystallization of X-type zeolites" de H. Lechert, Zeolites, 1991, vol. 11 pp. 720-728</text></nplcit>, avec 170 grammes (équivalent calciné) de kaolinite des Charentes, 6 grammes de carboxyméthylcellulose et la quantité d'eau adéquate pour pouvoir extruder correctement la pâte obtenue. Les extrudés sont ensuite séchés puis calcinés à une température de 600°C pendant 2 heures sous courant d'azote sec. On procède alors à un concassage de manière à ramener le diamètre équivalent des particules à 0,7 mm.</p>
+<p id="p0055" num="0055">Les concassés ainsi obtenus sont soumis au traitement d'échange baryum décrit dans l'exemple 1 et activés thermiquement à une température de 220°C pendant 2 heures. Le produit ainsi obtenu a une perte au feu de 5,2 % et une capacité d'adsorption de toluène de 13,7 % (volume microporeux 0,159 cm<sup>3</sup>/g).</p>
+<p id="p0056" num="0056">L'adsorbant répond au test de sélectivité avec les valeurs suivantes :
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Isomères</entry>
+<entry align="center" valign="top">Sélectivité</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PX/OX</entry>
+<entry align="center">2,52</entry></row>
+<row>
+<entry align="center">PX/MX</entry>
+<entry align="center">2,50</entry></row>
+<row>
+<entry align="center">PX/EB</entry>
+<entry align="center">2,62</entry></row>
+<row>
+<entry align="center">PX/Tol</entry>
+<entry align="center">1,78</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0057" num="0057">La quantité de paraxylène adsorbé pendant le test est de 0,059 cm<sup>3</sup>/g,</p>
+<heading id="h0011"><u>EXEMPLE 10</u></heading>
+<p id="p0058" num="0058">L'adsorbant préparé à l'exemple 3 est soumis à un test de sélectivité identique en utilisant le paradiéthylbenzène comme désorbant et on trouve les valeurs suivantes:
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colwidth="19mm"/>
+<colspec colnum="2" colname="col2" colwidth="20mm"/>
+<thead>
+<row>
+<entry align="center" valign="top">Isomères</entry>
+<entry align="center" valign="top">Sélectivité</entry></row></thead>
+<tbody>
+<row>
+<entry align="center">PX/OX</entry>
+<entry align="center">2,65</entry></row>
+<row>
+<entry align="center">PX/MX</entry>
+<entry align="center">2,58</entry></row>
+<row>
+<entry align="center">PX/EB</entry>
+<entry align="center">2,70</entry></row>
+<row>
+<entry align="center">PX/PDEB</entry>
+<entry align="center">1,12</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description>
+<claims id="claims01" lang="fr"><!-- EPO <DP n="8"> -->
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Adsorbants zéolitiques agglomérés avec un liant comprenant au moins 70 % et de préférence au moins 80 % de faujasite de rapport atomique Si/Al tel que 1 ≤ Si/Al ≤ 1,15 dont les sites échangeables sont occupés au moins à 70% par des ions baryum et éventuellement jusqu'à 30 % par du potassium (le complément éventuel étant généralement assuré par des ions alcalins ou alcalino-terreux autres que le baryum et le potassium) et au plus 30%, de préférence au plus 20% de liant, le liant étant un liant zéolitisable, qui est une argile de la famille du kaolin.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Adsorbants selon la revendication 1 dont le taux global d'échange en baryum seul est supérieur ou égal à 90 %.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Adsorbants selon la revendication 1 dont le taux global d'échange en baryum+potassium est supérieur ou égal à 90 %.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Adsorbants selon la revendication 1 à 3 dont la perte au feu mesurée à 900°C est comprise entre 4,0 et 7,7 %, et de préférence entre 5,2 et 7,7 %.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Procédé d'obtention des adsorbants tels que définis dans l'une quelconque des revendications 1 à 4 comprenant les étapes suivantes :
+<claim-text>a/agglomération de poudre de zéolite avec un liant zéolitisable, qui est une argile de la famille du kaolin,</claim-text>
+<claim-text>b/calcination de l'aggloméré,</claim-text>
+<claim-text>c/zéolitisation éventuelle du liant par immersion de l'aggloméré dans une liqueur alcaline, soude ou mélange de soude et de potasse,</claim-text>
+<claim-text>d/échange au baryum et éventuellement au potassium e/activation.</claim-text></claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Procédé d'obtention d'adsorbants selon la revendication 5, <b>caractérisé en ce que</b> l'activation à l'étape e/est une activation thermique exécutée à une température de 180 à 250°C.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>Procédé de récupération de paraxylène à partir de coupes d'isomères C8 aromatiques en phase liquide, par adsorption du paraxylène au moyen d'un adsorbant selon l'une quelconque des revendications 1 à 4 en présence d'un désorbant.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Procédé de récupération de paraxylène selon la revendication 7 de type lit mobile simulé.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Procédé de récupération de paraxylène selon la revendication 8 de type contre-courant simulé.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Procédé de récupération de paraxylène selon la revendication 8 de type co-courant simulé.</claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Procédé de récupération de paraxylène à partir de coupes d'isomères C8 aromatiques en phase gazeuse, par adsorption du paraxylène au moyen d'un adsorbant selon l'une quelconque des revendications 1 à 4 en présence d'un désorbant.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Procédé de récupération de paraxylène selon l'une quelconque des revendications 7 à 11 dans lequel le désorbant est le toluène ou le paradiéthylbenzène.</claim-text></claim>
+</claims>
+<claims id="claims02" lang="de"><!-- EPO <DP n="9"> -->
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Zeolithische, mit einem Bindemittel agglomerierte Adsorptionsmittel, enthaltend wenigstens 70 %, bevorzugt wenigstens 80 %, Faujasit mit einem Atomverhaltnis Si/Al von 1 ≤Si/Al≤1.15, dessen austauschbare Stellen zuwenigstens 70 % durch Barium-Ionen und gegebenenfalls bis zu 30 % durch Kalium besetzt sind (wobei gegebenenfalls das Komplement im Allgemeinen durch alkalische oder erdalkalische Ionen, bei denen es sich nicht um Barium und Kalium handelt, sicher gestellt wird), und hochstens 30 %, bevorzugt hochstens 20 %, Bindemittel, mit einem zeolithisierbaren Bindemittel, der ist einem Ton aus der Kaolin-Familie.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Adsorptionsmittel gemaß Anspruch 1, deren Gesamtaustauschgrad an Barium allein 90 % oder mehr betragt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Adsorptionsmittel gemaß Anspruch 1, deren Gesamtaustauschgrad an Barium + Kalium 90 % oder mehr betragt.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Adsorptionsmittel gemaß einem der Anspruche 1 bis 3, deren bei 900°C gemessener Abbrandverlust zwischen 4,0 und 7,7 %, bevorzugt zwischen 5,2 und 7,7 %, liegt.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Verfahren zum Erhalt von Adsorptionsmitteln wie in irgendeinem der Anspruche 1 bis 4 definiert, welches folgende Schritte umfasst:
+<claim-text>a/ Agglomeration von Zeolithpulver mit einem zeolithisierbaren Bindemittel, der ist einem Ton aus der Kaolin-Familie,</claim-text>
+<claim-text>b/ Kalzinieren des Agglomerats,</claim-text>
+<claim-text>c/ gegebenenfalls Zeolithisierung des Bindemittels durch Eintauchen des Agglomerats in eine alkalische Flussigkeit, Natriumcarbonat oder eine Mischung aus Natriumcarbonat und Kaliumcarbonat,</claim-text>
+<claim-text>d/ Austausch mit Barium und, gegebenenfalls, Kalium,</claim-text>
+<claim-text>e/ Aktivierung.</claim-text></claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Verfahren zum Erhalt von Adsorptionsmitteln gemaß Anspruch 5, <b>dadurch gekennzeichnet, dass</b> die Aktivierung in Schritt e/ eine thermische Aktivierung ist, die bei einer Temperatur von 180 bis 250 ° c durchgefuhrt wird.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Verfahren zur Wiedergewinnung von Paraxylol ausgehend von Fraktionen von C<sub>8</sub>-aromatischen Isomeren in Flussigphase durch Adsorption von Paraxylol mittels eines Adsorptionsmittels gemaß irgendeinem der Anspruche 1 bis 4 in Gegenwart eines Desorptionsmittels.</claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren zur Wiedergewinnung von Paraxylol gemaß Anspruch 7 vom simulierten FlieBbett-Typ.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren zur Wiedergewinnung von Paraxylol gemaß Anspruch 8 vom simulierten Gegenstrom-Typ.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren zur Wiedergewinnung von Paraxylol gemaß Anspruch 8 vom simulierten Mitstrom-Typ.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren zur Wiedergewinnung von Paraxylol ausgehend von Schnitten von C<sub>8</sub>-aromatischen Isomeren in Gasphase durch Adsorption von Paraxylol mittels eines Adsorptionsmittels gemaß irgendeinem der Anspruche 1 bis 4 in Gegenwart eines Desorptionsmittels.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren zur Wiedergewinnung von Paraxylol gemaß irgendeinem der Anspruche 7 bis 11, wobei das Desorptionsmittel Toluol oder Paradiethylbenzol ist.</claim-text></claim>
+</claims>
+<claims id="claims03" lang="en"><!-- EPO <DP n="10"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>Agglomerated zeolite adsorbents with a binder comprising at least 70%, and preferably at least 80% of faujasite with an Si/Al atomic ratio such that 1 ≤Si/Al≤1.15, in which exchangeable sites of the zeolite adsorbents are at least 70% occupied by barium ions, and optionally up to 30% occupied by potassium (any remainder generally being made up of alkali metal ions or alkaline-earth metal ions other than barium and potassium) and at most 30%, preferably at most 20% of the binder, the binder being a zeolitizable binder, which is a clay of the kaolin family.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>Adsorbents according to claim 1, wherein an overall level of exchange for barium alone is greater than or equal to 90%.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>Adsorbents according to claim 1, wherein an overall level of exchange for barium and potassium is greater than or equal to 90%.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>Adsorbents according to claim 1 to 3, wherein the loss on ignition measured at 900°C is between 4.0 and 7.7%, and preferably 5.2 and 7.7%.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>Process for obtaining the adsorbents defined in anyone of claims 1 to 4, comprising the following steps:
+<claim-text>a) agglomerating zeolite powder with a zeolitizable binder, which is a clay of the kaolin family,</claim-text>
+<claim-text>b) calcining the agglomerate,</claim-text>
+<claim-text>c) optional zeolitization of the binder by immersing the agglomerate in an alkaline liquor, sodium hydroxide or a mixture of sodium hydroxide and potassium hydroxide,</claim-text>
+<claim-text>d) exchanging the exchangeable sites with barium, and optionally with potassium, and</claim-text>
+<claim-text>e) activating the adsorbents.</claim-text></claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>Process for obtaining adsorbents according to claim 5, wherein the activation in step e) is a thermal activation performed at a temperature of 180 to 250°C.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>Process for the recovery of para-xylene from aromatic C8 isomer fractions in a liquid phase, comprising adsorbing the para-xylene using the adsorbents according to anyone of claims 1 to 4 in the presence of a desorbent.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>Process for the recovery of para-xylene according to claim 7, wherein the adsorbing occurs in a simulated fluid-bed.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>Process for the recovery of para-xylene according to claim 8, wherein the adsorbing occurs in a simulated counter-current.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>Process for the recovery of para-xylene according to claim 8, wherein the adsorbing occurs in a simulated co-current.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>Process for the recovery of para-xylene from aromatic C8 isomer fractions in a gaseous phase, comprising adsorbing the para-xylene using the adsorbents according to anyone of claims 1 to 4 in the presence of a desorbent.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>Process for the recovery of para-xylene according to anyone of claims 7 to 11, wherein the desorbent is toluene or para-diethylbenzene.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>RÉFÉRENCES CITÉES DANS LA DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>Cette liste de références citées par le demandeur vise uniquement à aider le lecteur et ne fait pas partie du document de brevet européen. Même si le plus grand soin a été accordé à sa conception, des erreurs ou des omissions ne peuvent être exclues et l'OEB décline toute responsabilité à cet égard.</i></p>
+<heading id="ref-h0002"><b>Documents brevets cités dans la description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="US3558730A"><document-id><country>US</country><doc-number>3558730</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0001">[0003]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="US3558732A"><document-id><country>US</country><doc-number>3558732</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0003]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="US3626020A"><document-id><country>US</country><doc-number>3626020</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0003]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="US3663638A"><document-id><country>US</country><doc-number>3663638</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0004">[0003]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US2985589A"><document-id><country>US</country><doc-number>2985589</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0003]</crossref><crossref idref="pcit0009">[0020]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="US2882244A"><document-id><country>US</country><doc-number>2882244</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0007]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="US3130007A"><document-id><country>US</country><doc-number>3130007</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0007]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="US3878127A"><document-id><country>US</country><doc-number>3878127</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0008">[0008]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="US5284992A"><document-id><country>US</country><doc-number>5284992</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0010">[0020]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="US5629467A"><document-id><country>US</country><doc-number>5629467</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0011">[0020]</crossref></li>
+<li><patcit id="ref-pcit0011" dnum="US4402832A"><document-id><country>US</country><doc-number>4402832</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0012">[0021]</crossref></li>
+<li><patcit id="ref-pcit0012" dnum="US4498991A"><document-id><country>US</country><doc-number>4498991</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0013">[0021]</crossref></li>
+<li><patcit id="ref-pcit0013" dnum="EP486384A"><document-id><country>EP</country><doc-number>486384</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0014">[0023]</crossref></li>
+<li><patcit id="ref-pcit0014" dnum="US5173462A"><document-id><country>US</country><doc-number>5173462</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0015">[0023]</crossref><crossref idref="pcit0017">[0035]</crossref></li>
+<li><patcit id="ref-pcit0015" dnum="EP0486384A"><document-id><country>EP</country><doc-number>0486384</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0016">[0035]</crossref></li>
+</ul></p>
+<heading id="ref-h0003"><b>Littérature non-brevet citée dans la description</b></heading>
+<p id="ref-p0003" num="">
+<ul id="ref-ul0002" list-style="bullet">
+<li><nplcit id="ref-ncit0001" npl-type="s"><article><author><name>H. LECHERT</name></author><atl>Investigation on the crystallization of X-type zeolites</atl><serial><sertitle>Zeolites</sertitle><pubdate><sdate>19910000</sdate><edate/></pubdate><vid>11</vid></serial><location><pp><ppf>720</ppf><ppl>728</ppl></pp></location></article></nplcit><crossref idref="ncit0001">[0054]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>

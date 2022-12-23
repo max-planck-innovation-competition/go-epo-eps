@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ep-patent-document PUBLIC "-//EPO//EP PATENT DOCUMENT 1.4//EN" "ep-patent-document-v1-4.dtd">
+<ep-patent-document id="EP95905359B2" file="EP95905359NWB2.xml" lang="en" country="EP" doc-number="0736085" kind="B2" date-publ="20091216" status="n" dtd-version="ep-patent-document-v1-4">
+<SDOBI lang="en"><B000><eptags><B001EP>......DE..ESFRGB..IT....NL..........................................................................</B001EP><B003EP>*</B003EP><B005EP>J</B005EP><B007EP>DIM360 Ver 2.15 (14 Jul 2008) -  2720000/0</B007EP></eptags></B000><B100><B110>0736085</B110><B120><B121>NEW EUROPEAN PATENT SPECIFICATION</B121><B121EP>After opposition procedure</B121EP></B120><B130>B2</B130><B140><date>20091216</date></B140><B190>EP</B190></B100><B200><B210>95905359.6</B210><B220><date>19941215</date></B220><B240><B241><date>19960703</date></B241><B242><date>19990622</date></B242><B243><date>20091216</date></B243></B240><B250>en</B250><B251EP>en</B251EP><B260>en</B260></B200><B300><B310>93203611</B310><B320><date>19931221</date></B320><B330><ctry>EP</ctry></B330><B310>94870041</B310><B320><date>19940304</date></B320><B330><ctry>EP</ctry></B330></B300><B400><B405><date>20091216</date><bnum>200951</bnum></B405><B430><date>19961009</date><bnum>199641</bnum></B430><B450><date>20020220</date><bnum>200208</bnum></B450><B451EP><date>20010404</date></B451EP><B452EP><date>20010809</date></B452EP><B477><date>20091216</date><bnum>200951</bnum></B477></B400><B500><B510EP><classification-ipcr sequence="1"><text>C11D   3/386       20060101AFI19950726BHEP        </text></classification-ipcr><classification-ipcr sequence="2"><text>C11D   3/395       20060101ALI19970121BHEP        </text></classification-ipcr><classification-ipcr sequence="3"><text>C11D   3/39        20060101ALI19970121BHEP        </text></classification-ipcr></B510EP><B540><B541>de</B541><B542>PERCARBONAT , AMYLASE  UND PROTEASE ENTHALTENDE WASCHMITTELZUSAMMENSETZUNGEN</B542><B541>en</B541><B542>DETERGENT COMPOSITIONS CONTAINING PERCARBONATE,  AMYLASE AND PROTEASE</B542><B541>fr</B541><B542>COMPOSITION DETERGENTE CONTENANT DU PERCARBONATE, DE DE L'AMYLASE ET UNE PROTEASE</B542></B540><B560><B561><text>EP-A- 0 504 091</text></B561><B561><text>EP-A- 0 634 478</text></B561><B561><text>EP-A1- 0 635 566</text></B561><B561><text>EP-A1- 0 651 052</text></B561><B561><text>EP-A1- 0 651 053</text></B561><B561><text>EP-A2- 0 710 714</text></B561><B561><text>WO-A-94/01521</text></B561><B561><text>WO-A-94/03574</text></B561><B561><text>WO-A1-92/06163</text></B561><B561><text>WO-A1-93/04159</text></B561><B561><text>DE-A- 1 940 654</text></B561><B561><text>GB- - 1 466 799</text></B561><B561><text>GB-A- 1 355 855</text></B561><B561><text>US- - 3 637 339</text></B561><B561><text>US- - 5 219 549</text></B561><B561><text>US-A- 3 789 001</text></B561><B561><text>US-A- 4 620 936</text></B561><B561><text>US-A- 4 969 927</text></B561><B561><text>US-A- 5 246 612</text></B561><B561><text>US-A- 5 318 714</text></B561><B565EP><date>19970203</date></B565EP></B560></B500><B700><B720><B721><snm>MOSS, Michael, Alan, John</snm><adr><str>46 Park Avenue Prudhoe</str><city>Northumberland</city><ctry>GB</ctry></adr></B721><B721><snm>THOEN, Christiaan, Arthur, Jacques, Kamiel</snm><adr><str>35 Preston Wood North Shields</str><city>Tyne &amp; Wear NE 303LT</city><ctry>GB</ctry></adr></B721></B720><B730><B731><snm>THE PROCTER &amp; GAMBLE COMPANY</snm><iid>00200173</iid><irf>LAS01652QQ</irf><adr><str>One Procter &amp; Gamble Plaza</str><city>Cincinnati, Ohio 45202</city><ctry>US</ctry></adr></B731></B730><B740><B741><snm>Howard, Phillip Jan</snm><sfx>et al</sfx><iid>09397621</iid><adr><str>Procter &amp; Gamble 
+Technical Centres Limited 
+Whitley Road 
+Longbenton</str><city>Newcastle upon Tyne NE12 9TS</city><ctry>GB</ctry></adr></B741></B740><B780><B781><dnum><text>01</text></dnum><date>20021030</date><kind>1</kind><snm>Unilever N.V.</snm><iid>00000279</iid><adr><str>Weena 455</str><city>3013 AL Rotterdam</city><ctry>NL</ctry></adr><B784><snm>Kan, Jacob Hendrik</snm><iid>00060421</iid><adr><str>Unilever Patent Group 
+Olivier van Noortlaan 120</str><city>3133 AT Vlaardingen</city><ctry>NL</ctry></adr></B784></B781><B781><dnum><text>02</text></dnum><date>20021111</date><kind>1</kind><snm>Henkel AG &amp; Co. KGaA</snm><iid>00212200</iid><adr><str>VTP Patente</str><city>40191 Düsseldorf</city><ctry>DE</ctry></adr></B781></B780></B700><B800><B840><ctry>DE</ctry><ctry>ES</ctry><ctry>FR</ctry><ctry>GB</ctry><ctry>IT</ctry><ctry>NL</ctry></B840><B860><B861><dnum><anum>US1994014294</anum></dnum><date>19941215</date></B861><B862>en</B862></B860><B870><B871><dnum><pnum>WO1995017495</pnum></dnum><date>19950629</date><bnum>199527</bnum></B871></B870><B880><date>19961009</date><bnum>199641</bnum></B880></B800></SDOBI><!-- EPO <DP n="1"> -->
+<description id="desc" lang="en">
+<heading id="h0001"><u>Technical Field</u></heading>
+<p id="p0001" num="0001">The present invention relates to detergent compositions containing coated percarbonate bleach, amylase and protease enzymes at narrowly defined ratios, to provide synergistic stain removal performance, in particular on specific stains such as starch-based stains, and blood stains.</p>
+<heading id="h0002"><u>Background of the Invention</u></heading>
+<p id="p0002" num="0002">The inorganic perhydrate bleach most widely used in laundry detergent compositions is sodium perborate in the form of either the monohydrate or tetrahydrate. However, concerns about the impact of boron salts on the environment have led to an increasing interest in other perhydrate salts, of which sodium percarbonate is the most readily available.</p>
+<p id="p0003" num="0003">Detergent compositions containing sodium percarbonate are known in the art. Sodium percarbonate is an attractive perhydrate for use in detergent compositions because it dissolves readily in water, is weight efficient and, after giving up its available oxygen, provides a useful source of carbonate ions for detergency purposes.</p>
+<p id="p0004" num="0004">On the-other hand, the use of amylase enzymes in detergent compositions is known, although such use has been mainly described in perborate-based formulations.</p>
+<p id="p0005" num="0005">The use of enzymes, including amylase in percarbonate-based compositions is known from e.g. <patcit id="pcit0001" dnum="JP57028197B"><text>JP 57028197</text></patcit>; <patcit id="pcit0002" dnum="WO9401521A"><text>WO-A-94/01521</text></patcit> and <patcit id="pcit0003" dnum="WO9403554A"><text>WO-A-94/03554</text></patcit>.</p>
+<p id="p0006" num="0006"><patcit id="pcit0004" dnum="DE1940654"><text>DE 1 940 654</text></patcit> relates to enzyme - containing automatic detergents comprising a peroxy conpound wherein such peroxy compound is enveloped in water soluble cellulose ethers and/or esters. <patcit id="pcit0005" dnum="US4620936A"><text>US 4, 620, 936</text></patcit> discloses a midly alkaline enzymatic detergent clearing composition adapted for use in automatic dishwashing machines, comprising (a) or anylolytic enzyme, (b) sodium triphosphate, (c) sodium carbonate and/or borax, (d) sodium silicate, (e) a peroxy compound blesch, (f) a stabilising agent, and optionally but preferably (g) a proteolytic enzyme and/or (h) a low- to non-foaming nonionic surfactant and/or (i) a fatty acid having a chain length of C<sub>12-18</sub>, the amounts of components (b), (c) and (d) being so adjusted that the composition will have sufficient builder and buffering capacity to maintain a solution pH of from 9.3 to 10.8. <patcit id="pcit0006" dnum="EP504091A"><text>EP 504 091</text></patcit> relates to a phosphate - free automatic dishwashing composition comprising nonionic tenside, carboxylic acid, water-soluble alkalin compound and bleach, for excellent tea stain removing ability.<br/>
+US 4, 969, 927 is directed to a process for the machine-washing of fabrics according to which a dispersing and diffusing device of the reusable type is filled with a particular product which is active during the washing.</p>
+<p id="p0007" num="0007">Although the action of amylase on starch-based stains in particular, is known, and the action of percarbonate on bleacheable stains is also known, it has now been surprisingly discovered that the combined use of coated percarbonate, amylase and protease at specific ratios provides a synergistic effect on the removal of difficult stains such as starch-based stains and blood stains, in particular at low temperatures.</p>
+<p id="p0008" num="0008">In addition such a synergistic removal effect is also seen on particulate stains such as peat clay, mud, fertilizing soil, high organic content clay.</p>
+<p id="p0009" num="0009">The invention is defined in claims 1 to 12.</p>
+<heading id="h0003"><u>Detailed Description of the Invention</u></heading>
+<p id="p0010" num="0010">Both laundry detergent compositions including laundry additives and automatic dishwashing compositions are encompassed by the term "detergent compositions" herein. Methods of treatment of textile are also encompassed.</p>
+<heading id="h0004"><u>Percarbonate</u></heading>
+<p id="p0011" num="0011">The laundry detergent or automatic dishwashing compositions herein typically contain from 1% to 40%, preferably from 3% to 30% by weight, most preferably from 5% to 25% by weight of an alkali metal percarbonate bleach (when expresssed on an AvOx basis of 13.5%) in the form of particles having a mean size from 250 to 900 micrometers, preferably 500 to 700 micrometers.</p>
+<p id="p0012" num="0012">Laundry additives typically contain from 20 to 80% of said percarbonate particles.</p>
+<p id="p0013" num="0013">The alkali metal percarbonate bleach is usually in the form of the sodium salt. Sodium percarbonate is an addition compound having a formula corresponding to 2Na<sub>2</sub>CO<sub>3</sub> 3H<sub>2</sub>O<sub>2</sub>. To enhance storage stability the percarbonate bleach is coated. The coatings are (a) a mixed salt of an alkali metal sulphate and carbonate, (b) sodium silicate of SiO<sub>2</sub>:Na<sub>2</sub>O ratio from 1.6:1 to 2.8:1, and (c) magnesium silicate. Such coatings together with coating processes have previously been described in <patcit id="pcit0007" dnum="GB1466799A"><text>GB-1,466,799</text></patcit>, granted to Interox on 9th March<!-- EPO <DP n="2"> --> 1977. The weight ratio of the mixed salt coating material to percarbonate lies in the range from 1:2000 to 1:4, more preferably from 1:99 to 1:9, and most preferably from 1:49 to 1:19. Preferably, the mixed salt is of sodium sulphate and sodium carbonate which has the general formula Na2SO4.n.Na2CO3 wherein n is from 0.1 to 3, preferably n is from 0.3 to 1.0 and most preferably n is from 0.2 to 0.5.</p>
+<heading id="h0005"><u>Amylase</u></heading>
+<p id="p0014" num="0014">The compositions herein further comprise as an essential ingredient an amylase enzyme (expressed on an activity of about 60KNU/g) in a weight ratio of percarbonate (expressed on an activity basis of 13.5% AvOx) to amylase of 1:2 to 300:1, preferably 1:2 to 200:1.</p>
+<p id="p0015" num="0015">An even more preferred ratio is 1:2 to 60:1 while the most preferred ratio is 20:1 to 40:1.</p>
+<p id="p0016" num="0016">Typically, the amylase enzyme can be incorporated into the compositions of the present invention at a level of from 0,1% to 2%, preferably at a level of from 0,1% to 1% by weight.</p>
+<p id="p0017" num="0017">Preferred amylases include, for example, α-amylases obtained from a special strain of B. licheniforms, described in more detail in <patcit id="pcit0008" dnum="GB1296839A"><text>GB-1,296,839</text></patcit> (Novo Nordisk). Preferred commercially available amylases include for example, Rapidase®, sold by International Bio-Synthetics Inc. and Termamyl®, sold by Novo Nordisk A/S.</p>
+<heading id="h0006"><u>Protease</u></heading>
+<p id="p0018" num="0018">In the present invention, the detergent compositions herein also contain a protease enzyme (expressed on an activity of about 4KNPU/g) in a weight ratio of protease to percarbonate (expressed on an activity basis of 13.5% AvOx) of from 2:1 to 1:10.</p>
+<p id="p0019" num="0019">Preferred commercially available protease enzymes include those sold under the trade names Alcalase and Savinase by Novo Nordisk A/S (Denmark) and Maxatase by International Bio-Synthetics, Inc. (The Netherlands).</p>
+<p id="p0020" num="0020">In one embodiment of the present invention, the laundry detergent compositions herein also comprise a surface-active agent and a builder.</p>
+<heading id="h0007"><u>Surface active agent</u> :</heading>
+<heading id="h0008"><u>Anionic Surfactants</u></heading>
+<p id="p0021" num="0021">The detergent compositions of the present invention contain one or more anionic surfactants as described below.</p>
+<heading id="h0009"><u>Alkyl Sulfate Surfactant</u></heading>
+<p id="p0022" num="0022">Alkyl sulfate surfactants hereof are water soluble salts or acids of the formula ROSO<sub>3</sub>M wherein R preferably is a C<sub>10</sub>-C<sub>24</sub> hydrocarbyl, preferably an alkyl or hydroxyalkyl having a C<sub>10</sub>-C<sub>20</sub> alkyl component, more preferably a C<sub>12</sub>-C<sub>18</sub> alkyl or hydroxyalkyl, and M is H or a cation, e.g., an alkali metal cation (e.g., sodium, potassium, lithium), or ammonium or substituted ammonium (e.g., methyl-, dimethyl-, and trimethyl ammonium cations and quaternary ammonium cations, such as tetramethylammonium and dimethyl piperidinium cations and quaternary ammonium cations derived from alkylamines such as ethylamine, diethylamine, triethylamine, and mixtures thereof ). Typically, alkyl chains of C<sub>12</sub>-<sub>16</sub> are preferred for lower wash temperatures (e.g., below 50°C) and C<sub>16</sub>-<sub>18</sub> alkyl chains are preferred for higher wash temperatures (e.g., above 50°C).</p>
+<heading id="h0010"><u>Alkyl Alkoxylated Sulfate Surfactant</u></heading>
+<p id="p0023" num="0023">Alkyl alkoxylated sulfate surfactants hereof are water soluble salts or acids of the formula RO(A)<sub>m</sub>SO<sub>3</sub>M wherein R is an unsubstituted C<sub>10</sub>-C<sub>24</sub> alkyl or hydroxyalkyl group having a C<sub>10</sub>-C<sub>24</sub> alkyl component, preferably a<!-- EPO <DP n="3"> --> C<sub>12</sub>-C<sub>20</sub> alkyl or hydroxyalkyl, more preferably C<sub>12</sub>-C<sub>18</sub> alkyl or hydroxyalkyl, A is an ethoxy or propoxy unit, m is greater than zero, typically between 0.5 and 6, more preferably between 0.5 and 3, and M is H or a cation which can be, for example, a metal cation (e.g., sodium, potassium, lithium, calcium, magnesium.), ammonium or substitutedammonium cation. AlkyL ethoxylated sulfates as well as alkyl propoxylated sulfates are contemplated herein. Specific examples of substituted ammonium cations include methyl-, dimethyl-, trimethylammonium and quaternary ammonium cations, such as tetramethylanmonium, dimethyl piperidinium and cations derived from alkanolamines such as ethylamine, diethylamine, triethylamine, mixtures thereof. Exemplary surfactants are C<sub>12</sub>-C<sub>18</sub> alkyl polyethoxylate (1.0) sulfate, (C<sub>12</sub>-C<sub>18</sub>E(1.0)M), C<sub>12</sub>-C<sub>18</sub> alkyl polyethoxylate (2.25) sulfate, (C<sub>12</sub>-C<sub>18</sub>E(2.25)M), C<sub>12</sub>-C<sub>18</sub> alkyl polyethoxylate (3.0) sulfate (C<sub>12</sub>-C<sub>18</sub>E(3.0)M), and C<sub>12</sub>-C<sub>18</sub> alkyl polyethoxylate (4.0) sulfate (C<sub>12</sub>-C<sub>18</sub>E(4.0)M), wherein M is conveniently selected from sodium and potassium.</p>
+<heading id="h0011"><u>Other Anionic Surfactants</u></heading>
+<p id="p0024" num="0024">Other anionic surfactants useful for detersive purposes can also be included in the laundry detergent compositions of the present invention. These can include salts (including, for example, sodium, potassium, ammonium, and substituted ammonium salts such as mono-, di- and triethanolamine salts) of soap, C<sub>9</sub>-C<sub>20</sub> linear alkylbenzenesulphonates, C<sub>8</sub>-C<sub>22</sub> primary or secondary alkanesulphonates, C<sub>8</sub>-C<sub>24</sub> olefinsulphonates, sulphonated polycarboxylic acids prepared by sulphonation of the pyrolyzed product of alkaline earth metal citrates, e.g., as described in <patcit id="pcit0009" dnum="GB1082179A"><text>British patent specification No. 1,082,179</text></patcit>, C<sub>8</sub>-C<sub>24</sub> alkylpolyglycolethersulfates (containing up to 10 moles of ethylene oxide); alkyl ester sulfonates such as C<sub>14-16</sub> methyl ester sulfonates; acyl glycerol sulfonates, fatty oleyl glycerol sulfates, alkyl phenol ethylene oxide ether sulfates, paraffin sulfonates, alkyl phosphates, isethionates such as the acyl isethionates, N-acyl taurates, alkyl succinamates and sulfosuccinates, monoesters of sulfosuccinate (especially saturated and unsaturated C<sub>12</sub>-C<sub>18</sub> monoesters) diesters of sulfosuccinate (especially saturated and unsaturated C<sub>6</sub>-C<sub>14</sub> diesters), acyl sarcosinates, sulfates of alkylpolysaccharides such as the sulfates of alkylpolyglucoside (the nonionic nonsulfated compounds being described below), branched primary alkyl sulfates, alkyl polyethoxy carboxylates such as those of the formula RO(CH<sub>2</sub>CH<sub>2</sub>O)<sub>k</sub>CH<sub>2</sub>COO-M<sup>+</sup> wherein R is a C<sub>8</sub>-C<sub>22</sub> alkyl, k is an integer from 0 to 10, and M is a soluble salt-forming cation. Resin acids and hydrogenated resin acids are also suitable, such as rosin, hydrogenated rosin, and resin acids and hydrogenated resin acids present in or derived from tall oil. Further examples are given in "Surface Active Agents and Detergents" (Vol. I and II by Schwartz, Perry and Berch). A variety of such surfactants are also generally disclosed in <patcit id="pcit0010" dnum="US3929678A"><text>U.S. Patent 3,929,678, issued December 30, 1975</text></patcit> to Laughlin, et al. at Column 23, line 58 through Column 29, line 23.</p>
+<p id="p0025" num="0025">Preferred surfactants for use in the compositions herein are the alkyl sulfates, alkyl alkoxylated sulfates, and mixtures thereof.</p>
+<p id="p0026" num="0026">The laundry detergent compositions of the present invention comprise from 1 % to 40 %, preferably from 3 % to 20 % by weight of such anionic surfactants.</p>
+<heading id="h0012"><u>Nonionic Surfactants</u></heading>
+<p id="p0027" num="0027">The present laundry detergent compositions preferably also comprise a nonionic surfactant.</p>
+<p id="p0028" num="0028">While any nonionic surfactant may be normally employed in the present invention, two families of nonionics have been found to be particularly useful. These are nonionic surfactants based on alkoxylated (especially ethoxylated) alcohols, and those nonionic surfactants based on amidation products of fatty acid esters and N-alkyl polyhydroxy amine. The amidation products of the esters and the amines are generally referred to herein as polyhydroxy fatty acid amides. Particularly useful in the present invention are mixtures comprising two or more nonionic surfactants wherein at Least one nonionic surfactant is selected from each of the groups of alkoxylated alcohols and the polyhydroxy fatty acid amides.</p>
+<p id="p0029" num="0029">Suitable nonionic surfactants include compounds produced by the condensation of alkylene oxide groups (hydrophilic in nature) with an organic hydrophobic compound, which may be aliphatic or alkyl aromatic in nature. The length of the polyoxyalkylene group which is condensed with any particular hydrophobic group can be readily adjusted to yield a water-soluble compound having the desired degree of balance between hydrophilic and hydrophobic elements.</p>
+<p id="p0030" num="0030">Particularly preferred for use in the present invention are nonionic surfactants such as the polyethylene oxide condensates of alkyl phenols, e.g., the condensation products of alkyl phenols having an alkyl group containing from 6 to 16 carbon atoms, in either a straight chain or branched chain configuration, with from 4 to 25 moles of ethylene oxide per mole of alkyl phenol.</p>
+<p id="p0031" num="0031">Preferred nonionics are the water-soluble condensation products of aliphatic alcohols containing from 8 to 22 carbon atoms, in either straight chain or branched configuration, with an average of up to 25 moles of ethylene oxide per mole of alcohol. Particularly preferred are the condensation products of alcohols having an alkyl group containing<!-- EPO <DP n="4"> --> from 9 to 15 carbon atoms with from 2 to 10 moles of ethylene oxide per mole of alcohol; and condensation products of propylene glycol with ethylene oxide. Most preferred are condensation products of alcohols having an alkyl group containing from 12 to 15 carbon atoms with an average of 3 moles of ethylene oxide per mole of alcohol.</p>
+<p id="p0032" num="0032">The nonionic surfactant system herein can also include a polyhydroxy fatty acid amide component.</p>
+<p id="p0033" num="0033">Polyhydroxy fatty acid amides may be produced by reacting a fatty acid ester and an N-alkyl polyhydroxy amine. The preferred amine for use in the present invention is N-(R1)-CH2(CH2OH)4-CH2-OH and the preferred ester is a C12-C20 fatty acid methyl ester. Most preferred is the reaction product of N-methyl glucamine with C12-C20 fatty acid methyl ester.</p>
+<p id="p0034" num="0034">Methods of manufacturing polyhydroxy fatty acid amides have been described in <patcit id="pcit0011" dnum="WO926073A"><text>WO 92 6073</text></patcit>, published on 16th April, 1992. This application describes the preparation of polyhydroxy fatty acid amides in the presence of solvents. In a highly preferred embodiment of the invention N-methyl glucamine is reacted with a C12-C20 methyl ester. It also says that the formulator of granular detergent compositions may find it convenient to run the amidation reaction in the presence of solvents which comprise alkoxylated, especially ethoxylated (EO 3-8) C12-C14 alcohols (page 15, lines 22-27). This directly yields nonionic surfactant systems which are preferred in the present invention, such as those comprising N-methyl glucamide and C12-C14 alcohols with an average of 3 ethoxylate groups per molecule.</p>
+<p id="p0035" num="0035">Nonionic surfactant systems, and granular detergents made from such systems have been described in <patcit id="pcit0012" dnum="WO926160A"><text>WO 92 6160</text></patcit>, published on 16th April, 1992. This application describes (example 15) a granular detergent composition prepared by fine dispersion. mixing in an Eirich RV02 mixer which comprises N-methyl glucamide (10%), nonionic surfactant (10%).</p>
+<p id="p0036" num="0036">Both of these patent: applications describe nonionic surfactant systems together with suitable manufacturing processes for their synthesis, which have been found to be suitable for use in the present invention.</p>
+<p id="p0037" num="0037">The polyhydroxy fatty acid amide may be present in compositions of the present invention at a level of from 0% to 50% by weight of the detergent component or composition, preferably from 5% to 40% by weight, even more preferably from 10% to 30% by weight.</p>
+<heading id="h0013"><u>Other Surfactants</u></heading>
+<p id="p0038" num="0038">The laundry detergent compositions of the present invention may also contain cationic, ampholytic, zwitterionic, and semi-polar surfactants, as well as nonionic surfactants other than those already described herein, including the semi-polar nonionic amine oxides described below.</p>
+<p id="p0039" num="0039">Cationic detersive surfactants suitable for use in the laundry detergent compositions of the present invention are those having one long-chain hydrocarbyl group. Examples of such cationic surfactants include the ammonium surfactants such as alkyldimethylammonium halogenides, and those surfactants having the formula :<br/>
+<br/>
+        [R<sup>2</sup>(OR<sup>3</sup>)y][R<sup>4</sup>(OR<sup>3</sup>)y]<sub>2</sub>R<sup>5</sup>N+X-<br/>
+<br/>
+wherein R2 is an alkyl or alkyl benzyl group having from 8 to 18 carbon atoms in the alkyl chain, each R<sup>3</sup> is selected from the group consisting of<br/>
+-CH<sub>2</sub>CH<sub>2</sub>-, -CH<sub>2</sub>CH(CH<sub>3</sub>)-, -CH<sub>2</sub>CH(CH<sub>2</sub>OH)-, -CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>-, and mixtures thereof; each R<sup>4</sup> is selected from the group consisting of C<sub>1</sub>-C<sub>4</sub> alkyl, C<sub>1</sub>-C<sub>4</sub> hydroxyalkyl, benzyl ring structures formed by joining the two R<sup>4</sup> groups,<br/>
+-CH<sub>2</sub>COH-CHOHCOR<sup>6</sup>CHOHCH<sub>2</sub>OH wherein R6 is any hexose or hexose polymer having a molecular weight less than about 1000, and hydrogen when y is not 0; R<sup>5</sup> is the same as R<sup>4</sup> or is an alkyl chain wherein the total number of carbon atoms of R<sup>2</sup> plus R<sup>5</sup> is not more than 18; each y is from 0 to 10 and the sum of the y values is from 0 to 15; and X is any compatible anion.</p>
+<p id="p0040" num="0040">Other cationic surfactants useful herein are also described in <patcit id="pcit0013" dnum="US4228044A"><text>US Patent 4,228,044</text></patcit>, Cambre, issued October 14, 1980.</p>
+<p id="p0041" num="0041">When included therein, the laundry detergent compositions of the present invention typically comprise from 0 % to 25 %, preferably from 3 % to 15 % by weight of such cationic surfactants.</p>
+<p id="p0042" num="0042">Ampholytic surfactants are also suitable for use in the laundry detergent compositions of the present invention. These surfactants can be broadly described as aliphatic derivatives of secondary or tertiary amines, or aliphatic derivatives of heterocyclic secondary and tertiary amines in which the aliphatic radical can be straight- or branched chain. One of the aliphatic substituents contains at least 8 carbon atoms, typically from 8 to 18 carbon atoms, and at least one contains an anionic water-solubilizing group e.g. carboxy, sulfonate, sulfate. See <patcit id="pcit0014" dnum="US3929678A"><text>U.S. Patent No. 3,929,678</text></patcit> to Laughlin et al., issued December 30, 1975 at column 19, lines 18-35 for examples of ampholytic surfactants.</p>
+<p id="p0043" num="0043">When included therein, the laundry detergent compositions of the present invention typically comprise from 0 % to 15 %, preferably from 1 % to 10 % by weight of such ampholytic surfactants.</p>
+<p id="p0044" num="0044">Zwitterionic surfactants are also suitable for use in laundry detergent compositions. These surfactants can<!-- EPO <DP n="5"> --> be broadly described as derivatives of secondary and tertiary amines, derivates of heterocyclic secondary and tertiary amines, or derivatives of quaternary ammonium, quaternary phosphonium or tertiary sulfonium compounds. See <patcit id="pcit0015" dnum="US3929678A"><text>U.S. Patent No. 3,929,678</text></patcit> to Laughlin et al., issued December 30, 1975 at columns 19, line 38 through column 22, line 48 for examples of zwitterionic surfactants.</p>
+<p id="p0045" num="0045">When included therein, the laundry detergent compositions of the present invention typically comprise from 0 % to 15 %, preferably from 1 % to 10 % by weight of such zwitterionic surfactants.</p>
+<p id="p0046" num="0046">Semi-polar nonionic surfactants are a special category of nonionic surfactants which include water-soluble amine oxides containing one alkyl moiety of from 10 to 18 carbon atoms and 2 moieties selected from the group consisting af alkyl groups and hydroxyalkyl groups containing from 1 to 3 carbon atoms; water-soluble phosphine oxides containing one alkyl moiety of from 10 to 18 carbon atoms and 2 moieties selected from the group consisting of alkyl groups and hydroxyalkyl groups containing from 1 to 3 carbon atoms.</p>
+<p id="p0047" num="0047">Semi-polar nonionic detergent surfactants include the amine oxide surfactants having the formula :
+<chemistry id="chem0001" num="0001"><img id="ib0001" file="imgb0001.tif" wi="53" he="25" img-content="chem" img-format="tif"/></chemistry></p>
+<heading id="h0014"><u>Builder</u></heading>
+<p id="p0048" num="0048">The compositions herein preferably contain a builder, most preferably non-phosphate detergent builders. These can include, but are not restricted to alkali metal carbonates, bicarbonates, silicates, aluminosilicates, carboxylates and mixtures of any of the foregoing. The builder system is present in an amount of from 25% to 80% by weight of the composition, more preferably from 30% to 60% by weight.</p>
+<p id="p0049" num="0049">Suitable silicates are those having an SiO<sub>2</sub> : Na<sub>2</sub>O ratio in the range from 1.6 to 3.4, the so-called amorphous silicates of SiO<sub>2</sub> ; Na<sub>2</sub>O ratios from 2.0 to 2.8 being preferred.</p>
+<p id="p0050" num="0050">Within the silicate class, highly preferred materials are crystalline layered sodium silicates of general formula<br/>
+<br/>
+        NaMSi<sub>x</sub>O<sub>2x</sub>)+1·y<sub>H2O</sub><br/>
+<br/>
+wherein M is sodium or hydrogen, x is a number from 1.9 to 4 and y is a number from 0 to 20. Crystalline layered sodium silicates of this type are disclosed in <patcit id="pcit0016" dnum="EP0164514A"><text>EP-A-0164514</text></patcit> and methods for their preparation are disclosed in <patcit id="pcit0017" dnum="DE3417649A"><text>DE-A-3417649</text></patcit> and <patcit id="pcit0018" dnum="DE3742043A"><text>DE-A-3742043</text></patcit>. For the purposes of the present invention, x in the-general formula above has a value of 2,3 or 4 and is preferably 2. More preferably M is sodium and y is 0 and a preferred example of this formula comprises the form of Na<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>. These materials are available from Hoechst AG FRG as respectively NaSKS-5, NaSKS-7, NaSKS-11 and NaSKS-6. The most preferred material is Na<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>, NaSKS-6. Crystalline layered silicates are incorporated either as dry mixed solids, or as solid components of agglomerates with other components.</p>
+<p id="p0051" num="0051">Whilst a range of aluminosilicate ion exchange materials can be used, preferred sodium aluminosilicate zeolites have the unit cell formula<br/>
+<br/>
+        Na<sub>z</sub>[(AlO<sub>2</sub>)<sub>z</sub>·(SiO<sub>2</sub>)<sub>y</sub>]·xH<sub>2</sub>O<br/>
+<br/>
+wherein z and y are at least about 6, the molar ratio of z to y is from 1.0 to 0.4 and x is from 10 to 264. Amorphous hydrated aluminosilicate materials useful herein have the empirical formula<br/>
+<br/>
+        M<sub>z</sub>(zAlO<sub>2</sub>·ySiO<sub>2</sub>)<br/>
+<br/>
+wherein M is sodium, potassium, ammonium or substituted ammonium, z is from 0.5 to 2 and y is 1, said material having a magnesium ion exchange capacity of at least 50 milligram equivalents of CaCO<sub>3</sub> hardness per gram of anhydrous aluminosilicate. Hydrated sodium Zeolite A with a particle size of from 1 to 10 microns is preferred.</p>
+<p id="p0052" num="0052">The aluminosilicate ion exchange builder materials herein are in hydrated form and contain from 10% to 28% of water by weight if crystalline, and potentially even higher amounts of water if amorphous. Highly preferred crystalline aluminosilicate ion exchange materials contain from 18% to 22% water in their crystal matrix. The crystalline aluminosilicate ion exchange materials are further characterized by a particle size diameter of from 0.1 micron to 10 microns.<!-- EPO <DP n="6"> --> Amorphous materials are often smaller, e.g., down to less than 0.01 micron. Preferred ion exchange materials have a particle size diameter of from 0.2 micron to 4 microns. The term "particle size diameter" herein represents the average particle size diameter by weight of a given ion exchange material as determined by conventional analytical techniques such as, for example, microscopic determination utilizing a scanning electron microscope.</p>
+<p id="p0053" num="0053">Aluminosilicate ion exchange materials useful in the practice of this invention are commercially available. The aluminosilicates useful in this invention can be crystalline or amorphous in structure and can be naturally occurring aluminosilicates or synthetically derived. A method for producing aluminosilicate ion exchange materials is discussed in <patcit id="pcit0019" dnum="US3985669A"><text>U.S. Pat. No. 3,985,669</text></patcit>, Krummel et al., issued Oct. 12, 1976. Preferred synthetic crystalline aluminosilicate ion exchange materials useful herein are available under the designations Zeolite A, Zeolite X, P and MAP, the latter species being described in EPA 384070. In an especially preferred embodiment, the crystalline aluminosilicate ion exchange material is a Zeolite. A having the formula<br/>
+<br/>
+        Na<sub>12</sub>[(AlO<sub>2</sub>)<sub>12</sub>(SiO2)<sub>12</sub>]·xH<sub>2</sub>O<br/>
+<br/>
+wherein x is from 20 to 30, especially 27 and has a particle size generally less than about 5 microns.</p>
+<p id="p0054" num="0054">Suitable carboxylate builders containing one carboxy group include lactic acid, glycollic acid and ether derivatives thereof as disclosed in <patcit id="pcit0020" dnum="BE831368"><text>Belgian Patent Nos. 831,368</text></patcit>, <patcit id="pcit0021" dnum="BE821369"><text>821,369</text></patcit> and <patcit id="pcit0022" dnum="BE821370"><text>821,370</text></patcit>. Polycarboxylates containing two carboxy groups include the water-soluble salts of succinic acid, malonic acid, (ethylenedioxy) diacetic acid, maleic acid, diglycollic acid, tartaric acid, tartronic acid and fumaric acid, as well as the ether carboxylates described in German Offenlegenschrift 2,446,686 and 2,446,687 and <patcit id="pcit0023" dnum="US3935257A"><text>U.S. Patent No. 3,935,257</text></patcit> and the sulfinyl carboxylates described in <patcit id="pcit0024" dnum="BE840623"><text>Belgian Patent No. 840,623</text></patcit>. Polycarboxylates containing three carboxy groups include, in particular, water-soluble citrates, aconitrates and citraconates as well as succinate derivatives such as the carboxymethyloxysuccinates described in <patcit id="pcit0025" dnum="GB1379241A"><text>British Patent No. 1,379,241</text></patcit>, lactoxysuccinates described in <patcit id="pcit0026" dnum="NL7205873"><text>Netherlands Application 7205873</text></patcit>, and the oxypolycarboxylate materials such as 2-oxa-1,1,3-propane tricarboxylates described in <patcit id="pcit0027" dnum="GB1387447A"><text>British Patent No. 1,387,447</text></patcit>.</p>
+<p id="p0055" num="0055">Polycarboxylates containing four carboxy groups include oxydisuccinates disclosed in <patcit id="pcit0028" dnum="GB12618291A"><text>British Patent No. 1,261,829,1</text></patcit>, and the 1,2,2-ethane tetracarboxylates ,1,1,3,3-propane tetracarboxylates and 1,1,2,3-propane tetracarboxylates. Polycarboxylates containing sulfo substituents include the sulfosuccinate derivatives disclosed in <patcit id="pcit0029" dnum="GB1398421A"><text>British Patent Nos. 1,398,421</text></patcit> and <patcit id="pcit0030" dnum="GB1398422A"><text>1,398,422</text></patcit> and in <patcit id="pcit0031" dnum="US3936448A"><text>US Patent No. 3,936,448</text></patcit>, and the sulfonated pyrolysed citrates described in <patcit id="pcit0032" dnum="GB1082179A"><text>British Patent No. 1,082,179</text></patcit>, while polycarboxylates containing phosphone substituents are disclosed in <patcit id="pcit0033" dnum="GB1439000A"><text>British Patent No. 1,439,000</text></patcit>.</p>
+<p id="p0056" num="0056">Alicyclic and heterocyclic polycarboxylates include cyclopentane-cis,cis,cis-tetracarboxylates, cyclopentadienide pentacarboxylates, 2,3,4,5-tetrahydrofuran- cis,cis,cis-tetracarboxylates, 2,5-tetrahydrofuran -cis- dicarboxylates, 2,2,5,5,-tetrahydrofuran - tetracarboxylates, 1,2,3,4,5,6-hexane hexacarboxylates and carboxymethyl derivatives of polyhydric alcohols such as sorbitol, mannitol and xylitol. Aromatic polycarboxylates include mellitic acid, pyromellitic acid and the phtalic acid derivates disclosed in <patcit id="pcit0034" dnum="GB1425343A"><text>British Patent No. 1,425,343</text></patcit>.</p>
+<p id="p0057" num="0057">Of the above, the preferred polycarboxylates are hydroxycarboxylates containing up to three carboxy groups per molecule, more particularly citrates.<br/>
+The parent acids of the monomeric or oligomeric polycarboxylate chelating agents or mixtures thereof with their salts, e.g. citric acid or citrate/citric acid mixtures are also-contemplated as components of builder systems useful in the present invention.</p>
+<heading id="h0015"><u>Density</u> :</heading>
+<p id="p0058" num="0058">The present compositions are preferably in a compact form, having a bulk density of at least 650 g/l, but can also be in a conventional form, with densities in a range of from 200 g/l to 700 g/l.</p>
+<p id="p0059" num="0059">In another embodiment of the invention, are provided <u>Automatic Dishwashing Compositions :</u><br/>
+Automatic dishwashing compositions typically contain, in addition to the percarbonate, the amylase enzyme and the anionic surfactant of the invention, a builder, such as described above, and a source of alkalinity, such as silicate or carbonate, those ingredients amounting to up to 70% of the formulation. Optional ingredients include polymers and other enzymes.</p>
+<p id="p0060" num="0060">In still another embodiment of the invention, are provided <u>Laundry Additive Compositions :</u> such compositions typically contain in addition to the percarbonate, the amylase enzyme and the anionic surfactant of the invention, a builder and a source of alkalinity.</p>
+<heading id="h0016"><u>Optional Ingredients</u></heading>
+<p id="p0061" num="0061">Other ingredients which are known for use in detergent compositions may also be used as optional ingredients<!-- EPO <DP n="7"> --> in the various embodiments of the present invention, such as bleach activators, other bleaching agents, polymers, other enzymes, suds suppressing agents, as well as dyes, fillers, optical brighteners, pH adjusting agents, non builder alkalinity sources, enzyme stability agents, hydrotopes, perfumes.</p>
+<heading id="h0017"><u>Bleach activators</u></heading>
+<p id="p0062" num="0062">The present compositions, especially the laundry detergent compositions/additives, preferably contain from 1% to 20% by weight of the composition, preferably from 2% to 15% by weight, most preferably from 3 to 10 by weight of a peroxyacid bleach activator.</p>
+<p id="p0063" num="0063">Peroxyacid bleach activators (bleach precursors) as additional bleaching components in accordance with the invention can be selected from a wide range of class and are preferably those containing one or more N-or O-acyl groups.</p>
+<p id="p0064" num="0064">Suitable classes include anhydrides, esters, amides, and acylated derivatives of imidazoles and oximes, and examples of useful materials within these classes are disclosed in <patcit id="pcit0035" dnum="GB1586789A"><text>GB-A-1586789</text></patcit>. The most preferred classes are esters such as are disclosed in <patcit id="pcit0036" dnum="GB836988A"><text>GB-A-836 988</text></patcit>, <patcit id="pcit0037" dnum="GB864798A"><text>864,798</text></patcit>, <patcit id="pcit0038" dnum="GB1147871A"><text>1 147 871</text></patcit> and <patcit id="pcit0039" dnum="GB2143231A"><text>2 143 231</text></patcit> and amides such as are disclosed in <patcit id="pcit0040" dnum="GB855735A"><text>GB-A-855 735</text></patcit> and <patcit id="pcit0041" dnum="GB1246338A"><text>1 246 338</text></patcit>.</p>
+<p id="p0065" num="0065">Particularly preferred bleach activator compounds as additional bleaching components in accordance with the invention are the N,N,N'N'-tetra acetylated compounds of the formula
+<chemistry id="chem0002" num="0002"><img id="ib0002" file="imgb0002.tif" wi="101" he="61" img-content="chem" img-format="tif"/></chemistry>
+where x can be O or an integer between 1 and 6.</p>
+<p id="p0066" num="0066">Examples include tetra acetyl methylene diamine (TAMD) in which x=1, tetra acetyl ethylene diamine (TAED) in which x=2 and Tetraacetyl hexylene diamine (TAHD) in which x=6. These and analogous compounds are described in <patcit id="pcit0042" dnum="GB907356A"><text>GB-A-907 356</text></patcit>. The most preferred peroxyacid bleach activator as an additional bleaching component is TAED.</p>
+<p id="p0067" num="0067">Another preferred class of peroxyacid bleach compounds are the amide substituted compounds of the following general formulae :
+<chemistry id="chem0003" num="0003"><img id="ib0003" file="imgb0003.tif" wi="159" he="28" img-content="chem" img-format="tif"/></chemistry>
+wherein R<sup>1</sup> is an aryl or alkaryl group with from 1 to 14 carbon atoms, R<sup>2</sup> is an alkylene, arylene, and alkarylene group containing from 1 to 14 carbon atoms, and R<sup>5</sup> is H or an alkyl, aryl, or alkaryl group containing 1 to 10 carbon atoms and L can be essentially any leaving group. R<sup>1</sup> preferably contains from 6 to 12 carbon atoms. R<sup>2</sup> preferably contains from 4 to 8 carbon atoms. R<sup>1</sup> may be straight chain or branched alkyl, substituted aryl or alkylaryl containing branching, substitution, or both and may be sourced from either synthetic sources or natural sources including for example, tallow fat. Analogous structural variations are permissible for R<sup>2</sup>. The substitution can include alkyl, aryl, halogen, nitrogen, sulphur and other typical substituent groups or organic compounds. R<sup>5</sup> is preferably H or methyl. R<sup>1</sup> and R<sup>5</sup> should not contain more than 18 carbon atoms total. Amide substituted bleach activator compounds of this type are described in <patcit id="pcit0043" dnum="EP0170386A"><text>EP-A-0170386</text></patcit>.</p>
+<p id="p0068" num="0068">Another class of bleach activators to use in combination with percarbonate comprises C<sub>8</sub>, C<sub>9</sub>, and/or C<sub>10</sub><!-- EPO <DP n="8"> --> (6-octanamidocaproyl) oxybenzenesulfonate, 2-phenyl-(4H)3,1 benzoxazin-4-one, benzoyllactam preferably benzoylcaprolactam and nonanoyl lactam preferably nonanoyl caprolactam.</p>
+<p id="p0069" num="0069">In addition to percarbonate, the compositions herein may also contain another bleaching system such as perborate and activator, or a preformed organic peracid or perimidic acid, such as N,N-phthaloylaminoperoxy caproic acid, 2-carboxyphtaloylaminoperoxy caproic acid, N,N phthaloylaminoperoxy valeric -acid, Nonyl amide of peroxy adipic acid, 1,12 diperoxydodecanedoic acid, Peroxybenzoic acid and ring substituted peroxybenzoic acid, Monoperoxyphtalic acid (magnesium salt, hexhydrate), Diperoxybrassylic acid.</p>
+<heading id="h0018"><u>Polymers</u></heading>
+<p id="p0070" num="0070">Also useful are various organic polymers, some of which also may function as builders to improve detergency. Included among such polymers may be mentioned sodium carboxy-lower alkyl celluloses, sodium lower alkyl celluloses and sodium hydroxy-lower alkyl celluloses, such as sodium carboxymethyl cellulose, sodium methyl cellulose and sodium hydroxypropyl cellulose, polyvinyl alcohols (which often also include some polyvinyl acetate), polyacrylamides, polyacrylates and various copolymers, such as those of maleic and acrylic acids. Molecular weights for such polymers vary widely but most are within the range of 2,000 to 100,000. Also very useful are terpolymers of maleic/acrylic acid and vinyl alcohol having a molecular weight ranging from 3.000 to 70.000.</p>
+<p id="p0071" num="0071">Polymeric polycarboxylate builders are set forth in <patcit id="pcit0044" dnum="US3308067A"><text>U.S. Patent 3,308,067</text></patcit>, Diehl, issued March 7, 1967. Such materials include the water-soluble salts of homo-and copolymers of aliphatic carboxylic acids such as maleic acid, itaconic acid, mesaconic acid, fumaric acid, aconitic acid, citraconic acid and methylenemalonic acid.</p>
+<p id="p0072" num="0072">Other useful polymers include species known as soil release polymers, such as described in EPA 185 427 and EPA 311 342.<br/>
+Still other polymers suitable for use herein include dye transfer inhibition polymers such as polyvinylpyrrolidone, polyvinylpyrridine, N-oxide, N-vinylpyrrolidone, N-imidazole, polyvinyloxozolidone or polyvinylimidazole.</p>
+<heading id="h0019"><u>Other Enzymes</u></heading>
+<p id="p0073" num="0073">Enzymatic materials other than amylases and proteases can be incorporated into the detergent compositions herein. Suitable are lipases, cellulases and mixtures thereof.<br/>
+A suitable lipase enzyme is manufactured and sold by Novo Nordisk A/S (Denmark) under the trade name Lipolase<sup>R</sup> and mentioned along with other suitable lipases in <patcit id="pcit0045" dnum="EP0258068A"><text>EP-A-0258068</text></patcit> (Novo Nordisk A/S).<br/>
+Suitable cellulases are described in e.g. <patcit id="pcit0046" dnum="WO9213057A"><text>WO-92/13057</text></patcit> (Novo).</p>
+<heading id="h0020"><u>Method of treating textiles</u></heading>
+<p id="p0074" num="0074">It has been found that the binary and/or ternary mixtures described above provide unexpectedly good performance, through a synergistic removal effect on such difficult stains as starch-based stains and blood stains, even at low temperatures.</p>
+<p id="p0075" num="0075">Starch-based stains include chocolate stains, as well as typical kitchen stains such as mayonnaise, mustard, ice-cream, dairy products.<br/>
+Such stains are very difficult to remove at low temperature, and the present invention provides for a method of treating textiles at all temperatures, including at low temperature, wherein a detergent composition according to the above description is used.</p>
+<p id="p0076" num="0076">The invention also encompasses a similar method for treating fabrics to remove blood stains and fabrics stained with stains rich in blood.</p>
+<p id="p0077" num="0077">According to the invention, a synergistic removal effect of particulate stains is also seen. With "particulate stains" is meant for instance peat clay, mud, high organic content clay mainly found in socks, sportswear.</p>
+<p id="p0078" num="0078">Mucin_or mucin-protein based stains include female secretions and handkerchief stains (bronchial mucus).<br/>
+Such stains are very difficult to remove at low temperature, and the present invention provides for a method of treating textiles at all temperatures, including at low temperature, wherein a detergent composition according to the above description is used.<br/>
+The method for treating fabrics is typically a laundry machine washing operation, and can be conducted by any method well known in the art; a particularly preferred method includes the use of a reusable dispensing device, in which the detergent composition is put before the washing cycle, and which is placed in the drum of the washing machine together with the clothes to be washed, before starting the washing machine.</p>
+<p id="p0079" num="0079"><u>The following comparative granular detergent compositions are prepared:</u><!-- EPO <DP n="9"> -->
+<tables id="tabl0001" num="0001">
+<table frame="all">
+<tgroup cols="3" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>Composition:</entry>
+<entry align="center"><b>I</b></entry>
+<entry align="center"><b>II</b></entry></row></thead>
+<tbody>
+<row>
+<entry>45AS</entry>
+<entry align="char" char="." charoff="17">11.0</entry>
+<entry align="char" char="." charoff="17">14.0</entry></row>
+<row>
+<entry>Zeolite A</entry>
+<entry align="char" char="." charoff="17">15.0</entry>
+<entry align="char" char="." charoff="17">6.0</entry></row>
+<row>
+<entry>Carbonate</entry>
+<entry align="char" char="." charoff="17">4.0</entry>
+<entry align="char" char="." charoff="17">8.0</entry></row>
+<row>
+<entry>Maleic acrylic copolymer</entry>
+<entry align="char" char="." charoff="17">4.0</entry>
+<entry align="char" char="." charoff="17">2.0</entry></row>
+<row>
+<entry>CMC</entry>
+<entry align="char" char="." charoff="17">0.5</entry>
+<entry align="char" char="." charoff="17">0.5</entry></row>
+<row>
+<entry>*DTPMA</entry>
+<entry align="char" char="." charoff="17">0.4</entry>
+<entry align="char" char="." charoff="17">0.4</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>AE5</entry>
+<entry align="char" char="." charoff="17">5.0</entry>
+<entry align="char" char="." charoff="17">5.0</entry></row>
+<row>
+<entry>Perfume</entry>
+<entry align="char" char="." charoff="17">0.5</entry>
+<entry align="char" char="." charoff="17">0.5</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>SKS 6</entry>
+<entry align="char" char="." charoff="17">13.0</entry>
+<entry align="char" char="." charoff="17">10.0</entry></row>
+<row>
+<entry>Citrate</entry>
+<entry align="char" char="." charoff="17">3.0</entry>
+<entry align="char" char="." charoff="17">1.0</entry></row>
+<row>
+<entry>TAED</entry>
+<entry align="char" char="." charoff="17">7.0</entry>
+<entry align="char" char="." charoff="17">7.0</entry></row>
+<row>
+<entry>Percarbonate (14.0% AvOx)</entry>
+<entry align="char" char="." charoff="17">20.0</entry>
+<entry align="char" char="." charoff="17">20.0</entry></row>
+<row>
+<entry>Soil release polymer</entry>
+<entry align="char" char="." charoff="17">0.3</entry>
+<entry align="char" char="." charoff="17">0.3</entry></row>
+<row>
+<entry>Savinase (4KNPU)</entry>
+<entry align="char" char="." charoff="17">1.4</entry>
+<entry align="char" char="." charoff="17">1.4</entry></row>
+<row>
+<entry>Lipolase (100,000LU)</entry>
+<entry align="char" char="." charoff="17">0.4</entry>
+<entry align="char" char="." charoff="17">0.4</entry></row>
+<row>
+<entry>Cellulase</entry>
+<entry align="char" char="." charoff="17">0.6</entry>
+<entry align="char" char="." charoff="17">0.6</entry></row>
+<row>
+<entry>Termamyl (60KU)</entry>
+<entry align="char" char="." charoff="17">0.6</entry>
+<entry align="char" char="." charoff="17">0.6</entry></row>
+<row>
+<entry>Silicone antifoam particle</entry>
+<entry align="char" char="." charoff="17">5.0</entry>
+<entry align="char" char="." charoff="17">5.0</entry></row>
+<row>
+<entry>Brightener</entry>
+<entry align="char" char="." charoff="17">0.2</entry>
+<entry align="char" char="." charoff="17">0.2</entry></row>
+<row rowsep="1">
+<entry>Density: 850g/L</entry>
+<entry/>
+<entry/></row></tbody></tgroup>
+<tgroup cols="3" colsep="0" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="44mm"/>
+<colspec colnum="2" colname="col2" colwidth="22mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<tbody>
+<row>
+<entry namest="col1" nameend="col3" align="justify">* DTPMA = Diethylenetriaminepentamethylene phosphonic acid.</entry></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0002" num="0002">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="58mm"/>
+<colspec colnum="2" colname="col2" colwidth="13mm"/>
+<colspec colnum="3" colname="col3" colwidth="13mm"/>
+<colspec colnum="4" colname="col4" colwidth="15mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>Composition</entry>
+<entry align="center"><b>III</b></entry>
+<entry align="center"><b>IV</b></entry>
+<entry align="center"><b>V</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Zeolite A</entry>
+<entry align="char" char="." charoff="42">15.0</entry>
+<entry align="char" char="." charoff="42">15.0</entry>
+<entry/></row>
+<row>
+<entry>Na2SO4</entry>
+<entry align="char" char="." charoff="42">0.0</entry>
+<entry align="char" char="." charoff="42">5.0</entry>
+<entry/></row>
+<row>
+<entry>LAS</entry>
+<entry align="char" char="." charoff="42">3.0</entry>
+<entry align="char" char="." charoff="42">3.0</entry>
+<entry/></row>
+<row>
+<entry>DTPMA</entry>
+<entry align="char" char="." charoff="42">0.4</entry>
+<entry align="char" char="." charoff="42">0.5</entry>
+<entry/></row>
+<row>
+<entry>CMC</entry>
+<entry align="char" char="." charoff="42">0.4</entry>
+<entry align="char" char="." charoff="42">0.4</entry>
+<entry/></row>
+<row>
+<entry>Maleic acrylic copolymer</entry>
+<entry align="char" char="." charoff="42">4.0</entry>
+<entry align="char" char="." charoff="42">4.0</entry>
+<entry/></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>45AS</entry>
+<entry/>
+<entry/>
+<entry align="char" char="." charoff="37">11.0</entry></row>
+<row>
+<entry>LAS</entry>
+<entry align="char" char="." charoff="42">6.0</entry>
+<entry align="char" char="." charoff="42">5.0</entry>
+<entry/></row>
+<row>
+<entry>TAS</entry>
+<entry align="char" char="." charoff="42">3.0</entry>
+<entry align="char" char="." charoff="42">2.0</entry>
+<entry/></row>
+<row>
+<entry>Na2 Silicate</entry>
+<entry align="char" char="." charoff="42">4.0</entry>
+<entry align="char" char="." charoff="42">4.0</entry>
+<entry/></row>
+<row>
+<entry>Zeolite A</entry>
+<entry align="char" char="." charoff="42">10.0</entry>
+<entry align="char" char="." charoff="42">15.0</entry>
+<entry align="char" char="." charoff="37">13.0</entry></row>
+<row>
+<entry>CMC</entry>
+<entry/>
+<entry/>
+<entry align="char" char="." charoff="37">0.5</entry></row>
+<row>
+<entry>Maleic acrylic copolymer</entry>
+<entry/>
+<entry/>
+<entry align="char" char="." charoff="37">2.0</entry></row>
+<row>
+<entry>Na2 Carbonate</entry>
+<entry align="char" char="." charoff="42">9.0</entry>
+<entry align="char" char="." charoff="42">7.0</entry>
+<entry align="char" char="." charoff="37">7.0</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Perfume</entry>
+<entry align="char" char="." charoff="42">0.3</entry>
+<entry align="char" char="." charoff="42">0.3</entry>
+<entry align="char" char="." charoff="37">0.5</entry></row>
+<row>
+<entry>AE7</entry>
+<entry align="char" char="." charoff="42">4.0</entry>
+<entry align="char" char="." charoff="42">4.0</entry>
+<entry align="char" char="." charoff="37">4.0</entry></row>
+<row>
+<entry>AE3</entry>
+<entry align="char" char="." charoff="42">2.0</entry>
+<entry align="char" char="." charoff="42">2.0</entry>
+<entry align="char" char="." charoff="37">2.0</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Maleic acrylic copolymer</entry>
+<entry/>
+<entry/>
+<entry align="char" char="." charoff="37">3.0</entry></row>
+<row>
+<entry>SKS 6</entry>
+<entry/>
+<entry/>
+<entry align="char" char="." charoff="37">12.0</entry></row>
+<row>
+<entry>Citrate</entry>
+<entry align="char" char="." charoff="42">10.0</entry>
+<entry align="char" char="." charoff="42">0.0</entry>
+<entry align="char" char="." charoff="37">8.0</entry></row>
+<row>
+<entry>Na Bicarbonate</entry>
+<entry align="char" char="." charoff="42">7.0</entry>
+<entry align="char" char="." charoff="42">3.0</entry>
+<entry align="char" char="." charoff="37">5.0</entry></row>
+<row>
+<entry>Na2 Carbonate</entry>
+<entry align="char" char="." charoff="42">8.0</entry>
+<entry align="char" char="." charoff="42">5.0</entry>
+<entry align="char" char="." charoff="37">7.0</entry></row>
+<row>
+<entry>PVP</entry>
+<entry align="char" char="." charoff="42">0</entry>
+<entry align="char" char="." charoff="42">0.5</entry>
+<entry align="char" char="." charoff="37">0</entry></row>
+<row>
+<entry>PVPVI</entry>
+<entry align="char" char="." charoff="42">0.2</entry>
+<entry align="char" char="." charoff="42">0</entry>
+<entry align="char" char="." charoff="37">0.25</entry></row><!-- EPO <DP n="10"> -->
+<row>
+<entry>PVNO</entry>
+<entry align="char" char="." charoff="42">0.3</entry>
+<entry align="char" char="." charoff="42">0</entry>
+<entry align="char" char="." charoff="37">0.4</entry></row>
+<row>
+<entry>Savinase (4.0KNPU/g)</entry>
+<entry align="char" char="." charoff="42">1.0</entry>
+<entry align="char" char="." charoff="42">1.0</entry>
+<entry align="char" char="." charoff="37">1.30</entry></row>
+<row>
+<entry>Lipolase (100.000LU/L)</entry>
+<entry align="char" char="." charoff="42">0.4</entry>
+<entry align="char" char="." charoff="42">0.4</entry>
+<entry align="char" char="." charoff="37">0.4</entry></row>
+<row>
+<entry>Amylase (Termamyl) 60KNU/g</entry>
+<entry align="char" char="." charoff="42">0.5</entry>
+<entry align="char" char="." charoff="42">0.6</entry>
+<entry align="char" char="." charoff="37">0.6</entry></row>
+<row>
+<entry>Carezyme</entry>
+<entry align="char" char="." charoff="42">0.6</entry>
+<entry align="char" char="." charoff="42">0.5</entry>
+<entry align="char" char="." charoff="37">0.6</entry></row>
+<row>
+<entry>Silicone antifoam granule</entry>
+<entry align="char" char="." charoff="42">5.0</entry>
+<entry align="char" char="." charoff="42">5.0</entry>
+<entry align="char" char="." charoff="37">5.0</entry></row>
+<row>
+<entry>Dry mixed Na2 Sulfate</entry>
+<entry align="char" char="." charoff="42">0.0</entry>
+<entry align="char" char="." charoff="42">9.0</entry>
+<entry align="char" char="." charoff="37">0.0</entry></row>
+<row>
+<entry>Percarbonate</entry>
+<entry align="char" char="." charoff="42">0.1</entry>
+<entry align="char" char="." charoff="42">-</entry>
+<entry align="char" char="." charoff="37">-</entry></row>
+<row>
+<entry>Balance (Moisture and Miscellaneous)</entry>
+<entry align="char" char="." charoff="42">100.0</entry>
+<entry align="char" char="." charoff="42">100.0</entry>
+<entry align="char" char="." charoff="37">100.0</entry></row>
+<row rowsep="1">
+<entry>Density: 700g/L</entry>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0003" num="0003">
+<table frame="all">
+<tgroup cols="7" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="64mm"/>
+<colspec colnum="2" colname="col2" colwidth="13mm"/>
+<colspec colnum="3" colname="col3" colwidth="13mm"/>
+<colspec colnum="4" colname="col4" colwidth="13mm"/>
+<colspec colnum="5" colname="col5" colwidth="13mm"/>
+<colspec colnum="6" colname="col6" colwidth="13mm"/>
+<colspec colnum="7" colname="col7" colwidth="13mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>Composition:</entry>
+<entry align="center"><b>VI</b></entry>
+<entry align="center"><b>VII</b></entry>
+<entry align="center"><b>VIII</b></entry>
+<entry align="center"><b>IX</b></entry>
+<entry align="center"><b>X</b></entry>
+<entry align="center"><b>XI</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Zeolite A</entry>
+<entry align="center">15.0</entry>
+<entry align="center">15.0</entry>
+<entry align="center">15.0</entry>
+<entry align="center">15.0</entry>
+<entry align="center">15.0</entry>
+<entry align="center">15.0</entry></row>
+<row>
+<entry>Na2SO4</entry>
+<entry align="center">0.0</entry>
+<entry align="center">5.0</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry>LAS</entry>
+<entry align="center">3.0</entry>
+<entry align="center">3.0</entry>
+<entry align="center">3.0</entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry>
+<entry align="center">3</entry></row>
+<row>
+<entry>DTPMA</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry></row>
+<row>
+<entry>CMC</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Maleic acrylic copolymer</entry>
+<entry align="center">4.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry>Polyaspartate</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">4</entry>
+<entry align="center">4</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Terpolymer maleic acid acrylic vinyl alcohol</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">4</entry></row>
+<row>
+<entry>LAS</entry>
+<entry align="center">5.0</entry>
+<entry align="center">5.0</entry>
+<entry align="center">5.0</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry>TAS</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry></row>
+<row>
+<entry>Na2 Silicate</entry>
+<entry align="center">3.0</entry>
+<entry align="center">3.0</entry>
+<entry align="center">4.0</entry>
+<entry align="center">4</entry>
+<entry align="center">4</entry>
+<entry align="center">4</entry></row>
+<row>
+<entry>Zeolite A</entry>
+<entry align="center">8.0</entry>
+<entry align="center">8.0</entry>
+<entry align="center">8</entry>
+<entry align="center">5</entry>
+<entry align="center">6</entry>
+<entry align="center">8</entry></row>
+<row>
+<entry>Na2 Carbonate</entry>
+<entry align="center">8.0</entry>
+<entry align="center">8.0</entry>
+<entry align="center">4.0</entry>
+<entry align="center">4</entry>
+<entry align="center">4</entry>
+<entry align="center">4</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Perfume</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.3</entry></row>
+<row>
+<entry>AE7</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry></row>
+<row>
+<entry>AE3</entry>
+<entry align="center">2.0</entry>
+<entry/>
+<entry/>
+<entry align="center">2</entry>
+<entry align="center">2</entry>
+<entry align="center">2</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Na2 Citrate</entry>
+<entry align="center">5.0</entry>
+<entry align="center">0.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry>Na Bicarbonate</entry>
+<entry/>
+<entry align="center">3.0</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry>Na2 Carbonate</entry>
+<entry align="center">8.0</entry>
+<entry align="center">15.0</entry>
+<entry align="center">10.0</entry>
+<entry align="center">8</entry>
+<entry align="center">8</entry>
+<entry align="center">8</entry></row>
+<row>
+<entry>TAED</entry>
+<entry align="center">6.0</entry>
+<entry align="center">2.0</entry>
+<entry align="center">5.0</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry>Percarbonate</entry>
+<entry align="center">14</entry>
+<entry align="center">20.0</entry>
+<entry align="center">10.0</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry>Polyethylene oxide</entry>
+<entry/>
+<entry/>
+<entry align="center">0.2</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row><!-- EPO <DP n="11"> -->
+<row>
+<entry>Bentonite</entry>
+<entry/>
+<entry/>
+<entry align="center">10.0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Savinase (4.0 KNPU/g)</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry></row>
+<row>
+<entry>Lipolase (100.000 LU/L)</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry></row>
+<row>
+<entry>Amylase (Termamyl)</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>60KNU/g</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Carezyme</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.6</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.2</entry></row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>Silicone antifoam granule</entry>
+<entry align="center">3.0</entry>
+<entry align="center">4.0</entry>
+<entry align="center">5</entry>
+<entry align="center">4</entry>
+<entry align="center">5</entry>
+<entry align="center">5</entry></row>
+<row>
+<entry>Dry mixed Na2 Sulfate</entry>
+<entry align="center">0.0</entry>
+<entry align="center">3.0</entry>
+<entry align="center">0.0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry>Balance (Moisture and Miscellaneous)</entry>
+<entry align="center">100.0</entry>
+<entry align="center">100.0</entry>
+<entry align="center">100.0</entry>
+<entry align="center">100.0</entry>
+<entry align="center">100.0</entry>
+<entry align="center">100.0</entry></row>
+<row rowsep="1">
+<entry>Density: 700-850 g/L</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+</table>
+</tables>
+<tables id="tabl0004" num="0004">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="40mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="12mm"/>
+<colspec colnum="4" colname="col4" colwidth="12mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>Composition:</entry>
+<entry align="center"><b>XII</b></entry>
+<entry align="center"><b>XIII</b></entry>
+<entry align="center"><b>XIV</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Zeolite A</entry>
+<entry align="center">30.0</entry>
+<entry align="center">22.0</entry>
+<entry align="center">6.0</entry></row>
+<row>
+<entry>Na Sulfate</entry>
+<entry align="center">19.0</entry>
+<entry align="center">10.0</entry>
+<entry align="center">7.0</entry></row>
+<row>
+<entry>Maleic acrylic copolymer</entry>
+<entry align="center">3.0</entry>
+<entry align="center">3.0</entry>
+<entry align="center">6.0</entry></row>
+<row>
+<entry>LAS</entry>
+<entry align="center">14.0</entry>
+<entry align="center">12.0</entry>
+<entry align="center">22.0</entry></row>
+<row>
+<entry>45AS</entry>
+<entry align="center">8.0</entry>
+<entry align="center">7.0</entry>
+<entry align="center">7.0</entry></row>
+<row>
+<entry>Na2Silicate</entry>
+<entry/>
+<entry align="center">1.0</entry>
+<entry align="center">5.0</entry></row>
+<row>
+<entry>Soap</entry>
+<entry/>
+<entry/>
+<entry align="center">2.0</entry></row>
+<row>
+<entry>Brightener</entry>
+<entry align="center">0.2</entry>
+<entry align="center">0.2</entry>
+<entry align="center">0.2</entry></row>
+<row>
+<entry>Na2 Carbonate</entry>
+<entry align="center">8.0</entry>
+<entry align="center">16.0</entry>
+<entry align="center">20.0</entry></row>
+<row>
+<entry>DTPMA</entry>
+<entry/>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry></row>
+<row>
+<entry>AE7</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry></row>
+<row>
+<entry>PVPVI</entry>
+<entry align="center">0.25</entry>
+<entry align="center">0</entry>
+<entry align="center">0.1</entry></row>
+<row>
+<entry>PVNO</entry>
+<entry align="center">0.2</entry>
+<entry align="center">0</entry>
+<entry align="center">0.2</entry></row>
+<row>
+<entry>PVP</entry>
+<entry align="center">0</entry>
+<entry align="center">0.5</entry>
+<entry align="center">0</entry></row>
+<row>
+<entry>Savinase (4.0 KNPU/g)</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry>
+<entry align="center">1.0</entry></row>
+<row>
+<entry>Lipolase (100.000 LU/L)</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry>
+<entry align="center">0.4</entry></row>
+<row>
+<entry>Amylase (Termamyl)</entry>
+<entry align="center">0.1</entry>
+<entry align="center">0.3</entry>
+<entry align="center">0.5</entry></row>
+<row>
+<entry>60KNU/g</entry>
+<entry/>
+<entry/>
+<entry/></row>
+<row>
+<entry>NOBS</entry>
+<entry/>
+<entry align="center">6.1</entry>
+<entry align="center">4.5</entry></row>
+<row>
+<entry>Percarbonate</entry>
+<entry align="center">1.0</entry>
+<entry align="center">3.0</entry>
+<entry align="center">3.0</entry></row>
+<row>
+<entry>Dry mixed Na2 Sulfate</entry>
+<entry/>
+<entry align="center">6.0</entry>
+<entry/></row>
+<row>
+<entry>Balance/Miscellaneous</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry>
+<entry align="center">100</entry></row>
+<row rowsep="1">
+<entry>Density: 500-600 g/L</entry>
+<entry/>
+<entry/>
+<entry/></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0021"><u>EXAMPLES</u> (Comparative)</heading>
+<heading id="h0022"><b><u>Example 1</u>: blood based stain removal</b></heading>
+<heading id="h0023">Launderometer test</heading>
+<p id="p0080" num="0080">2g/l finished product<br/>
+40°C/8°H water<br/>
+40 minutes wash cycle<!-- EPO <DP n="12"> -->
+<tables id="tabl0005" num="0005">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="12mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>STAIN TYPE</entry>
+<entry>PC<sub>3</sub></entry>
+<entry>AMYLASE</entry>
+<entry>% STAIN REMOVAL</entry></row></thead>
+<tbody>
+<row>
+<entry>Meat Pate</entry>
+<entry>14%</entry>
+<entry>0.5%</entry>
+<entry>80%</entry></row>
+<row>
+<entry>Meat Pate</entry>
+<entry>-</entry>
+<entry>0.5%</entry>
+<entry>24%</entry></row>
+<row rowsep="1">
+<entry>Meat Pate</entry>
+<entry>14%</entry>
+<entry>-</entry>
+<entry>45%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0024"><b><u>Example 2</u>: stain removal from chocolate ice cream</b></heading>
+<heading id="h0025">Conditions</heading>
+<heading id="h0026">Washing machine test</heading>
+<p id="p0081" num="0081">40°C/8°H Hard Water<br/>
+2Kg mixed ballast load
+<tables id="tabl0006" num="0006">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="34mm"/>
+<colspec colnum="2" colname="col2" colwidth="32mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>STAIN TYPE</entry>
+<entry>PERCARBONATE</entry>
+<entry>AMYLASE</entry>
+<entry>% STAIN REMOVAL</entry></row></thead>
+<tbody>
+<row>
+<entry>Chocolate ice cream</entry>
+<entry>14.5%</entry>
+<entry>-</entry>
+<entry>40%</entry></row>
+<row>
+<entry>Chocolate ice cream</entry>
+<entry>-</entry>
+<entry>0.25%</entry>
+<entry>25%</entry></row>
+<row rowsep="1">
+<entry>Chocolate ice cream</entry>
+<entry>14.5%</entry>
+<entry>0.25%</entry>
+<entry>75%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0027"><b><u>Example 3</u>: blood based stain removal</b></heading>
+<heading id="h0028">Conditions</heading>
+<heading id="h0029">Sotax test</heading>
+<p id="p0082" num="0082">40°C/15°H Hard Water<br/>
+40 minutes wash cycle<br/>
+No ballast load
+<tables id="tabl0007" num="0007">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="24mm"/>
+<colspec colnum="2" colname="col2" colwidth="32mm"/>
+<colspec colnum="3" colname="col3" colwidth="20mm"/>
+<colspec colnum="4" colname="col4" colwidth="33mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry>STAIN TYPE</entry>
+<entry>PERCARBCNATE</entry>
+<entry>AMYLASE</entry>
+<entry>% STAIN REMOVAL</entry></row></thead>
+<tbody>
+<row>
+<entry>Beef stew</entry>
+<entry>18%</entry>
+<entry>-</entry>
+<entry>40%</entry></row>
+<row>
+<entry>Beef stew</entry>
+<entry>-</entry>
+<entry>0.6%</entry>
+<entry>20%</entry></row>
+<row rowsep="1">
+<entry>Beef stew</entry>
+<entry>18%</entry>
+<entry>0.6%</entry>
+<entry>77%</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0030"><b><u>Example 4</u> : chocolate ice cream stain removal</b></heading>
+<heading id="h0031">Conditions</heading>
+<heading id="h0032">Launderometer</heading>
+<p id="p0083" num="0083">2 g/l product<br/>
+40°C/8°H water<br/>
+40 min. wash cycle<!-- EPO <DP n="13"> -->
+<tables id="tabl0008" num="0008">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="58mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="center"><b>Stain type</b></entry>
+<entry align="center"><b>% Percarbonate</b></entry>
+<entry align="center"><b>% amylase</b></entry>
+<entry align="center"><b>% stain removal</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">19</entry>
+<entry align="center">-</entry>
+<entry align="center">35</entry></row>
+<row>
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">-</entry>
+<entry align="center">0.6</entry>
+<entry align="center">20</entry></row>
+<row>
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">19</entry>
+<entry align="center">0.6</entry>
+<entry align="center">70</entry></row>
+<row>
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">19</entry>
+<entry align="center">0.3</entry>
+<entry align="center">60</entry></row>
+<row>
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">-</entry>
+<entry align="center">0.3</entry>
+<entry align="center">15</entry></row>
+<row>
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">19</entry>
+<entry align="center">0.03</entry>
+<entry align="center">35</entry></row>
+<row rowsep="1">
+<entry>Low fat choc ice cream with choc sauce</entry>
+<entry align="center">-</entry>
+<entry align="center">0.03</entry>
+<entry align="center">-</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<heading id="h0033"><b><u>Example 5</u> : particulate stain removal</b></heading>
+<heading id="h0034"><b>Conditions as mentioned under Example 4</b></heading>
+<p id="p0084" num="0084">
+<tables id="tabl0009" num="0009">
+<table frame="all">
+<tgroup cols="4" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="20mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="22mm"/>
+<colspec colnum="4" colname="col4" colwidth="28mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="center"><b>Stain type</b></entry>
+<entry align="center"><b>% Percarbonate</b></entry>
+<entry align="center"><b>% amylase</b></entry>
+<entry align="center"><b>% stain removal</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Peat clay</entry>
+<entry align="center">19</entry>
+<entry align="center">-</entry>
+<entry align="center">25</entry></row>
+<row>
+<entry>Peat clay</entry>
+<entry align="center">-</entry>
+<entry align="center">0.6</entry>
+<entry align="center">35</entry></row>
+<row>
+<entry>Peat clay</entry>
+<entry align="center">19</entry>
+<entry align="center">0.6</entry>
+<entry align="center">75</entry></row>
+<row>
+<entry>Peat clay</entry>
+<entry align="center">-</entry>
+<entry align="center">0.03</entry>
+<entry align="center">-</entry></row>
+<row rowsep="1">
+<entry>Peat clay</entry>
+<entry align="center">19</entry>
+<entry align="center">0.03</entry>
+<entry align="center">25</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+<p id="p0085" num="0085">In all of the above tests the measurements were made using a colour eye spectrophotometer.</p>
+<p id="p0086" num="0086">The following formula was used to calculate stain removal:<maths id="math0001" num=""><math display="block"><mfrac><mrow><mi>Washed</mi><mspace width="1em"/><mi>stain</mi><mspace width="1em"/><mo>-</mo><mspace width="1em"/><mi>Unwashed</mi><mspace width="1em"/><mi>stain</mi></mrow><mrow><mi>Clean fabric</mi><mspace width="1em"/><mo>-</mo><mspace width="2em"/><mi>Unwashed fabric</mi></mrow></mfrac><mspace width="1em"/><mo>×</mo><mspace width="1em"/><mn>100</mn><mspace width="1em"/><mo>=</mo><mspace width="1em"/><mo>%</mo><mspace width="1em"/><mi>stain</mi><mspace width="1em"/><mi>removal</mi></math><img id="ib0004" file="imgb0004.tif" wi="88" he="13" img-content="math" img-format="tif"/></maths> (The standard LAB calculations were used in the above experiment)</p>
+<p id="p0087" num="0087">The above clearly shows that the combined use of percarbonate and amylase provides a synergetic effect on the removal of difficult stains, such as blood stains and starch-based stains like chocolate and particulate stains like peat clay as well .</p>
+<heading id="h0035"><b><u>Example 6</u> : chocolate ice cream stain removal</b></heading>
+<heading id="h0036">Conditions</heading>
+<heading id="h0037">Launderometer :</heading>
+<p id="p0088" num="0088">amylase present at 0.1% in every testing<br/>
+2 g/l product<br/>
+40°C/8°H water<br/>
+40 min wash cycle
+<tables id="tabl0010" num="0010">
+<table frame="all">
+<tgroup cols="5" rowsep="0">
+<colspec colnum="1" colname="col1" colwidth="55mm"/>
+<colspec colnum="2" colname="col2" colwidth="29mm"/>
+<colspec colnum="3" colname="col3" colwidth="24mm"/>
+<colspec colnum="4" colname="col4" colwidth="22mm"/>
+<colspec colnum="5" colname="col5" colwidth="28mm"/>
+<thead valign="top">
+<row rowsep="1">
+<entry align="center"><b>Stain type</b></entry>
+<entry align="center"><b>%percarbonate</b></entry>
+<entry align="center"><b>% perborate</b></entry>
+<entry align="center"><b>% protease</b></entry>
+<entry align="center"><b>% stain removal</b></entry></row></thead>
+<tbody>
+<row>
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">20</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">30</entry></row>
+<row>
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">20</entry>
+<entry align="center">-</entry>
+<entry align="center">20</entry>
+<entry align="center">70</entry></row>
+<row>
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">20</entry>
+<entry align="center">20</entry></row>
+<row>
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">20</entry>
+<entry align="center">-</entry>
+<entry align="center">5</entry>
+<entry align="center">55</entry></row>
+<row>
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">-</entry>
+<entry align="center">-</entry>
+<entry align="center">5</entry>
+<entry align="center">15</entry></row>
+<row>
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">2.5</entry>
+<entry align="center">17.5</entry>
+<entry align="center">20</entry>
+<entry align="center">30</entry></row>
+<row rowsep="1">
+<entry>Full cream ice cream and choc sauce</entry>
+<entry align="center">2.5</entry>
+<entry align="center">17.5</entry>
+<entry align="center">-</entry>
+<entry align="center">10</entry></row></tbody></tgroup>
+</table>
+</tables></p>
+</description><!-- EPO <DP n="14"> -->
+<claims id="claims01" lang="en"><!-- EPO <DP n="15"> -->
+<claim id="c-en-01-0001" num="0001">
+<claim-text>A granular detergent composition comprising an alkali metal percarbonate and an amylase enzyme at a weight ratio of percarbonate (expressed as 13.5% AvOx) to amylase (expressed on an activity of about 60KNU/g) in the range of from 1:2 to 300:1 <b>characterised in that</b> the composition comprises from 1% to 40% by weight of the composition of an anionic surfactant, a protease in a weight ratio of percarbonate (expressed as 13,5 % AvOx) to protease (expressed on an activity of about 4 KNPU/g) of from 1:2 to 10:1; wherein the percarbonate has a coating consisting of (a) mixed salt of alkali metal sulphate and carbonate, or (b) sodium silicate of SiO<sub>2</sub>:Na<sub>2</sub>O ratio from 1.6:1 to 2.8:1, or (c) magnesium silicate.</claim-text></claim>
+<claim id="c-en-01-0002" num="0002">
+<claim-text>A composition in accordance with claim 1 wherein the weight ratio of percarbonate to amylase is from 1:2 to 60:1.</claim-text></claim>
+<claim id="c-en-01-0003" num="0003">
+<claim-text>A composition according to claim 2 wherein the weight ratio of percarbonate to amylase is from 20:1 to 40:1.</claim-text></claim>
+<claim id="c-en-01-0004" num="0004">
+<claim-text>A composition in accordance with claims 1-3 wherein said percarbonate has an average particle size of from 250 to 900 micrometers.</claim-text></claim>
+<claim id="c-en-01-0005" num="0005">
+<claim-text>A composition in accordance with claims 1-4 which is a laundry detergent composition containing a builder, from 3 to 30% by weight of percarbonate and from 0.1 to 1% of amylase.</claim-text></claim>
+<claim id="c-en-01-0006" num="0006">
+<claim-text>A composition in accordance with claims 1-4, which is an automatic dishwashing composition containing a builder, from 3 to 30% by weight of percarbonate and from 0.1 to 1% of amylase.</claim-text></claim>
+<claim id="c-en-01-0007" num="0007">
+<claim-text>A composition in accordance with claims 1-4 which is a laundry detergent additive containing from 20 to 80% of the percarbonate, and from 0.1% to 2% of amylase.</claim-text></claim>
+<claim id="c-en-01-0008" num="0008">
+<claim-text>A method for removing starch containing stains from textiles whereby said textiles are treated with a detergent composition according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0009" num="0009">
+<claim-text>A method for removing blood stains from textiles whereby said textiles are treated with a detergent composition according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0010" num="0010">
+<claim-text>A method for removing particulate stains from textiles whereby said textiles are treated with a detergent composition according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0011" num="0011">
+<claim-text>A method for removing mucin or mucin-protein containing stains from textiles whereby said textiles are treated with a detergent composition according to claim 5.</claim-text></claim>
+<claim id="c-en-01-0012" num="0012">
+<claim-text>A method according to claims 8, 9, 10 or 11 whereby the detergent composition is put in a reusable dispensing device together with the clothes to be washed.</claim-text></claim>
+</claims><!-- EPO <DP n="16"> -->
+<claims id="claims02" lang="de">
+<claim id="c-de-01-0001" num="0001">
+<claim-text>Granuläre Reinigungsmittelzusammensetzung, umfassend ein Alkalimetallpercarbonat und ein Amylaseenzym in einem Gewichtsverhältnis von Percarbonat (ausgedrückt als 13,5% AvOx) zu Amylase (ausgedrückt bezüglich einer Aktivität von etwa 60 KNU/g) im Bereich von 1:2 bis 300:1, <b>dadurch gekennzeichnet, daß</b> die Zusammensetzung 1 bis 40% des Gewichts der Zusammensetzung eines anionischen Tensids und ein Proteaseenzym in einem Gewichtsverhältnis von Percarbonat (ausgedrückt als 13,5% AvOx) zu Protease (ausgedrückt bezüglich einer Aktivität von etwa 4 KNPU/g) von 1:2 bis 10:1 umfaßt, wobei das Percarbonat eine Beschichtung aufweist, bestehend aus a) Mischsalz aus Alkalimetallsulfat und -carbonat, oder (b) Natriumsilikat mit einem SiO<sub>2</sub>:Na<sub>2</sub>O-Verhältnis von 1,6:1 bis 2,8:1, oder (c) Magnesiumsilikat.</claim-text></claim>
+<claim id="c-de-01-0002" num="0002">
+<claim-text>Zusammensetzung nach Anspruch 1, wobei das Gewichtsverhältnis von Percarbonat zu Amylase 1:2 bis 60:1 beträgt.</claim-text></claim>
+<claim id="c-de-01-0003" num="0003">
+<claim-text>Zusammensetzung nach Anspruch 2, wobei das Gewichtsverhältnis von Percarbonat zu Amylase 20:1 bis 40:1 beträgt.</claim-text></claim>
+<claim id="c-de-01-0004" num="0004">
+<claim-text>Zusammensetzung nach den Ansprüchen 1-3, wobei das Percarbonat eine durchschnittliche Teilchengröße von 250 bis 900 µm aufweist.</claim-text></claim>
+<claim id="c-de-01-0005" num="0005">
+<claim-text>Zusammensetzung nach den Ansprüchen 1-4, bei der es sich um eine Wäschewaschmittelzusammensetzung handelt, welche einen Builder, 3 bis 30 Gew.-% Percarbonat und 0,1 bis 1% Amylase enthält.</claim-text></claim>
+<claim id="c-de-01-0006" num="0006">
+<claim-text>Zusammensetzung nach den Ansprüchen 1-4, bei der es sich um eine Zusammensetzung zum maschinellen Geschirrspülen handelt, enthaltend einen Builder, 3 bis 30 Gew.-% Percarbonat und 0,1 bis 1% Amylase.</claim-text></claim>
+<claim id="c-de-01-0007" num="0007">
+<claim-text>Zusammensetzung nach den Ansprüchen 1-4, bei der es sich um ein Wäschewaschmitteladditiv handelt, das 20 bis 80% des Percarbonats und 0,1 bis 2% Amylase enthält.<!-- EPO <DP n="17"> --></claim-text></claim>
+<claim id="c-de-01-0008" num="0008">
+<claim-text>Verfahren zur Entfernung von Stärke enthaltenden Flecken aus Textilien, wobei die Textilien mit einer Waschmittelzusammensetzung gemäß Anspruch 5 behandelt werden.</claim-text></claim>
+<claim id="c-de-01-0009" num="0009">
+<claim-text>Verfahren zum Entfernen von Blutflecken aus Textilien, wobei die Textilien mit einer Waschmittelzusammensetzung gemäß Anspruch 5 behandelt werden.</claim-text></claim>
+<claim id="c-de-01-0010" num="0010">
+<claim-text>Verfahren zum Entfernen von teilchenförmigen Flecken aus Textilien, wobei die Textilien mit einer Waschmittelzusammensetzung gemäß Anspruch 5 behandelt werden.</claim-text></claim>
+<claim id="c-de-01-0011" num="0011">
+<claim-text>Verfahren zum Entfernen von Mucin oder Mucin-Protein enthaltenden Flecken aus Textilien, wobei die Textilien mit einer Waschmittelzusammensetzung gemäß Anspruch 5 behandelt werden.</claim-text></claim>
+<claim id="c-de-01-0012" num="0012">
+<claim-text>Verfahren nach den Ansprüchen 8, 9, 10 oder 11, wobei die Waschmittelzusammensetzung zusammen mit der zu waschenden Wäsche in eine wiederverwendbare Dispensiervorrichtung gegeben wird.</claim-text></claim>
+</claims><!-- EPO <DP n="18"> -->
+<claims id="claims03" lang="fr">
+<claim id="c-fr-01-0001" num="0001">
+<claim-text>Composition détergente granulée comprenant un percarbonate de métal alcalin et une enzyme amylase selon un rapport en poids du percarbonate (tel qu'exprimé sur une base d'oxygène disponible de 13,5 %) à l'amylase (exprimé sur une activité d'environ 60 KNU/g) compris dans la gamme allant de 1:2 à 300:1, <b>caractérisée en ce que</b> la composition comprend 1% à 40 % en poids de la composition d'un tensioactif anionique ; une protéase selon un rapport en poids du percarbonate (tel qu'exprimé sur une base d'oxygène disponible de 13,5 %) à la protéase (exprimé sur une activité d'environ 4 KNU/g) allant de 1 :2 à 10 :1; dans laquelle le percarbonate a un enrobage consistant en (a) un sel mixte de sulphate et de carbonate de métal alcalin, ou (b) un silicate de sodium ayant un rapport SiO<sub>2</sub> :Na<sub>2</sub>O allant de 1,6 :1 à 2,8 :1, ou (c) un silicate de magnésium.</claim-text></claim>
+<claim id="c-fr-01-0002" num="0002">
+<claim-text>Composition selon la revendication 1, dans laquelle le rapport en poids du percarbonate à l'amylase est compris entre 1:2 et 60:1.</claim-text></claim>
+<claim id="c-fr-01-0003" num="0003">
+<claim-text>Composition selon la revendication 2, dans laquelle le rapport en poids du percarbonate à l'amylase est compris entre 20:1 et 40:1.</claim-text></claim>
+<claim id="c-fr-01-0004" num="0004">
+<claim-text>Composition selon les revendications 1 à 3, dans laquelle ledit percarbonate présente une taille moyenne de particules comprise entre 250 micromètres et 900 micromètres.</claim-text></claim>
+<claim id="c-fr-01-0005" num="0005">
+<claim-text>Composition selon les revendications 1 à 4, qui est une composition détergente de blanchissage contenant un adjuvant, de 3 % à 30% en poids de percarbonate et de 0,1 % à 1 % d'amylase,</claim-text></claim>
+<claim id="c-fr-01-0006" num="0006">
+<claim-text>Composition selon les revendications 1 à 4, qui est une composition pour le lavage automatique de la vaisselle contenant un adjuvant, de 3 % à 30 % en poids de percarbonate et de 0, 1 % à 1 % d'amylase.</claim-text></claim>
+<claim id="c-fr-01-0007" num="0007">
+<claim-text>composition selon les revendications 1 à 4, qui est un additif détergent de blanchissage contenant de 20 % à 80 % de percarbonate, et de 0, 1 % à 2% d'amylase.</claim-text></claim>
+<claim id="c-fr-01-0008" num="0008">
+<claim-text>Méthode d'élimination de taches contenant de l'amidon sur des textiles, dans laquelle lesdits textiles sont traités avec une composition détergente selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0009" num="0009">
+<claim-text>Méthode d'élimination de taches de sang sur des textiles, dans laquelle lesdits textiles sont traités avec une composition détergente selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0010" num="0010">
+<claim-text>Méthode d'élimination de taches de matière particulaire sur des textiles, dans laquelle lesdits textiles sont traités avec une composition détergente selon la revendication 5,<!-- EPO <DP n="19"> --></claim-text></claim>
+<claim id="c-fr-01-0011" num="0011">
+<claim-text>Méthode d'élimination de taches contenant de la mucine ou des protéines de mucine sur des textiles, dans laquelle lesdits textiles sont traités avec une composition détergente selon la revendication 5.</claim-text></claim>
+<claim id="c-fr-01-0012" num="0012">
+<claim-text>Méthode selon les revendications 8, 9, 10 ou 11, dans laquelle la composition détergente est placée dans un dispositif diffuseur réutilisable avec les vêtements à laver.</claim-text></claim>
+</claims>
+<ep-reference-list id="ref-list">
+<heading id="ref-h0001"><b>REFERENCES CITED IN THE DESCRIPTION</b></heading>
+<p id="ref-p0001" num=""><i>This list of references cited by the applicant is for the reader's convenience only. It does not form part of the European patent document. Even though great care has been taken in compiling the references, errors or omissions cannot be excluded and the EPO disclaims all liability in this regard.</i></p>
+<heading id="ref-h0002"><b>Patent documents cited in the description</b></heading>
+<p id="ref-p0002" num="">
+<ul id="ref-ul0001" list-style="bullet">
+<li><patcit id="ref-pcit0001" dnum="JP57028197B"><document-id><country>JP</country><doc-number>57028197</doc-number><kind>B</kind></document-id></patcit><crossref idref="pcit0001">[0005]</crossref></li>
+<li><patcit id="ref-pcit0002" dnum="WO9401521A"><document-id><country>WO</country><doc-number>9401521</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0002">[0005]</crossref></li>
+<li><patcit id="ref-pcit0003" dnum="WO9403554A"><document-id><country>WO</country><doc-number>9403554</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0003">[0005]</crossref></li>
+<li><patcit id="ref-pcit0004" dnum="DE1940654"><document-id><country>DE</country><doc-number>1940654</doc-number></document-id></patcit><crossref idref="pcit0004">[0006]</crossref></li>
+<li><patcit id="ref-pcit0005" dnum="US4620936A"><document-id><country>US</country><doc-number>4620936</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0005">[0006]</crossref></li>
+<li><patcit id="ref-pcit0006" dnum="EP504091A"><document-id><country>EP</country><doc-number>504091</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0006">[0006]</crossref></li>
+<li><patcit id="ref-pcit0007" dnum="GB1466799A"><document-id><country>GB</country><doc-number>1466799</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0007">[0013]</crossref></li>
+<li><patcit id="ref-pcit0008" dnum="GB1296839A"><document-id><country>GB</country><doc-number>1296839</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0008">[0017]</crossref></li>
+<li><patcit id="ref-pcit0009" dnum="GB1082179A"><document-id><country>GB</country><doc-number>1082179</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0009">[0024]</crossref><crossref idref="pcit0032">[0055]</crossref></li>
+<li><patcit id="ref-pcit0010" dnum="US3929678A"><document-id><country>US</country><doc-number>3929678</doc-number><kind>A</kind><date>19751230</date></document-id></patcit><crossref idref="pcit0010">[0024]</crossref><crossref idref="pcit0014">[0042]</crossref><crossref idref="pcit0015">[0044]</crossref></li>
+<li><patcit id="ref-pcit0011" dnum="WO926073A"><document-id><country>WO</country><doc-number>926073</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0011">[0034]</crossref></li>
+<li><patcit id="ref-pcit0012" dnum="WO926160A"><document-id><country>WO</country><doc-number>926160</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0012">[0035]</crossref></li>
+<li><patcit id="ref-pcit0013" dnum="US4228044A"><document-id><country>US</country><doc-number>4228044</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0013">[0040]</crossref></li>
+<li><patcit id="ref-pcit0014" dnum="EP0164514A"><document-id><country>EP</country><doc-number>0164514</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0016">[0050]</crossref></li>
+<li><patcit id="ref-pcit0015" dnum="DE3417649A"><document-id><country>DE</country><doc-number>3417649</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0017">[0050]</crossref></li>
+<li><patcit id="ref-pcit0016" dnum="DE3742043A"><document-id><country>DE</country><doc-number>3742043</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0018">[0050]</crossref></li>
+<li><patcit id="ref-pcit0017" dnum="US3985669A"><document-id><country>US</country><doc-number>3985669</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0019">[0053]</crossref></li>
+<li><patcit id="ref-pcit0018" dnum="BE831368"><document-id><country>BE</country><doc-number>831368</doc-number></document-id></patcit><crossref idref="pcit0020">[0054]</crossref></li>
+<li><patcit id="ref-pcit0019" dnum="BE821369"><document-id><country>BE</country><doc-number>821369</doc-number></document-id></patcit><crossref idref="pcit0021">[0054]</crossref></li>
+<li><patcit id="ref-pcit0020" dnum="BE821370"><document-id><country>BE</country><doc-number>821370</doc-number></document-id></patcit><crossref idref="pcit0022">[0054]</crossref></li>
+<li><patcit id="ref-pcit0021" dnum="US3935257A"><document-id><country>US</country><doc-number>3935257</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0023">[0054]</crossref></li>
+<li><patcit id="ref-pcit0022" dnum="BE840623"><document-id><country>BE</country><doc-number>840623</doc-number></document-id></patcit><crossref idref="pcit0024">[0054]</crossref></li>
+<li><patcit id="ref-pcit0023" dnum="GB1379241A"><document-id><country>GB</country><doc-number>1379241</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0025">[0054]</crossref></li>
+<li><patcit id="ref-pcit0024" dnum="NL7205873"><document-id><country>NL</country><doc-number>7205873</doc-number></document-id></patcit><crossref idref="pcit0026">[0054]</crossref></li>
+<li><patcit id="ref-pcit0025" dnum="GB1387447A"><document-id><country>GB</country><doc-number>1387447</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0027">[0054]</crossref></li>
+<li><patcit id="ref-pcit0026" dnum="GB12618291A"><document-id><country>GB</country><doc-number>12618291</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0028">[0055]</crossref></li>
+<li><patcit id="ref-pcit0027" dnum="GB1398421A"><document-id><country>GB</country><doc-number>1398421</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0029">[0055]</crossref></li>
+<li><patcit id="ref-pcit0028" dnum="GB1398422A"><document-id><country>GB</country><doc-number>1398422</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0030">[0055]</crossref></li>
+<li><patcit id="ref-pcit0029" dnum="US3936448A"><document-id><country>US</country><doc-number>3936448</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0031">[0055]</crossref></li>
+<li><patcit id="ref-pcit0030" dnum="GB1439000A"><document-id><country>GB</country><doc-number>1439000</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0033">[0055]</crossref></li>
+<li><patcit id="ref-pcit0031" dnum="GB1425343A"><document-id><country>GB</country><doc-number>1425343</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0034">[0056]</crossref></li>
+<li><patcit id="ref-pcit0032" dnum="GB1586789A"><document-id><country>GB</country><doc-number>1586789</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0035">[0064]</crossref></li>
+<li><patcit id="ref-pcit0033" dnum="GB836988A"><document-id><country>GB</country><doc-number>836988</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0036">[0064]</crossref></li>
+<li><patcit id="ref-pcit0034" dnum="GB864798A"><document-id><country>GB</country><doc-number>864798</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0037">[0064]</crossref></li>
+<li><patcit id="ref-pcit0035" dnum="GB1147871A"><document-id><country>GB</country><doc-number>1147871</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0038">[0064]</crossref></li>
+<li><patcit id="ref-pcit0036" dnum="GB2143231A"><document-id><country>GB</country><doc-number>2143231</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0039">[0064]</crossref></li>
+<li><patcit id="ref-pcit0037" dnum="GB855735A"><document-id><country>GB</country><doc-number>855735</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0040">[0064]</crossref></li>
+<li><patcit id="ref-pcit0038" dnum="GB1246338A"><document-id><country>GB</country><doc-number>1246338</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0041">[0064]</crossref></li>
+<li><patcit id="ref-pcit0039" dnum="GB907356A"><document-id><country>GB</country><doc-number>907356</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0042">[0066]</crossref></li>
+<li><patcit id="ref-pcit0040" dnum="EP0170386A"><document-id><country>EP</country><doc-number>0170386</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0043">[0067]</crossref></li>
+<li><patcit id="ref-pcit0041" dnum="US3308067A"><document-id><country>US</country><doc-number>3308067</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0044">[0071]</crossref></li>
+<li><patcit id="ref-pcit0042" dnum="EP0258068A"><document-id><country>EP</country><doc-number>0258068</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0045">[0073]</crossref></li>
+<li><patcit id="ref-pcit0043" dnum="WO9213057A"><document-id><country>WO</country><doc-number>9213057</doc-number><kind>A</kind></document-id></patcit><crossref idref="pcit0046">[0073]</crossref></li>
+</ul></p>
+</ep-reference-list>
+</ep-patent-document>
