@@ -107,7 +107,7 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	claims := root.Find("claims")
 	// iterate over all claims
 	claims.Each(func(i int, c *goquery.Selection) {
-		langClaims, _ := c.Attr("langClaims")
+		langClaims, _ := c.Attr("lang")
 		id, _ := c.Attr("id")
 		patentDoc.Claims = append(patentDoc.Claims, Claim{
 			Text:     strings.TrimSpace(c.Text()),
