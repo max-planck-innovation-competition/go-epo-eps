@@ -128,7 +128,7 @@ func TestProcessXMLSimple10A2(t *testing.T) {
 	// abstract
 	ass.NotEmpty(patDoc.Abstract)
 	ass.Equal(1085, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Equal("de", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -140,7 +140,7 @@ func TestProcessXMLSimple10A2(t *testing.T) {
 	// description
 	ass.NotEmpty(patDoc.Description)
 	ass.Equal(22464, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Equal("de", patDoc.Description[0].Language)
 
 	// citations
 	ass.Empty(patDoc.Citations)
@@ -194,9 +194,9 @@ func TestProcessXMLSimple10B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -309,9 +309,9 @@ func TestProcessXMLSimple10B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -431,17 +431,17 @@ func TestProcessXMLSimple101A1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.Empty(patDoc.Claims)
 
 	// description
-	ass.NotEmpty(patDoc.Description)
-	ass.Equal(0, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Empty(patDoc.Description)
+	//ass.Equal(0, len(patDoc.Description[0].Text))
+	//ass.Equal("en", patDoc.Description[0].Language)
 
 	// citations
 	ass.Empty(patDoc.Citations)
@@ -522,17 +522,17 @@ func TestProcessXMLSimple101A2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.Empty(patDoc.Claims)
 
 	// description
-	ass.NotEmpty(patDoc.Description)
-	ass.Equal(0, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Empty(patDoc.Description)
+	//ass.Equal(0, len(patDoc.Description[0].Text))
+	//ass.Equal("en", patDoc.Description[0].Language)
 
 	// citations
 	ass.Empty(patDoc.Citations)
@@ -614,7 +614,7 @@ func TestProcessXMLSimple11A1(t *testing.T) {
 	// abstract
 	ass.NotEmpty(patDoc.Abstract)
 	ass.Equal(526, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Equal("de", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -626,7 +626,7 @@ func TestProcessXMLSimple11A1(t *testing.T) {
 	// description
 	ass.NotEmpty(patDoc.Description)
 	ass.Equal(52416, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Equal("de", patDoc.Description[0].Language)
 
 	// citations
 	ass.Empty(patDoc.Citations)
@@ -696,17 +696,17 @@ func TestProcessXMLSimple11A2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims Empty
 	ass.Empty(patDoc.Claims)
 
 	// description
-	ass.NotEmpty(patDoc.Description)
-	ass.Equal(0, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Empty(patDoc.Description)
+	//ass.Equal(0, len(patDoc.Description[0].Text))
+	//ass.Equal("en", patDoc.Description[0].Language)
 
 	// citations
 	ass.Empty(patDoc.Citations)
@@ -785,9 +785,9 @@ func TestProcessXMLSimple11B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -873,9 +873,9 @@ func TestProcessXMLSimple11B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1078,7 +1078,7 @@ func TestProcessXMLSimple12A2(t *testing.T) {
 	// abstract
 	ass.NotEmpty(patDoc.Abstract)
 	ass.Equal(848, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Equal("de", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1087,7 +1087,7 @@ func TestProcessXMLSimple12A2(t *testing.T) {
 	// description
 	ass.NotEmpty(patDoc.Description)
 	ass.Equal(15085, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Equal("de", patDoc.Description[0].Language)
 
 	// citations
 	ass.NotEmpty(patDoc.Citations)
@@ -1185,9 +1185,9 @@ func TestProcessXMLSimple12B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	// ass.Equal(0, len(patDoc.Abstract[0].Text))
+	// ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1332,9 +1332,9 @@ func TestProcessXMLSimple12B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	// ass.Equal(0, len(patDoc.Abstract[0].Text))
+	// ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1457,17 +1457,17 @@ func TestProcessXMLSimple13A1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
+	//ass.Equal(0, len(patDoc.Abstract[0].Text))
+	//ass.Equal("en", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.Empty(patDoc.Claims)
 
 	// description
-	ass.NotEmpty(patDoc.Description)
-	ass.Equal(0, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Empty(patDoc.Description)
+	// ass.Equal(0, len(patDoc.Description[0].Text))
+	// ass.Equal("en", patDoc.Description[0].Language)
 
 	// citations Empty
 	ass.Empty(patDoc.Citations)
@@ -1658,9 +1658,7 @@ func TestProcessXMLSimple13B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1762,9 +1760,7 @@ func TestProcessXMLSimple13B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1986,7 +1982,7 @@ func TestProcessXMLSimple14A2(t *testing.T) {
 	// abstract Empty
 	ass.NotEmpty(patDoc.Abstract)
 	ass.Equal(775, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Equal("de", patDoc.Abstract[0].Language)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -1998,7 +1994,7 @@ func TestProcessXMLSimple14A2(t *testing.T) {
 	// description
 	ass.NotEmpty(patDoc.Description)
 	ass.Equal(12570, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Equal("de", patDoc.Description[0].Language)
 
 	// citations
 	ass.NotEmpty(patDoc.Citations)
@@ -2081,9 +2077,7 @@ func TestProcessXMLSimple14B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -2197,9 +2191,7 @@ func TestProcessXMLSimple14B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -2475,9 +2467,7 @@ func TestProcessXMLSimple15A2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract Empty!!
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.Empty(patDoc.Claims)
@@ -2731,9 +2721,7 @@ func TestProcessXMLSimple15B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract !! Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -2860,9 +2848,7 @@ func TestProcessXMLSimple15B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract !! Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -2880,7 +2866,7 @@ func TestProcessXMLSimple15B2(t *testing.T) {
 	// description
 	ass.NotEmpty(patDoc.Description)
 	ass.Equal(29873, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Equal("de", patDoc.Description[0].Language)
 
 	// citations
 	ass.NotEmpty(patDoc.Citations)
@@ -3365,9 +3351,7 @@ func TestProcessXMLSimple151B1(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract !! Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -3557,9 +3541,7 @@ func TestProcessXMLSimple151B2(t *testing.T) {
 	ass.Equal("fr", patDoc.Title[2].Language)
 
 	// abstract !! Empty
-	ass.NotEmpty(patDoc.Abstract)
-	ass.Equal(0, len(patDoc.Abstract[0].Text))
-	ass.Equal("en", patDoc.Abstract[0].Language)
+	ass.Empty(patDoc.Abstract)
 
 	// claims
 	ass.NotEmpty(patDoc.Claims)
@@ -3577,7 +3559,7 @@ func TestProcessXMLSimple151B2(t *testing.T) {
 	// description
 	ass.NotEmpty(patDoc.Description)
 	ass.Equal(29409, len(patDoc.Description[0].Text))
-	ass.Equal("en", patDoc.Description[0].Language)
+	ass.Equal("de", patDoc.Description[0].Language)
 
 	// citations
 	ass.NotEmpty(patDoc.Citations)
