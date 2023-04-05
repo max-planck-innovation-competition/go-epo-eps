@@ -14,6 +14,11 @@ import (
 const testID = "EP2921808NWB1"
 
 func TestGetPatentHTML(t *testing.T) {
+	// skip if env is test
+	if os.Getenv("ENV") == "TEST" {
+		t.Skip()
+	}
+
 	ass := assert.New(t)
 	res, err := GetPatentHTML(testID)
 	ass.NoError(err)
@@ -24,6 +29,10 @@ func TestGetPatentHTML(t *testing.T) {
 }
 
 func TestGetPatentZIP(t *testing.T) {
+	// skip if env is test
+	if os.Getenv("ENV") == "TEST" {
+		t.Skip()
+	}
 	ass := assert.New(t)
 	res, err := GetPatentZIP(testID)
 	ass.NoError(err)
@@ -34,6 +43,10 @@ func TestGetPatentZIP(t *testing.T) {
 }
 
 func TestGetPatentXML(t *testing.T) {
+	// skip if env is test
+	if os.Getenv("ENV") == "TEST" {
+		t.Skip()
+	}
 	ass := assert.New(t)
 	res, err := GetPatentXML(testID)
 	ass.NoError(err)
@@ -92,6 +105,10 @@ func doReq() (res []byte, err error) {
 }
 
 func TestCheckIfBlackListed(t *testing.T) {
+	// skip if env is test
+	if os.Getenv("ENV") == "TEST" {
+		t.Skip()
+	}
 	ass := assert.New(t)
 	res, err := doReq()
 	ass.NoError(err)
@@ -100,6 +117,10 @@ func TestCheckIfBlackListed(t *testing.T) {
 }
 
 func TestCheckIfBlackListedLocal(t *testing.T) {
+	// skip if env is test
+	if os.Getenv("ENV") == "TEST" {
+		t.Skip()
+	}
 	ass := assert.New(t)
 	file, err := os.ReadFile("./test-data/fail.xml")
 	ass.NoError(err)

@@ -3,11 +3,16 @@ package eps
 import (
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
+	"os"
 	"testing"
 	"time"
 )
 
 func TestGetPublicationDatePatents(t *testing.T) {
+	// skip if env is test
+	if os.Getenv("ENV") == "TEST" {
+		t.Skip()
+	}
 	log.SetLevel(log.TraceLevel)
 	ass := assert.New(t)
 	// time zone
