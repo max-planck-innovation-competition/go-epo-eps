@@ -21,10 +21,12 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	// parse doc
 	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(raw))
 	if err != nil {
+		log.WithError(err).Error("can not read document")
 		return
 	}
 	root := doc.Find("ep-patent-document")
 	if root == nil {
+		log.WithError(err).Error("can not find root element")
 		return
 	}
 
@@ -34,11 +36,18 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	patentDoc.Status, _ = root.Attr("status")
 	patentDoc.DtdVersion, _ = root.Attr("dtd-version")
 
+	if len(patentDoc.ID) == 0 {
+		err = ErrEmptyID
+		log.WithError(err).Error("empty id")
+		return
+	}
+	logger := log.WithField("id", patentDoc.ID)
+
 	// parse the date form the string
 	dateString, _ := root.Attr("date-publ")
 	parsedDate, errDate := time.Parse(layoutDatePubl, dateString)
 	if errDate != nil {
-		log.Warn("can not parse date", dateString)
+		logger.WithField("date", dateString).Warn("can not parse date")
 	} else {
 		patentDoc.DatePubl = parsedDate
 	}
@@ -67,29 +76,42 @@ func ProcessXMLSimple(raw []byte) (patentDoc EpPatentDocumentSimple, err error) 
 	})
 	// abstract
 	abstract := root.Find("abstract")
-	patentDoc.Abstract = append(
-		patentDoc.Abstract,
-		Abstract{
-			Text:     strings.TrimSpace(abstract.Text()),
-			Language: strings.ToLower(strings.TrimSpace("en")),
-		},
-	)
+	langAbstract, _ := abstract.Attr("lang")
+	if langAbstract == "" || len(abstract.Text()) == 0 {
+		logger.Warn("no abstract")
+	} else {
+		patentDoc.Abstract = append(
+			patentDoc.Abstract,
+			Abstract{
+				Text:     strings.TrimSpace(abstract.Text()),
+				Language: strings.ToLower(strings.TrimSpace(langAbstract)),
+			},
+		)
+	}
+
 	// description
 	description := root.Find("description")
-	patentDoc.Description = append(
-		patentDoc.Description,
-		Description{
-			Text:     strings.TrimSpace(description.Text()),
-			Language: strings.ToLower(strings.TrimSpace("en")),
-		})
+	langDescription, _ := description.Attr("lang")
+	if langDescription == "" || len(description.Text()) == 0 {
+		logger.Warn("no description")
+	} else {
+		patentDoc.Description = append(
+			patentDoc.Description,
+			Description{
+				Text:     strings.TrimSpace(description.Text()),
+				Language: strings.ToLower(strings.TrimSpace(langDescription)),
+			})
+	}
+
 	// claims
 	claims := root.Find("claims")
+	// iterate over all claims
 	claims.Each(func(i int, c *goquery.Selection) {
-		lang, _ := c.Attr("lang")
+		langClaims, _ := c.Attr("langClaims")
 		id, _ := c.Attr("id")
 		patentDoc.Claims = append(patentDoc.Claims, Claim{
 			Text:     strings.TrimSpace(c.Text()),
-			Language: strings.TrimSpace(strings.ToLower(lang)),
+			Language: strings.TrimSpace(strings.ToLower(strings.TrimSpace(langClaims))),
 			Id:       id,
 		})
 	})
